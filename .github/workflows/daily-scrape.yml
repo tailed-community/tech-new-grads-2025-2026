@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write # Allows the workflow to push changes to the repository
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
