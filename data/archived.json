@@ -136,7 +136,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -263,7 +263,7 @@
         "id": "96471107-22b4-41cf-bc9e-b0a4f2c013a7",
         "title": "Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer",
         "active": true,
-        "date_updated": 1758506970,
+        "date_updated": 1758672340,
         "date_posted": 1758212656,
         "url": "https://jobs.lever.co/pingwind/d8ebf7d2-98f0-4bd7-ae70-5b8d91e4edc6",
         "locations": [
@@ -388,7 +388,7 @@
         "company_name": "mthree",
         "id": "5264e299-8159-4685-bfe3-842530de17bd",
         "title": "Entry Level - C Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1758155938,
         "date_posted": 1758155938,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006",
@@ -467,15 +467,13 @@
         "id": "643c90a8-2e0c-42d5-9bf6-d0828d9d773b",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1758584585,
+        "date_updated": 1758672507,
         "date_posted": 1758103955,
         "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91",
         "locations": [
             "Palo Alto, CA"
         ],
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -587,7 +585,7 @@
         "company_name": "RTX",
         "id": "43cdc060-d0df-432e-81b9-8643c49cc399",
         "title": "2026 Raytheon Systems Security Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1758063237,
         "date_posted": 1758063237,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
@@ -11111,7 +11109,7 @@
         "company_name": "SMX",
         "id": "7463c287-498f-48f5-86ff-0443c74dc683",
         "title": "Junior Software Engineer - Ts/Sci CI Poly",
-        "active": false,
+        "active": true,
         "date_updated": 1750722293,
         "date_posted": 1750722293,
         "url": "https://www.smxtech.com/careers/?gh_jid=6618208003",
@@ -12417,7 +12415,7 @@
         "company_name": "CACI",
         "id": "e23f991b-f6bb-4037-a415-84cb81506adb",
         "title": "Entry Level DSP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1752623968,
         "date_posted": 1752623968,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1",
@@ -14559,7 +14557,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -18017,7 +18015,7 @@
         "company_name": "IXL Learning",
         "id": "ea4aba99-157b-4794-9bcb-01d93b153fc0",
         "title": "Software Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755744352,
         "date_posted": 1755744352,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8128533002",
@@ -18034,7 +18032,7 @@
         "company_name": "IXL Learning",
         "id": "9a3ffe11-4ec8-4997-a925-aef4a12180b9",
         "title": "Software Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755745279,
         "date_posted": 1755745279,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8128544002",
@@ -21617,7 +21615,7 @@
         "company_name": "TD Securities",
         "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
         "title": "Machine Learning Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757358863,
         "date_posted": 1757358863,
         "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
@@ -21634,7 +21632,7 @@
         "id": "926863f0-8c2d-4e12-af66-fb8bd5e29053",
         "title": "Graduate Software Applications Engineer",
         "active": true,
-        "date_updated": 1757401240,
+        "date_updated": 1758672100,
         "date_posted": 1757401240,
         "url": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
         "locations": [
@@ -23081,7 +23079,7 @@
         "company_name": "Duolingo",
         "id": "5f3e1af0-e2a8-4a32-8fb3-10f6be2202ee",
         "title": "Software Engineer – New Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1757980951,
         "date_posted": 1757980951,
         "url": "https://careers.duolingo.com/jobs/8155283002?gh_jid=8155283002",
@@ -23133,7 +23131,7 @@
         "company_name": "RTX",
         "id": "4f1bc12d-5eb6-44bd-88cb-172df1486e5e",
         "title": "Raytheon Software Engineer I - Test Equipment",
-        "active": false,
+        "active": true,
         "date_updated": 1757982271,
         "date_posted": 1757982271,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
@@ -23181,7 +23179,7 @@
         "company_name": "RTX",
         "id": "96830d1e-2305-470c-8331-ed38089f6f47",
         "title": "Software Engineer I - Raytheon",
-        "active": false,
+        "active": true,
         "date_updated": 1757983520,
         "date_posted": 1757983520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
@@ -23214,7 +23212,7 @@
         "id": "91765333-8853-4ae2-9225-d1c5133eef54",
         "title": "Technology Development Program Associate",
         "active": true,
-        "date_updated": 1758011649,
+        "date_updated": 1758672456,
         "date_posted": 1758011649,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano,-TX/Technology-Development-Program-Associate---August-2026_R218706-1",
         "locations": [
@@ -23579,7 +23577,7 @@
         "company_name": "Copeland",
         "id": "1599007b-284e-4c5b-8e95-3582644c3e9b",
         "title": "Associate Product Manager – New Grad/Mid Level",
-        "active": true,
+        "active": false,
         "date_updated": 1758357031,
         "date_posted": 1757982669,
         "url": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Kennesaw-GA-USA/Associate-Product-Manager--New-Grad-Mid-Level-_JR110266",
@@ -23612,7 +23610,7 @@
         "company_name": "Adobe",
         "id": "d8d3887c-f0f5-45e9-af46-6c289c90d27f",
         "title": "MBA University Graduate - Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1758358426,
         "date_posted": 1756434231,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-MBA-University-Graduate---Product-Manager_R158962",
@@ -23729,7 +23727,7 @@
         "company_name": "Altice USA",
         "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": true,
+        "active": false,
         "date_updated": 1758368656,
         "date_posted": 1757977983,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
@@ -23745,7 +23743,7 @@
         "company_name": "IXL Learning",
         "id": "cedbf36e-b47f-4f1e-bc52-9a1279770d2e",
         "title": "Associate Product Manager – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758369745,
         "date_posted": 1755744079,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8128549002",
@@ -24017,7 +24015,7 @@
         "id": "d11d4c32-f80b-48f5-af2b-4bde147b19ab",
         "title": "Cloud Support Engineer I (Support Response)",
         "active": true,
-        "date_updated": 1758521252,
+        "date_updated": 1758671997,
         "date_posted": 1758521252,
         "url": "https://jobs.ashbyhq.com/lambda/1147c640-8d1b-4e92-8d39-63982f3f88d7",
         "locations": [
@@ -24217,7 +24215,7 @@
         "company_name": "Chewy",
         "id": "6a49bd3b-c1ce-4223-82d4-c340a6bf1a21",
         "title": "Software Engineer I - Discovery Recommendations",
-        "active": true,
+        "active": false,
         "date_updated": 1758597123,
         "date_posted": 1758597123,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7260970",
@@ -24425,6 +24423,101 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Lennar Corporation",
+        "id": "cb635c69-f2fd-45ce-bed2-f689cf5baadc",
+        "title": "Future Builders Recent College Grad Program - Data Engineering",
+        "active": true,
+        "date_updated": 1758644906,
+        "date_posted": 1757025701,
+        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Data-Engineering_R25_0000003696",
+        "locations": [
+            "Bentonville, AR",
+            "Miami, FL",
+            "Dallas, TX"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "D2L",
+        "id": "380f5198-4daf-4c7d-9349-31d7bd8b54ca",
+        "title": "Software Developer – Spring 2026 New Graduate",
+        "active": true,
+        "date_updated": 1758655705,
+        "date_posted": 1758655705,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=7260896&gh_jid=7260896",
+        "locations": [
+            "Winnipeg, MB, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "3d53433a-408a-4c5d-bddb-aae123505562",
+        "title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
+        "active": true,
+        "date_updated": 1758658002,
+        "date_posted": 1758658002,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Providence",
+        "id": "61a85912-13ac-40a0-a327-1ec86c8fb013",
+        "title": "Data Software Engineer 1 - Enterprise Information Services",
+        "active": true,
+        "date_updated": 1758666311,
+        "date_posted": 1758666311,
+        "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647",
+        "locations": [
+            "Washington",
+            "Oregon",
+            "Lubbock, TX",
+            "California",
+            "Montana",
+            "Silverton, TX",
+            "Morton, TX",
+            "Alaska"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "2a4144eb-d683-41ab-aa6b-4054edea48eb",
+        "title": "University Graduate - Data Scientist",
+        "active": true,
+        "date_updated": 1758666320,
+        "date_posted": 1758666320,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R160661",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
