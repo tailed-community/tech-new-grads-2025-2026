@@ -1,16 +1,204 @@
 [
     {
         "category": "Software",
-        "company_name": "Comcast",
-        "id": "891744d8-4b45-494b-bdad-be4ba6bfc4c5",
-        "title": "Software Engineer 1 - Multiple Teams",
+        "company_name": "Adobe",
+        "id": "d1517900-3538-42df-a98c-a73fbc21f4d9",
+        "title": "University Graduate Software Engineer - Software Engineering",
         "active": true,
-        "date_updated": 1758758478,
-        "date_posted": 1758758478,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1---Chicago--IL-OR-Reston--VA_R420695",
+        "date_updated": 1758831790,
+        "date_posted": 1758831790,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
         "locations": [
-            "Chicago, IL",
+            "SF",
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "0a75db21-80f7-4a24-9ae0-0b85ce2dcc1f",
+        "title": "Software Engineer 1 - Agile Software Development - Mission Solutions and Technologies",
+        "active": true,
+        "date_updated": 1758831367,
+        "date_posted": 1758831367,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I_R0028548",
+        "locations": [
+            "Southern Pines, NC"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Persona",
+        "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
+        "title": "Software Engineer 2026 New Grad",
+        "active": true,
+        "date_updated": 1758826054,
+        "date_posted": 1758826054,
+        "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
+        "locations": [
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ICF International",
+        "id": "9b0ce0d5-9785-473a-acc4-c5fdb6a42dfa",
+        "title": "Software Developer – Entry Level - Summer 2026",
+        "active": true,
+        "date_updated": 1758825837,
+        "date_posted": 1758825837,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Software-Developer--Summer-2026--Entry-Level--Remote-_R2502713",
+        "locations": [
             "Reston, VA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "7717d08c-b438-43d0-af9e-887993d43959",
+        "title": "Software Engineer New College Grad - Masters Degree",
+        "active": true,
+        "date_updated": 1758808378,
+        "date_posted": 1758808378,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2517309",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Medtronic",
+        "id": "7c1d0a10-aa03-446d-b021-2000c2bac477",
+        "title": "Software Operations Engineer I",
+        "active": true,
+        "date_updated": 1758807634,
+        "date_posted": 1758807634,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
+        "locations": [
+            "Northridge, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Wolverine Trading",
+        "id": "ce8aab3b-ea66-473d-a08c-687fe0fb9b15",
+        "title": "C++ Software Engineer",
+        "active": true,
+        "date_updated": 1758807558,
+        "date_posted": 1758807558,
+        "url": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Western Alliance Bancorporation",
+        "id": "267b4d5e-784b-4381-890b-021ddbbe834b",
+        "title": "Engineer I - AI Business Engineer",
+        "active": true,
+        "date_updated": 1758807373,
+        "date_posted": 1758807373,
+        "url": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11486",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Other",
+        "company_name": "RTX",
+        "id": "2568e71a-ea47-49df-897a-83e4e99d16f4",
+        "title": "Systems Security Engineer 1 - Systems Security Engineering",
+        "active": true,
+        "date_updated": 1758804935,
+        "date_posted": 1758804935,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Notion",
+        "id": "19ed9c9b-c543-46f0-a647-6c4abff59d05",
+        "title": "Software Engineer, Fullstack",
+        "active": true,
+        "date_updated": 1758798064,
+        "date_posted": 1758798064,
+        "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "20772022-6b4e-4952-957e-a9ca3fef995c",
+        "title": "Fiori Front End Developer – Entry level",
+        "active": true,
+        "date_updated": 1758786563,
+        "date_posted": 1758786563,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Meshy",
+        "id": "ca943fdd-edd4-4fe7-8ae1-33ed7976a2c3",
+        "title": "Software Engineer – New Grad",
+        "active": true,
+        "date_updated": 1758778957,
+        "date_posted": 1758778957,
+        "url": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "62507386-0c71-4d73-93df-88bea3307b27",
+        "title": "Software Engineer 1 - Air & Missile Defense Software Department",
+        "active": true,
+        "date_updated": 1758763930,
+        "date_posted": 1758763930,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017",
+        "locations": [
+            "Tewksbury, MA"
         ],
         "degrees": [
             "Bachelor's"
@@ -169,15 +357,13 @@
         "id": "bf81a833-6a92-44bf-af80-3ed9de1e3521",
         "title": "Quantitative Research - Data Analytics - Associate",
         "active": true,
-        "date_updated": 1758691834,
+        "date_updated": 1758836302,
         "date_posted": 1758691834,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344",
         "locations": [
             "New York, NY"
         ],
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Product",
@@ -190,22 +376,6 @@
         "url": "https://www.ixl.com/company/jobs?gh_jid=8182864002",
         "locations": [
             "San Mateo, CA"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "82a2775d-0300-415a-b3b3-b7115901f814",
-        "title": "Software Engineer 1 - Engineering / Product Development",
-        "active": true,
-        "date_updated": 1758683914,
-        "date_posted": 1758683914,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459",
-        "locations": [
-            "Carmel, IN"
         ],
         "degrees": [
             "Bachelor's"
@@ -505,22 +675,6 @@
     },
     {
         "category": "Software",
-        "company_name": "NextEra Energy",
-        "id": "ff1f5f3e-5e7a-4dfe-a1fb-9d658755635b",
-        "title": "Software Development Engineer 1 - New Product Engineering",
-        "active": true,
-        "date_updated": 1758594889,
-        "date_posted": 1758594889,
-        "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "The Boeing Company",
         "id": "549eeb08-3ded-452b-8f16-6842e19982f5",
         "title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
@@ -790,22 +944,6 @@
         "degrees": []
     },
     {
-        "category": "Other",
-        "company_name": "Sev1Tech",
-        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
-        "title": "Cybersecurity Engineer 1",
-        "active": true,
-        "date_updated": 1758315728,
-        "date_posted": 1758307494,
-        "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "UiPath",
         "id": "dd9388ec-f5fa-4a0d-92e5-7e268c211aae",
@@ -838,20 +976,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "3a0307a9-2e9f-4833-a645-4b2b93621232",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1758507000,
-        "date_posted": 1758231896,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01794320",
-        "locations": [
-            "Largo, FL"
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -956,22 +1080,6 @@
         "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application",
         "locations": [
             "SF"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Nike",
-        "id": "f482a959-12d8-423c-a3f9-413a0e13c503",
-        "title": "Software Engineer I - Innovation",
-        "active": true,
-        "date_updated": 1758158728,
-        "date_posted": 1758158728,
-        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
-        "locations": [
-            "Beaverton, OR"
         ],
         "degrees": [
             "Bachelor's"
@@ -1534,7 +1642,7 @@
         "id": "14ce3d00-cf34-4074-ae05-d64553e63196",
         "title": "Reference Data Analyst Junior",
         "active": true,
-        "date_updated": 1757928668,
+        "date_updated": 1758836149,
         "date_posted": 1757928668,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Reference-Data-Analyst-Junior_25905888",
         "locations": [
@@ -1832,23 +1940,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
-        "title": "Software Developer – New Grad - Sprc",
-        "active": true,
-        "date_updated": 1757549793,
-        "date_posted": 1757549793,
-        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -2225,6 +2316,23 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1757385678,
+        "date_posted": 1757385678,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -3232,6 +3340,22 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1756747299,
+        "date_posted": 1756747299,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
+        "locations": [
+            "Uxbridge, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "TD Bank",
         "id": "8da2822c-c728-4f81-ab3d-76079d41f02d",
@@ -3366,22 +3490,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Iridium Communications",
-        "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1756422564,
-        "date_posted": 1756422564,
-        "url": "https://careers-iridium.icims.com/jobs/4644/job",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4365,7 +4473,7 @@
         "id": "2c441054-4f95-44a3-a992-4671d6a665ba",
         "title": "Junior Data Engineer",
         "active": true,
-        "date_updated": 1755784282,
+        "date_updated": 1758836213,
         "date_posted": 1755784282,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job",
         "locations": [
@@ -7608,6 +7716,20 @@
         "degrees": null
     },
     {
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "68821ceb-0090-4a87-8061-42789cb56646",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753918469,
+        "date_posted": 1753918469,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "degrees": null
+    },
+    {
         "category": null,
         "company_name": "LMI",
         "id": "96761fd4-0cef-4998-a9b2-f26d93b789da",
@@ -8422,20 +8544,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": null,
-        "company_name": "Esri",
-        "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
-        "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": true,
-        "date_updated": 1742873875,
-        "date_posted": 1742873875,
-        "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "degrees": null
     },
     {
         "category": null,
