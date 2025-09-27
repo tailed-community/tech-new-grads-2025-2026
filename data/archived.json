@@ -11022,7 +11022,7 @@
         "company_name": "Capital Rx",
         "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1755269232,
         "date_posted": 1750670041,
         "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
@@ -15582,7 +15582,7 @@
         "company_name": "Becton, Dickinson and Company",
         "id": "78c2a49e-da4c-4434-974e-85eb8b9c2bdd",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755154524,
         "date_posted": 1755154524,
         "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-523411-1",
@@ -16372,7 +16372,7 @@
         "company_name": "Esri",
         "id": "2399ab40-9836-4bd9-ab03-e62e992c5fdc",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755289886,
         "date_posted": 1755289886,
         "url": "https://www.esri.com/careers/4829377007?gh_jid=4829377007",
@@ -19870,7 +19870,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -22248,7 +22248,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer – New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -23892,7 +23892,7 @@
         "company_name": "PathAI",
         "id": "c02dfa55-86e8-4965-9800-7ea301501001",
         "title": "Machine Learning Engineer 1/2/3",
-        "active": true,
+        "active": false,
         "date_updated": 1758388097,
         "date_posted": 1757648115,
         "url": "https://www.pathai.com/careers/8062963002?gh_jid=8062963002",
@@ -24166,7 +24166,7 @@
         "company_name": "The Boeing Company",
         "id": "549eeb08-3ded-452b-8f16-6842e19982f5",
         "title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1758593154,
         "date_posted": 1758593154,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2",
@@ -24525,7 +24525,7 @@
         "company_name": "Fifth Third Bank",
         "id": "7c064910-805a-4037-876c-13452565138c",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758674824,
         "date_posted": 1758674824,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1_R62252",
@@ -25014,6 +25014,378 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Other",
+        "company_name": "Sev1Tech",
+        "id": "71bf6784-4332-4e13-9dda-b41a35330da4",
+        "title": "Cybersecurity Engineer 1",
+        "active": true,
+        "date_updated": 1758315728,
+        "date_posted": 1758307494,
+        "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "North Charleston, SC"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
+        "title": "Junior Software Engineer - Java Engineering",
+        "active": true,
+        "date_updated": 1758864132,
+        "date_posted": 1758864132,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000083897595",
+        "locations": [
+            "London, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Southwest Airlines",
+        "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1758868246,
+        "date_posted": 1758868246,
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product Management",
+        "company_name": "Genies",
+        "id": "3f5b7918-0cf4-4af1-985a-75882623a878",
+        "title": "Product Operations Associate – AI Avatars",
+        "active": true,
+        "date_updated": 1758868556,
+        "date_posted": 1758868556,
+        "url": "https://job-boards.greenhouse.io/genies/jobs/7477215003",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Southwest Airlines",
+        "id": "3c72f92a-18d0-434a-8838-180a9471c3a6",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1758868677,
+        "date_posted": 1758868677,
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59811",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Southwest Airlines",
+        "id": "858b146b-f1ab-47ae-80b6-b1ad8c88b3c4",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1758868742,
+        "date_posted": 1758868742,
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59810",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Southwest Airlines",
+        "id": "835a1a1c-0727-4c58-a98a-e10a07a4b490",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1758868768,
+        "date_posted": 1758868768,
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59813",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Southwest Airlines",
+        "id": "fd78602f-e1ba-444e-a3ee-30ce6c64e479",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1758868830,
+        "date_posted": 1758868830,
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Bloomberg",
+        "id": "61cf0f69-c461-4d69-8d66-a38e0793f155",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1758908599,
+        "date_posted": 1758868913,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137893",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Bloomberg",
+        "id": "b99326c9-d40e-4238-909c-ae297aa406ae",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1758908577,
+        "date_posted": 1758868962,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137895",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Bloomberg",
+        "id": "7461ea90-d24b-4386-96da-74a96591f64c",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1758908617,
+        "date_posted": 1758869022,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137894",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Bloomberg",
+        "id": "aca440de-1ade-458a-b97a-875f3a52cbbb",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1758908537,
+        "date_posted": 1758869050,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineerinng-Associate_137898",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Bloomberg",
+        "id": "2917f903-c781-46a7-ab98-258e930850f9",
+        "title": "Software Engineering Associate",
+        "active": true,
+        "date_updated": 1758908384,
+        "date_posted": 1758869229,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "30e1689b-a597-4661-a040-f1c4dcd2780e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1758887825,
+        "date_posted": 1758887825,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "ce347210-20fa-4d89-8d05-49da3d06ab0c",
+        "title": "Software Engineer University Grad",
+        "active": true,
+        "date_updated": 1758887132,
+        "date_posted": 1758887132,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "d592e898-680a-4be8-99f5-718021b9ebe4",
+        "title": "Data Scientist New College Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1758894862,
+        "date_posted": 1758894862,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Bachelors-Degree--Santa-Clara--CA-_R2517338",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Parafin",
+        "id": "252c9ea7-ac6c-4a87-923b-861477e510c1",
+        "title": "Software Engineer – New Grad",
+        "active": true,
+        "date_updated": 1758910882,
+        "date_posted": 1758910882,
+        "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
+        "locations": [
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
+        "title": "Data Engineer 1 - Insurance Industry",
+        "active": true,
+        "date_updated": 1758914436,
+        "date_posted": 1758914436,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Ardent",
+        "id": "0792f38f-5a91-4853-8e4b-717325737b5d",
+        "title": "Junior Developer Consultant - Geospatial Software Development",
+        "active": true,
+        "date_updated": 1758916693,
+        "date_posted": 1758916693,
+        "url": "https://boards.greenhouse.io/ardentmc/jobs/7278159",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Gauntlet Networks",
+        "id": "623f45db-6ae9-4795-981f-a40286a0be77",
+        "title": "Quant Research Engineer – New Grad",
+        "active": true,
+        "date_updated": 1758915902,
+        "date_posted": 1758915902,
+        "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad/apply",
+        "locations": [
+            "SF",
+            "LA",
+            "NYC",
+            "Remote in Canada"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Other",
+        "company_name": "Honeywell",
+        "id": "dc74fdfc-2bcb-4674-b746-cf16c638657e",
+        "title": "Cyber Security Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758917815,
+        "date_posted": 1758917815,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116423",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
+        "title": "Software Engineer 1 - Industrial Automation",
+        "active": true,
+        "date_updated": 1758917853,
+        "date_posted": 1758917853,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "99165227-b6cf-49f7-a17c-dee1b2d38f26",
+        "title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
+        "active": true,
+        "date_updated": 1758917756,
+        "date_posted": 1758917756,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758917678,
+        "date_posted": 1758917678,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
