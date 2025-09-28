@@ -3860,7 +3860,7 @@
         "company_name": "Cape",
         "id": "c7b67a0d-b856-4a1a-bb89-267aa0fad336",
         "title": "New College Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1734048595,
         "date_posted": 1734048595,
         "url": "https://jobs.ashbyhq.com/cape/bd280ded-4298-47de-a186-1aebd1bd94b8/application",
@@ -19576,7 +19576,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -23525,7 +23525,7 @@
         "company_name": "Chime",
         "id": "efb0e92a-a27a-4577-8f76-44763ea6c1e4",
         "title": "Product Security Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758317481,
         "date_posted": 1755300570,
         "url": "https://boards.greenhouse.io/chime/jobs/8101747002",
@@ -24783,7 +24783,7 @@
         "company_name": "Comcast",
         "id": "891744d8-4b45-494b-bdad-be4ba6bfc4c5",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1758758478,
         "date_posted": 1758758478,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1---Chicago--IL-OR-Reston--VA_R420695",
@@ -25274,7 +25274,7 @@
         "company_name": "RELX",
         "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
         "title": "Data Engineer 1 - Insurance Industry",
-        "active": true,
+        "active": false,
         "date_updated": 1758914436,
         "date_posted": 1758914436,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
@@ -25382,6 +25382,194 @@
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
         "locations": [
             "Clearwater, FL"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
+        "title": "Software Development Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758963633,
+        "date_posted": 1758963633,
+        "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "fd937607-7e79-43de-9b55-4cea6245ccfd",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966993,
+        "date_posted": 1758966993,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223351",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "d619d9ac-95a4-4ed4-9b3b-907a08573838",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966966,
+        "date_posted": 1758966966,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226562",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "af467e2e-2ade-425c-9ab9-238d3e605bf2",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966995,
+        "date_posted": 1758966995,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R223357",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "1e7a6a27-4b9f-4e7d-92f0-555244c980ab",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966968,
+        "date_posted": 1758966968,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226563",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "8263f802-80bc-43ec-8c4a-f041b5293a00",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1758976509,
+        "date_posted": 1758976509,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Engineer-I_R-98322",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Siemens",
+        "id": "e0cfae5c-6c3c-4038-adb1-ff14d595851f",
+        "title": "Firmware Engineer 1 - Research & Development",
+        "active": true,
+        "date_updated": 1758981493,
+        "date_posted": 1758981493,
+        "url": "https://siemens.eightfold.ai/careers/job/563156132151514",
+        "locations": [
+            "Johnson City, TN"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "520a10d0-a5ec-46d6-acfe-66d0ec30804c",
+        "title": "Software Engineer – Early Career",
+        "active": true,
+        "date_updated": 1758995548,
+        "date_posted": 1758995548,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Early-Career_JR-202518329",
+        "locations": [
+            "Milford Charter Twp, MI",
+            "Austin, TX",
+            "Mountain View, CA",
+            "Warren, MI",
+            "Pontiac, MI"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Stackline",
+        "id": "1ccd03c8-1ca5-44a0-a6f1-567c9e7fbe50",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1758995033,
+        "date_posted": 1758995033,
+        "url": "https://job-boards.greenhouse.io/stackline/jobs/4613319005",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Sonepar",
+        "id": "d1936b00-4b8f-4cae-8b42-e5661e87bb7a",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1759000989,
+        "date_posted": 1759000989,
+        "url": "https://career.sonepar.com/job/Jackson-Junior-Data-Engineer-MS-39201/1212241101/?ats=successfactors",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "947030be-f428-4b1a-9c83-6635b039aa33",
+        "title": "Software Engineer – Early Career - Software Development",
+        "active": true,
+        "date_updated": 1759001310,
+        "date_posted": 1759001310,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
+        "locations": [
+            "Milford Charter Twp, MI",
+            "Austin, TX",
+            "Mountain View, CA",
+            "Warren, MI"
         ],
         "degrees": [
             "Bachelor's",
