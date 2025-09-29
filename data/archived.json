@@ -136,7 +136,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -14557,7 +14557,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -19576,7 +19576,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -21998,7 +21998,7 @@
         "company_name": "Jonas",
         "id": "90e4568c-4bfb-4dd2-82a6-bc5e5edfa97a",
         "title": "Full Stack Junior Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757507941,
         "date_posted": 1757507941,
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Full-Stack-Junior-Developer_R46739-1",
@@ -22330,7 +22330,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer – Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -23179,7 +23179,7 @@
         "company_name": "RTX",
         "id": "96830d1e-2305-470c-8331-ed38089f6f47",
         "title": "Software Engineer I - Raytheon",
-        "active": true,
+        "active": false,
         "date_updated": 1757983520,
         "date_posted": 1757983520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
@@ -24467,7 +24467,7 @@
         "company_name": "The Boeing Company",
         "id": "3d53433a-408a-4c5d-bddb-aae123505562",
         "title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1758658002,
         "date_posted": 1758658002,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683",
@@ -25570,6 +25570,39 @@
             "Austin, TX",
             "Mountain View, CA",
             "Warren, MI"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8ff03fb4-7ad5-4b9d-afd7-6014e3031149",
+        "title": "Engineer 1: Summer 2026 – Senior Full Stack Cloud Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759043106,
+        "date_posted": 1759043106,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW102-Middletown-Aircraft-Rd-PO-Box-611-Middletown-CT-06457-USA/Engineer-I--Summer-2026---Sr-Full-Stack-Cloud-Engineer--Remote-_01794400",
+        "locations": [
+            "Middletown, CT"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ISYS Technologies",
+        "id": "8413cf8b-9f9f-45f7-a2ed-d55a89685016",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1757606508,
+        "date_posted": 1757606508,
+        "url": "https://careers-i2xisys.icims.com/jobs/14627/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Offutt AFB, NE"
         ],
         "degrees": [
             "Bachelor's",
