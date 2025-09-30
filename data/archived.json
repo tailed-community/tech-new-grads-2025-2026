@@ -122,7 +122,7 @@
         "company_name": "Sev1Tech",
         "id": "68efc7ef-3cf2-4f53-921a-79d5887bee54",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758507128,
         "date_posted": 1758317383,
         "url": "https://careers-sev1tech.icims.com/jobs/9185/job?mobile=true&needsRedirect=false",
@@ -136,7 +136,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -14557,7 +14557,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -22248,7 +22248,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer – New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -24484,7 +24484,7 @@
         "company_name": "Providence",
         "id": "61a85912-13ac-40a0-a327-1ec86c8fb013",
         "title": "Data Software Engineer 1 - Enterprise Information Services",
-        "active": true,
+        "active": false,
         "date_updated": 1758666311,
         "date_posted": 1758666311,
         "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647",
@@ -24717,7 +24717,7 @@
         "company_name": "Ciena",
         "id": "e99da8c0-784c-404e-a32b-9a4ce8a5fe59",
         "title": "New Grad Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1758754101,
         "date_posted": 1758754101,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R029045",
@@ -24783,7 +24783,7 @@
         "company_name": "Comcast",
         "id": "891744d8-4b45-494b-bdad-be4ba6bfc4c5",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1758758478,
         "date_posted": 1758758478,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1---Chicago--IL-OR-Reston--VA_R420695",
@@ -25190,11 +25190,11 @@
     },
     {
         "category": "Software Engineering",
-        "company_name": "Bloomberg",
+        "company_name": "Bloomberg Industry Group",
         "id": "2917f903-c781-46a7-ab98-258e930850f9",
         "title": "Software Engineering Associate",
         "active": true,
-        "date_updated": 1758908384,
+        "date_updated": 1759167656,
         "date_posted": 1758869229,
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
         "locations": [
@@ -25339,21 +25339,18 @@
         ]
     },
     {
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Honeywell",
         "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
-        "title": "Software Engineer 1 - Industrial Automation",
+        "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1758917853,
+        "date_updated": 1759115072,
         "date_posted": 1758917853,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
         "locations": [
             "Fort Mill, SC"
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -25372,21 +25369,18 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Honeywell",
+        "category": "Software Engineering",
+        "company_name": "HoneyWell",
         "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1758917678,
+        "date_updated": 1759115037,
         "date_posted": 1758917678,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
         "locations": [
             "Clearwater, FL"
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
@@ -25394,23 +25388,20 @@
         "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
         "title": "Software Development Engineer 1 - Multiple Teams",
         "active": true,
-        "date_updated": 1758963633,
+        "date_updated": 1759115094,
         "date_posted": 1758963633,
         "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
         "locations": [
             "St. Louis, MO"
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
         "company_name": "Capital One",
         "id": "fd937607-7e79-43de-9b55-4cea6245ccfd",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966993,
         "date_posted": 1758966993,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223351",
@@ -25426,7 +25417,7 @@
         "company_name": "Capital One",
         "id": "d619d9ac-95a4-4ed4-9b3b-907a08573838",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966966,
         "date_posted": 1758966966,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226562",
@@ -25442,7 +25433,7 @@
         "company_name": "Capital One",
         "id": "af467e2e-2ade-425c-9ab9-238d3e605bf2",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966995,
         "date_posted": 1758966995,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R223357",
@@ -25458,7 +25449,7 @@
         "company_name": "Capital One",
         "id": "1e7a6a27-4b9f-4e7d-92f0-555244c980ab",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966968,
         "date_posted": 1758966968,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226563",
@@ -25562,7 +25553,7 @@
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer – Early Career - Software Development",
         "active": true,
-        "date_updated": 1759001310,
+        "date_updated": 1759115116,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
         "locations": [
@@ -25571,10 +25562,7 @@
             "Mountain View, CA",
             "Warren, MI"
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
@@ -25607,6 +25595,68 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Peraton",
+        "id": "be56e076-3f0f-4008-84c3-66566e20b1de",
+        "title": "Software Engineering, Associate",
+        "active": true,
+        "date_updated": 1759167333,
+        "date_posted": 1759116323,
+        "url": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "15a5ba04-c264-4699-b53d-68fd6a3d1a5e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1759160589,
+        "date_posted": 1759160589,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
+        "title": "Software Engineer 1 - iOS - iOS",
+        "active": true,
+        "date_updated": 1759165156,
+        "date_posted": 1759165156,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "6646c7f3-ca51-4d7b-8445-3a68cfe5d0a0",
+        "title": "Embedded Software Engineer – New Grad",
+        "active": true,
+        "date_updated": 1759173095,
+        "date_posted": 1759173095,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R029075",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
