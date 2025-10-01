@@ -1,6 +1,153 @@
 [
     {
         "category": "Hardware",
+        "company_name": "RTX",
+        "id": "821975ed-f886-4a2f-9bfd-1747c1f51d90",
+        "title": "Flight Management Software Engineer 1 - Military Avionics & Helicopters",
+        "active": true,
+        "date_updated": 1759274539,
+        "date_posted": 1759274539,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Flight-Management-Software-Engineer-I--Onsite-_01792047",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "da795263-711c-4a8c-8499-aca7d076544d",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1759269635,
+        "date_posted": 1759269635,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160135",
+        "locations": [
+            "Seattle, WA",
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "c413137a-1419-4373-9109-2ab4f5a6ff2a",
+        "title": "Early in Career Software Engineer - Intranet Experience Team",
+        "active": true,
+        "date_updated": 1759247994,
+        "date_posted": 1759247994,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Early-in-Career-Software-Engineer-Intranet-Experience-Team-UK/1451073",
+        "locations": [
+            "Feltham, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "CoStar Group",
+        "id": "758bb06a-3f01-4608-ab3f-09039f2753d1",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1759239325,
+        "date_posted": 1759239325,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Comcast",
+        "id": "df214627-c5cd-4367-b5c4-2687fce1e2a3",
+        "title": "Software Engineer 1 with AWS & Python",
+        "active": true,
+        "date_updated": 1759238463,
+        "date_posted": 1759238463,
+        "url": "https://jobs.comcast.com/job/-/-/45483/86516813920",
+        "locations": [
+            "Chicago, IL",
+            "Englewood, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "LPL Financial Holdings",
+        "id": "c02158ba-75c6-4420-ba50-bcf4c7b5f0b9",
+        "title": "Engineer I - Software Development",
+        "active": true,
+        "date_updated": 1759238280,
+        "date_posted": 1759238280,
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/Engineer-I--Software-Development_R-046445",
+        "locations": [
+            "Austin, TX",
+            "Fort Mill, SC",
+            "Charlotte, NC"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "45a62128-1164-4fee-90ed-d5338d04e6e6",
+        "title": "Systems Software Engineer – New College Grad 2026 - AV Platform Scheduling",
+        "active": true,
+        "date_updated": 1759236611,
+        "date_posted": 1759236611,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--AV-Platform-Scheduling---New-College-Grad-2026_JR2005098",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "ad45cd1f-1cfe-428a-bf87-a6cd5614f0d1",
+        "title": "Early Career Firmware Engineer",
+        "active": true,
+        "date_updated": 1759235711,
+        "date_posted": 1759235711,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4871546007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "1d8cfe7f-0191-48b9-a2f2-74e15e514651",
+        "title": "Modem Hardware Engineer New Graduate - Hardware Design",
+        "active": true,
+        "date_updated": 1759201996,
+        "date_posted": 1759201996,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R028721",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
         "company_name": "Ciena",
         "id": "6646c7f3-ca51-4d7b-8445-3a68cfe5d0a0",
         "title": "Embedded Software Engineer – New Grad",
@@ -515,22 +662,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Visa",
-        "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
-        "title": "Junior Software Engineer - Java Engineering",
-        "active": true,
-        "date_updated": 1758864132,
-        "date_posted": 1758864132,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000083897595",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Adobe",
         "id": "d1517900-3538-42df-a98c-a73fbc21f4d9",
         "title": "University Graduate Software Engineer - Software Engineering",
@@ -545,22 +676,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "0a75db21-80f7-4a24-9ae0-0b85ce2dcc1f",
-        "title": "Software Engineer 1 - Agile Software Development - Mission Solutions and Technologies",
-        "active": true,
-        "date_updated": 1758831367,
-        "date_posted": 1758831367,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I_R0028548",
-        "locations": [
-            "Southern Pines, NC"
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -685,22 +800,6 @@
             "New York, NY"
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "20772022-6b4e-4952-957e-a9ca3fef995c",
-        "title": "Fiori Front End Developer – Entry level",
-        "active": true,
-        "date_updated": 1758786563,
-        "date_posted": 1758786563,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231",
-        "locations": [
-            "Waterbury, CT"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -2253,6 +2352,22 @@
     },
     {
         "category": "Software",
+        "company_name": "RTX",
+        "id": "8d176532-5dae-4784-8732-ebd40b79cd56",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757632708,
+        "date_posted": 1757632708,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I--Onsite-_01792630",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
@@ -2336,6 +2451,23 @@
     },
     {
         "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
+        "title": "Software Developer – New Grad - Sprc",
+        "active": true,
+        "date_updated": 1757549793,
+        "date_posted": 1757549793,
+        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Panasonic Holdings",
         "id": "e57239b4-e628-4e6c-a96c-ed20adfbeb9a",
         "title": "Software Engineer 1 - Microservices",
@@ -2345,6 +2477,22 @@
         "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
         "locations": [
             "Beaverton, OR"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "QinetiQ",
+        "id": "35613efd-81db-49ef-b91c-05b18a9fade3",
+        "title": "Junior Data Scientist - Data Analysis - Machine Learning",
+        "active": true,
+        "date_updated": 1759199126,
+        "date_posted": 1757542266,
+        "url": "https://careers-qinetiqus.icims.com/jobs/11796/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC"
         ],
         "degrees": [
             "Bachelor's"
@@ -2482,22 +2630,6 @@
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180",
         "locations": [
             "Hartford, CT"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "SMX",
-        "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1757444743,
-        "date_posted": 1757444743,
-        "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
-        "locations": [
-            "Huntsville, AL"
         ],
         "degrees": [
             "Bachelor's"
