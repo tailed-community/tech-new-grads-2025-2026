@@ -72,7 +72,7 @@
         "company_name": "Motorola",
         "id": "4db29e91-1c1d-4211-a891-40e1bbab5387",
         "title": "Entry Level Software Engineer - Kotlin - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1758330983,
         "date_posted": 1758330983,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107",
@@ -292,7 +292,7 @@
         "company_name": "Alumni Ventures",
         "id": "df644de1-2aab-4e44-ae7f-71847c2cdde4",
         "title": "Software Engineer – Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1758162751,
         "date_posted": 1758162751,
         "url": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
@@ -18480,7 +18480,7 @@
         "company_name": "Ciena",
         "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
         "title": "Optical Network Embedded Software Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755908269,
         "date_posted": 1755908269,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
@@ -18941,7 +18941,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "74f26036-33d9-4200-8dc2-ca925be3aa34",
         "title": "Software Engineer 1/2/3/Sr",
-        "active": true,
+        "active": false,
         "date_updated": 1756207205,
         "date_posted": 1752271606,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003152",
@@ -20108,8 +20108,8 @@
         "company_name": "Microsoft",
         "id": "87af25f0-4deb-4ca2-96fc-621b6f787a1c",
         "title": "Software Engineer - Fullstack",
-        "active": true,
-        "date_updated": 1756857301,
+        "active": false,
+        "date_updated": 1759378236,
         "date_posted": 1756857301,
         "url": "https://jobs.careers.microsoft.com/us/en/job/1869391",
         "locations": [
@@ -21061,8 +21061,8 @@
         "company_name": "Microsoft",
         "id": "14eac50f-40b5-40f7-8fca-eeb4b15c56a1",
         "title": "Software Engineer - Fullstack",
-        "active": true,
-        "date_updated": 1757075740,
+        "active": false,
+        "date_updated": 1759378176,
         "date_posted": 1757075740,
         "url": "https://jobs.careers.microsoft.com/global/en/share/1869347",
         "locations": [
@@ -21682,8 +21682,8 @@
         "company_name": "Disney",
         "id": "c66df321-c70e-4dd8-a07e-d8b153c3cba6",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1757401533,
+        "active": false,
+        "date_updated": 1759378323,
         "date_posted": 1757401533,
         "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
         "locations": [
@@ -21849,7 +21849,7 @@
         "company_name": "SMX",
         "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757444743,
         "date_posted": 1757444743,
         "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
@@ -22337,7 +22337,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer – Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -24773,7 +24773,7 @@
         "company_name": "mthree",
         "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
         "title": "Junior Software Developer - Java/Scala",
-        "active": true,
+        "active": false,
         "date_updated": 1758755027,
         "date_posted": 1758755027,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
@@ -24944,7 +24944,7 @@
         "company_name": "Applied Materials",
         "id": "7717d08c-b438-43d0-af9e-887993d43959",
         "title": "Software Engineer New College Grad - Masters Degree",
-        "active": true,
+        "active": false,
         "date_updated": 1758808378,
         "date_posted": 1758808378,
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2517309",
@@ -25294,7 +25294,7 @@
         "company_name": "Ardent",
         "id": "0792f38f-5a91-4853-8e4b-717325737b5d",
         "title": "Junior Developer Consultant - Geospatial Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1758916693,
         "date_posted": 1758916693,
         "url": "https://boards.greenhouse.io/ardentmc/jobs/7278159",
@@ -26096,6 +26096,113 @@
         "locations": [
             "Hartford, CT",
             "St Paul, MN"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "80e7b3e0-fdce-497e-8b23-ba94e51691fc",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759372390,
+        "date_posted": 1759372390,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21910",
+        "locations": [
+            "Miami, FL"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "935c6806-92fc-4eb1-b8c8-eb2a8379a838",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759372386,
+        "date_posted": 1759372386,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21908",
+        "locations": [
+            "Miami, FL"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "T-Mobile",
+        "id": "c4e18fba-31c4-4899-b7aa-7a87059b3c59",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1759416479,
+        "date_posted": 1759411571,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ333189",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Northrop Grumman",
+        "id": "fe5a6378-06e4-4aa5-87dd-e41ac938dbcf",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1759411683,
+        "date_posted": 1759411683,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Associate-Embedded-Software-Engineer_R10208121-1",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Anaplan",
+        "id": "cbe9b0ed-ae7b-4da9-928b-b07db4e00ed9",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1759411745,
+        "date_posted": 1759411745,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8192195002",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Anaplan",
+        "id": "7071ac60-a80d-49cd-b3ac-16f1181510d5",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1759411790,
+        "date_posted": 1759411790,
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8161559002",
+        "locations": [
+            "York, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "NetImpact Strategies",
+        "id": "ace07096-f936-4feb-977a-eb89db502854",
+        "title": "Junior Full Stack .NET Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759448385,
+        "date_posted": 1759293070,
+        "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Reston, VA"
         ],
         "degrees": [
             "Bachelor's"
