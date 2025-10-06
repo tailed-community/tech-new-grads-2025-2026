@@ -1,5 +1,21 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "Klaviyo",
+        "id": "dbe9ac4a-7404-4101-83ec-c73df2a11f1c",
+        "title": "Machine Learning Engineer 1 - Machine Learning - Full-stack Engineering",
+        "active": true,
+        "date_updated": 1759651078,
+        "date_posted": 1759651078,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7484845003",
+        "locations": [
+            "SF"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
         "category": "Product",
         "company_name": "Belden",
         "id": "1cdbed4d-36a1-41bd-8f31-920f34589d2e",
@@ -871,39 +887,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "d65a392a-6b7f-42da-9397-65c73ece6ebf",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759287631,
-        "date_posted": 1759287631,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/79c95841-5993-44fc-8b91-0f7948a09510/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "705f59c1-b8d4-4bdc-a070-635c4bca6b64",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759287630,
-        "date_posted": 1759287630,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/193ced48-ed93-4234-a155-70969536f584/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "General Dynamics Mission Systems",
         "id": "11474d9e-9206-4c95-8893-fab2c64d651d",
@@ -917,24 +900,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "da795263-711c-4a8c-8499-aca7d076544d",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": true,
-        "date_updated": 1759269635,
-        "date_posted": 1759269635,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160135",
-        "locations": [
-            "Seattle, WA",
-            "San Jose, CA"
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -1791,23 +1756,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Intact",
-        "id": "556de495-069d-423c-b5fd-a6e1fd9a8996",
-        "title": "New Grad Tech Development Program - Software Development - Cloud",
-        "active": true,
-        "date_updated": 1758614651,
-        "date_posted": 1758614651,
-        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R149021",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -3089,6 +3037,22 @@
         "locations": [
             "Fredericksburg, VA",
             "Dahlgren, VA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Sev1Tech",
+        "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
+        "title": "Software Developer – Entry Level",
+        "active": true,
+        "date_updated": 1757554446,
+        "date_posted": 1757554446,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lawton, OK"
         ],
         "degrees": [
             "Bachelor's"
@@ -9599,17 +9563,19 @@
         ]
     },
     {
-        "category": null,
+        "category": "Software",
         "company_name": "Wonderschool",
         "id": "e5fee829-850f-4ae1-9f1f-eda2ab36fdbe",
         "title": "Early Career Software Engineer - Applied AI",
         "active": true,
-        "date_updated": 1739233313,
+        "date_updated": 1751064886,
         "date_posted": 1739233313,
         "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
         "locations": [
-            "Remote in USA"
+            "SF"
         ],
-        "degrees": null
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
