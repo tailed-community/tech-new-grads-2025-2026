@@ -18774,7 +18774,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "3424ee82-76b1-4d00-8274-4ebca84ba369",
         "title": "Software Engineer 1 - Corporate Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1756196797,
         "date_posted": 1751621106,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10002320",
@@ -20036,7 +20036,7 @@
         "company_name": "TD Securities",
         "id": "984f3b2b-7a73-4d47-bb64-cd1e078cc5cc",
         "title": "Machine Learning Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756847386,
         "date_posted": 1756847386,
         "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442146",
@@ -22291,7 +22291,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -22487,7 +22487,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -22592,7 +22592,7 @@
         "company_name": "RTX",
         "id": "8d176532-5dae-4784-8732-ebd40b79cd56",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757632708,
         "date_posted": 1757632708,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I--Onsite-_01792630",
@@ -23736,7 +23736,7 @@
         "company_name": "Altice USA",
         "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": true,
+        "active": false,
         "date_updated": 1758368656,
         "date_posted": 1757977983,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
@@ -25719,7 +25719,7 @@
         "company_name": "NVIDIA",
         "id": "45a62128-1164-4fee-90ed-d5338d04e6e6",
         "title": "Systems Software Engineer – New College Grad 2026 - AV Platform Scheduling",
-        "active": true,
+        "active": false,
         "date_updated": 1759236611,
         "date_posted": 1759236611,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--AV-Platform-Scheduling---New-College-Grad-2026_JR2005098",
@@ -25899,7 +25899,7 @@
         "company_name": "RTX",
         "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
         "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": true,
+        "active": false,
         "date_updated": 1759295272,
         "date_posted": 1759295272,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
@@ -26229,23 +26229,21 @@
         "company_name": "Centene",
         "id": "724db6f9-bf05-4239-a33c-1010510c9725",
         "title": "Data Engineer I",
-        "active": true,
-        "date_updated": 1759458571,
+        "active": false,
+        "date_updated": 1759739501,
         "date_posted": 1759458571,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
         "locations": [
-            "Texas",
-            "Florida",
-            "South Carolina",
-            "Georgia",
-            "Tennessee",
-            "North Carolina",
-            "Missouri",
-            "Illinois"
+            "Remote in MO",
+            "Remote in GA",
+            "Remote in TN",
+            "Remote in FL",
+            "Remote in SC",
+            "Remote in TX",
+            "Remote in NC",
+            "Remote in IL"
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
@@ -26269,15 +26267,13 @@
         "id": "975d55af-3f12-4b33-98af-150ba18e288d",
         "title": "Software Engineer 1 - Technology",
         "active": true,
-        "date_updated": 1759460030,
+        "date_updated": 1759736908,
         "date_posted": 1759460030,
         "url": "https://aexp.eightfold.ai/careers/job/38270703",
         "locations": [
             "Plantation, FL"
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -26503,21 +26499,18 @@
         "degrees": []
     },
     {
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Northrop Grumman",
         "id": "cba2a58b-4daf-45a9-8e80-1da0b344ba43",
-        "title": "Software Engineer 1 or 2 - Aurora Software and Digital Engineering",
+        "title": "Software Engineer 1 or 2",
         "active": true,
-        "date_updated": 1759514814,
+        "date_updated": 1759736807,
         "date_posted": 1759514814,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
         "locations": [
             "Aurora, CO"
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
@@ -26796,6 +26789,160 @@
         ],
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Nelnet",
+        "id": "d8d3cda0-8bc7-4420-b0a0-43c4dfe67ba7",
+        "title": "Data Analyst I - Consumer Loan Analytics",
+        "active": true,
+        "date_updated": 1759737110,
+        "date_posted": 1759737110,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Data-Analyst-I---Consumer-Loan-Analytics_R21677-1",
+        "locations": [
+            "Lincoln, NE",
+            "Madison, WI",
+            "Brownsville, TX",
+            "Centennial, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quantitative Finance",
+        "company_name": "Barclays",
+        "id": "6d557086-e84d-4ff3-b763-f03f7e17183a",
+        "title": "Quantitative Finance Risk Associate Graduate Program",
+        "active": true,
+        "date_updated": 1759737295,
+        "date_posted": 1759737295,
+        "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Finance-Risk-Associate-Graduate-Program-2026-New-York_JR-0000076042",
+        "locations": [
+            "7th Avenue, NY"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Wind River",
+        "id": "243df026-7757-4464-8dcb-35f67dc5d17e",
+        "title": "Embedded Software Engineer for Professional Services",
+        "active": true,
+        "date_updated": 1759737518,
+        "date_posted": 1759737518,
+        "url": "https://jobs.jobvite.com/windriver/job/o97iyfwQ",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "af2c11d7-fdfe-4639-a521-1cf700edc2b0",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1759739389,
+        "date_posted": 1759739389,
+        "url": "https://careers-gdms.icims.com/jobs/68413",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Amentum",
+        "id": "408395b2-65e2-4773-b1ed-bfb2a217c515",
+        "title": "C++ Junior Software Developer",
+        "active": true,
+        "date_updated": 1759739587,
+        "date_posted": 1759739587,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junioe-Software-Developer_R0147255",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Amentum",
+        "id": "5fc15d6c-3a79-4484-8cd8-a40ca2a77331",
+        "title": "C++ Junior Software Developer",
+        "active": true,
+        "date_updated": 1759739632,
+        "date_posted": 1759739632,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0147273",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "General Dynamics",
+        "id": "39c8c206-301c-4da1-b9ee-d5261e882300",
+        "title": "Configuration and Logistics Data Analyst I, II, Engineering",
+        "active": true,
+        "date_updated": 1759740969,
+        "date_posted": 1759740969,
+        "url": "https://careers-gdbiw.icims.com/jobs/4839",
+        "locations": [
+            "Brunswick, ME"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "c675f440-e0c7-49a3-a8b2-d85461f7cab2",
+        "title": "Software Engineer 1 - Guidewire",
+        "active": true,
+        "date_updated": 1759792691,
+        "date_posted": 1759792691,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I---Guidewire_R-46178",
+        "locations": [
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "a1000d46-677c-4a53-846a-4429ec68e8f4",
+        "title": "Software Engineer 1 - iOS",
+        "active": true,
+        "date_updated": 1759794324,
+        "date_posted": 1759794324,
+        "url": "https://university-uber.icims.com/jobs/149558/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "1d0cd1e8-171c-4145-8cfb-1b9d64f75678",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759796640,
+        "date_posted": 1759796640,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/3bcc7471-9625-409b-b8ec-05fe1f28c66f/application",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
