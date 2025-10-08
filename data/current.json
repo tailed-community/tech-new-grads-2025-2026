@@ -1,6 +1,220 @@
 [
     {
         "category": "Software",
+        "company_name": "World Kinect",
+        "id": "526ade2d-8f79-446e-b8f7-c1031fb1f80a",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759877466,
+        "date_posted": 1759877466,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21909",
+        "locations": [
+            "Miami, FL"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "18562b19-ab94-4493-833e-3e5df157c67b",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759875812,
+        "date_posted": 1759875812,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/912b43a5-fdc4-446b-a959-63dec0668578/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "NVIDIA",
+        "id": "640d9c0c-93ef-4bc7-8af6-cd3ff13deb35",
+        "title": "Deep Learning Algorithm Engineer, Dynamo",
+        "active": true,
+        "date_updated": 1759844439,
+        "date_posted": 1759844439,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Algorithm-Engineer--Dynamo---New-College-Grad-2025_JR2001320-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Microsoft",
+        "id": "d18c4c7e-b351-49e7-82db-b3cdf79f1bfd",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1759844317,
+        "date_posted": 1759844317,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
+        "locations": [
+            "USA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "General Dynamics Information Technology",
+        "id": "12a75e5d-ff68-4227-9fbc-a596a3dbc0ff",
+        "title": "Software Developer Associate - TS/SCI w/Poly",
+        "active": true,
+        "date_updated": 1759858417,
+        "date_posted": 1759841072,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "94c8e7c1-8c2e-40e8-b8b6-a0778dfff751",
+        "title": "Software Engineer 1 - Air Dominance Modeling and Analysis",
+        "active": true,
+        "date_updated": 1759830396,
+        "date_posted": 1759830396,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2025-Full-Time-Raytheon-Software-Engineer-I_01797272",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "DoorDash",
+        "id": "eb5c4a0b-d8f5-423d-bcdd-fe8299e01c51",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759828547,
+        "date_posted": 1759828547,
+        "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7264351",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Reach Financial",
+        "id": "587196d6-05fb-4096-a1f6-4b83bbb3931a",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1759826862,
+        "date_posted": 1759826862,
+        "url": "https://job-boards.greenhouse.io/reach/jobs/8191593002",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "0a641504-4c74-476c-93e6-140bc60fc1ef",
+        "title": "University Graduate - Data Scientist",
+        "active": true,
+        "date_updated": 1759825890,
+        "date_posted": 1759825890,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R161170",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "ca34ac6f-47b2-47ce-9c51-cf79bfcc460f",
+        "title": "Software Engineer 1 - iOS",
+        "active": true,
+        "date_updated": 1759824735,
+        "date_posted": 1759824735,
+        "url": "https://www.uber.com/global/en/careers/list/149558/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "DoorDash",
+        "id": "cb54a03c-1819-40d6-85dd-7c94b79b337e",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759820594,
+        "date_posted": 1759820594,
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Space Dynamics Laboratory",
+        "id": "cdaf302c-7370-4fcf-94e2-9a40f8a90496",
+        "title": "Software Engineer I - C4ISR Systems Division",
+        "active": true,
+        "date_updated": 1759816396,
+        "date_posted": 1759816396,
+        "url": "https://spacedynamicslaboratory.applytojob.com/apply/aQVYfQWm80/Software-Engineer-I",
+        "locations": [
+            "Logan, UT"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Fullbay",
+        "id": "419f72c2-240d-4b3d-a47e-2ce148967ba0",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1759808742,
+        "date_posted": 1759808742,
+        "url": "https://fullbay.bamboohr.com/careers/178/",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Jerry",
         "id": "1d0cd1e8-171c-4145-8cfb-1b9d64f75678",
         "title": "Software Engineer 1 - Multiple Teams",
@@ -204,20 +418,18 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Flexport",
+        "category": "Software Engineering",
+        "company_name": "flexport",
         "id": "eff76a88-c516-4dcd-b472-fe2e2a87d6ad",
         "title": "Software Engineer 1 - Import Team",
         "active": true,
-        "date_updated": 1759593612,
+        "date_updated": 1759840918,
         "date_posted": 1759593612,
         "url": "https://boards.greenhouse.io/flexport/jobs/7275329",
         "locations": [
             "Bellevue, WA"
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
@@ -277,25 +489,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "StubHub",
-        "id": "40f962b2-346b-422c-a1d0-8bf9e0bf3c4e",
-        "title": "Software Engineer 1 – New Grad - AI Platform",
-        "active": true,
-        "date_updated": 1759559871,
-        "date_posted": 1759559871,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4685640101",
-        "locations": [
-            "Aliso Viejo, CA",
-            "Santa Monica, CA"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -438,7 +631,7 @@
         "id": "cba2a58b-4daf-45a9-8e80-1da0b344ba43",
         "title": "Software Engineer 1 or 2",
         "active": true,
-        "date_updated": 1759736807,
+        "date_updated": 1759858467,
         "date_posted": 1759514814,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
         "locations": [
@@ -756,40 +949,6 @@
     },
     {
         "category": "Software",
-        "company_name": "World Kinect",
-        "id": "80e7b3e0-fdce-497e-8b23-ba94e51691fc",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759372390,
-        "date_posted": 1759372390,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21910",
-        "locations": [
-            "Miami, FL"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "935c6806-92fc-4eb1-b8c8-eb2a8379a838",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759372386,
-        "date_posted": 1759372386,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21908",
-        "locations": [
-            "Miami, FL"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "The Travelers Companies",
         "id": "9c7763fe-db8e-45ef-a08e-bd20bde3d11d",
         "title": "Software Engineer 1 - .Net - Node.js",
@@ -947,40 +1106,6 @@
     },
     {
         "category": "Software",
-        "company_name": "World Kinect",
-        "id": "5339800c-c92f-4acd-a591-d0a1364c0381",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759308700,
-        "date_posted": 1759308700,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21906",
-        "locations": [
-            "Miami, FL"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "cc805687-8699-41cc-bc01-274071e245a2",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759308697,
-        "date_posted": 1759308697,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21907",
-        "locations": [
-            "Miami, FL"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
@@ -1034,7 +1159,7 @@
         "id": "758bb06a-3f01-4608-ab3f-09039f2753d1",
         "title": "Associate Software Engineer",
         "active": true,
-        "date_updated": 1759239325,
+        "date_updated": 1759858982,
         "date_posted": 1759239325,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1",
         "locations": [
@@ -1225,20 +1350,17 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Expedia Group",
+        "company_name": "expedia group",
         "id": "8263f802-80bc-43ec-8c4a-f041b5293a00",
         "title": "Machine Learning Engineer I",
         "active": true,
-        "date_updated": 1758976509,
+        "date_updated": 1759840938,
         "date_posted": 1758976509,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Engineer-I_R-98322",
         "locations": [
             "Seattle, WA"
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
@@ -3105,6 +3227,23 @@
     },
     {
         "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
+        "title": "Software Developer – New Grad - Sprc",
+        "active": true,
+        "date_updated": 1757549793,
+        "date_posted": 1757549793,
+        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Panasonic Holdings",
         "id": "e57239b4-e628-4e6c-a96c-ed20adfbeb9a",
         "title": "Software Engineer 1 - Microservices",
@@ -3114,22 +3253,6 @@
         "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
         "locations": [
             "Beaverton, OR"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Integration Innovation (i3)",
-        "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
-        "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
-        "date_updated": 1757551572,
-        "date_posted": 1757542243,
-        "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Huntsville, AL"
         ],
         "degrees": [
             "Bachelor's"
@@ -5280,6 +5403,22 @@
     },
     {
         "category": "Software",
+        "company_name": "RTX",
+        "id": "928de189-f6da-486c-b588-3c541f629575",
+        "title": "2025 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
+        "active": true,
+        "date_updated": 1756141066,
+        "date_posted": 1756141066,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2025-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01788730",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Zip",
         "id": "f78c7e7b-901e-45aa-955a-388b098c5bff",
         "title": "Software Engineer – New Grad - 2026 Start",
@@ -6807,22 +6946,6 @@
         ],
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Verisk",
-        "id": "2206f5f3-7b68-47bd-8600-21f06f9a91b6",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1756202297,
-        "date_posted": 1755192345,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2091",
-        "locations": [
-            "Holmdel, NJ"
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
