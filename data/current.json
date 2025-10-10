@@ -1,19 +1,269 @@
 [
     {
         "category": "Software",
+        "company_name": "Anyscale",
+        "id": "46c32409-c67c-4b82-a4a4-a4e0896d9808",
+        "title": "Software Engineer – New Grad 2026",
+        "active": true,
+        "date_updated": 1760053361,
+        "date_posted": 1760053361,
+        "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200/application",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "ccc0f5b0-eb43-4b51-9ae4-1264c6f8bb89",
+        "title": "Software Developer Engineer 1 - Front-End UI Development",
+        "active": true,
+        "date_updated": 1760052645,
+        "date_posted": 1760052645,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1333380400/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "0ba7509f-8cc2-424f-bb65-6898fdc2a8ac",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1760051685,
+        "date_posted": 1760051685,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1610112",
+        "locations": [
+            "Washington",
+            "Pennsylvania",
+            "California",
+            "Texas",
+            "Jackson Township, NJ",
+            "Florida",
+            "South Carolina",
+            "Georgia",
+            "Virginia",
+            "NYC",
+            "Maryland",
+            "Massachusetts",
+            "North Carolina",
+            "Missouri",
+            "Illinois"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "df030a42-2054-4334-ad3c-42c4a7fa43dc",
+        "title": "Software Engineer 1 - Embedded C++ - Avionics Systems",
+        "active": true,
+        "date_updated": 1760050245,
+        "date_posted": 1760050245,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/122027",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "7de80a61-0f91-4af9-aa25-961b97e8e057",
+        "title": "Applied Machine Learning Engineer – New College Grad 2025 - Circuit Design",
+        "active": true,
+        "date_updated": 1760045765,
+        "date_posted": 1760045765,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2025_JR2005860",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "bc25fb10-2e86-40a0-a7e8-2e7d05f3b5ac",
+        "title": "Software Developer – Entry Level",
+        "active": true,
+        "date_updated": 1760044720,
+        "date_posted": 1760044720,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00168259",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "d07a156c-288d-4c3e-b95b-c4e0e05614fb",
+        "title": "Software Engineer – Entry Level - Front End",
+        "active": true,
+        "date_updated": 1760043093,
+        "date_posted": 1760043093,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Abnormal Security",
+        "id": "9db75355-f86d-4e5f-9f8e-84fdd0745161",
+        "title": "Software Engineer 1 - Identity Security",
+        "active": true,
+        "date_updated": 1760033088,
+        "date_posted": 1760033088,
+        "url": "https://abnormal.ai/careers/jobs/7491522003?gh_jid=7491522003",
+        "locations": [
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5b5bcdcb-ecb8-45e9-b382-27ce689ac746",
+        "title": "Fixed Wing Displays Software Engineer I - Onsite",
+        "active": true,
+        "date_updated": 1760032566,
+        "date_posted": 1760032566,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Fixed-Wing-Displays-Software-Engineer-I--Onsite-_01799192",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Forage",
+        "id": "6c955563-9228-4023-a162-92ea9bade829",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1760031674,
+        "date_posted": 1760031674,
+        "url": "https://job-boards.greenhouse.io/joinforage/jobs/4892105007",
+        "locations": [
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "7a62b689-78a2-41c2-bbd3-a5441f281281",
+        "title": "Machine Learning Engineer - Junior - Recommendation",
+        "active": true,
+        "date_updated": 1760030138,
+        "date_posted": 1760030138,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4608368006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Valon",
+        "id": "e767a1da-b658-44aa-b30c-3b926e51103f",
+        "title": "Software Engineer – New Grad",
+        "active": true,
+        "date_updated": 1760025765,
+        "date_posted": 1760025765,
+        "url": "https://jobs.ashbyhq.com/Valon/5348244b-763b-4ce7-8828-85575eba2a4c/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware Engineering",
+        "company_name": "NVIDIA",
+        "id": "dac44822-c620-45a3-a77a-dab2815a645b",
+        "title": "CAD Engineer, Physical Design",
+        "active": true,
+        "date_updated": 1760020120,
+        "date_posted": 1760020120,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Northrop Grumman",
+        "id": "5cf43f54-e3eb-4a11-b4e3-c4b9202f7297",
+        "title": "Associate Software Engineer/Software Engineer (PGS Space Systems)",
+        "active": true,
+        "date_updated": 1760018962,
+        "date_posted": 1760018962,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Software-Engineer-Software-Engineer---PGS-Space-Systems-_R10210446",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Vultr",
+        "id": "6536860e-4e4b-48e7-bbe6-2baed14b1377",
+        "title": "Junior Frontend Engineer",
+        "active": true,
+        "date_updated": 1760016662,
+        "date_posted": 1760016662,
+        "url": "https://job-boards.greenhouse.io/vultr/jobs/4602862006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
         "company_name": "Leidos",
         "id": "7419dc98-8673-4535-8fbc-a1c2cf000dc8",
         "title": "Entry Level Software Developer",
         "active": true,
-        "date_updated": 1759968454,
+        "date_updated": 1760016385,
         "date_posted": 1759968454,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00167822",
         "locations": [
             "Bethesda, MD"
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -183,23 +433,6 @@
         "url": "https://www.esri.com/careers/4859692007?gh_jid=4859692007",
         "locations": [
             "West Redlands, Redlands, CA"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Artefact",
-        "id": "21a9a799-e66b-4fb4-9b59-fb50ee32c85d",
-        "title": "Junior Software Engineer",
-        "active": true,
-        "date_updated": 1759904937,
-        "date_posted": 1759904937,
-        "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8119157002",
-        "locations": [
-            "London, UK"
         ],
         "degrees": [
             "Bachelor's",
@@ -1325,6 +1558,23 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "NetImpact Strategies",
+        "id": "ace07096-f936-4feb-977a-eb89db502854",
+        "title": "Junior Full Stack .NET Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759448385,
+        "date_posted": 1759293070,
+        "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Reston, VA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "General Dynamics Mission Systems",
         "id": "11474d9e-9206-4c95-8893-fab2c64d651d",
@@ -1816,7 +2066,7 @@
         "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
         "title": "Associate Data Scientist",
         "active": true,
-        "date_updated": 1758868246,
+        "date_updated": 1760049835,
         "date_posted": 1758868246,
         "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817",
         "locations": [
@@ -1840,6 +2090,24 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Persona",
+        "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
+        "title": "Software Engineer 2026 New Grad",
+        "active": true,
+        "date_updated": 1758826054,
+        "date_posted": 1758826054,
+        "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
+        "locations": [
+            "SF"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -1892,7 +2160,7 @@
         "id": "267b4d5e-784b-4381-890b-021ddbbe834b",
         "title": "Engineer I - AI Business Engineer",
         "active": true,
-        "date_updated": 1758807373,
+        "date_updated": 1760049852,
         "date_posted": 1758807373,
         "url": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11486",
         "locations": [
@@ -2411,7 +2679,7 @@
         "id": "df511fe2-266d-45db-ae0c-7a8aa81d1ae5",
         "title": "Analyst, Data & Software Engineering",
         "active": true,
-        "date_updated": 1758520959,
+        "date_updated": 1760049592,
         "date_posted": 1758520959,
         "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---January-2026-Start-Date_JR100120",
         "locations": [
@@ -2840,7 +3108,7 @@
         "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
         "title": "Junior Level Software Engineering - Associate",
         "active": true,
-        "date_updated": 1758102973,
+        "date_updated": 1760033603,
         "date_posted": 1758054101,
         "url": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -3060,6 +3328,22 @@
             "Richmond, VA"
         ],
         "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "96830d1e-2305-470c-8331-ed38089f6f47",
+        "title": "Software Engineer I - Raytheon",
+        "active": true,
+        "date_updated": 1757983520,
+        "date_posted": 1757983520,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "Software",
@@ -3491,23 +3775,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
-        "title": "Software Developer – New Grad - Sprc",
-        "active": true,
-        "date_updated": 1757549793,
-        "date_posted": 1757549793,
-        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -5184,15 +5451,13 @@
         "id": "1c49e461-9658-4a0a-ae74-588933252625",
         "title": "Software Engineer – Summer 2026 New Grad - Ambient AI",
         "active": true,
-        "date_updated": 1758380383,
+        "date_updated": 1760028041,
         "date_posted": 1756339280,
         "url": "https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application",
         "locations": [
             "Mountain View, CA"
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -5200,7 +5465,7 @@
         "id": "09bcbc97-f4d9-4465-932e-e8f50ef7e336",
         "title": "Software Engineer, Ambient AI (Summer 2026 New Grad)",
         "active": true,
-        "date_updated": 1756320123,
+        "date_updated": 1760049672,
         "date_posted": 1756320123,
         "url": "https://www.commure.com/careers-detail?ashby_jid=0f13b112-8d8c-4fb1-ae3d-449cc36cd89e",
         "locations": [
@@ -6553,6 +6818,21 @@
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
         "locations": [
             "London, UK"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Software",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
+        "title": "Software Engineer I - Applications",
+        "active": true,
+        "date_updated": 1755532104,
+        "date_posted": 1755532104,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
+        "locations": [
+            "Lowell, MA",
+            "Broomfield, CO"
         ],
         "degrees": null
     },
@@ -8868,13 +9148,13 @@
         "id": "e0a7cfe0-c4a9-42fa-bfd5-fdeb0163dbce",
         "title": "Machine Learning Engineer",
         "active": true,
-        "date_updated": 1754361784,
+        "date_updated": 1760050002,
         "date_posted": 1754361784,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
         "locations": [
             "Seattle, WA"
         ],
-        "degrees": null
+        "degrees": []
     },
     {
         "category": null,
@@ -9772,21 +10052,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Numeric",
-        "id": "c1940def-1b0f-4f57-8517-4b6abdb3b22a",
-        "title": "Software Engineer – Early Career",
-        "active": true,
-        "date_updated": 1755269550,
-        "date_posted": 1748918686,
-        "url": "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061/application",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "degrees": null
-    },
-    {
         "category": null,
         "company_name": "Mandolin",
         "id": "2a0111f3-9e8b-45fb-adfc-aac790590dda",
@@ -9811,6 +10076,20 @@
         "url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b",
         "locations": [
             "San Fransisco, CA"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "710b0d6c-c433-4628-8de0-67819044c855",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748483357,
+        "date_posted": 1748483357,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer-II_R48302",
+        "locations": [
+            "San Jose, CA"
         ],
         "degrees": null
     },
