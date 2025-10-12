@@ -1,5 +1,118 @@
 [
     {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "948ad4f6-0908-48f3-9343-cb5404c6d841",
+        "title": "Embedded Cybersecurity Software Engineer 1 - Crypto Team",
+        "active": true,
+        "date_updated": 1760155468,
+        "date_posted": 1760155468,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01798466",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "T-Rex Solutions",
+        "id": "ef598fdb-91d5-4ee8-82fd-8f88781dc7d7",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1760155233,
+        "date_posted": 1760155233,
+        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8208235002",
+        "locations": [
+            "District Heights, MD"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "0c791cc9-5324-4c5f-a91f-cbd691cc5b48",
+        "title": "Software Engineer 1 - Python - Web Development",
+        "active": true,
+        "date_updated": 1760152226,
+        "date_posted": 1760152226,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--Python--Web-Development--LLM-_R-47356",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "451bc58a-ba6c-4172-abba-0a8d6581d92c",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760147471,
+        "date_posted": 1760147471,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/da56e386-eb61-4cf4-bee8-fad6b1282ab0/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f33329f2-26bd-438c-8ae1-d31595d8e468",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760147470,
+        "date_posted": 1760147470,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/3e08c6f4-dbf4-40d1-972f-e1aa5b21893b/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "220fe9df-0c32-4b8f-8a94-a26ff971e491",
+        "title": "Hardware Engineer – New Grad",
+        "active": true,
+        "date_updated": 1760147403,
+        "date_posted": 1760147403,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R028768",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "fe31744c-2734-471f-a0fb-8a3a4e8dec14",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1760146222,
+        "date_posted": 1760146222,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Humana",
         "id": "03f784d8-eee3-4099-82dd-5fac1ba800a8",
@@ -470,22 +583,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "74297a91-6465-4c73-8d4e-e08004fa5b04",
-        "title": "Entry Level Software Engineer-Systems",
-        "active": true,
-        "date_updated": 1759911598,
-        "date_posted": 1759911598,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Software-Engineer-Systems--Systems-_JR2025467015-2",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Aurora Innovation",
         "id": "0d5f925b-a007-48bd-849f-fb3cde3632b6",
@@ -744,21 +841,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Uber",
-        "id": "ca34ac6f-47b2-47ce-9c51-cf79bfcc460f",
-        "title": "Software Engineer 1 - iOS",
-        "active": true,
-        "date_updated": 1760129978,
-        "date_posted": 1759824735,
-        "url": "https://www.uber.com/global/en/careers/list/149558/",
-        "locations": [
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "DoorDash",
         "id": "cb54a03c-1819-40d6-85dd-7c94b79b337e",
         "title": "Software Engineer 1 - Multiple Teams",
@@ -823,23 +905,6 @@
         "locations": [
             "Palo Alto, CA",
             "SF"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "a1000d46-677c-4a53-846a-4429ec68e8f4",
-        "title": "Software Engineer 1 - iOS",
-        "active": true,
-        "date_updated": 1759794324,
-        "date_posted": 1759794324,
-        "url": "https://university-uber.icims.com/jobs/149558/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF",
-            "Sunnyvale, CA"
         ],
         "degrees": [
             "Bachelor's"
@@ -979,22 +1044,6 @@
         ],
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Belden",
-        "id": "1cdbed4d-36a1-41bd-8f31-920f34589d2e",
-        "title": "Product Management Track: Launch Early Career Leadership Program",
-        "active": true,
-        "date_updated": 1759612975,
-        "date_posted": 1759612975,
-        "url": "https://careers.belden.com/job/Carmel-Product-Management-Track-Launch-Early-Career-Leadership-Program-IN-46032/1325052600/?ats=successfactors",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -1801,22 +1850,6 @@
         "date_updated": 1759165156,
         "date_posted": 1759165156,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "McDonald's",
-        "id": "15a5ba04-c264-4699-b53d-68fd6a3d1a5e",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1759160589,
-        "date_posted": 1759160589,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
         "locations": [
             "Chicago, IL"
         ],
@@ -2967,6 +3000,22 @@
     },
     {
         "category": "Software",
+        "company_name": "Alumni Ventures",
+        "id": "df644de1-2aab-4e44-ae7f-71847c2cdde4",
+        "title": "Software Engineer – Early Career",
+        "active": true,
+        "date_updated": 1758162751,
+        "date_posted": 1758162751,
+        "url": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
+        "locations": [
+            "Andover, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Watershed",
         "id": "a3f9d5e3-404d-4f55-8cb0-002c4308a3a0",
         "title": "Software engineer – New grad",
@@ -3854,20 +3903,19 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
-        "title": "Software Developer – New Grad - Sprc",
+        "category": "Hardware",
+        "company_name": "Sev1Tech",
+        "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
+        "title": "Software Developer – Entry Level",
         "active": true,
-        "date_updated": 1757549793,
-        "date_posted": 1757549793,
-        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "date_updated": 1757554446,
+        "date_posted": 1757554446,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
         "locations": [
-            "Ardmore, PA"
+            "Lawton, OK"
         ],
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -6391,20 +6439,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Cisco",
-        "id": "a733c840-9192-460f-84ae-5a3fa7b2d3b3",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1756120142,
-        "date_posted": 1755715864,
-        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -10023,6 +10057,20 @@
         "locations": [
             "New York, NY",
             "Denver, CO"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Software",
+        "company_name": "Collective Hub",
+        "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
+        "title": "Software Engineer – New Grad",
+        "active": true,
+        "date_updated": 1755269760,
+        "date_posted": 1750459321,
+        "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
+        "locations": [
+            "San Francisco, CA"
         ],
         "degrees": null
     },
