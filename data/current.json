@@ -1,5 +1,21 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
+        "title": "Early Career Analyst - Gen AI - Data Engineering",
+        "active": true,
+        "date_updated": 1760310205,
+        "date_posted": 1760310205,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "RTX",
         "id": "948ad4f6-0908-48f3-9343-cb5404c6d841",
@@ -1256,20 +1272,6 @@
         ]
     },
     {
-        "category": "Software Engineering",
-        "company_name": "Northrop Grumman",
-        "id": "cba2a58b-4daf-45a9-8e80-1da0b344ba43",
-        "title": "Software Engineer 1 or 2",
-        "active": true,
-        "date_updated": 1759858467,
-        "date_posted": 1759514814,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Quantitative Finance",
         "company_name": "Susquehanna",
         "id": "867c89c0-fc78-4143-ba4d-b9a82809f97c",
@@ -1455,20 +1457,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "975d55af-3f12-4b33-98af-150ba18e288d",
-        "title": "Software Engineer 1 - Technology",
-        "active": true,
-        "date_updated": 1759736908,
-        "date_posted": 1759460030,
-        "url": "https://aexp.eightfold.ai/careers/job/38270703",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -2059,15 +2047,13 @@
         "id": "252c9ea7-ac6c-4a87-923b-861477e510c1",
         "title": "Software Engineer – New Grad",
         "active": true,
-        "date_updated": 1758910882,
+        "date_updated": 1760306372,
         "date_posted": 1758910882,
         "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
         "locations": [
             "SF"
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -3916,6 +3902,23 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
+        "title": "Software Developer – New Grad - Sprc",
+        "active": true,
+        "date_updated": 1757549793,
+        "date_posted": 1757549793,
+        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
