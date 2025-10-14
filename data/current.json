@@ -1,5 +1,237 @@
 [
     {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "91d6eb05-efb8-4ee9-9eca-987fb2a77b26",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760396742,
+        "date_posted": 1760396742,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/4bc86af6-43aa-433a-bcde-e4c007823ce4/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "81375da9-7d36-4e2a-9e8d-4fb973bf247f",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760396742,
+        "date_posted": 1760396742,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/8e6b9a39-2ef0-4016-b513-dc54a2048b6d/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "3d02295d-8294-4340-b125-2a6c7bf22136",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1760395619,
+        "date_posted": 1760395619,
+        "url": "https://jobs.lever.co/wyetechllc/68850aff-cd40-44e9-9af0-8124ac21e930/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "83414be6-2f14-4ddc-934e-e2f8b5898baf",
+        "title": "Entry Level Software Engineer - Developer",
+        "active": true,
+        "date_updated": 1760392052,
+        "date_posted": 1760392052,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025467505-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "11a24614-aae6-401d-b591-ee36aef2bd4c",
+        "title": "Software Engineer 1 - Remote Assist",
+        "active": true,
+        "date_updated": 1760385202,
+        "date_posted": 1760385202,
+        "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "4111e6c0-b494-4c0a-a3bd-c2361bf7fb4a",
+        "title": "Software Engineer 1 - Remote Assist",
+        "active": true,
+        "date_updated": 1760385199,
+        "date_posted": 1760385199,
+        "url": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Product Management",
+        "company_name": "Appian",
+        "id": "8c4f4f71-621d-48d7-b95c-458e2320fee1",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1760369584,
+        "date_posted": 1760368106,
+        "url": "https://job-boards.greenhouse.io/appian/jobs/7287884",
+        "locations": [
+            "McLean, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "QuinStreet",
+        "id": "6f023b94-9eb7-42ef-b966-358a4da91201",
+        "title": "Entry-level Software Engineer",
+        "active": true,
+        "date_updated": 1760367907,
+        "date_posted": 1760367907,
+        "url": "https://www.quinstreet.com/careers/?gh_jid=7316288",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Caris",
+        "id": "a71e9450-55a7-4c44-a4ab-669c22c502f0",
+        "title": "Associate Software Engineer - Clinical Systems (Digital Path)",
+        "active": true,
+        "date_updated": 1760367437,
+        "date_posted": 1760367437,
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Digital-Path-_JR104014",
+        "locations": [
+            "Irving, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Caris",
+        "id": "46029e2b-d575-48b1-8067-d56666130303",
+        "title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
+        "active": true,
+        "date_updated": 1760394269,
+        "date_posted": 1760367075,
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Caris",
+        "id": "4630c7ec-dfea-4383-bc4e-4e4138dda1e9",
+        "title": "Associate Software Engineer - Clinical Systems (External Apps)",
+        "active": true,
+        "date_updated": 1760394257,
+        "date_posted": 1760366462,
+        "url": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--External-Apps-_JR104015",
+        "locations": [
+            "Irving, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Insulet Corporation",
+        "id": "be0e6864-2be6-4168-9380-2f913f21c27a",
+        "title": "Associate Software QA Engineer",
+        "active": true,
+        "date_updated": 1760366009,
+        "date_posted": 1760366009,
+        "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-QA-Engineer--Hybrid---Acton--MA-_REQ-2025-13185",
+        "locations": [
+            "Acton, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "501542cf-69f6-4b4e-b10e-3f40c14f0cee",
+        "title": "Software Development",
+        "active": true,
+        "date_updated": 1760365603,
+        "date_posted": 1760365603,
+        "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate_3152963",
+        "locations": [
+            "Spring, TX",
+            "Palo Alto, CA",
+            "Boise, ID",
+            "Corvallis, OR",
+            "Vancouver, WA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Lambda",
+        "id": "2c8231b4-2c65-46b0-bd83-9fdc4858dbf0",
+        "title": "Cloud Support Engineer I (Support Response) - Weekend Shift",
+        "active": true,
+        "date_updated": 1760379265,
+        "date_posted": 1760365345,
+        "url": "https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Adobe",
+        "id": "a2c9e6fa-3eb2-462f-905a-8d1efb489643",
+        "title": "AI Context Engineer",
+        "active": true,
+        "date_updated": 1760362966,
+        "date_posted": 1760362966,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer",
+        "locations": [
+            "San Jose, CA",
+            "San Francisco, CA"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "AIG",
         "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
@@ -114,39 +346,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Capital One",
-        "id": "fe31744c-2734-471f-a0fb-8a3a4e8dec14",
-        "title": "Associate - New Grad - Software Engineer",
-        "active": true,
-        "date_updated": 1760146222,
-        "date_posted": 1760146222,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Humana",
-        "id": "03f784d8-eee3-4099-82dd-5fac1ba800a8",
-        "title": "Software Engineer 1 - Cybersecurity Identity",
-        "active": true,
-        "date_updated": 1760141396,
-        "date_posted": 1760141396,
-        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/XIAM-Software-Engineer_R-388461",
-        "locations": [
-            "California"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Amazon",
         "id": "bb70924a-8fbe-4b64-aa12-ca63069abcb2",
         "title": "Security Engineer 1 - Corporate Services Security",
@@ -241,11 +440,11 @@
     },
     {
         "category": "Software Engineering",
-        "company_name": "Disney",
+        "company_name": "The Walt Disney Company",
         "id": "eed0ea40-7864-4623-9669-cf609126117f",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1760086424,
+        "date_updated": 1760373230,
         "date_posted": 1760086424,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168",
         "locations": [
@@ -714,23 +913,6 @@
     },
     {
         "category": "Software",
-        "company_name": "World Kinect",
-        "id": "526ade2d-8f79-446e-b8f7-c1031fb1f80a",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1759877466,
-        "date_posted": 1759877466,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21909",
-        "locations": [
-            "Miami, FL"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Jerry",
         "id": "18562b19-ab94-4493-833e-3e5df157c67b",
         "title": "Software Engineer 1 - Multiple Teams",
@@ -766,7 +948,7 @@
         "id": "d18c4c7e-b351-49e7-82db-b3cdf79f1bfd",
         "title": "Software Engineer",
         "active": true,
-        "date_updated": 1759844317,
+        "date_updated": 1760394325,
         "date_posted": 1759844317,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
         "locations": [
@@ -3807,22 +3989,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Dayton Freight Lines",
-        "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
-        "title": "Entry Level Software Developer",
-        "active": true,
-        "date_updated": 1757611606,
-        "date_posted": 1757611606,
-        "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "ISYS Technologies",
         "id": "8413cf8b-9f9f-45f7-a2ed-d55a89685016",
         "title": "Junior Software Developer",
@@ -3889,22 +4055,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Sev1Tech",
-        "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
-        "title": "Software Developer – Entry Level",
-        "active": true,
-        "date_updated": 1757554446,
-        "date_posted": 1757554446,
-        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lawton, OK"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
@@ -3950,6 +4100,22 @@
         "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
         "locations": [
             "Beaverton, OR"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Integration Innovation (i3)",
+        "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1757551572,
+        "date_posted": 1757542243,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Huntsville, AL"
         ],
         "degrees": [
             "Bachelor's"
@@ -4300,6 +4466,22 @@
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
         "locations": [
             "Burlington, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fe3b559c-6d17-46af-9a0e-d7c236c83404",
+        "title": "Software Engineer I - Raytheon",
+        "active": true,
+        "date_updated": 1757366999,
+        "date_posted": 1757366999,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
+        "locations": [
+            "Indianapolis, IN"
         ],
         "degrees": [
             "Bachelor's"
@@ -4741,7 +4923,7 @@
         "id": "7efa4a90-bd67-48f9-b6b5-b305ae01b410",
         "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
         "active": true,
-        "date_updated": 1756980855,
+        "date_updated": 1760394430,
         "date_posted": 1756980855,
         "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
         "locations": [
@@ -4785,7 +4967,7 @@
         "id": "52d706e2-5eb3-4f0c-b19b-c8c6506f6863",
         "title": "Technology Development Program (TECDP) - Artificial Intelligence",
         "active": true,
-        "date_updated": 1756975770,
+        "date_updated": 1760394701,
         "date_posted": 1756975770,
         "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
         "locations": [
@@ -5155,7 +5337,7 @@
         "id": "a59027fc-5575-4f3c-801f-567ef43ac640",
         "title": "Software Engineer",
         "active": true,
-        "date_updated": 1756904475,
+        "date_updated": 1760394479,
         "date_posted": 1756855936,
         "url": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
         "locations": [
@@ -5276,6 +5458,22 @@
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Minnetonka-MN-USA/Software-Development-Engineer-I--C-C------Enterprise-Network-Performance-and-Cybersecurity-Analytics-Platform_250003665-1",
         "locations": [
             "Hopkins, MN"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "0b92737d-70a3-4db5-b31c-4cb752879f91",
+        "title": "Associate – New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1756505796,
+        "date_posted": 1756505796,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223330",
+        "locations": [
+            "Toronto, ON, Canada"
         ],
         "degrees": [
             "Bachelor's"
@@ -5551,7 +5749,7 @@
         "id": "9f6c0bfd-9acc-491c-a72f-461468d5db8f",
         "title": "Security Software Engineer I",
         "active": true,
-        "date_updated": 1756367372,
+        "date_updated": 1760394504,
         "date_posted": 1756367372,
         "url": "https://aurora.tech/careers/8137861002",
         "locations": [
@@ -6983,7 +7181,7 @@
         "id": "228b40ec-8006-4f43-9de2-653954ed72fa",
         "title": "Junior Computational Linguist",
         "active": true,
-        "date_updated": 1755640212,
+        "date_updated": 1760394738,
         "date_posted": 1755418299,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
         "locations": [
@@ -9476,6 +9674,20 @@
     },
     {
         "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "4d1aca64-b187-4f97-adcc-5824d3b20dcb",
+        "title": "Software Engineer I - Java - Aws - Jsf",
+        "active": true,
+        "date_updated": 1754031804,
+        "date_posted": 1754031804,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Software",
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
@@ -10060,20 +10272,6 @@
         "locations": [
             "New York, NY",
             "Denver, CO"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "Collective Hub",
-        "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
-        "title": "Software Engineer – New Grad",
-        "active": true,
-        "date_updated": 1755269760,
-        "date_posted": 1750459321,
-        "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
-        "locations": [
-            "San Francisco, CA"
         ],
         "degrees": null
     },
