@@ -1,6 +1,185 @@
 [
     {
         "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "e5e5ac5c-5851-4ec2-a6f9-e8ad1a41540d",
+        "title": "Software Engineer – Entry Level",
+        "active": true,
+        "date_updated": 1760483916,
+        "date_posted": 1760483916,
+        "url": "https://careers-gdms.icims.com/jobs/68565/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "cad3e332-fd1e-4aa5-9152-348f0812cd98",
+        "title": "2025 Fulltime Raytheon Software Engineer I - Test Equipment - Onsite",
+        "active": true,
+        "date_updated": 1760477054,
+        "date_posted": 1760477054,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01799429",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "3d39f8ac-1b07-477e-ba27-9e224228e167",
+        "title": "Deep Learning Software Engineer – New College Grad 2025 - Inference and Model Optimization",
+        "active": true,
+        "date_updated": 1760476888,
+        "date_posted": 1760476888,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Credit Acceptance Careers",
+        "id": "827f0ce0-ab85-465b-89a1-815b0df76eb4",
+        "title": "Software Engineer I - Engineering",
+        "active": true,
+        "date_updated": 1760475230,
+        "date_posted": 1760475230,
+        "url": "https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Michigan--Southfield-Office/Software-Engineer-I--Engineering_R13134",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "7b37bddf-4662-466d-9f54-3044feac8f6e",
+        "title": "Software Developer – 2026 Grads",
+        "active": true,
+        "date_updated": 1760474895,
+        "date_posted": 1760474895,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Developer---2026-Grads_R029193",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "f7573d3e-e4fd-464e-9e3f-c2c7c1c7ab72",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1760473791,
+        "date_posted": 1760473791,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595457006",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "195b7fb1-c9f4-4abb-a06b-62e68bc3ce4c",
+        "title": "Associate – New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1760473502,
+        "date_posted": 1760473502,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223350-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "8a1f8411-6a7a-41fb-9af1-da4beb2e18f1",
+        "title": "Java Software Engineer I",
+        "active": true,
+        "date_updated": 1760473324,
+        "date_posted": 1760473324,
+        "url": "https://www.esri.com/careers/4728895007?gh_jid=4728895007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "IBM",
+        "id": "e3aea654-65ea-430b-8435-30ee760ae072",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1760465340,
+        "date_posted": 1760465340,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552",
+        "locations": [
+            "Lowell, MA",
+            "San Jose, CA",
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a6b60fa5-f8a2-4947-9026-e0a8acb16efa",
+        "title": "Software Engineer I - Onsite",
+        "active": true,
+        "date_updated": 1760461253,
+        "date_posted": 1760461253,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Software-Engineer-I--Onsite-_01799291",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Arrow Electronics",
+        "id": "698c3131-0f52-4a8e-88c4-32cd4c7ccdab",
+        "title": "Apprentice - Cloud Infrastructure",
+        "active": true,
+        "date_updated": 1760465226,
+        "date_posted": 1760451473,
+        "url": "https://arrow.wd1.myworkdayjobs.com/en-US/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Apprentice---Cloud-Infrastructure_R236670",
+        "locations": [
+            "Bangalore, IN"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
         "company_name": "Jerry",
         "id": "91d6eb05-efb8-4ee9-9eca-987fb2a77b26",
         "title": "Software Engineer 1 - Multiple Teams",
@@ -99,12 +278,12 @@
         ]
     },
     {
-        "category": "Product Management",
+        "category": "Software Engineering",
         "company_name": "Appian",
         "id": "8c4f4f71-621d-48d7-b95c-458e2320fee1",
         "title": "Product Engineer",
         "active": true,
-        "date_updated": 1760369584,
+        "date_updated": 1760481332,
         "date_posted": 1760368106,
         "url": "https://job-boards.greenhouse.io/appian/jobs/7287884",
         "locations": [
@@ -4056,23 +4235,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
-        "title": "Software Developer – New Grad - Sprc",
-        "active": true,
-        "date_updated": 1757549793,
-        "date_posted": 1757549793,
-        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Atlassian",
         "id": "b1bed8f9-1368-416c-a51e-d13b593751ae",
         "title": "Software Engineer 2026 Graduate - Multiple Teams",
@@ -4100,22 +4262,6 @@
         "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
         "locations": [
             "Beaverton, OR"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Integration Innovation (i3)",
-        "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
-        "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
-        "date_updated": 1757551572,
-        "date_posted": 1757542243,
-        "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Huntsville, AL"
         ],
         "degrees": [
             "Bachelor's"
@@ -7116,6 +7262,21 @@
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
         "locations": [
             "London, UK"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Software",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
+        "title": "Software Engineer I - Applications",
+        "active": true,
+        "date_updated": 1755532104,
+        "date_posted": 1755532104,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
+        "locations": [
+            "Lowell, MA",
+            "Broomfield, CO"
         ],
         "degrees": null
     },
@@ -10495,6 +10656,20 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": null,
+        "company_name": "esri",
+        "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
+        "title": "Java Software Engineer I - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1741222698,
+        "date_posted": 1741222698,
+        "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "degrees": null
     },
     {
         "category": null,
