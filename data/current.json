@@ -1,5 +1,146 @@
 [
     {
+        "category": "Software Engineering",
+        "company_name": "Glide",
+        "id": "5975c663-7367-4c03-acc7-b04055415e7d",
+        "title": "Full Stack Engineer – Early Career",
+        "active": true,
+        "date_updated": 1760568390,
+        "date_posted": 1760568390,
+        "url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d",
+        "locations": [
+            "New York, NY",
+            "Hybrid"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Divergent Technologies",
+        "id": "b192eb3f-479a-4467-8761-5b5b93418ad0",
+        "title": "Software Engineer – New Grads: Fall 2025/Spring 2026",
+        "active": true,
+        "date_updated": 1760563242,
+        "date_posted": 1760563242,
+        "url": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
+        "locations": [
+            "Carson, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "24a99f74-4f12-49c0-992c-7274fafd0e46",
+        "title": "Entry Level Software Engineer-Developer - CITS Software - C++, C, Ada, C#",
+        "active": true,
+        "date_updated": 1760559262,
+        "date_posted": 1760559262,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer_JR2025467657-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Visa",
+        "id": "3ab0dbd7-e279-4587-af4e-7414f2394295",
+        "title": "Software Engineer – New College Grad - 2026 - Austin - TX",
+        "active": true,
+        "date_updated": 1760521022,
+        "date_posted": 1760521022,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087969305",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "7a130464-e6c3-48e1-ba3f-77e84ab25749",
+        "title": "Software Engineer – New College Grad - 2026 - Foster City",
+        "active": true,
+        "date_updated": 1760520984,
+        "date_posted": 1760520984,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000087984042",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "d8575087-4761-455e-81d5-76128b7545eb",
+        "title": "Entry Level Infrastructure Software Engineer",
+        "active": true,
+        "date_updated": 1760520636,
+        "date_posted": 1760520636,
+        "url": "https://careers-gdms.icims.com/jobs/68517/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "3f4d8dc1-931f-4b12-93a2-908efafe1ab6",
+        "title": "Entry Level Software Engineer - Test & Verification",
+        "active": true,
+        "date_updated": 1760500406,
+        "date_posted": 1760500406,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer----Test---Verification_JR2025467783-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Aurora Innovation",
+        "id": "2199e407-beea-48a0-92e0-2e9baccabd36",
+        "title": "Software Engineer I - Remote Assist",
+        "active": true,
+        "date_updated": 1760495126,
+        "date_posted": 1760495126,
+        "url": "https://aurora.tech/careers/8209480002?gh_jid=8209480002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Aurora Innovation",
+        "id": "f794abf3-e79e-4923-aedb-de0fc28d1119",
+        "title": "Software Engineer I - Remote Assist",
+        "active": true,
+        "date_updated": 1760494951,
+        "date_posted": 1760494951,
+        "url": "https://aurora.tech/careers/8191750002?gh_jid=8191750002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "e5e5ac5c-5851-4ec2-a6f9-e8ad1a41540d",
@@ -421,22 +562,6 @@
         "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1",
         "locations": [
             "Atlanta, GA"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "948ad4f6-0908-48f3-9343-cb5404c6d841",
-        "title": "Embedded Cybersecurity Software Engineer 1 - Crypto Team",
-        "active": true,
-        "date_updated": 1760155468,
-        "date_posted": 1760155468,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01798466",
-        "locations": [
-            "Cedar Rapids, IA"
         ],
         "degrees": [
             "Bachelor's"
@@ -2082,6 +2207,39 @@
     },
     {
         "category": "Hardware",
+        "company_name": "RTX",
+        "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
+        "title": "Software Engineer 1 - Radar Product Line Team",
+        "active": true,
+        "date_updated": 1759295272,
+        "date_posted": 1759295272,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "NetImpact Strategies",
+        "id": "ace07096-f936-4feb-977a-eb89db502854",
+        "title": "Junior Full Stack .NET Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759448385,
+        "date_posted": 1759293070,
+        "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Reston, VA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
         "company_name": "General Dynamics Mission Systems",
         "id": "11474d9e-9206-4c95-8893-fab2c64d651d",
         "title": "Software Engineer - Entry Level - Multiple Teams",
@@ -2400,6 +2558,22 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
+        "title": "Data Engineer 1 - Insurance Industry",
+        "active": true,
+        "date_updated": 1758914436,
+        "date_posted": 1758914436,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -4231,6 +4405,39 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Sev1Tech",
+        "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
+        "title": "Software Developer – Entry Level",
+        "active": true,
+        "date_updated": 1757554446,
+        "date_posted": 1757554446,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
+        "title": "Software Developer – New Grad - Sprc",
+        "active": true,
+        "date_updated": 1757549793,
+        "date_posted": 1757549793,
+        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
