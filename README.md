@@ -10,6 +10,10 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 
 | Company | Role | Location | Date Posted | Link |
 | ------- | ---- | -------- | ----------- | ---- |
+| Esri | Software Engineer I - AI Assistant Framework - Arcgis Enterprise | West Redlands, Redlands, CA | 2025-10-17 | [Apply Here](https://www.esri.com/careers/4932485007?gh_jid=4932485007) |
+| RELX | Software Engineer I - Student Placement  months FTC | Nottingham, UK | 2025-10-17 | [Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Nottingham/Software-Engineer-I---Student-Placement-12-months-FTC_R101564-2) |
+| NewsBreak | Software Engineer – New Grad Friendly - IOS | Mountain View, CA | 2025-10-16 | [Apply Here](https://job-boards.greenhouse.io/newsbreak/jobs/4610466006) |
+| D3 | Frontend Engineer – New Grad | LA | 2025-10-16 | [Apply Here](https://d3.com/careers?gh_jid=4915213008) |
 | Glide | Full Stack Engineer – Early Career | New York, NY, Hybrid | 2025-10-15 | [Apply Here](https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d) |
 | Divergent Technologies | Software Engineer – New Grads: Fall 2025/Spring 2026 | Carson, CA | 2025-10-15 | [Apply Here](https://job-boards.greenhouse.io/divergent/jobs/4954950008) |
 | The Boeing Company | Entry Level Software Engineer-Developer - CITS Software - C++, C, Ada, C# | Oklahoma City, OK | 2025-10-15 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer_JR2025467657-1) |
@@ -290,10 +294,10 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Amentum | Entry Level Software Engineer | Fredericksburg, VA, Dahlgren, VA | 2025-09-11 | [Apply Here](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145734) |
 | General Dynamics Mission Systems | Software Engineer – Entry Level | Pittsfield, MA | 2025-09-11 | [Apply Here](https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false) |
 | Amentum | Entry Level Software Engineer | Fredericksburg, VA, Dahlgren, VA | 2025-09-11 | [Apply Here](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740) |
-| Sev1Tech | Software Developer – Entry Level | Lawton, OK | 2025-09-11 | [Apply Here](https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Software Developer – New Grad - Sprc | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false) |
 | Atlassian | Software Engineer 2026 Graduate - Multiple Teams | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | 2025-09-11 | [Apply Here](https://campus-globalcareers-atlassian.icims.com/jobs/20908/software-engineer%2c-2026-graduate-canada/job) |
 | Panasonic Holdings | Software Engineer 1 - Microservices | Beaverton, OR | 2025-09-10 | [Apply Here](https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1) |
+| Integration Innovation (i3) | Entry Level Full-Stack Software Engineer | Huntsville, AL | 2025-09-10 | [Apply Here](https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false) |
 | Costar | Associate Software Engineer | Sunnyvale, CA | 2025-09-10 | [Apply Here](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale/Associate-Software-Engineer---Sunnyvale--CA_R37010) |
 | Credence | Entry-Level Software Engineer | McLean, VA | 2025-09-10 | [Apply Here](https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job) |
 | Jerry | Software Engineer I | Palo Alto, CA | 2025-09-10 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
@@ -318,6 +322,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Scale AI | Software Engineer – New Grad | SF | 2025-09-09 | [Apply Here](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) |
 | Symbotic | New Grad-Hardware Engineer | Burlington, MA | 2025-09-09 | [Apply Here](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411) |
 | RTX | Software Engineer I - Raytheon | Indianapolis, IN | 2025-09-08 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951) |
+| Figma | Early Career - Data Scientist | SF, NYC | 2025-09-08 | [Apply Here](https://boards.greenhouse.io/figma/jobs/5615025004) |
 | Epic | Infrastructure Engineer | Madison, WI | 2025-09-08 | [Apply Here](https://epic.avature.net/Careers/FolderDetail/Infrastructure-Engineer/23505) |
 | Diverge Health | Associate Software Developer | Remote in USA | 2025-09-08 | [Apply Here](https://divergehealth.org/jobs/?gh_jid=4840575007) |
 | Extra Space Storage | Associate Software Engineer | Salt Lake City, UT | 2025-09-08 | [Apply Here](https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-72920) |
