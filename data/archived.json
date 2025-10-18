@@ -18482,7 +18482,7 @@
         "company_name": "Ciena",
         "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
         "title": "Optical Network Embedded Software Engineer – New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1755908269,
         "date_posted": 1755908269,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
@@ -22291,7 +22291,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -22339,7 +22339,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer – Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -22487,7 +22487,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -24957,7 +24957,7 @@
         "company_name": "Persona",
         "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
         "title": "Software Engineer 2026 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1758826054,
         "date_posted": 1758826054,
         "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
@@ -26186,7 +26186,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -28577,7 +28577,7 @@
         "company_name": "Divergent Technologies",
         "id": "b192eb3f-479a-4467-8761-5b5b93418ad0",
         "title": "Software Engineer – New Grads: Fall 2025/Spring 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1760563242,
         "date_posted": 1760563242,
         "url": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
@@ -28663,6 +28663,368 @@
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Nottingham/Software-Engineer-I---Student-Placement-12-months-FTC_R101564-2",
         "locations": [
             "Nottingham, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "11c5fd85-af9d-4c56-9f38-4c322e57a201",
+        "title": "Software Engineer 1 - Embedded Communications",
+        "active": true,
+        "date_updated": 1760662670,
+        "date_posted": 1760662670,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I---Embedded-Communications--Onsite-_01799726",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "383f52ed-0b0d-44de-ad50-61f7de22a158",
+        "title": "Embedded Software Engineer – New Grad",
+        "active": true,
+        "date_updated": 1760661960,
+        "date_posted": 1760661960,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R029246",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "f2bbd6fe-b223-437d-ab87-208146764b13",
+        "title": "Compiler Engineer – LLVM-New College Grad 2025",
+        "active": true,
+        "date_updated": 1760663214,
+        "date_posted": 1760663214,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM--New-College-Grad-2025_JR2005960",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "4c40c38c-327e-4e50-b9d7-cbfb16910a7d",
+        "title": "Systems Security Engineer I",
+        "active": true,
+        "date_updated": 1760679817,
+        "date_posted": 1760679817,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028693-1",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "HeyGen",
+        "id": "5b7c2128-2cbc-447f-b60e-685d15101448",
+        "title": "Data Scientist – New Graduate",
+        "active": true,
+        "date_updated": 1760679378,
+        "date_posted": 1760679378,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4279485007",
+        "locations": [
+            "LA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Relativity Space",
+        "id": "4eac7c2a-8806-47f7-b8b5-0a246114ef9f",
+        "title": "Avionics Hardware Engineer I",
+        "active": true,
+        "date_updated": 1760696898,
+        "date_posted": 1760696898,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8216139002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Safran",
+        "id": "95ba2214-0efb-46cc-ad00-4e847dfe8208",
+        "title": "Junior Full-Stack Software Engineer - Geospatial AI",
+        "active": false,
+        "date_updated": 1760703408,
+        "date_posted": 1760703408,
+        "url": "https://safransed.bamboohr.com/careers/1039/",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "398629a0-aa3d-427e-a254-4b1d6613f219",
+        "title": "Machine Learning Engineer 1 - Analytics, Insights, & Artificial Intelligence",
+        "active": true,
+        "date_updated": 1760715869,
+        "date_posted": 1760715869,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1451546",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "1c7ef8a6-9671-484a-ad0a-a49cd0017a61",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760719408,
+        "date_posted": 1760719408,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/9036b899-743b-4106-9357-ef6892405703/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "c3667ce0-dab1-4854-9eb2-e84de76af042",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760732828,
+        "date_posted": 1760732828,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/a4bcf06b-2127-4cbd-ae9c-edd286af40f9/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Google",
+        "id": "222d836c-b253-401e-a3fe-413f8f2f350d",
+        "title": "Software Engineer II, Early Career - Google Cloud AI Catalyst Program",
+        "active": true,
+        "date_updated": 1760735095,
+        "date_posted": 1760735095,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program",
+        "locations": [
+            "Sunnyvale, CA",
+            "Kirkland, WA",
+            "Seattle, WA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Groundswell",
+        "id": "9bee60af-1346-402b-a520-49daf802c96c",
+        "title": "Technical Consultant",
+        "active": true,
+        "date_updated": 1760735211,
+        "date_posted": 1760735211,
+        "url": "https://groundswell.wd12.myworkdayjobs.com/groundswell/job/McLean-VA/Technical-Consultant--Campus-Recruiting-Entry-Level-_JR100868",
+        "locations": [
+            "McLean, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "TikTok",
+        "id": "e8ca22d1-ef66-4c08-9ebd-ba0e70896ae3",
+        "title": "Machine Learning Engineer Graduate (BRIC) – 2026 Start (BS/MS)",
+        "active": true,
+        "date_updated": 1760735293,
+        "date_posted": 1760735293,
+        "url": "https://lifeattiktok.com/search/7559731427425257746",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Corebridge Financial",
+        "id": "c243210f-046a-4db3-9406-7d820e1ae90b",
+        "title": "Entry Level – Data Scientist",
+        "active": true,
+        "date_updated": 1760735409,
+        "date_posted": 1760735409,
+        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/en-US/corebridgefinancial/job/TX-Houston/Entry-Level---Data-Scientist_JR2501686",
+        "locations": [
+            "Houston, TX",
+            "Woodland Hills, CA",
+            "Jersey City, NJ"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Capco",
+        "id": "ceb6b24c-1163-438a-96d6-3e87daec2392",
+        "title": "Junior AI Engineer",
+        "active": true,
+        "date_updated": 1760735470,
+        "date_posted": 1760735470,
+        "url": "https://job-boards.greenhouse.io/capco/jobs/7335392",
+        "locations": [
+            "Orlando, FL",
+            "Hybrid"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Tencent",
+        "id": "d6ff3175-ee24-476e-8858-8600adcad5ab",
+        "title": "Junior AI Software Engineer",
+        "active": true,
+        "date_updated": 1760735546,
+        "date_posted": 1760735546,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer_R105929-1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Jabil",
+        "id": "c391c4d7-b3b5-4117-b806-abd17ca4c657",
+        "title": "Associate Cloud Engineer",
+        "active": true,
+        "date_updated": 1760735616,
+        "date_posted": 1760735616,
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Associate-Cloud-Engineer_J2429707",
+        "locations": [
+            "St. Petersburg, FL",
+            "Tampa, FL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Delta Solutions & Strategies",
+        "id": "bdaf8305-781e-47ff-9f31-67df0006a58c",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1760735998,
+        "date_posted": 1760735998,
+        "url": "https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Centene",
+        "id": "c0169d49-d859-4eb0-9fae-66deaa5876fb",
+        "title": "Cloud Platform Engineer I",
+        "active": true,
+        "date_updated": 1760736096,
+        "date_posted": 1760736096,
+        "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1609134",
+        "locations": [
+            "Remote in MO",
+            "Remote in GA",
+            "Remote in TN",
+            "Remote in FL",
+            "Remote in SC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "CACI",
+        "id": "dfbd76dd-d98f-4b51-851c-8e55eb392472",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1760736169,
+        "date_posted": 1760736169,
+        "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Remote-Any-State/Junior-Software-Developer_318599",
+        "locations": [
+            "Remote",
+            "Washington, DC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "TDS",
+        "id": "f62254af-f510-4248-bb42-b56ef18bd581",
+        "title": "Data Analyst I - GIS",
+        "active": true,
+        "date_updated": 1760736226,
+        "date_posted": 1760736226,
+        "url": "https://external-telecom-teldta.icims.com/jobs/28150/data-analyst-i---gis/job",
+        "locations": [
+            "Madison, WI"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Microchip Technology",
+        "id": "6315407b-d0bc-4f43-8ea9-5d2d3d36717e",
+        "title": "Engineer I - Software (FPGA Place and Route)",
+        "active": true,
+        "date_updated": 1760736347,
+        "date_posted": 1760736347,
+        "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Place-and-Route-_R1914-25",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "80b49a28-e1da-46aa-80f6-07fe5c497415",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1760742996,
+        "date_posted": 1760742996,
+        "url": "https://amazon.jobs/en/jobs/3111761/software-engineer-i",
+        "locations": [
+            "SF",
+            "Irvine, CA"
         ],
         "degrees": [
             "Bachelor's"
