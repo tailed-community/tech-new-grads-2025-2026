@@ -14568,7 +14568,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -15336,7 +15336,7 @@
         "company_name": "Salesforce",
         "id": "00402230-0088-405d-aa27-d1360064a72c",
         "title": "Software Engineering AMTS – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755030902,
         "date_posted": 1755030902,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
@@ -16312,7 +16312,7 @@
         "company_name": "Choice Hotels",
         "id": "e9806503-c842-4e8b-a529-6cd6f9b1b1ba",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1755289607,
         "date_posted": 1755289607,
         "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319",
@@ -16859,7 +16859,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
         "title": "Software Engineer I - Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1755532104,
         "date_posted": 1755532104,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
@@ -17553,7 +17553,7 @@
         "company_name": "Lyft",
         "id": "1759e74f-657e-4b97-ad5f-573db29ae2a8",
         "title": "PhD New Grad - Data Scientist - Algo - Inference - Driver Incentives",
-        "active": true,
+        "active": false,
         "date_updated": 1753311815,
         "date_posted": 1753311815,
         "url": "https://app.careerpuck.com/job-board/lyft/job/8089317002?gh_jid=8089317002",
@@ -17584,7 +17584,7 @@
         "company_name": "Google",
         "id": "269cf6a4-44aa-4742-9359-25f3a26316af",
         "title": "Silicon Development Engineer – University Graduate - Frontend - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1749490317,
         "date_posted": 1749246223,
         "url": "https://www.google.com/about/careers/applications/jobs/results/108642933007098566",
@@ -17648,7 +17648,7 @@
         "company_name": "Applied Intuition",
         "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
         "title": "Research Engineer – New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1755654113,
         "date_posted": 1755654113,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
@@ -20470,7 +20470,7 @@
         "company_name": "Torc Robotics",
         "id": "ef1b6510-b1fa-4caf-bfbf-52e30e4d8823",
         "title": "Machine Learning Engineer I - App Engine - Cuda",
-        "active": true,
+        "active": false,
         "date_updated": 1756955948,
         "date_posted": 1756955948,
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136080002",
@@ -21607,7 +21607,7 @@
         "company_name": "Figma",
         "id": "3bea35c7-6895-4566-a81a-32705074a380",
         "title": "Early Career - Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1757356297,
         "date_posted": 1757356297,
         "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
@@ -22257,7 +22257,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer – New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -22339,7 +22339,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer – Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -22487,7 +22487,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -22896,17 +22896,14 @@
         "id": "3bdc08a6-567f-4f30-97f0-01943c42a7e9",
         "title": "Software Engineer – New Grad Program",
         "active": true,
-        "date_updated": 1757919076,
+        "date_updated": 1760818378,
         "date_posted": 1757919076,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003",
         "locations": [
             "SF",
             "NYC"
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Quantitative Finance",
@@ -24639,7 +24636,7 @@
         "company_name": "CACI",
         "id": "4b9c702f-06fa-4fa4-97a0-4aab1951ffbc",
         "title": "Entry Level Digital Signal Processing Software Engineer - Mastodon Design Team",
-        "active": true,
+        "active": false,
         "date_updated": 1758697147,
         "date_posted": 1758697147,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_317777",
@@ -25227,7 +25224,7 @@
         "company_name": "Pinterest",
         "id": "ce347210-20fa-4d89-8d05-49da3d06ab0c",
         "title": "Software Engineer University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1759329675,
         "date_posted": 1758887132,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
@@ -25889,7 +25886,7 @@
         "company_name": "RTX",
         "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
         "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": true,
+        "active": false,
         "date_updated": 1759295272,
         "date_posted": 1759295272,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
@@ -26520,7 +26517,7 @@
         "company_name": "Modernizing Medicine",
         "id": "909be1e2-f265-48cf-88e1-fe09d5058882",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1759523174,
         "date_posted": 1759523174,
         "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8194195002",
@@ -28223,7 +28220,7 @@
         "company_name": "The Boeing Company",
         "id": "83414be6-2f14-4ddc-934e-e2f8b5898baf",
         "title": "Entry Level Software Engineer - Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1760392052,
         "date_posted": 1760392052,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025467505-1",
@@ -28334,7 +28331,7 @@
         "company_name": "Capital One",
         "id": "195b7fb1-c9f4-4abb-a06b-62e68bc3ce4c",
         "title": "Associate – New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1760473502,
         "date_posted": 1760473502,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223350-2",
@@ -28350,7 +28347,7 @@
         "company_name": "Esri",
         "id": "8a1f8411-6a7a-41fb-9af1-da4beb2e18f1",
         "title": "Java Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1760473324,
         "date_posted": 1760473324,
         "url": "https://www.esri.com/careers/4728895007?gh_jid=4728895007",
@@ -28386,7 +28383,7 @@
         "company_name": "Ciena",
         "id": "7b37bddf-4662-466d-9f54-3044feac8f6e",
         "title": "Software Developer – 2026 Grads",
-        "active": true,
+        "active": false,
         "date_updated": 1760474895,
         "date_posted": 1760474895,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Developer---2026-Grads_R029193",
@@ -28418,7 +28415,7 @@
         "company_name": "RTX",
         "id": "cad3e332-fd1e-4aa5-9152-348f0812cd98",
         "title": "2025 Fulltime Raytheon Software Engineer I - Test Equipment - Onsite",
-        "active": true,
+        "active": false,
         "date_updated": 1760477054,
         "date_posted": 1760477054,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01799429",
@@ -28495,7 +28492,7 @@
         "company_name": "The Boeing Company",
         "id": "3f4d8dc1-931f-4b12-93a2-908efafe1ab6",
         "title": "Entry Level Software Engineer - Test & Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1760500406,
         "date_posted": 1760500406,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer----Test---Verification_JR2025467783-1",
@@ -29025,6 +29022,103 @@
         "locations": [
             "SF",
             "Irvine, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "TeleTracking",
+        "id": "ff4fafe7-1418-41be-99bd-6af929a95a04",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758212748,
+        "date_posted": 1758212748,
+        "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/4921410008",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1760765120,
+        "date_posted": 1760765120,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "3b14d946-f1a3-4591-8149-a54cb9fbd609",
+        "title": "Software Engineer – New Grad Program",
+        "active": true,
+        "date_updated": 1760773536,
+        "date_posted": 1760773536,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501719003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
+        "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760775318,
+        "date_posted": 1760775318,
+        "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
+        "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760776171,
+        "date_posted": 1760776171,
+        "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
+        "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760776181,
+        "date_posted": 1760776181,
+        "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
+        "locations": [
+            "Pleasanton, CA"
         ],
         "degrees": [
             "Bachelor's"
