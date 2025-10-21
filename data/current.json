@@ -1,6 +1,145 @@
 [
     {
         "category": "Software",
+        "company_name": "Jerry",
+        "id": "4e1ec0f3-85ff-4f22-b10c-37f8efee27af",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1761006232,
+        "date_posted": 1761006232,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/09f6d3f8-3a52-4f6b-9ba3-c91fec1e6086/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Revionics",
+        "id": "9873b7c9-836b-4c1f-ac5a-d2e1bd8eb06b",
+        "title": "Machine Learning Engineer – New Graduate",
+        "active": true,
+        "date_updated": 1761005407,
+        "date_posted": 1761005407,
+        "url": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125",
+        "locations": [
+            "Austin, TX",
+            "Atlanta, GA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Northrop Grumman",
+        "id": "d9980de4-2b70-42e8-bc57-dd8f4aef7f37",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1761004191,
+        "date_posted": 1761004191,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer_R10211419",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "PepsiCo",
+        "id": "8473d46e-a340-4d92-bf27-5374a5875385",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1761004100,
+        "date_posted": 1761004100,
+        "url": "https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job",
+        "locations": [
+            "Mississauga, ON"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Shopify",
+        "id": "3b7b1744-bddb-4645-8ffe-3f4b1a0e5adf",
+        "title": "Demo Engineer, Software Development",
+        "active": true,
+        "date_updated": 1761003868,
+        "date_posted": 1761003868,
+        "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "42a4a32d-cb17-4adf-ab80-055c8824b4ee",
+        "title": "Software Engineer I - Digital Experience",
+        "active": true,
+        "date_updated": 1761002081,
+        "date_posted": 1761002081,
+        "url": "https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Capital One",
+        "id": "cf4297fe-119f-4bd3-899c-40031c9dac08",
+        "title": "Associate – New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1761001165,
+        "date_posted": 1761001165,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223348-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RELX",
+        "id": "166a8f30-394b-4967-98ec-383b13bd20c3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1760999833,
+        "date_posted": 1760999833,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Software-Engineer-I_R100158-2",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Roserocket",
+        "id": "105eff5b-3ca1-493d-b81f-05cf7dde693c",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1760994357,
+        "date_posted": 1760994357,
+        "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
         "company_name": "Nordstrom",
         "id": "be7235e4-5c0a-45ae-a665-084b88935bdd",
         "title": "IOS Engineer 1 - Customer Mobile Applications Team - Hybrid - Seattle - WA",
@@ -826,6 +965,22 @@
         "url": "https://jobs.lever.co/wyetechllc/68850aff-cd40-44e9-9af0-8124ac21e930/apply",
         "locations": [
             "Annapolis Junction, MD"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "RoadRunner Recycling",
+        "id": "0b6c4dc6-3e39-46a3-a0eb-7cb3199dee87",
+        "title": "Software Engineer I - Full-Stack",
+        "active": true,
+        "date_updated": 1760389508,
+        "date_posted": 1760389508,
+        "url": "https://job-boards.greenhouse.io/roadrunner/jobs/4031672009",
+        "locations": [
+            "Remote in USA"
         ],
         "degrees": [
             "Bachelor's"
@@ -1982,7 +2137,7 @@
         "id": "fcb34217-b3f9-4df3-b09f-5661dc8d3a7e",
         "title": "AI Forward Deployed Engineer – Early Career - Agentforce - Software Engineering",
         "active": true,
-        "date_updated": 1759592127,
+        "date_updated": 1760944441,
         "date_posted": 1759592127,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
         "locations": [
@@ -1997,9 +2152,7 @@
             "Bellevue, WA",
             "Atlanta, GA"
         ],
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -3101,6 +3254,23 @@
     },
     {
         "category": "Software",
+        "company_name": "TeleTracking",
+        "id": "f94e068e-9825-4b56-9865-e975c0762020",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758755383,
+        "date_posted": 1758755383,
+        "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/4921543008",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "mthree",
         "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
         "title": "Junior Software Developer - Go Lang",
@@ -3147,22 +3317,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Pinterest",
-        "id": "950c76d4-44a9-4b51-bcc5-61c8cc18f172",
-        "title": "Software Engineer University Grad",
-        "active": true,
-        "date_updated": 1758738003,
-        "date_posted": 1758738003,
-        "url": "https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
-        "locations": [
-            "San Francisco",
-            "Palo Alto",
-            "Seattle"
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -3600,21 +3754,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "OpenAI",
-        "id": "98ca03bb-4ace-4c89-93db-694dc1cb4235",
-        "title": "Software Engineer, Applied Emerging Talent",
-        "active": true,
-        "date_updated": 1758213454,
-        "date_posted": 1758213454,
-        "url": "https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa",
-        "locations": [
-            "San Francisco, CA",
-            "Seattle, WA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -4167,6 +4306,22 @@
     },
     {
         "category": "Software",
+        "company_name": "Altice USA",
+        "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
+        "title": "Software Developer Engineer 1 - Front-End UI Development",
+        "active": true,
+        "date_updated": 1758368656,
+        "date_posted": 1757977983,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Boston Scientific",
         "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
         "title": "Software Development Engineer 1 - Engineering - Development",
@@ -4515,22 +4670,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Sev1Tech",
-        "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
-        "title": "Software Developer – Entry Level",
-        "active": true,
-        "date_updated": 1757554446,
-        "date_posted": 1757554446,
-        "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lawton, OK"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
@@ -4713,6 +4852,22 @@
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180",
         "locations": [
             "Hartford, CT"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "SMX",
+        "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757444743,
+        "date_posted": 1757444743,
+        "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
+        "locations": [
+            "Huntsville, AL"
         ],
         "degrees": [
             "Bachelor's"
@@ -6733,20 +6888,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Apple",
-        "id": "43c0929e-32b2-4d37-ad4e-8c0c6fec385b",
-        "title": "Accessibility Engineer, IS&T",
-        "active": true,
-        "date_updated": 1755912117,
-        "date_posted": 1755912117,
-        "url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
