@@ -1,6 +1,80 @@
 [
     {
         "category": "Software",
+        "company_name": "Capitolis",
+        "id": "e55e0b4b-64d9-41cf-bde0-50d494620b07",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1761092610,
+        "date_posted": 1761092610,
+        "url": "https://capitolis.com/careers/job/?gh_jid=6670061003",
+        "locations": [
+            "NYC"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Spot & Tango",
+        "id": "993ac503-c6ec-4aea-8729-a736a944f3e0",
+        "title": "Jr. Software Engineer",
+        "active": true,
+        "date_updated": 1761069578,
+        "date_posted": 1761069578,
+        "url": "https://www.spotandtango.com/careers?gh_jid=4620638005",
+        "locations": [
+            "New York, NY"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Battelle",
+        "id": "f29707a4-936f-4644-b392-cf44bbbdfbfa",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1761069073,
+        "date_posted": 1761069073,
+        "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Evolent",
+        "id": "f65d4916-fb32-42fd-8d7f-6e675f17c844",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1761068952,
+        "date_posted": 1761068952,
+        "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-914584?source=Linkedin",
+        "locations": [
+            "Remote"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "7a67807d-c3f0-4885-a552-930c812bb0da",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1761029265,
+        "date_posted": 1761029265,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/6f0c0817-8062-4c4f-8b45-b495993b7037/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Jerry",
         "id": "4e1ec0f3-85ff-4f22-b10c-37f8efee27af",
         "title": "Software Engineer 1 - Multiple Teams",
@@ -68,7 +142,7 @@
         "id": "3b7b1744-bddb-4645-8ffe-3f4b1a0e5adf",
         "title": "Demo Engineer, Software Development",
         "active": true,
-        "date_updated": 1761003868,
+        "date_updated": 1761068422,
         "date_posted": 1761003868,
         "url": "https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5",
         "locations": [
@@ -4715,6 +4789,22 @@
         "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
         "locations": [
             "Beaverton, OR"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Integration Innovation (i3)",
+        "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1757551572,
+        "date_posted": 1757542243,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Huntsville, AL"
         ],
         "degrees": [
             "Bachelor's"

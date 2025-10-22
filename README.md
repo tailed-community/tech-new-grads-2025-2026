@@ -10,6 +10,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 
 | Company | Role | Location | Date Posted | Link |
 | ------- | ---- | -------- | ----------- | ---- |
+| Capitolis | Junior Software Engineer | NYC | 2025-10-22 | [Apply Here](https://capitolis.com/careers/job/?gh_jid=6670061003) |
+| Spot & Tango | Jr. Software Engineer | New York, NY | 2025-10-21 | [Apply Here](https://www.spotandtango.com/careers?gh_jid=4620638005) |
+| Battelle | Early Career Software Engineer | Columbus, OH | 2025-10-21 | [Apply Here](https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer) |
+| Evolent | Associate Software Engineer | Remote | 2025-10-21 | [Apply Here](https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-914584?source=Linkedin) |
+| Jerry | Software Engineer 1 - Multiple Teams | Palo Alto, CA | 2025-10-21 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/6f0c0817-8062-4c4f-8b45-b495993b7037/application) |
 | Jerry | Software Engineer 1 - Multiple Teams | Toronto, ON, Canada, Greater Toronto Area, ON, Canada | 2025-10-21 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/09f6d3f8-3a52-4f6b-9ba3-c91fec1e6086/application) |
 | Revionics | Machine Learning Engineer – New Graduate | Austin, TX, Atlanta, GA | 2025-10-21 | [Apply Here](https://revionics.com/about/careers/open-jobs?gh_jid=7172125) |
 | Northrop Grumman | Associate Software Engineer | Aurora, CO | 2025-10-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer_R10211419) |
@@ -309,6 +314,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Susquehanna International Group (SIG) | Software Developer – New Grad - Sprc | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false) |
 | Atlassian | Software Engineer 2026 Graduate - Multiple Teams | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | 2025-09-11 | [Apply Here](https://campus-globalcareers-atlassian.icims.com/jobs/20908/software-engineer%2c-2026-graduate-canada/job) |
 | Panasonic Holdings | Software Engineer 1 - Microservices | Beaverton, OR | 2025-09-10 | [Apply Here](https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1) |
+| Integration Innovation (i3) | Entry Level Full-Stack Software Engineer | Huntsville, AL | 2025-09-10 | [Apply Here](https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false) |
 | Costar | Associate Software Engineer | Sunnyvale, CA | 2025-09-10 | [Apply Here](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale/Associate-Software-Engineer---Sunnyvale--CA_R37010) |
 | Credence | Entry-Level Software Engineer | McLean, VA | 2025-09-10 | [Apply Here](https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job) |
 | Jerry | Software Engineer I | Palo Alto, CA | 2025-09-10 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a) |
