@@ -10,6 +10,14 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 
 | Company | Role | Location | Date Posted | Link |
 | ------- | ---- | -------- | ----------- | ---- |
+| RELX | Tech Accelerate Graduate Program - Software Engineer (January) | Alpharetta, GA | 2025-10-24 | [Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--January-_R100297) |
+| Oracle | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Santa Clara, CA | 2025-10-24 | [Apply Here](https://careers.oracle.com/en/sites/jobsearch/job/312200) |
+| Amplitude | Software Engineer I, Growth Platform | San Francisco, CA | 2025-10-24 | [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8223048002) |
+| Boerboel | Developer | New York, NY, Chicago, IL, London, UK | 2025-10-24 | [Apply Here](https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004) |
+| RELX | Tech Accelerate Graduate Program - Software Engineer (June) | Alpharetta, GA | 2025-10-24 | [Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer_R98792-3) |
+| Mass General Brigham | Data Analyst I Bioinformatician Rheumatology | Boston, MA | 2025-10-24 | [Apply Here](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Data-Analyst-I-Bioinformatician-Rheumatology_RQ4038981) |
+| Boerboel | Quantitative Researcher | New York, NY, Chicago, IL, London, UK | 2025-10-24 | [Apply Here](https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004) |
+| Amentum | Entry Level Software Engineer | Dahlgren, VA | 2025-10-24 | [Apply Here](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073) |
 | RTX | 2026 Full-time - Software Engineer I - Onsite - CO | Aurora, CO | 2025-10-23 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589) |
 | Microsoft | Software Engineer | Remond, WA | 2025-10-23 | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1894673/Software-Engineer) |
 | Adobe | Software Development Engineer | San Jose, CA | 2025-10-23 | [Apply Here](https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer) |
@@ -34,7 +42,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | SMX | Junior Data Scientist | Patuxent River, MD | 2025-10-23 | [Apply Here](https://www.smxtech.com/jobs/smxtech/junior-data-scientist-4755/) |
 | AES Corporation | Junior Data Scientist | Indianapolis, IN | 2025-10-23 | [Apply Here](https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Indianapolis-IN/Junior-Data-Scientist_R1061631) |
 | Booz Allen | Backend Developer | Alexandria, VA | 2025-10-23 | [Apply Here](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366) |
-| Zapier | Software Engineer, Backend-leaning Full Stack or Backend (Runner Team) | Remote | 2025-10-23 | [Apply Here](https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6) |
 | RTX | 2026 Full-time - Java Software Engineer I - Onsite - PA | State College, PA | 2025-10-22 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801904) |
 | SMX | Junior Data Scientist | Patuxent River, MD | 2025-10-22 | [Apply Here](https://www.smxtech.com/careers/?gh_jid=7498313003) |
 | Peraton | Software Engineer-Junior | Reston, VA | 2025-10-22 | [Apply Here](https://careers-peraton.icims.com/jobs/160719/job?mobile=true&needsRedirect=false) |
@@ -44,8 +51,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Spot & Tango | Jr. Software Engineer | New York, NY | 2025-10-21 | [Apply Here](https://www.spotandtango.com/careers?gh_jid=4620638005) |
 | Battelle | Early Career Software Engineer | Columbus, OH | 2025-10-21 | [Apply Here](https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer) |
 | Evolent | Associate Software Engineer | Remote | 2025-10-21 | [Apply Here](https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-914584?source=Linkedin) |
-| Jerry | Software Engineer 1 - Multiple Teams | Palo Alto, CA | 2025-10-21 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/6f0c0817-8062-4c4f-8b45-b495993b7037/application) |
-| Jerry | Software Engineer 1 - Multiple Teams | Toronto, ON, Canada, Greater Toronto Area, ON, Canada | 2025-10-21 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/09f6d3f8-3a52-4f6b-9ba3-c91fec1e6086/application) |
 | Revionics | Machine Learning Engineer – New Graduate | Austin, TX, Atlanta, GA | 2025-10-21 | [Apply Here](https://revionics.com/about/careers/open-jobs?gh_jid=7172125) |
 | Northrop Grumman | Associate Software Engineer | Aurora, CO | 2025-10-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer_R10211419) |
 | PepsiCo | Junior Data Scientist | Mississauga, ON | 2025-10-20 | [Apply Here](https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job) |
@@ -124,7 +129,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Cox | Software Engineer 1 - Salesforce - Backend Services | Carmel, IN | 2025-10-10 | [Apply Here](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202567898) |
 | Booz Allen | Full-Stack Developer - Junior | Huntsville, AL | 2025-10-10 | [Apply Here](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Software-Developer_R0226649) |
 | Vail Systems | Software Engineer, Test & Infrastructure I | Greater Chicago Area, IL | 2025-10-10 | [Apply Here](https://jobs.lever.co/vailsys/ad5c0c59-c301-4ac5-983b-bbd62b736c94/) |
-| Applied Materials | Global Software Support Engineer I | Santa Clara, CA | 2025-10-10 | [Apply Here](https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-I_R2517230) |
 | The Walt Disney Company | Software Engineer I | Santa Monica, CA, Seattle, WA, San Francisco, CA | 2025-10-10 | [Apply Here](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168) |
 | Avery Dennison | Firmware Engineering Early Career Program Associate - Hardware Engineering - RFID and IoT | Miamisburg, OH | 2025-10-10 | [Apply Here](https://jobs.smartrecruiters.com/AveryDennison/744000086898306) |
 | General Motors | Machine Learning Engineer - AI Research (PhD) | Mountain View, CA | 2025-10-10 | [Apply Here](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114) |
@@ -412,7 +416,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Epic | Technical Solutions Engineer | Madison, WI | 2025-09-03 | [Apply Here](https://epic.avature.net/Careers/FolderDetail/Technical-Solutions-Engineer/742) |
 | Atlassian | Software Engineer | Seattle, WA | 2025-09-03 | [Apply Here](https://www.atlassian.com/company/careers/details/20901) |
 | Jerry | Software Engineer I | San Francisco, CA, Palo Alto, CA | 2025-09-03 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78) |
-| Freeform | Software Engineer | Los Angeles, CA | 2025-09-03 | [Apply Here](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003) |
 | Ivo | Software Engineer | San Francisco, CA | 2025-09-03 | [Apply Here](https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c) |
 | Stripe | Software Engineer – New Grad | Seattle, WA, SF | 2025-09-03 | [Apply Here](https://stripe.com/jobs/search?gh_jid=7210112) |
 | Stripe | Software Engineer – New Grad | Toronto, ON, Canada | 2025-09-03 | [Apply Here](https://stripe.com/jobs/search?gh_jid=7206505) |
@@ -746,7 +749,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | WebFX | Entry Level Software Engineer | Harrisburg, PA | 2025-06-24 | [Apply Here](https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply) |
 | Citadel Securities | Quantitative Research Analyst | Chicago, IL, Miami, FL, New York, NY | 2025-06-24 | [Apply Here](https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/) |
 | SMX | Junior Software Engineer - Ts/Sci CI Poly | Chantilly, VA | 2025-06-23 | [Apply Here](https://www.smxtech.com/careers/?gh_jid=6618208003) |
-| Capital Rx | Data Engineer I | New York, NY, Denver, CO | 2025-06-23 | [Apply Here](https://job-boards.greenhouse.io/capitalrx/jobs/4750004008) |
 | Anant LLC | SWE Internships | Remote | 2025-06-18 | [Apply Here](https://tally.so/r/w27qjg) |
 | N1 | Software Engineer (Backend Rust) | New York, NY | 2025-06-09 | [Apply Here](https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567) |
 | N1 | New Grad Software Engineer (Backend Rust) | New York, NY | 2025-06-09 | [Apply Here](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd) |
