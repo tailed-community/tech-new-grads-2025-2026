@@ -15121,7 +15121,7 @@
         "company_name": "TripAdvisor",
         "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
         "title": "Software Engineer I - Backend Focus - Viator",
-        "active": false,
+        "active": true,
         "date_updated": 1754924707,
         "date_posted": 1753203617,
         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
@@ -29569,7 +29569,7 @@
         "company_name": "RTX",
         "id": "b4e24b78-23ad-4be6-9b21-5c568c5a87e9",
         "title": "2026 Full-time - Java Software Engineer I - Onsite - PA",
-        "active": true,
+        "active": false,
         "date_updated": 1761172459,
         "date_posted": 1761172459,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801904",
@@ -30120,5 +30120,93 @@
             "Alpharetta, GA"
         ],
         "degrees": []
+    },
+    {
+        "category": "Quantitative Finance",
+        "company_name": "Old Mission",
+        "id": "76033645-efcc-46f2-969a-688c16828b36",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1761354391,
+        "date_posted": 1761354391,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7506757003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Radiance Technologies",
+        "id": "3dcee525-cbfb-4276-a5fa-4ed0d86bc94f",
+        "title": "Junior Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1761354446,
+        "date_posted": 1761354446,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101852",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "DMA",
+        "id": "8de921bb-1903-405a-a74f-8e450029fc69",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1761354498,
+        "date_posted": 1761354498,
+        "url": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Associate-Software-Engineer_REQ206",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Promise",
+        "id": "3b438dc8-8ffb-4f18-8aa4-7eb56191fcab",
+        "title": "Software Engineer – Forward Deployed AI (New Grad)",
+        "active": true,
+        "date_updated": 1761354551,
+        "date_posted": 1761354551,
+        "url": "https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Promise",
+        "id": "14a0f9ed-09b3-42dc-948b-5b3a0d0a260e",
+        "title": "Software Engineer – Forward Deployed AI (New Grad)",
+        "active": true,
+        "date_updated": 1761354606,
+        "date_posted": 1761354606,
+        "url": "https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Fidelity National Information Services",
+        "id": "cbbdcd6c-5c6c-48b8-827e-301428151c58",
+        "title": "Software Engineer I - C++ and Payments Systems",
+        "active": true,
+        "date_updated": 1761385915,
+        "date_posted": 1761385915,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MAKA-8767-FLR42/Software-Engineer-I--C---and-Payments-Systems-_JR0300399",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]

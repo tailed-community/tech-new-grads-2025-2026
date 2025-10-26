@@ -10,6 +10,12 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 
 | Company | Role | Location | Date Posted | Link |
 | ------- | ---- | -------- | ----------- | ---- |
+| Fidelity National Information Services | Software Engineer I - C++ and Payments Systems | Philadelphia, PA | 2025-10-25 | [Apply Here](https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MAKA-8767-FLR42/Software-Engineer-I--C---and-Payments-Systems-_JR0300399) |
+| Promise | Software Engineer – Forward Deployed AI (New Grad) | Oakland, CA | 2025-10-25 | [Apply Here](https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a) |
+| Promise | Software Engineer – Forward Deployed AI (New Grad) | Washington, D.C. | 2025-10-25 | [Apply Here](https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443) |
+| DMA | Associate Software Engineer | Fort Wayne, IN | 2025-10-25 | [Apply Here](https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Associate-Software-Engineer_REQ206) |
+| Radiance Technologies | Junior Full Stack Software Engineer | Beavercreek, OH | 2025-10-25 | [Apply Here](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101852) |
+| Old Mission | Junior Quantitative Researcher | Chicago, IL | 2025-10-25 | [Apply Here](https://www.oldmissioncapital.com/careers/?gh_jid=7506757003) |
 | RELX | Tech Accelerate Graduate Program - Software Engineer (January) | Alpharetta, GA | 2025-10-24 | [Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--January-_R100297) |
 | Oracle | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Santa Clara, CA | 2025-10-24 | [Apply Here](https://careers.oracle.com/en/sites/jobsearch/job/312200) |
 | Amplitude | Software Engineer I, Growth Platform | San Francisco, CA | 2025-10-24 | [Apply Here](https://job-boards.greenhouse.io/amplitude/jobs/8223048002) |
@@ -42,7 +48,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | SMX | Junior Data Scientist | Patuxent River, MD | 2025-10-23 | [Apply Here](https://www.smxtech.com/jobs/smxtech/junior-data-scientist-4755/) |
 | AES Corporation | Junior Data Scientist | Indianapolis, IN | 2025-10-23 | [Apply Here](https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Indianapolis-IN/Junior-Data-Scientist_R1061631) |
 | Booz Allen | Backend Developer | Alexandria, VA | 2025-10-23 | [Apply Here](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366) |
-| RTX | 2026 Full-time - Java Software Engineer I - Onsite - PA | State College, PA | 2025-10-22 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801904) |
 | SMX | Junior Data Scientist | Patuxent River, MD | 2025-10-22 | [Apply Here](https://www.smxtech.com/careers/?gh_jid=7498313003) |
 | Peraton | Software Engineer-Junior | Reston, VA | 2025-10-22 | [Apply Here](https://careers-peraton.icims.com/jobs/160719/job?mobile=true&needsRedirect=false) |
 | Shield AI | Software Engineer I - Hardware Test - R3999 | Dallas, TX | 2025-10-22 | [Apply Here](https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply) |
@@ -720,6 +725,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Unify | Software Engineer | San Francisco, CA | 2025-07-29 | [Apply Here](https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a) |
 | Supernova Technology | Junior Software Engineer - Multiple Teams | Chicago, IL | 2025-07-28 | [Apply Here](https://jobs.lever.co/supernovacompanies/68e224c9-e125-4e3f-9acd-065c0fc94bba/apply) |
 | Goldman Sachs | New Analyst | New York, NY | 2025-07-24 | [Apply Here](https://higher.gs.com/roles/150845) |
+| TripAdvisor | Software Engineer I - Backend Focus - Viator | London, UK, Oxford, UK | 2025-07-22 | [Apply Here](https://job-boards.greenhouse.io/tripadvisor/jobs/6903058) |
 | Coalition | Software Engineer I | Remote in Canada | 2025-07-22 | [Apply Here](https://www.coalitioninc.com/job-posting/4560712005) |
 | Coalition | Software Engineer I | Remote in USA | 2025-07-22 | [Apply Here](https://www.coalitioninc.com/job-posting/4560711005) |
 | mthree | Junior Software Engineer | United States | 2025-07-17 | [Apply Here](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006) |
