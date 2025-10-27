@@ -14568,7 +14568,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -15353,7 +15353,7 @@
         "company_name": "Anduril Industries",
         "id": "41ff9380-1d22-490e-a190-d2eb855c621f",
         "title": "Early Career Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755247381,
         "date_posted": 1755033256,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
@@ -16340,7 +16340,7 @@
         "company_name": "Anduril",
         "id": "c53ca87c-c841-48ae-890a-270460384105",
         "title": "Early Career Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755289229,
         "date_posted": 1755289229,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824362007",
@@ -17648,7 +17648,7 @@
         "company_name": "Applied Intuition",
         "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
         "title": "Research Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755654113,
         "date_posted": 1755654113,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
@@ -21727,7 +21727,7 @@
         "company_name": "Verkada",
         "id": "65dcd485-a8ab-4e12-9b60-98e3253226c6",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757401781,
         "date_posted": 1757401781,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
@@ -22257,7 +22257,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer – New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -22487,7 +22487,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -23447,7 +23447,7 @@
         "company_name": "Databricks",
         "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
         "title": "Data Scientist – New Grad - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1758306471,
         "date_posted": 1754705021,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
@@ -24751,7 +24751,7 @@
         "company_name": "mthree",
         "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
         "title": "Junior Software Developer - Go Lang",
-        "active": false,
+        "active": true,
         "date_updated": 1758755035,
         "date_posted": 1758755035,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
@@ -27587,7 +27587,7 @@
         "company_name": "Truveta",
         "id": "d07a156c-288d-4c3e-b95b-c4e0e05614fb",
         "title": "Software Engineer – Entry Level - Front End",
-        "active": true,
+        "active": false,
         "date_updated": 1760043093,
         "date_posted": 1760043093,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
@@ -30204,6 +30204,56 @@
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MAKA-8767-FLR42/Software-Engineer-I--C---and-Payments-Systems-_JR0300399",
         "locations": [
             "Philadelphia, PA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Promise",
+        "id": "f490ebdd-aaae-4bdf-af52-b3974fbf71b1",
+        "title": "Software Engineer – New Grad - Forward Deployed AI",
+        "active": true,
+        "date_updated": 1761467767,
+        "date_posted": 1761467767,
+        "url": "https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a/application",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Promise",
+        "id": "d0b13129-f026-459d-9e71-7a7881d8701e",
+        "title": "Software Engineer – New Grad - Forward Deployed AI",
+        "active": true,
+        "date_updated": 1761467764,
+        "date_posted": 1761467764,
+        "url": "https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443/application",
+        "locations": [
+            "Washington, DC"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "2c40466c-9807-4564-b790-fc5981e2c872",
+        "title": "Junior Software Engineer - ",
+        "active": true,
+        "date_updated": 1761505342,
+        "date_posted": 1761505342,
+        "url": "https://careers-gdms.icims.com/jobs/68513/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
         ],
         "degrees": [
             "Bachelor's"

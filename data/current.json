@@ -1,6 +1,56 @@
 [
     {
         "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "2c40466c-9807-4564-b790-fc5981e2c872",
+        "title": "Junior Software Engineer - ",
+        "active": true,
+        "date_updated": 1761505342,
+        "date_posted": 1761505342,
+        "url": "https://careers-gdms.icims.com/jobs/68513/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Promise",
+        "id": "f490ebdd-aaae-4bdf-af52-b3974fbf71b1",
+        "title": "Software Engineer – New Grad - Forward Deployed AI",
+        "active": true,
+        "date_updated": 1761467767,
+        "date_posted": 1761467767,
+        "url": "https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a/application",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Promise",
+        "id": "d0b13129-f026-459d-9e71-7a7881d8701e",
+        "title": "Software Engineer – New Grad - Forward Deployed AI",
+        "active": true,
+        "date_updated": 1761467764,
+        "date_posted": 1761467764,
+        "url": "https://jobs.ashbyhq.com/Promise/f1bdeaba-567d-4d57-97b6-2d78719c0443/application",
+        "locations": [
+            "Washington, DC"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Fidelity National Information Services",
         "id": "cbbdcd6c-5c6c-48b8-827e-301428151c58",
         "title": "Software Engineer I - C++ and Payments Systems",
@@ -2101,22 +2151,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Truveta",
-        "id": "d07a156c-288d-4c3e-b95b-c4e0e05614fb",
-        "title": "Software Engineer – Entry Level - Front End",
-        "active": true,
-        "date_updated": 1760043093,
-        "date_posted": 1760043093,
-        "url": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "RTX",
         "id": "5b5bcdcb-ecb8-45e9-b382-27ce689ac746",
@@ -3898,6 +3932,22 @@
     },
     {
         "category": "Software",
+        "company_name": "mthree",
+        "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
+        "title": "Junior Software Developer - Go Lang",
+        "active": true,
+        "date_updated": 1758755035,
+        "date_posted": 1758755035,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
+        "locations": [
+            "United Kingdom"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Ciena",
         "id": "93063771-56a1-40e8-9ed6-96737f9bd052",
         "title": "Routing/IP Software Engineer – New Grad",
@@ -5232,6 +5282,22 @@
     },
     {
         "category": "Software",
+        "company_name": "Dayton Freight Lines",
+        "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1757611606,
+        "date_posted": 1757611606,
+        "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "ISYS Technologies",
         "id": "8413cf8b-9f9f-45f7-a2ed-d55a89685016",
         "title": "Junior Software Developer",
@@ -5295,23 +5361,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
-        "title": "Software Developer – New Grad - Sprc",
-        "active": true,
-        "date_updated": 1757549793,
-        "date_posted": 1757549793,
-        "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -5562,20 +5611,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Verkada",
-        "id": "65dcd485-a8ab-4e12-9b60-98e3253226c6",
-        "title": "Backend Software Engineer",
-        "active": true,
-        "date_updated": 1757401781,
-        "date_posted": 1757401781,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -8012,23 +8047,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Applied Intuition",
-        "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
-        "title": "Research Engineer – New Grad",
-        "active": true,
-        "date_updated": 1755654113,
-        "date_posted": 1755654113,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Software Engineering",
         "company_name": "Palantir",
         "id": "21b4895b-7a0f-43ac-87a8-c7e691ff3bf1",
@@ -8449,20 +8467,6 @@
             "New York, NY"
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "c53ca87c-c841-48ae-890a-270460384105",
-        "title": "Early Career Software Engineer",
-        "active": true,
-        "date_updated": 1755289229,
-        "date_posted": 1755289229,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824362007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "degrees": null
     },
     {
         "category": "Software",
@@ -9393,20 +9397,6 @@
     {
         "category": "Software",
         "company_name": "Anduril Industries",
-        "id": "41ff9380-1d22-490e-a190-d2eb855c621f",
-        "title": "Early Career Software Engineer",
-        "active": true,
-        "date_updated": 1755247381,
-        "date_posted": 1755033256,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "Anduril Industries",
         "id": "f44cb268-5b1f-4b8d-ada3-b7bb30dfaec2",
         "title": "Early Career Software Engineer",
         "active": true,
@@ -9905,23 +9895,6 @@
         "degrees": null
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Databricks",
-        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
-        "title": "Data Scientist – New Grad - 2026 Start",
-        "active": true,
-        "date_updated": 1758306471,
-        "date_posted": 1754705021,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": null,
         "company_name": "TikTok",
         "id": "35bd50e7-b4b1-465c-baf9-70af0a53e614",
@@ -10176,20 +10149,6 @@
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
         "locations": [
             "Roseville, MN"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "i3",
-        "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
-        "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
-        "date_updated": 1754610792,
-        "date_posted": 1754610792,
-        "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
-        "locations": [
-            "Huntsville, AL"
         ],
         "degrees": null
     },
