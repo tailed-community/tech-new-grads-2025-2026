@@ -17377,7 +17377,7 @@
         "company_name": "Databricks",
         "id": "ca23bb6b-38c7-49e5-8890-cce71a429db4",
         "title": "Associate Product Manager – New Grad - 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1756120740,
         "date_posted": 1755008671,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7586263002",
@@ -20321,7 +20321,7 @@
         "company_name": "TripAdvisor",
         "id": "70265251-b099-4ec2-bfe8-f8c63eff757f",
         "title": "Software Engineer I - Frontend Focus - Viator",
-        "active": true,
+        "active": false,
         "date_updated": 1756939988,
         "date_posted": 1756939988,
         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6977655",
@@ -20372,7 +20372,7 @@
         "company_name": "Glean",
         "id": "67b134e0-653d-4b37-bc63-6df9e5585e40",
         "title": "Software Engineer – University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1756942211,
         "date_posted": 1756942211,
         "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
@@ -21698,7 +21698,7 @@
         "company_name": "Verkada",
         "id": "65dcd485-a8ab-4e12-9b60-98e3253226c6",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757401781,
         "date_posted": 1757401781,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
@@ -22224,7 +22224,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer – New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -22339,7 +22339,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0b9c09e9-ba2b-4d9c-b917-95ee6f7189ec",
         "title": "Software Engineer – Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757558310,
         "date_posted": 1757558310,
         "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
@@ -28603,7 +28603,7 @@
         "company_name": "Relativity Space",
         "id": "4eac7c2a-8806-47f7-b8b5-0a246114ef9f",
         "title": "Avionics Hardware Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1760696898,
         "date_posted": 1760696898,
         "url": "https://boards.greenhouse.io/relativity/jobs/8216139002",
@@ -29818,7 +29818,7 @@
         "company_name": "DV Trading",
         "id": "ebce2464-8a88-4bfb-ace3-36495434337a",
         "title": "2026 Graduate Software Developer - DV Commodities",
-        "active": false,
+        "active": true,
         "date_updated": 1761249392,
         "date_posted": 1754086269,
         "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589615005",
@@ -30104,7 +30104,7 @@
         "company_name": "Vermont Information Processing",
         "id": "ef2a8b85-5f94-4225-a730-1a7860825094",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1761169652,
         "date_posted": 1761169652,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/4953972007",
@@ -30114,5 +30114,33 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Data Science, AI & Machine Learning",
+        "company_name": "Torc Robotics",
+        "id": "7f38d84b-2170-413b-b2f6-ddc00ac8d73f",
+        "title": "Machine Learning Engineer, I - App Engine (CUDA)",
+        "active": true,
+        "date_updated": 1761689168,
+        "date_posted": 1761689168,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136092002",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Qualtrics",
+        "id": "60874fa9-5223-4500-80dd-8cd0e637f315",
+        "title": "Software Engineer I - Customer Experience",
+        "active": true,
+        "date_updated": 1761689278,
+        "date_posted": 1761689278,
+        "url": "https://www.qualtrics.com/careers/us/en/job/7347811?gh_jid=7347811",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "degrees": []
     }
 ]
