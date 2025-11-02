@@ -1,5 +1,22 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "The Travelers Companies",
+        "id": "26f34e14-a5d5-4afd-915a-0663507b10a7",
+        "title": "Data Engineer I - Abinitio/AWS/Devops",
+        "active": true,
+        "date_updated": 1761992389,
+        "date_posted": 1761992389,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AbInitio-AWS-DevOps_R-45764",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software Engineering",
         "company_name": "CVS Health",
         "id": "b4ab4d74-1586-43ef-a3a5-861a8adbb11e",
@@ -348,7 +365,7 @@
     {
         "category": "Quantitative Finance",
         "company_name": "Old Mission",
-        "id": "76033645-efcc-46f2-969a-688c16828b36",
+        "id": "021ebf7f-bb52-45fb-b4e3-760afd932fd0",
         "title": "Junior Quantitative Researcher",
         "active": true,
         "date_updated": 1761354391,
@@ -706,6 +723,22 @@
             "Toronto, ON"
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a",
+        "title": "Associate Software Engineer – Seeking 2026 Grads",
+        "active": true,
+        "date_updated": 1761845900,
+        "date_posted": 1760775310,
+        "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "Software Engineering",
@@ -1244,6 +1277,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Momentum Engineering",
+        "id": "395baf0b-0e8d-4bc2-a40b-94815f327fd5",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1759496987,
+        "date_posted": 1759342227,
+        "url": "https://ats.rippling.com/momentumcareers/jobs/8c2a6494-73a1-445c-84aa-4dc824d8895e",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software Engineering",
         "company_name": "Yuzu Health",
         "id": "e0780b25-a361-4d5e-a43e-258c8c95d8b8",
@@ -1683,6 +1730,25 @@
             "Alpharetta, GA"
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "67fa64e7-3c68-4c8c-b75d-63378d42a6d4",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1758341642,
+        "date_posted": 1758341642,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160134",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     },
     {
         "category": "Hardware",
@@ -2270,6 +2336,20 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1761557399,
+        "date_posted": 1757385678,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Symbotic",
         "id": "93aeba4d-f9cc-4ab2-bdf9-18797a9a15d0",
@@ -2368,6 +2448,23 @@
             "Fort Collins, CO"
         ],
         "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Verkada",
+        "id": "83fbef63-5130-4b6e-9d70-c158753adeed",
+        "title": "Embedded Software Engineer – University Graduate 2026",
+        "active": true,
+        "date_updated": 1758314484,
+        "date_posted": 1757122525,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835669007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software Engineering",
@@ -3395,23 +3492,6 @@
             "Newark, NJ"
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Genmo",
-        "id": "2785d820-e76e-4f39-a52a-94f4a7932f95",
-        "title": "Software Engineer – New Grad - Research - Generative AI",
-        "active": true,
-        "date_updated": 1756290729,
-        "date_posted": 1755723177,
-        "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application",
-        "locations": [
-            "SF"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "Software Engineering",
@@ -5498,6 +5578,68 @@
         "degrees": []
     },
     {
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1752518406,
+        "date_posted": 1752518406,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "9f39417b-65f8-44a7-a1f8-63cce9e90313",
+        "title": "Quantitative Research Analyst – University Graduate",
+        "active": true,
+        "date_updated": 1755268857,
+        "date_posted": 1752196370,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
+        "title": "Quantitative Research Analyst – University Graduate - US",
+        "active": true,
+        "date_updated": 1761857043,
+        "date_posted": 1752196369,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
+        "title": "Quantitative Research Engineer – University Graduate",
+        "active": true,
+        "date_updated": 1755284243,
+        "date_posted": 1752196364,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "degrees": null
+    },
+    {
         "category": null,
         "company_name": "Ranger",
         "id": "2fe66a91-a965-48b8-b659-1f89ba6a4563",
@@ -5570,6 +5712,22 @@
             "Remote"
         ],
         "degrees": null
+    },
+    {
+        "category": "Software",
+        "company_name": "T-Rex Solutions",
+        "id": "7e65b3d9-88f5-444b-bdb7-a7f044d8bcc4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1751105243,
+        "date_posted": 1749517340,
+        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8029898002",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": null,
