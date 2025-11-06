@@ -11000,7 +11000,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755269760,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
@@ -22221,7 +22221,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer – New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -22451,7 +22451,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -23706,7 +23706,7 @@
         "company_name": "GM financial",
         "id": "150396ee-b19c-450a-9b36-76e035cc0762",
         "title": "Software Development Engineer 1 - GenAI",
-        "active": true,
+        "active": false,
         "date_updated": 1758372101,
         "date_posted": 1756160312,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/759",
@@ -30318,7 +30318,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "66a3aac2-842f-464c-b1ea-6a945f687473",
         "title": "SDA Software Engineer – Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1761865749,
         "date_posted": 1761865749,
         "url": "https://careers-gdms.icims.com/jobs/68894/job?mobile=true&needsRedirect=false",
@@ -30721,7 +30721,7 @@
         "company_name": "Experian",
         "id": "f6c4791e-474c-439f-82c4-4b1718ceaede",
         "title": "Product Management Xcelerator Rotation Program – Entry Level Product - Remote",
-        "active": true,
+        "active": false,
         "date_updated": 1761948499,
         "date_posted": 1761948499,
         "url": "https://jobs.smartrecruiters.com/Experian/744000091139264",
@@ -30833,7 +30833,7 @@
         "company_name": "Microsoft",
         "id": "abadf4bd-bf47-47a6-9d3f-d06e09614d84",
         "title": "Software Engineer I - Ctj - Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1761908270,
         "date_posted": 1761908270,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1904124",
@@ -31286,7 +31286,7 @@
         "company_name": "Cority",
         "id": "e76ea999-2f81-4e98-9b9e-df7e55f6ef63",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1760739680,
         "date_posted": 1760739680,
         "url": "https://jobs.lever.co/cority/8bd60ff1-c879-41a2-b989-48e2fc03b5fa/apply",
@@ -31387,7 +31387,7 @@
         "company_name": "Fireworks AI",
         "id": "da9805f7-0c21-4388-aecf-44758b8e3842",
         "title": "Software Engineer – Early Career - Cloud Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1760486475,
         "date_posted": 1760397777,
         "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4036755009",
@@ -31854,7 +31854,7 @@
         "company_name": "Amentum",
         "id": "6ba252f4-3cff-4baa-a8a2-62189da40fe7",
         "title": "Entry Level Information Technology Operations Support Specialist - Information Technology - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1761993808,
         "date_posted": 1761993808,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-IT-Opperations-Support-Specialist_R0143995",
@@ -32094,7 +32094,7 @@
         "id": "58aa995f-5b36-476b-8bd9-07ad92d7ff13",
         "title": "Software Engineer – Entry Level - Imaging Services",
         "active": true,
-        "date_updated": 1762213391,
+        "date_updated": 1762325107,
         "date_posted": 1762213391,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/5696523004",
         "locations": [
@@ -32762,14 +32762,215 @@
         "id": "3bab1db8-9378-44c8-8bb6-af5949304458",
         "title": "2026] Software Engineer – Early Career - Security",
         "active": true,
-        "date_updated": 1762299229,
+        "date_updated": 1762325082,
         "date_posted": 1762299229,
         "url": "https://careers.roblox.com/jobs/7357095?gh_jid=7357095",
         "locations": [
             "San Mateo, CA"
         ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Yahoo",
+        "id": "f0ef1358-3e95-4f00-90f3-f9f4c8f6dbb4",
+        "title": "Software Dev Engineer I - ",
+        "active": false,
+        "date_updated": 1762299373,
+        "date_posted": 1762299373,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I_JR0026648",
+        "locations": [
+            "United States"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "352f5eda-1530-4425-a79a-394bcbecb582",
+        "title": "Early Career Software Engineer",
+        "active": false,
+        "date_updated": 1762299792,
+        "date_posted": 1762299792,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/dffc8654-8007-48f3-a3d8-6fc643dd2008/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "CACI",
+        "id": "5eb4fd5d-ac5f-41b3-8130-69837e4e179a",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1762368759,
+        "date_posted": 1762359881,
+        "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Annapolis-Junction/Junior-Software-Engineer_319292-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "EBSCO",
+        "id": "044d2340-8c9f-4361-828e-a09cb0f4718b",
+        "title": "Cloud Platform Engineer I",
+        "active": true,
+        "date_updated": 1762369109,
+        "date_posted": 1762359918,
+        "url": "https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job",
+        "locations": [
+            "Ipswich, MA",
+            "Remote"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Genuine Parts Company",
+        "id": "6c575597-87bd-4197-a86f-296c8b647315",
+        "title": "Cloud Engineer I",
+        "active": true,
+        "date_updated": 1762359934,
+        "date_posted": 1762359934,
+        "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Engineer-I_R25_0000038435",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "7bec8170-20b1-4eab-a3cb-da6d56ce4b88",
+        "title": "Software Engineer – Entry Level",
+        "active": true,
+        "date_updated": 1762359957,
+        "date_posted": 1762359957,
+        "url": "https://careers-gdms.icims.com/jobs/68913/software-engineer-%E2%80%93-entry-level/job",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Warp",
+        "id": "1d5044c8-134a-46db-a46c-90a1f767d1ae",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1762359991,
+        "date_posted": 1762359991,
+        "url": "https://job-boards.greenhouse.io/warp/jobs/4324888004",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Visa",
+        "id": "932cffa0-84c7-4356-acc9-63cdb672ba76",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1762360166,
+        "date_posted": 1762360166,
+        "url": "https://jobs.smartrecruiters.com/Visa/615efbc7-5ef9-4dc3-b65a-cf364e55674e?dcr_ci=Visa",
+        "locations": [
+            "Reading, United Kingdom"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "3e5892ca-46e1-443a-81fb-232870f8384a",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1762386344,
+        "date_posted": 1762386344,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/cd0a0119-9d37-4406-8e8e-e67bcc6b3de7/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Graphcore",
+        "id": "9881aa86-eda0-414b-acc4-7cc5e3e43413",
+        "title": "2026 Graduate Machine Learning Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1762385788,
+        "date_posted": 1762385788,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8234675002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d9abf54f-a175-43f8-a7f3-6f51fe94b888",
+        "title": "2026 Full-time - Software Engineer 1 - Onsite - CA",
+        "active": true,
+        "date_updated": 1762385237,
+        "date_posted": 1762385237,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--CA-_01804761",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "aec95556-7230-4983-9222-aab8112f843c",
+        "title": "Software Engineer 1 - Software Engineering",
+        "active": true,
+        "date_updated": 1762385242,
+        "date_posted": 1762385242,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01804717",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "0353ba8a-aaed-4fa7-934f-51e284c0970a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1762386626,
+        "date_posted": 1762386626,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202569267",
+        "locations": [
+            "Atlanta, GA"
+        ],
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "525dddf0-89cc-4d9e-9452-085817670b1d",
+        "title": "Software Engineer 1 - Finance Technology Data & Reporting",
+        "active": true,
+        "date_updated": 1762386971,
+        "date_posted": 1762386971,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Greensboro-NC/Software-Engineer-I---Finance-Technology-Data---Reporting_R0108028-1",
+        "locations": [
+            "Charlotte, NC",
+            "Greensboro, NC"
+        ],
+        "degrees": []
     }
 ]
