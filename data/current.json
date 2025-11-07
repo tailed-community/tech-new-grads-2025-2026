@@ -1,6 +1,133 @@
 [
     {
         "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "b39419cf-950a-488e-b775-01a81bbe2ad0",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1762472986,
+        "date_posted": 1762472986,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/6157ab51-0fc9-4ad8-90ea-8e87e2a95eef/application",
+        "locations": [
+            "SF",
+            "San Mateo, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Businessolver",
+        "id": "52000c2d-724b-4297-bfb6-f17fd27ceef9",
+        "title": "Java Software Engineer I - Remote within the USA",
+        "active": true,
+        "date_updated": 1762472194,
+        "date_posted": 1762472194,
+        "url": "https://www.businessolver.com/careers/openings/?gh_jid=7358032",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "775c36f8-9bf5-425f-828b-2e2aa1ade7df",
+        "title": "Machine Learning Engineer/Researcher – 2026 Graduate Programme",
+        "active": true,
+        "date_updated": 1762471948,
+        "date_posted": 1762471948,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2026-Graduate-Programme_JR101055-1",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b27ecf71-d5ba-422e-8ec8-deb17b381bbf",
+        "title": "Software Engineer I - C - C++ - Onsite",
+        "active": true,
+        "date_updated": 1762471733,
+        "date_posted": 1762471733,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Okta",
+        "id": "dfc489c9-e403-46e0-a1ba-e7e8092e311e",
+        "title": "Software Engineer I – New Grad",
+        "active": true,
+        "date_updated": 1762471485,
+        "date_posted": 1762471485,
+        "url": "https://www.okta.com/company/careers/opportunity/6209884?gh_jid=6209884",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "84454b94-00c5-4d81-aa05-06a9e890545c",
+        "title": "2026 Graduate Software Engineer - Drivers",
+        "active": true,
+        "date_updated": 1762435867,
+        "date_posted": 1762435867,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245742002",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "3341ad19-ff53-40d9-aed1-0eab9614c836",
+        "title": "Software Engineer 1 - Entry Level",
+        "active": true,
+        "date_updated": 1762435047,
+        "date_posted": 1762435047,
+        "url": "https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "a5beff7a-688c-49b4-b43d-4ff0814d29c6",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762434791,
+        "date_posted": 1762434791,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88102807904",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "3c8ce518-58d5-41a0-b586-073f60bfd11d",
+        "title": "2026 Graduate Software Engineer - Drivers",
+        "active": true,
+        "date_updated": 1762434202,
+        "date_posted": 1762434202,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
         "company_name": "Truist Bank",
         "id": "525dddf0-89cc-4d9e-9452-085817670b1d",
         "title": "Software Engineer 1 - Finance Technology Data & Reporting",
@@ -11,51 +138,6 @@
         "locations": [
             "Charlotte, NC",
             "Greensboro, NC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "0353ba8a-aaed-4fa7-934f-51e284c0970a",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1762386626,
-        "date_posted": 1762386626,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202569267",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "3e5892ca-46e1-443a-81fb-232870f8384a",
-        "title": "Early Career Software Engineer",
-        "active": true,
-        "date_updated": 1762386344,
-        "date_posted": 1762386344,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/cd0a0119-9d37-4406-8e8e-e67bcc6b3de7/application",
-        "locations": [
-            "SF",
-            "San Mateo, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Graphcore",
-        "id": "9881aa86-eda0-414b-acc4-7cc5e3e43413",
-        "title": "2026 Graduate Machine Learning Engineer - Applied AI",
-        "active": true,
-        "date_updated": 1762385788,
-        "date_posted": 1762385788,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8234675002",
-        "locations": [
-            "Bristol, UK"
         ],
         "degrees": []
     },
@@ -84,6 +166,21 @@
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Full-time---Software-Engineer-1---Onsite--CA-_01804761",
         "locations": [
             "Anaheim, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "e0c1c023-3f8c-44e5-851b-2e07d863dbed",
+        "title": "Firmware Engineer I - Embedded Systems",
+        "active": true,
+        "date_updated": 1762385215,
+        "date_posted": 1762385215,
+        "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-I-CO-80501/1340367500/?ats=successfactors",
+        "locations": [
+            "Shakopee, MN",
+            "Longmont, CO"
         ],
         "degrees": []
     },
@@ -150,26 +247,12 @@
         "id": "044d2340-8c9f-4361-828e-a09cb0f4718b",
         "title": "Cloud Platform Engineer I",
         "active": true,
-        "date_updated": 1762369109,
+        "date_updated": 1762473199,
         "date_posted": 1762359918,
         "url": "https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job",
         "locations": [
             "Ipswich, MA",
             "Remote"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "CACI",
-        "id": "5eb4fd5d-ac5f-41b3-8130-69837e4e179a",
-        "title": "Junior Software Engineer",
-        "active": true,
-        "date_updated": 1762368759,
-        "date_posted": 1762359881,
-        "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Annapolis-Junction/Junior-Software-Engineer_319292-1",
-        "locations": [
-            "Annapolis Junction, MD"
         ],
         "degrees": []
     },
@@ -403,34 +486,6 @@
     },
     {
         "category": "Software Engineering",
-        "company_name": "T-Mobile",
-        "id": "7375092a-78e2-4928-aab4-835ffc1b0eee",
-        "title": "Associate Engineer, Software",
-        "active": true,
-        "date_updated": 1762270182,
-        "date_posted": 1762270182,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--Software_REQ338499",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Redstone Federal Credit Union",
-        "id": "f8ef1694-2b30-432f-8e60-6465b4a88346",
-        "title": "Programmer / Analyst I",
-        "active": true,
-        "date_updated": 1762270273,
-        "date_posted": 1762269961,
-        "url": "https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Senior-Programmer-Analyst_R2671",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
         "company_name": "NCR",
         "id": "8d16615d-a45a-42c4-bfe8-31b452150689",
         "title": "Software Engineer I",
@@ -514,35 +569,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "5df90d62-9b36-40cc-9472-654f58bfd160",
-        "title": "Data Engineer I",
-        "active": true,
-        "date_updated": 1762240965,
-        "date_posted": 1762240965,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IA/Data-Engineer-I_1606352-1",
-        "locations": [
-            "New Mexico",
-            "Cunningham, KS",
-            "Pennsylvania",
-            "Texas",
-            "Florida",
-            "Wichita, KS",
-            "South Carolina",
-            "Edmond, OK",
-            "Tennessee",
-            "Minnesota",
-            "Fort Gibson, OK",
-            "Wisconsin",
-            "North Carolina",
-            "Missouri",
-            "Illinois",
-            "McKenzie, TN"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Altice USA",
         "id": "216daacb-dd56-400a-ab18-2451fcec8209",
@@ -600,34 +626,6 @@
     },
     {
         "category": "Software",
-        "company_name": "RTX",
-        "id": "1e9d9df1-ea42-4b07-94cf-ed9f8986d14c",
-        "title": "Full-time 2026 - Java Software Engineer 1",
-        "active": true,
-        "date_updated": 1762212270,
-        "date_posted": 1762212270,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01804060",
-        "locations": [
-            "State College, PA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "861a0ca0-a8b2-43cd-bd83-1581ca871f82",
-        "title": "2026 Full-time - Cyber Security Engineer I - Onsite - MA",
-        "active": true,
-        "date_updated": 1762212270,
-        "date_posted": 1762212270,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Full-time---Cyber-Security-Engineer-I---Onsite--MA-_01802287",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Cummins",
         "id": "0acf1541-cc00-4e4a-8753-441579d09848",
         "title": "Software Engineer I",
@@ -680,20 +678,6 @@
         "url": "https://metacareers.com/jobs/2578176955882259",
         "locations": [
             "New York, NY"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "75b31778-7091-4a2d-868c-f5c5bad93383",
-        "title": "2026 Full-time - Software Engineer I - Onsite - TX",
-        "active": true,
-        "date_updated": 1762125791,
-        "date_posted": 1762125791,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX234-Richardson-1717-CityLine-1717-East-CityLine-Drive-Building-C17-Richardson-TX-75082-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01801919",
-        "locations": [
-            "Richardson, TX"
         ],
         "degrees": []
     },
@@ -856,22 +840,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "The Travelers Companies",
-        "id": "80de9ba4-405d-4b83-a4a6-6721a7d62e4a",
-        "title": "Data Engineer I - Aws - Pyspark - Snowflake",
-        "active": true,
-        "date_updated": 1761992389,
-        "date_posted": 1761992389,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46325",
-        "locations": [
-            "Hartford, CT",
-            "Richardson, TX",
-            "St Paul, MN"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "The Travelers Companies",
         "id": "26f34e14-a5d5-4afd-915a-0663507b10a7",
         "title": "Data Engineer I - Abinitio/AWS/Devops",
         "active": true,
@@ -897,21 +865,6 @@
         "url": "https://jobs.ashbyhq.com/abridge/33d1c529-87e0-4e7c-822a-28adffb991d6/application",
         "locations": [
             "SF"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "21efee4a-44eb-440a-9442-a8acd4728183",
-        "title": "AI and ML Infra Software Engineer – New College Grad 2025 - GPU Clusters",
-        "active": true,
-        "date_updated": 1761951933,
-        "date_posted": 1761951933,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2025_JR2006974",
-        "locations": [
-            "Redmond, WA",
-            "Santa Clara, CA"
         ],
         "degrees": []
     },
@@ -1114,20 +1067,6 @@
         "url": "https://www.samsara.com/company/careers/roles/7336002?gh_jid=7336002",
         "locations": [
             "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "PepsiCo",
-        "id": "af334bb3-adfd-4794-b695-c4840ffda9fa",
-        "title": "Junior Data Scientist - Multiple Teams",
-        "active": true,
-        "date_updated": 1761942535,
-        "date_posted": 1761899289,
-        "url": "https://uscareers-pepsico.icims.com/jobs/415877/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Mississauga, ON, Canada"
         ],
         "degrees": []
     },
@@ -1371,20 +1310,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "BTI Solutions",
-        "id": "161ee3ad-9d36-463b-b3b1-bd9f04484723",
-        "title": "Entry Level Mobile Device Test Network Engineer SHQ",
-        "active": true,
-        "date_updated": 1761870980,
-        "date_posted": 1761870980,
-        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Bellevue-WA/Entry-Level-Mobile-Device-Test-Network-Engineer-SHQ_JR101363",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software Engineering",
         "company_name": "Applied Intuition",
         "id": "3a7737a1-23ec-4eeb-871b-819418c911be",
@@ -1395,34 +1320,6 @@
         "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4607272005?gh_jid=4607272005",
         "locations": [
             "Mountain View, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "General Dynamics Information Technology",
-        "id": "ac12fb08-57c6-4140-86aa-457e417b2d0c",
-        "title": "Software Developer Associate - TS/SCI w/Poly",
-        "active": true,
-        "date_updated": 1761863806,
-        "date_posted": 1761863806,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ209620",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "912c475e-01db-47f5-9008-90283faa3616",
-        "title": "SDA Software Engineer – Entry Level",
-        "active": true,
-        "date_updated": 1761863747,
-        "date_posted": 1761863747,
-        "url": "https://careers-gdms.icims.com/jobs/68894/sda-software-engineer-%E2%80%93-entry-level/job",
-        "locations": [
-            "Scottsdale, AZ"
         ],
         "degrees": []
     },
@@ -2216,50 +2113,6 @@
         ]
     },
     {
-        "category": "Software Engineering",
-        "company_name": "Roserocket",
-        "id": "105eff5b-3ca1-493d-b81f-05cf7dde693c",
-        "title": "Junior Software Engineer",
-        "active": true,
-        "date_updated": 1760994357,
-        "date_posted": 1760994357,
-        "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application",
-        "locations": [
-            "Toronto, ON"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "c2981a89-e31a-4a64-9ffb-529384a1de21",
-        "title": "Data Engineer I",
-        "active": true,
-        "date_updated": 1761839773,
-        "date_posted": 1760844432,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-GA/Data-Engineer-I_1606353-1",
-        "locations": [
-            "New Mexico",
-            "Pennsylvania",
-            "Iowa",
-            "Texas",
-            "Florida",
-            "South Carolina",
-            "Georgia",
-            "Tennessee",
-            "Minnesota",
-            "Utah",
-            "Wisconsin",
-            "North Carolina",
-            "Oklahoma",
-            "Missouri",
-            "Ohio",
-            "Michigan",
-            "Illinois"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Veeva Systems",
         "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
@@ -2471,20 +2324,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "11c5fd85-af9d-4c56-9f38-4c322e57a201",
-        "title": "Software Engineer 1 - Embedded Communications",
-        "active": true,
-        "date_updated": 1761560092,
-        "date_posted": 1760662670,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I---Embedded-Communications--Onsite-_01799726",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -3575,7 +3414,7 @@
         "id": "7071ac60-a80d-49cd-b3ac-16f1181510d5",
         "title": "Associate Software Engineer",
         "active": true,
-        "date_updated": 1759411790,
+        "date_updated": 1762473302,
         "date_posted": 1759411790,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/8161559002",
         "locations": [
@@ -3589,7 +3428,7 @@
         "id": "cbe9b0ed-ae7b-4da9-928b-b07db4e00ed9",
         "title": "Associate Software Engineer",
         "active": true,
-        "date_updated": 1759411745,
+        "date_updated": 1762473316,
         "date_posted": 1759411745,
         "url": "https://job-boards.greenhouse.io/anaplan/jobs/8192195002",
         "locations": [
@@ -3742,6 +3581,22 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
+        "title": "Software Engineer 1 - Radar Product Line Team",
+        "active": true,
+        "date_updated": 1759295272,
+        "date_posted": 1759295272,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software Engineering",
         "company_name": "CoStar Group",
         "id": "758bb06a-3f01-4608-ab3f-09039f2753d1",
@@ -3816,20 +3671,6 @@
         "url": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075/application",
         "locations": [
             "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Honeywell",
-        "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1759115072,
-        "date_posted": 1758917853,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-        "locations": [
-            "Fort Mill, SC"
         ],
         "degrees": []
     },
@@ -4185,7 +4026,7 @@
         "id": "3399e593-3844-4433-b1a0-9e0b1c421661",
         "title": "Associate Software Engineer",
         "active": true,
-        "date_updated": 1758522723,
+        "date_updated": 1762473348,
         "date_posted": 1758522723,
         "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
         "locations": [
@@ -4917,20 +4758,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Falconwood",
-        "id": "9d0d22a0-23b9-4e83-811e-24ce734f2894",
-        "title": "Data Engineer I",
-        "active": true,
-        "date_updated": 1762186584,
-        "date_posted": 1757631601,
-        "url": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "LPL Financial Holdings",
         "id": "23c87d4e-610a-4a43-ba32-3f2381c3abfd",
@@ -5065,20 +4892,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "BryceTech",
-        "id": "b58d022a-bedb-4d2c-b0eb-432d8e208942",
-        "title": "Junior Exercise Software IT Specialist",
-        "active": true,
-        "date_updated": 1757521532,
-        "date_posted": 1757521532,
-        "url": "https://jobs.smartrecruiters.com/BryceTech/744000080865323",
-        "locations": [
-            "Suffolk, VA"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software Engineering",
         "company_name": "Credence",
         "id": "4e5b1236-1ed0-4b1c-b6e9-86b38a05424b",
@@ -5199,21 +5012,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Peraton",
-        "id": "a1a71fa0-4d3a-49d0-8c39-742ca3d20ae8",
-        "title": "Software Engineering (Ignite Innovator Pgm)",
-        "active": true,
-        "date_updated": 1757404344,
-        "date_posted": 1757404344,
-        "url": "https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job",
-        "locations": [
-            "Herndon, VA",
-            "Blacksburg, VA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -5424,7 +5222,7 @@
         "id": "8935c4c6-0eff-4be7-bf3c-7f36b500cb4f",
         "title": "Assurance Associate - Blockchain, Digital Assets, Specialty Lending and AI",
         "active": true,
-        "date_updated": 1757314093,
+        "date_updated": 1762473645,
         "date_posted": 1757314093,
         "url": "https://jobs.lever.co/Aprio/e52783da-4116-4f88-9bfb-0cc6ce4a6993/",
         "locations": [
@@ -5541,23 +5339,6 @@
         "degrees": []
     },
     {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "PDI Technologies",
-        "id": "1c4a0a4c-0df8-4028-a421-574c74a14f93",
-        "title": "Junior Machine Learning Engineer",
-        "active": true,
-        "date_updated": 1757080975,
-        "date_posted": 1757080975,
-        "url": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
-        "locations": [
-            "Alpharetta, GA",
-            "Temple, TX",
-            "Dallas, TX",
-            "Houston, TX"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Valkyrie Trading",
         "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
@@ -5607,20 +5388,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "Vatic Investments",
-        "id": "23894828-e082-4590-b0bf-b6af86ba42b1",
-        "title": "Quantitative Researcher – 2026 Grads - Full Time",
-        "active": true,
-        "date_updated": 1761496243,
-        "date_posted": 1757031791,
-        "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/53549",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "WhatNot",
         "id": "38cca989-4499-494a-9df9-4b012d5d184a",
@@ -5653,20 +5420,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Bonterra",
-        "id": "7cf3ac86-36ec-48d6-b196-df55320ca40a",
-        "title": "EA-Data Engineer I, Services",
-        "active": true,
-        "date_updated": 1756981921,
-        "date_posted": 1756981921,
-        "url": "https://bonterra.wd1.myworkdayjobs.com/en-US/bonterratech/job/Remote-United-States/EA-Data-Engineer-I--Services_R2025-0310",
-        "locations": [
-            "Remote in USA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -5782,20 +5535,6 @@
             "Morris Plains, NJ",
             "Bloomfield, CT",
             "Austin, TX"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "VIAVI",
-        "id": "029395e6-da90-46b8-8027-b4a3169ff396",
-        "title": "Early Careers Rotational Program - R&D Engineer (AI)",
-        "active": true,
-        "date_updated": 1756975605,
-        "date_posted": 1756975605,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
-        "locations": [
-            "Minnetonka, MN"
         ],
         "degrees": []
     },
@@ -8916,38 +8655,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Belvedere Trading",
-        "id": "3901b5e1-a5fb-4c05-9738-654a70a6341d",
-        "title": "Software Engineer – Entry Level 2026",
-        "active": true,
-        "date_updated": 1758357059,
-        "date_posted": 1754707548,
-        "url": "https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Belvedere Trading",
-        "id": "a8a35e5f-1a4d-42b1-ac87-8d42f18d9d76",
-        "title": "Quantitative Trader – Entry Level 2026",
-        "active": true,
-        "date_updated": 1758371659,
-        "date_posted": 1754707547,
-        "url": "https://jobs.lever.co/belvederetrading/7a15eeab-69ce-489e-bdb6-122dd0360b40/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Databricks",
         "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
         "title": "Software Engineer – New Grad - Distributed Data Systems - 2025 Start",
@@ -9349,20 +9056,6 @@
             "Chicago, IL",
             "San Francisco, CA",
             "Los Angeles, CA"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "i3",
-        "id": "10757e82-0f1f-47cc-9dba-a04229089139",
-        "title": "Full-Stack Software Engineer",
-        "active": true,
-        "date_updated": 1754528498,
-        "date_posted": 1754528498,
-        "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
-        "locations": [
-            "Hunstville, AL"
         ],
         "degrees": null
     },
@@ -9956,6 +9649,21 @@
     },
     {
         "category": "Software",
+        "company_name": "Northslope Technologies",
+        "id": "89c2d6f9-9f51-4296-809a-7e8207949cd5",
+        "title": "Forward Deployed Software Engineer – New Grad",
+        "active": true,
+        "date_updated": 1755270266,
+        "date_posted": 1753315722,
+        "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application",
+        "locations": [
+            "New York, NY",
+            "London, UK"
+        ],
+        "degrees": null
+    },
+    {
+        "category": "Software",
         "company_name": "TripAdvisor",
         "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
         "title": "Software Engineer I - Backend Focus - Viator",
@@ -10027,6 +9735,20 @@
             "United States"
         ],
         "degrees": null
+    },
+    {
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "2a65f3ef-8fd4-41c5-95ad-56c0714eee35",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762436258,
+        "date_posted": 1752618104,
+        "url": "https://jobs.lever.co/wyetechllc/08805fb2-ec83-47ba-a4bb-a82e47805e94/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "degrees": []
     },
     {
         "category": "Software",
@@ -10394,20 +10116,6 @@
             "Remote"
         ],
         "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "Reevo",
-        "id": "fcfe5ec1-3a73-4469-87a7-1566c70f3feb",
-        "title": "Builder – New Grad - Software Engineer",
-        "active": true,
-        "date_updated": 1761968434,
-        "date_posted": 1750134760,
-        "url": "https://jobs.ashbyhq.com/reevo/2ea4d267-cd80-4481-9965-216ecd469e7e/application",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "degrees": []
     },
     {
         "category": null,
