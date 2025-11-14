@@ -752,8 +752,8 @@
         "company_name": "Anima",
         "id": "c9a7aeec-6a07-45e1-b4aa-3469b8e7e725",
         "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1758012249,
+        "active": false,
+        "date_updated": 1763027857,
         "date_posted": 1758012249,
         "url": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
         "locations": [
@@ -13060,7 +13060,7 @@
         "company_name": "Northslope Technologies",
         "id": "89c2d6f9-9f51-4296-809a-7e8207949cd5",
         "title": "Forward Deployed Software Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755270266,
         "date_posted": 1753315722,
         "url": "https://jobs.ashbyhq.com/northslope-technologies/7ccd126f-b127-4526-87f1-57408919c30a/application",
@@ -14118,8 +14118,8 @@
         "company_name": "TikTok",
         "id": "cabb3cb1-fec9-4ce4-8d23-3ce8476055ba",
         "title": "Software Engineer, Live-Foundation-Ecosystem - 2026 Start (BS/MS)",
-        "active": true,
-        "date_updated": 1755271057,
+        "active": false,
+        "date_updated": 1763027857,
         "date_posted": 1754363233,
         "url": "https://lifeattiktok.com/search/7532631803707738376",
         "locations": [
@@ -22297,7 +22297,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer – Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -22445,7 +22445,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -24732,7 +24732,7 @@
         "company_name": "Meshy",
         "id": "ca943fdd-edd4-4fe7-8ae1-33ed7976a2c3",
         "title": "Software Engineer – New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758778957,
         "date_posted": 1758778957,
         "url": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
@@ -27154,7 +27154,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c7750d10-de6f-4f10-b1a5-edfc2c2341c3",
         "title": "Software Engineer – Entry Level - Secret Clearance Required",
-        "active": false,
+        "active": true,
         "date_updated": 1759913652,
         "date_posted": 1759913652,
         "url": "https://careers-gdms.icims.com/jobs/68432/job?mobile=true&needsRedirect=false",
@@ -29419,8 +29419,8 @@
         "company_name": "Booz Allen",
         "id": "1c1962f9-d61d-4bb6-a3c6-6be914fbc4a6",
         "title": "Backend Developer",
-        "active": true,
-        "date_updated": 1761210278,
+        "active": false,
+        "date_updated": 1763027857,
         "date_posted": 1761210278,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366",
         "locations": [
@@ -32153,7 +32153,7 @@
         "company_name": "Intuit",
         "id": "f15f9ecd-dae5-45ab-b82f-1352a8b50521",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762224083,
         "date_posted": 1762224083,
         "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996928",
@@ -33490,8 +33490,8 @@
         "company_name": "ServiceNow",
         "id": "efacdb64-de8f-46db-9d25-a04bf3702bac",
         "title": "Frontend Software Engineer",
-        "active": true,
-        "date_updated": 1762771678,
+        "active": false,
+        "date_updated": 1763027857,
         "date_posted": 1762771678,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
         "locations": [
@@ -33550,8 +33550,8 @@
         "company_name": "ServiceNow",
         "id": "e5ed6d0d-9cd9-43df-9884-abed766aa362",
         "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1762815508,
+        "active": false,
+        "date_updated": 1763027857,
         "date_posted": 1762815508,
         "url": "https://careers.servicenow.com/jobs/744000092358511/software-engineer/",
         "locations": [
@@ -33564,7 +33564,7 @@
         "company_name": "Seismic",
         "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762816263,
         "date_posted": 1759308681,
         "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
@@ -33606,7 +33606,7 @@
         "company_name": "Rocket Science Group",
         "id": "8b9bc8d1-bab7-4542-9c96-8733bc0b2285",
         "title": "Junior Software Developer - Back-End - Cardiff",
-        "active": true,
+        "active": false,
         "date_updated": 1762817587,
         "date_posted": 1762817587,
         "url": "https://jobs.ashbyhq.com/rocketsciencegg/3d305791-45f5-4142-a262-23aa5b5fe646/application",
@@ -33712,7 +33712,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "84b591e7-17f9-4431-94fb-c662cce79b59",
         "title": "Software Engineer - Entry Level-Java / C++ - Start Date",
-        "active": true,
+        "active": false,
         "date_updated": 1762820744,
         "date_posted": 1762820744,
         "url": "https://careers-gdms.icims.com/jobs/69189/job?mobile=true&needsRedirect=false",
@@ -33916,7 +33916,7 @@
         "company_name": "Intuit",
         "id": "076f6b0a-836e-4dc4-a55d-c9664c77f5f0",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1762923768,
         "date_posted": 1762224084,
         "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/88025996944",
@@ -33964,6 +33964,231 @@
         "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Software-Engineer-1--iOS-App-Development_JR-90275609",
         "locations": [
             "Washington, DC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "1364f9e4-2756-4370-954b-1e3c9173e962",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762994751,
+        "date_posted": 1762994751,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108269",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Horace Mann",
+        "id": "e87197d3-8397-4cf1-9c71-a43682dc0f0b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762992555,
+        "date_posted": 1762992555,
+        "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5664039004",
+        "locations": [
+            "Plano, TX",
+            "Springfield, IL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "iSpot.tv",
+        "id": "74d406f5-1179-4dd9-9084-b40db3c2e00d",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1762991991,
+        "date_posted": 1762991991,
+        "url": "https://job-boards.greenhouse.io/ispottv/jobs/4629254005",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Truist Bank",
+        "id": "7c9e842e-7dd5-4980-a6f8-d0455e567e14",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762997331,
+        "date_posted": 1762997331,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0108252",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Citizen Health",
+        "id": "bb95d17f-3ff3-49e6-87fa-bb376f994ed2",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1762991990,
+        "date_posted": 1762991990,
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/93499478-f9b9-4a46-968d-c025e4b65e3f/application",
+        "locations": [
+            "SF"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "7dd0ce8d-736a-4853-92ea-cb39790b131f",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762992895,
+        "date_posted": 1762992895,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1449707",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Nordstrom",
+        "id": "bf5f8a14-23b3-47ee-94fa-9ca5a1e62678",
+        "title": "Engineer 1 - Full-Stack",
+        "active": true,
+        "date_updated": 1762992923,
+        "date_posted": 1762992923,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "82ca0567-325c-44c3-85ff-ac5d2c47b09c",
+        "title": "New Graduate Engineer - Software",
+        "active": true,
+        "date_updated": 1763001350,
+        "date_posted": 1756850601,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8145483002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "0c371caf-e8f4-4052-bb57-cf6f1dc9555f",
+        "title": "Software Engineer New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1762995134,
+        "date_posted": 1762991550,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866542002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "790bd7f6-d54d-457b-b1c7-7d4b5227bfe1",
+        "title": "Software Engineer 1",
+        "active": false,
+        "date_updated": 1762990985,
+        "date_posted": 1762990985,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Miamisburg-OH/Software-Engineer-I_R104044",
+        "locations": [
+            "Miamisburg, OH"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Rockwell Automation",
+        "id": "459d8e17-d7ab-41e7-813a-cfe999058b13",
+        "title": "Associate Engineer Embedded Software",
+        "active": true,
+        "date_updated": 1763048888,
+        "date_posted": 1763048606,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Associate-Engineer-Embedded-Software_R25-8467",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "Maybern",
+        "id": "9f2a9400-3895-4ff2-bde7-506309f8ae20",
+        "title": "Software Engineer, New Grad",
+        "active": true,
+        "date_updated": 1763048922,
+        "date_posted": 1763048742,
+        "url": "https://jobs.ashbyhq.com/maybern/90f7a0d4-4e6c-43e0-a444-06301faa4058",
+        "locations": [
+            "New York, NY"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software Engineering",
+        "company_name": "CommonLit",
+        "id": "ba93a912-46a7-414d-984c-2b89be80fa7e",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1763048787,
+        "date_posted": 1763048787,
+        "url": "https://jobs.lever.co/commonlit/7ecb41f7-552c-4879-afaf-b9810a9b6f56/",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "f3b970ea-e38d-40c9-928e-a7127565301c",
+        "title": "Software Engineer – Entry Level",
+        "active": true,
+        "date_updated": 1763052865,
+        "date_posted": 1763052865,
+        "url": "https://careers-gdms.icims.com/jobs/69252/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bridgewater, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "901ca445-4070-461c-94fc-fbf67d331f2e",
+        "title": "Software Engineer – Entry Level",
+        "active": true,
+        "date_updated": 1763052865,
+        "date_posted": 1763052865,
+        "url": "https://careers-gdms.icims.com/jobs/69259/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bremerton, WA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "76e985fc-db84-4951-a8bb-0af40a1932d0",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1763055451,
+        "date_posted": 1763055451,
+        "url": "https://aexp.eightfold.ai/careers/job/38773050",
+        "locations": [
+            "Phoenix, AZ"
         ],
         "degrees": []
     }
