@@ -10,6 +10,130 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 
 | Company | Role | Location | Date Posted | Link |
 | ------- | ---- | -------- | ----------- | ---- |
+| Palo Alto Networks | Software Engineer Test Automation - Prisma Access | Santa Clara, CA | 2025-11-20 | [Apply Here](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000094709295) |
+| MultiCare Health System | Software Engineer 1 - Scm | Tacoma, WA | 2025-11-20 | [Apply Here](https://multicare.wd1.myworkdayjobs.com/multicare/job/Tacoma-Washington/Software-Engineer-I---SCM_JR58833-1) |
+| Sainsbury's | Trading Assistant | Stoke-on-Trent, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400028386) |
+| Sainsbury's | Trading Assistant | Guildford, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038579) |
+| Sainsbury's | Trading Assistant - Shift | Exeter, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038707) |
+| Sainsbury's | Trading Assistant | Newcastle upon Tyne, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038706) |
+| Sainsbury's | Trading Assistant - Shift | Exeter, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038705) |
+| Sainsbury's | Trading Assistant - Shift | Exeter, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038704) |
+| Sainsbury's | Trading Assistant - Shift | Trowbridge, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038684) |
+| Sainsbury's | Trading Assistant | Essex, UK, Harlow, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038646) |
+| Sainsbury's | Trading Assistant - Shift | Cardiff, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400030693) |
+| Sainsbury's | Trading Assistant | York, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038855) |
+| Sainsbury's | Trading Assistant - Local | Sheffield, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038843) |
+| Sainsbury's | Trading Assistant | Essex, UK, Harlow, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036870) |
+| Sainsbury's | Trading Assistant | Essex, UK, Harlow, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036897) |
+| Sainsbury's | Trading Assistant - Shift | Bedfordshire, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036435) |
+| Sainsbury's | Trading Assistant | Southampton, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038934) |
+| Sainsbury's | Trading Assistant | York, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038857) |
+| Sainsbury's | Trading Assistant | Aldershot, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038940) |
+| Sainsbury's | Trading Assistant | Bath, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038865) |
+| Sainsbury's | Trading Assistant - Shift | Hereford, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038710) |
+| Sainsbury's | Trading Assistant - Local | Livingston, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038726) |
+| Sainsbury's | Trading Assistant | Brize Norton, Carterton, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038847) |
+| Sainsbury's | Trading Assistant - Local | Exeter, UK | 2025-11-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035335) |
+| Cardinal Health | Operations Analytics Analyst | Goshen, NY | 2025-11-20 | [Apply Here](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/NY-Montgomery/Operations-Analytics-Analyist_20171058) |
+| Amentum | Graduate Physicist - North West | Warrington, UK | 2025-11-20 | [Apply Here](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/OCONUS-UK-Warrington/Graduate-Physicist--North-West-_R0146968-2) |
+| Bank of America | Software Engineer 1 | NYC, Lawrence Township, NJ | 2025-11-20 | [Apply Here](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/New-York/Software-Engineer-I---Year-Up---Charlotte--NC_25044053-1) |
+| Bank of America | Software Engineer 1 - Year Up | Charlotte, NC | 2025-11-20 | [Apply Here](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Software-Engineer-I---Year-Up---Charlotte--NC_25044048-1) |
+| American Express | Campus Undergraduate Full-Time - Associate Digital Product Management - Technology | Phoenix, AZ | 2025-11-20 | [Apply Here](https://aexp.eightfold.ai/careers/job/38887410) |
+| Zurich Insurance | Data Engineer | Toronto, ON, Canada | 2025-11-20 | [Apply Here](https://www.careers.zurich.com/job/Toronto-Data-Engineer-ON/1331033157/?ats=successfactors) |
+| Linamar | Mechatronics Engineer/Designer - Intermediate | Oakland, ON, Canada, London, ON, Canada | 2025-11-20 | [Apply Here](https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/12157) |
+| General Dynamics Mission Systems | Entry Level Engineer | Scottsdale, AZ | 2025-11-20 | [Apply Here](https://careers-gdms.icims.com/jobs/69361/job?mobile=true&needsRedirect=false) |
+| Rolls-Royce | Software Engineer-Aerospace Controls | Indianapolis, IN | 2025-11-20 | [Apply Here](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Control-System-Senior-Software-Engineer_JR6136710) |
+| Caterpillar Inc. | Performance Simulation/Application Associate Engineer | Tucson, AZ | 2025-11-20 | [Apply Here](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tucson-Arizona/Performance-Simulation-Application-Associate-Engineer_R0000336454) |
+| Ameriprise Financial | Staff Auditor-Data Analytics | Minneapolis, MN | 2025-11-20 | [Apply Here](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Staff-Auditor-Data-Analytics_R25_0000003994-1) |
+| NBCUniversal | Associate Data Engineer | Hammersmith, London, UK | 2025-11-20 | [Apply Here](https://jobs.smartrecruiters.com/NBCUniversal3/744000094660032) |
+| U.S. Venture | Trading & Supply Analyst | Houston, TX | 2025-11-20 | [Apply Here](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/TX---Houston/Trading---Supply-Analyst_R5270) |
+| Thorlabs | Photonics Engineer 1 | Lafayette, CO | 2025-11-20 | [Apply Here](https://apply.workable.com/thorlabs/j/F10F2784F8/apply) |
+| Cummins | Product Engineer: System Performance Engineer | Columbus, IN | 2025-11-20 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420763) |
+| Cummins | Digital Tools Software Developer | Columbus, IN | 2025-11-20 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422106) |
+| LexisNexis Risk Solutions | Legal Associate Product Manager | Washington, Pennsylvania, Oregon, Texas, Florida, Georgia, North Carolina, Ohio | 2025-11-20 | [Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Home-based-Oregon/Associate-Product-Manager_R104183) |
+| Uline | Product Management Analyst | Waukegan, IL, Milwaukee, WI, Pleasant Prairie, WI, Morton Grove, IL, Kenosha, WI | 2025-11-20 | [Apply Here](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R259410-1) |
+| Flex | Software Engineer 1 - Backend - New Grad | Remote in USA | 2025-11-20 | [Apply Here](https://job-boards.greenhouse.io/flex/jobs/4632053005) |
+| Northrop Grumman | Digital Engineer/Principal Digital Engineer - FPGA Engineer | Orlando, FL, McLean, VA, Offutt AFB, NE, Huntsville, AL | 2025-11-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Orlando/Digital-Engineer-Principal-Digital-Engineer--FPGA-Engineer-_R10207998) |
+| Northrop Grumman | Associate Hardware Engineer | San Diego, CA | 2025-11-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Associate-Engineer-Hardware_R10214599) |
+| Northrop Grumman | Associate Embedded Software Engineer - Multiple Teams | Buffalo, NY | 2025-11-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/XMLNAME-2026-Associate-Embedded-Software-Embedded-Software-Engineer---Buffalo-NY_R10215183-1) |
+| Northrop Grumman | Principal Software Engineer - Embedded and Real Time | Melbourne, FL | 2025-11-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Melbourne-Florida-_R10206610) |
+| Northrop Grumman | Software Engineer Intern | Gloucester, UK | 2025-11-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Software-Engineer-Industrial-Placement_R10214530) |
+| Northrop Grumman | Engineering Technician - Level 1 or Level 2 | Cape Canaveral, FL | 2025-11-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Kennedy-Space-Center/Engineering-Technician---Level-1-or-Level-2_R10215250) |
+| Citylitics | Data Associate | Toronto, ON, Canada | 2025-11-20 | [Apply Here](https://apply.workable.com/citylitics/j/EE7102E42C/apply) |
+| NOV | Application Engineer - Drilling Solutions | Casper, WY | 2025-11-20 | [Apply Here](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/37785) |
+| Milwaukee Tool | Repair Technician 1 | Greenwood, MS | 2025-11-20 | [Apply Here](https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-MS/Repair-Tech-1_R66661) |
+| Analytic Partners | Marketing Science Analyst | Miami, FL, Florida, United States | 2025-11-20 | [Apply Here](https://jobs.lever.co/analyticpartners/d6fb7c83-57a2-4f73-9e7a-0bc2e3e7fb62/apply) |
+| Atlas Copco Group | Test Setup Technician | Burlington, ON, Canada | 2025-11-20 | [Apply Here](https://www.careers.homeofindustrialideas.com/job/Burlington-TestSet-up-Technician-Onta/1269151101/?ats=successfactors) |
+| ASML | Field Service Engineer | Hillsboro, OR | 2025-11-20 | [Apply Here](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer---Swing-Shift_J-00330355) |
+| Astreya | Data Center Network Modeling Technician 3 | Boulder, CO | 2025-11-20 | [Apply Here](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-III_R0013741) |
+| Earnest | Senior Analytics Engineer | SF | 2025-11-20 | [Apply Here](https://app.careerpuck.com/job-board/earnest/job/7407303?gh_jid=7407303) |
+| EquipmentShare | Telematics Installer | Bridgewater, MA | 2025-11-20 | [Apply Here](https://www.equipmentshare.com/careers/openings/?gh_jid=7408658) |
+| Precisely | Associate Software Engineer | Remote in USA | 2025-11-20 | [Apply Here](https://www.precisely.com/careers-and-culture/us-jobs/job/4631080005?gh_jid=4631080005) |
+| CAE | Simulator Technician 1 | Las Vegas, NV | 2025-11-20 | [Apply Here](https://cae.wd3.myworkdayjobs.com/career/job/Las-Vegas/Simulator-Technician-I_118193) |
+| CAE | Technical Associate | Arlington, TX | 2025-11-20 | [Apply Here](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Technical-Associate_119024) |
+| The Boeing Company | Numerical Control Programmer | Mesa, AZ | 2025-11-20 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Numerical-Control-Programmer_JR2025484581-1) |
+| The Boeing Company | Equipment and Tool Engineer - Asset Integration & Sys. Eng | Hazelwood, MO | 2025-11-20 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Equipment---Tool-Engineer--Asset-Integration---Sys-Eng-_JR2025477648) |
+| The Boeing Company | Graduate Product Support Engineer | Bristol, UK, Yeovil, UK, Portsmouth, UK | 2025-11-20 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Graduate-Product-Support-Engineer---2026_JR2025478561-1) |
+| Telix Pharmaceuticals | Field Service Engineer 1 | Vancouver, BC, Canada | 2025-11-20 | [Apply Here](https://telixpharma.com/careers/find-a-job/?region=telixus&gh_jid=4619388006) |
+| Entrust | Firmware Engineer 1 | Shakopee, MN | 2025-11-20 | [Apply Here](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-I_R003876) |
+| Insperity | Associate Software Implementation Analyst | Kingwood, Houston, TX | 2025-11-20 | [Apply Here](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Agency-Temp--Associate-Software-Implementation-Analyst_JR101793) |
+| Rolls Royce | Geometric Integration - Placement Year | Portsmouth, UK | 2025-11-20 | [Apply Here](https://jobs.bmwgroup.com/job/Goodwood-Geometric-Integration-Placement-Year/1252926501/?ats=successfactors) |
+| Allina Health | Health Informatist Associate | Minneapolis, MN | 2025-11-20 | [Apply Here](https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Health-Informatacist-Associate_R-0067671) |
+| Kent | Data Analyst | Woking, UK | 2025-11-20 | [Apply Here](https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4173) |
+| Nortek | Electrician 1 | Canadian County, OK | 2025-11-20 | [Apply Here](https://jobs.jobvite.com/nortek/job/o7tCwfws?nl=1&nl=1&fr=false) |
+| University of Chicago | Program Administrator - Community Centered Data Science | Chicago, IL | 2025-11-20 | [Apply Here](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Program-Administrator--Community-Centered-Data-Science_JR32069) |
+| University of Chicago | Research Analyst | Chicago, IL | 2025-11-20 | [Apply Here](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR32093) |
+| Millennium Space Systems | Autonomy Engineer | El Segundo, CA | 2025-11-20 | [Apply Here](https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4991140008) |
+| CenturyLink | Telecommunications Technician | Omaha, NE | 2025-11-20 | [Apply Here](https://internaljobs.centurylink.com/job/OMAHA-Telecommunications-Technician-NE-68122/1342839900/?ats=successfactors) |
+| CenturyLink | Telecommunications Technician | Ocala, FL, Summerfield, FL | 2025-11-20 | [Apply Here](https://internaljobs.centurylink.com/job/OCALA-Telecommunications-Technician-FL-34470/1331229200/?ats=successfactors) |
+| The Travelers Companies | Software Engineer 1 - Nosql - Javascript','Python','Aws | Sparks, MD, Hartford, CT | 2025-11-20 | [Apply Here](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NoSQL--JavaScript--Python--AWS-_R-47917) |
+| University of Central Florida | Applications Programmer 1 | Orlando, FL | 2025-11-20 | [Apply Here](https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Applications-Programmer-I_R112168-1) |
+| University of Maryland - College Park | Graduate Assistant | Hyattsville, MD | 2025-11-20 | [Apply Here](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Graduate-Assistant_JR102938-1) |
+| Expedia Group | Machine Learning Science Graduate - Masters - 2026","London | London, UK | 2025-11-20 | [Apply Here](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Science-Graduate---Masters---2026---London_R-98649) |
+| Acuity | Leadership Program - Business Systems Analyst | Atlanta, GA | 2025-11-20 | [Apply Here](https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Business-Systems-Analyst-Hybrid-GA-30309/1338234400/?ats=successfactors) |
+| RTX | Software Engineer 2: Cybersecurity | Hartford, CT | 2025-11-20 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Software-Engineer-II--Cybersecurity--Onsite-_01803156) |
+| Clearway Energy | Analyst – Power Market Fundamentals | San Diego, CA | 2025-11-20 | [Apply Here](https://job-boards.greenhouse.io/clearwayjobs/jobs/4935477007) |
+| RTX | Systems Engineer 1 | Cedar Rapids, IA | 2025-11-20 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Systems-Engineer-I--Onsite-_01807641) |
+| RTX | Test Systems Engineer 2 | Tucson, AZ | 2025-11-20 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ862-3360-Hemisphere-Loop-Bldg-M10-3360-East-Hemisphere-Loop-Building-M10-Tucson-AZ-85706-USA/XMLNAME-2026-Fulltime-Raytheon----Test-Systems-Engineer-II---Onsite_01807534) |
+| RTX | 2026 Systems Engineer 1 - El Segundo','CA | El Segundo, CA | 2025-11-20 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA320-El-Seg-So-Campus-Bldg-E01-2000-East-El-Segundo-Boulevard-Building-E01-El-Segundo-CA-90245-USA/XMLNAME-2026-Systems-Engineer-I---Onsite---El-Segundo--CA_01807896) |
+| RTX | 2026 Raytheon Vision Systems Software Engineer 2 - Goleta, CA | Goleta, CA | 2025-11-20 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA602-Goleta-RVS-Bldg-B01-6825-Cortona-Drive-Building-B01-Goleta-CA-93117-USA/XMLNAME-2026-Raytheon-Vision-Systems-Software-Engineer-II---Onsite---Goleta--CA_01807672) |
+| GE Healthcare | Field Service Engineer 1 - Seattle - WA | Seattle, WA | 2025-11-20 | [Apply Here](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Seattle--WA--Downtown-_R4028436-1) |
+| Cisco | Early in Career Data Analyst / Engineer | Feltham, UK | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000221) |
+| Cisco | Ensoft - Software Engineer | Welwyn Garden City, UK | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000025) |
+| Hawk-Eye Innovations | Student Intern - Cricket - Systems Operators | Basingstoke, UK | 2025-11-20 | [Apply Here](https://jobs.ashbyhq.com/hawkeyeinnovations/50f06f78-97ea-4e8b-9cfe-8a43ca892f36/application) |
+| Hawk-Eye Innovations | Cricket Systems Operator | United Kingdom | 2025-11-20 | [Apply Here](https://jobs.ashbyhq.com/hawkeyeinnovations/d0fdf1aa-c4e4-4d2a-a3d3-f9bcc131efa9/application) |
+| Cisco | Early in Career Software Engineer - UK | Feltham, UK | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000016) |
+| Cisco | Software Developer 1 | Montreal, QC, Canada, Calgary, AB, Canada, Kanata, Ottawa, ON, Canada, Ottawa, ON, Canada | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2001076) |
+| DXC Technology | DXC Graduate Programme | Manchester, UK | 2025-11-20 | [Apply Here](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---LAN---MANCHESTER/DXC-Graduate-Programme-2026_51565840) |
+| Cisco | Software Developer | Vancouver, BC, Canada | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2001170) |
+| Cisco | Software Engineer 2 - Full Stack and Application Development | San Jose, CA | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000127) |
+| Cisco | Software Engineer Embedded/Network Systems 1 | Boston, MA, Knoxville, TN, Milpitas, CA, Austin, TX, San Jose, CA, Fulton, MD, Dallas, TX, Hillsboro, OR, Alpharetta, GA, NYC, Acton, MA, Research Triangle, Durham, NC, Atlanta, GA | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000081) |
+| Cisco | Software Engineer Backend/Platform Systems 1 | Boston, MA, Knoxville, TN, Milpitas, CA, Austin, TX, San Jose, CA, Fulton, MD, Dallas, TX, Hillsboro, OR, Alpharetta, GA, NYC, Acton, MA, Research Triangle, Durham, NC, Atlanta, GA | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000046) |
+| Cisco | Software Engineer Data/AI/Intelligent Systems 1 | Boston, MA, Knoxville, TN, Milpitas, CA, Austin, TX, San Jose, CA, Fulton, MD, Dallas, TX, Hillsboro, OR, Alpharetta, GA, NYC, Acton, MA, Research Triangle, Durham, NC, Atlanta, GA | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000073) |
+| L3Harris Technologies | Manufacturing Technician A | Rochester, NY | 2025-11-20 | [Apply Here](https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1344237800/?ats=successfactors) |
+| NBCUniversal | Analyst – Distribution Insights & Analytics | NYC | 2025-11-20 | [Apply Here](https://jobs.smartrecruiters.com/NBCUniversal3/744000093278906) |
+| Akima | Game Developer | Huntsville, AL | 2025-11-20 | [Apply Here](https://careers.akima.com/jobs/20304?lang=en-us&icims=1) |
+| Glydways | Autonomous Vehicle Engineering Technician | California | 2025-11-20 | [Apply Here](https://job-boards.greenhouse.io/glydways/jobs/4987804007) |
+| The Campbell's Company | Insights Analyst | Philadelphia, PA | 2025-11-20 | [Apply Here](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Insights-Analyst_Req-61534-1) |
+| BNY | BNY Analyst Program - Product and Innovation | London, UK | 2025-11-20 | [Apply Here](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72226) |
+| WellSky | Associate Software Engineer | Overland Park, KS | 2025-11-20 | [Apply Here](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933) |
+| mthree | Junior Software Developer | Montreal, QC, Canada | 2025-11-20 | [Apply Here](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619372006) |
+| Malvern Panalytical | Graduate Software Engineer | Northampton, MA, Hereford, UK | 2025-11-20 | [Apply Here](https://spectris.wd3.myworkdayjobs.com/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) |
+| CoreWeave | Data Center Technician - Afton - TX | Cee Vee, United States | 2025-11-20 | [Apply Here](https://coreweave.com/careers/job?4619658006&board=coreweave&gh_jid=4619658006) |
+| Schweitzer Engineering Laboratories | Data Analyst | Moscow, ID | 2025-11-20 | [Apply Here](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst_2025-18806) |
+| Schweitzer Engineering Laboratories | Associate Trend Insight Analyst | Moscow, ID | 2025-11-20 | [Apply Here](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Trend-Insight-Analyst_2025-18678) |
+| AssetMark | Associate Data Engineer | Charlotte, NC | 2025-11-20 | [Apply Here](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003533) |
+| CVS Health | Associate Software Development Engineer | Richardson, TX | 2025-11-20 | [Apply Here](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) |
+| Northrop Grumman | 2026 Associate Embedded Software/Embedded Software Engineer | Buffalo NY | 2025-11-20 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/XMLNAME-2026-Associate-Embedded-Software-Embedded-Software-Engineer---Buffalo-NY_R10215183-1) |
+| WellSky | Associate Software Engineer | Overland Park, KS | 2025-11-20 | [Apply Here](https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933) |
+| PA Consulting | 2026 Industrial Placement - Digital - Digital & Data | Bristol, UK | 2025-11-20 | [Apply Here](https://jobs.smartrecruiters.com/PAConsulting/744000094587784) |
+| ServiceNow | Software Engineer | Santa Clara, CA | 2025-11-20 | [Apply Here](https://jobs.smartrecruiters.com/ServiceNow/744000094496491) |
+| TD Synnex | AI Automation Analysis - Placement | Basingstoke, UK | 2025-11-20 | [Apply Here](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Basingstoke-United-Kingdom/AI-Automation-Analysis---Placement_R44802) |
+| Clearway Energy | Analyst – Power Market Fundamentals | SF | 2025-11-20 | [Apply Here](https://job-boards.greenhouse.io/clearwayjobs/jobs/4960648007) |
+| Cisco | Hardware Engineer 1 - Full time - United States | Austin, TX, San Jose, CA, Carlsbad, CA, Acton, MA | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000108) |
+| Cisco | Software Engineer Security & Automation 1 | San Jose, CA | 2025-11-20 | [Apply Here](https://careers.cisco.com/global/en/job/2000123) |
+| Draper | MES Programmer | Cambridge, MA | 2025-11-20 | [Apply Here](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/MES-Programmer--Eyelit-_JR001892) |
+| SpaceX | Full Stack Software Engineer - Constellation Tools - Starlink | Redmond, WA | 2025-11-20 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8288010002) |
 | IXL Learning | Software Engineer | San Mateo, CA | 2025-11-19 | [Apply Here](https://www.ixl.com/company/jobs?gh_jid=8299912002) |
 | IXL Learning | Software Engineer | Raleigh, NC | 2025-11-19 | [Apply Here](https://www.ixl.com/company/jobs?gh_jid=8299922002) |
 | IXL Learning | Associate Product Manager – New Grad | San Mateo, CA | 2025-11-19 | [Apply Here](https://www.ixl.com/company/jobs?gh_jid=8299944002) |
@@ -30,13 +154,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sainsbury's | Trading Assistant - Shift | Northwich, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032257) |
 | Sainsbury's | Trading Assistant - Shift | Bury Saint Edmunds, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038469) |
 | Sainsbury's | Trading Assistant - Shift | Exeter, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038466) |
-| T-Mobile | Analyst - Credit Risk - Data Science & Modeling | Frisco, TX, Overland Park, KS | 2025-11-19 | [Apply Here](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Analyst--Credit-Risk---Data-Science---Modeling_REQ324699) |
 | S&P Global  | Financial Risk Analytics - Analyst | London, UK | 2025-11-19 | [Apply Here](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Financial-Risk-Analytics---Analyst_321616) |
 | L3Harris Technologies | Associate Software Engineer | Greenville, TX | 2025-11-19 | [Apply Here](https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1343978400/?ats=successfactors) |
 | L3Harris Technologies | Associate Software Engineer | Greenville, TX | 2025-11-19 | [Apply Here](https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-(Greenville,-TX)-TX-75402/1343978900/?ats=successfactors) |
 | TikTok | Product Manager Graduate - Tiktok Product-Search Growth - 2026 Start | San Jose, CA | 2025-11-19 | [Apply Here](https://lifeattiktok.com/search/7574148661151156485) |
 | Apple | Graphics FE Integration Engineer | Austin, TX | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200586882) |
-| Apple | Xcode Internals Engineer | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200586465) |
 | Apple | Virtual Memory Kernel Engineer | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200611790) |
 | Apple | Design Verification Engineer | Austin, TX | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200578743) |
 | Apple | Applied ML Engineer AI/ML Evaluation & Simulation | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200616700) |
@@ -50,6 +172,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Apple | Design Verification Engineer | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200619218) |
 | Apple | Physical Design Engineer - Machine Learning | Sunnyvale, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200608195) |
 | Apple | SoC Physical Design Engineer - STA/Timing | Sunnyvale, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200608528) |
+| JP Morgan Chase | Single Stock Flow Trading - Analyst | NYC | 2025-11-19 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210685265) |
 | Apple | Graphics - GPU - RTL Design Engineer | Austin, TX | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200565082) |
 | Apple | SOC Verification Engineer | SF | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200622425) |
 | Apple | SoC Physical Design Engineer - Pnr | Waltham, MA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200599509) |
@@ -58,7 +181,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Apple | SoC DFT Engineer | Austin, TX | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200623294) |
 | Apple | SoC DFT DV Engineer | Austin, TX | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200623238) |
 | Apple | Software Engineer - Core OS Telemetry | San Diego, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200623424) |
-| Apple | Front End Engineer - Apple Data Platforms | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200623468) |
 | Apple | Silicon Prototyping Engineer | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200624624) |
 | Apple | ASIC Design Engineer - Cache Controller | Santa Clara, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200624401) |
 | Apple | SoC Integration Engineer | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200626487) |
@@ -81,32 +203,22 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Apple | AIML Resident - Knowledge Answer Quality & Richness | Santa Clara, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200630798) |
 | Apple | AIML Resident - Privacy-Preserving Machine Learning - Priml | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200630780) |
 | Apple | AIML Resident - Machine Learning Research - Speech | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200630777) |
-| Fidelity Investments | Software Engineer | Westlake, TX | 2025-11-19 | [Apply Here](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Software-Engineer_2117099-1) |
 | Apple | Graphics FE Integration Engineer | Austin, TX | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200630324) |
 | Apple | Mixed-Signal IP Firmware Engineer | Cupertino, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200631244) |
 | Apple | AIML Triage Engineer - Machine Learning Platform and Technologies | Santa Clara, CA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200631366) |
-| Banner Health | Information Analyst | Phoenix, AZ | 2025-11-19 | [Apply Here](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Information-Analyst_R4424658) |
 | Apple | AIML Resident - Machine Intelligence Neural Design - Mind | Pittsburgh, PA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200630786) |
 | Apple | Reporting Analyst | London, UK | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200630086) |
 | Apple | Machine Learning Engineer - Visual Intelligence | Seattle, WA | 2025-11-19 | [Apply Here](https://jobs.apple.com/en-us/details/200586055) |
 | Ciena | Photonic Hardware Engineer – New Grad | Ottawa, ON, Canada | 2025-11-19 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Hardware-Engineer--NEW-GRAD-_R029485) |
-| Sainsbury's | Trading Assistant | Midlothian, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038438) |
-| Sainsbury's | Trading Assistant | Wellington, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038373) |
 | Sainsbury's | Trading Assistant | Wellington, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038354) |
-| Sainsbury's | Trading Assistant | Wellington, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038367) |
 | Sainsbury's | Trading Assistant | Wellington, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038360) |
-| Sainsbury's | Trading Assistant | Wellington, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038363) |
 | Sainsbury's | Trading Assistant | Wellington, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038349) |
 | Sainsbury's | Trading Assistant - Shift | United Kingdom | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038452) |
-| Sainsbury's | Trading Assistant | Bolton, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038352) |
-| Sainsbury's | Trading Assistant | Wimborne Minster, Wimborne, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038343) |
 | Sainsbury's | Trading Assistant | Newbury, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038294) |
 | Leidos | Junior Mobile Application Developer | Ashburn, VA | 2025-11-19 | [Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Jr-Mobile-Application-Developer_R-00170740) |
-| Sainsbury's | Trading Assistant - Shift | Cardiff, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038207) |
 | Leidos | Mobile Application Developer | Ashburn, VA | 2025-11-19 | [Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Mobile-Application-Developer_R-00170722) |
 | Newrez | Associate Enterprise Analytics Analyst | Ambler, PA | 2025-11-19 | [Apply Here](https://newrez.wd1.myworkdayjobs.com/NRZ/job/PA-Fort-Washington/Associate-Enterprise-Analytics-Analyst_R8923) |
 | Sainsbury's | Trading Assistant - Shift | Camberley, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037706) |
-| Sainsbury's | Trading Assistant - Shift | Weybridge, UK | 2025-11-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035712) |
 | Argonne National Laboratory | Postdoctoral Appointee - Cosmological Physics & Advanced Computing - CPAC | Woodridge, IL | 2025-11-19 | [Apply Here](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmological-Physics---Advanced-Computing--CPAC-_421370) |
 | The Hartford  | Associate Tech - Data Analytics - Cyber | Charlotte, NC, Hartford, CT | 2025-11-19 | [Apply Here](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Associate--Tech--Data--Analytics--Cyber--and-Operations-Leadership-Development-Program_R2522284) |
 | ASM Global | Stagehand | Florence, SC | 2025-11-19 | [Apply Here](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Florence-SC/Stagehand_R100117973) |
@@ -122,9 +234,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | EquipmentShare | Telematics Installer | Billings, MT | 2025-11-18 | [Apply Here](https://www.equipmentshare.com/careers/openings/?gh_jid=7405439) |
 | EquipmentShare | Telematics Installer | Olive Branch, MS | 2025-11-18 | [Apply Here](https://www.equipmentshare.com/careers/openings/?gh_jid=7406078) |
 | The Boeing Company | Entry Level F-15 Mission Systems Software Engineer | Hazelwood, MO | 2025-11-18 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-F-15-Mission-Systems-Software-Engineers_JR2025485333-1) |
-| Perle | Hebrew Language Specialist | Remote in Canada | 2025-11-18 | [Apply Here](https://ats.rippling.com/perle/jobs/d0cd62d8-b0dd-4a66-b6fa-c409ff8f575e) |
-| Perle | English Language Specialist | Remote in UK | 2025-11-18 | [Apply Here](https://ats.rippling.com/perle/jobs/0cc05737-4d7f-438c-9dc0-30bf6ce95fd4) |
-| Perle | Farsi Language Specialist | Remote in Canada | 2025-11-18 | [Apply Here](https://ats.rippling.com/perle/jobs/97f0c5b3-ffd2-4460-bceb-73bdc85e0eaf) |
 | RTX | Software Engineer 2 | Largo, FL | 2025-11-18 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-II--Onsite-_01807309) |
 | RTX | Software Engineer 2 - Software Engineer 2 | Aurora, CO | 2025-11-18 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591) |
 | SeatGeek | Software Engineer – New Grad | NYC | 2025-11-18 | [Apply Here](https://seatgeek.com/jobs/7406634?gh_jid=7406634) |
@@ -135,14 +244,12 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | MLabs | Software Engineer – New Grads | SF | 2025-11-18 | [Apply Here](https://apply.workable.com/mlabs/j/9FD344525A/apply) |
 | EOS | Data Center Repair Technician - Breakfix | New Albany, OH | 2025-11-18 | [Apply Here](https://eosits.com/company/careers/?gh_jid=8203852002) |
 | EOS | Data Center Repair Technician - Breakfix | Columbus, OH | 2025-11-18 | [Apply Here](https://eosits.com/company/careers/?gh_jid=8203856002) |
-| mthree | Développeur AL/ML : AL/ML Developer | Montreal, QC, Canada | 2025-11-18 | [Apply Here](https://mthree.com/careers/job/?gh_jid=4619174006) |
 | mthree | Junior Software Engineer | Wilmington, DE | 2025-11-18 | [Apply Here](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4619140006) |
 | Ocean Optics | Electronics Field Service Engineer | Oxford, UK | 2025-11-18 | [Apply Here](https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Electronics-Field-Service-Engineer---Based-Swindon---M4---M5-Corridor_JR25_001160) |
 | RELX | Product Manager 1 - Insurance | Alpharetta, GA | 2025-11-18 | [Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Product-Manager-I--Insurance--Hybrid-_R104428-1) |
 | PennState University | Research Assistant | State College, PA | 2025-11-18 | [Apply Here](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-w--Dr-Squicciarini_REQ_0000073686) |
 | OPENLANE | Junior Software Engineer | Remote in USA, Remote in Canada | 2025-11-18 | [Apply Here](https://kar.wd1.myworkdayjobs.com/en-US/OPENLANE_Careers/job/Remote-United-States/Junior-Software-Engineer_R-253158) |
 | Parallel Wireless | Junior RT Software Engineer 5G Stack | Nashua, NH | 2025-11-18 | [Apply Here](https://jobs.lever.co/parallelwireless/0608a395-7c6d-4e01-acfe-ade970b991dd/) |
-| Apple | Software Engineer, IS&T Early Career | Sunnyvale, CA | 2025-11-18 | [Apply Here](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 | Zoom | Software Development | Remote in USA | 2025-11-18 | [Apply Here](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) |
 | Visa | Graduate Software Engineer | Cambridge, UK | 2025-11-18 | [Apply Here](https://jobs.smartrecruiters.com/Visa/744000094151680) |
 | Major League Baseball | Video & Technology Associate | Reading, PA, Allentown, PA, Lakewood, NJ, Clearwater, FL | 2025-11-18 | [Apply Here](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003) |
@@ -157,7 +264,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | JP Morgan Chase | Emerging Talent Software Engineers | Tampa, FL, Plano, TX, Columbus, OH, NYC, Wilmington, DE | 2025-11-18 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210683258) |
 | Sainsbury's | Trading Assistant | Blackpool, UK | 2025-11-18 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037476) |
 | Sainsbury's | Trading Assistant - Shift | Oxford, UK | 2025-11-18 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037221) |
-| VF | Vans: Associate Merchandiser - Accessories | Newport Beach, CA | 2025-11-18 | [Apply Here](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--California--Costa-Mesa-HQ---VAN/Vans--Associate-Merchandiser--Accessories_R-20251114-0047-1) |
 | Bank of America | Client Quantitative Analyst 1 | Plano, TX, Newark, NJ, Charlotte, NC, Fort Worth, TX, Greensboro, NC, Phoenix, AZ, Chandler, AZ, Addison, TX | 2025-11-18 | [Apply Here](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Plano/Client-Quantitative-Analyst-I_25045539) |
 | Dave & Busters | Games Support Technician | Davenport, IA | 2025-11-18 | [Apply Here](https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Davenport-IA/Games-Support-Technician_R-1009792) |
 | American Express | Data Engineer - Digital Workplace | Phoenix, AZ | 2025-11-18 | [Apply Here](https://aexp.eightfold.ai/careers/job/38763370) |
@@ -170,7 +276,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Lucid | Associate Product Manager | Salt Lake City, UT | 2025-11-18 | [Apply Here](https://job-boards.greenhouse.io/lucidsoftware/jobs/5705156004) |
 | Lucid | Associate Product Manager | Raleigh, NC | 2025-11-18 | [Apply Here](https://job-boards.greenhouse.io/lucidsoftware/jobs/5705157004) |
 | Capital One | Senior Associate - Product Management - Card Intelligence | McLean, VA, Richmond, VA, Chicago, IL, NYC | 2025-11-18 | [Apply Here](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Associate--Product-Management--Card-Intelligence_R230300-2) |
-| KBR | Engineering Technician | Aberdeen, MD | 2025-11-18 | [Apply Here](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Aberdeen-Proving-Ground-Maryland/Engineering-Technician_R2115383) |
 | Jerry | Software Engineer 1 | Toronto, ON, Canada | 2025-11-18 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/a855f3e6-943e-4377-a0e5-c04b496a61d1/application) |
 | Jerry | Software Engineer 1 | Palo Alto, CA | 2025-11-18 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/87a09f6d-a884-4ca2-8e8f-11c577f40688/application) |
 | Jerry | Software Engineer - Entry | Toronto, ON, Canada | 2025-11-18 | [Apply Here](https://jobs.ashbyhq.com/jerry.ai/bd17c081-49c9-4699-ad2d-3624aafd054b/application) |
@@ -179,15 +284,10 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Major League Baseball | Associate – Amateur Scouting | NYC | 2025-11-17 | [Apply Here](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--Amateur-Scout_R1365) |
 | The Boeing Company | Systems Engineer - Operations/Systems Analyst | Arlington, VA | 2025-11-17 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025481489-1) |
 | Nasdaq | Product Management Analyst | Toronto, ON, Canada | 2025-11-17 | [Apply Here](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---Toronto---Ontario/Product-Management-Analyst_R0024215) |
-| Databricks | AI Tooling Program Engineer | United States | 2025-11-17 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=8295414002) |
-| Databricks | AI Tooling Program Engineer | United States | 2025-11-17 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=8295410002) |
-| Databricks | AI Tooling Program Engineer | United States | 2025-11-17 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=8151595002) |
 | Blue Origin | Lunar Operations - Structures Technicians - All Levels | Florida | 2025-11-17 | [Apply Here](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Lunar-Operations---Structures-Technicians--All-Levels-_R54615) |
 | Ford Motor Company | Student Worker Program - Embedded Application Developer | Irvine, CA | 2025-11-17 | [Apply Here](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/54667) |
 | RTX | Software Engineering 2 - Rapid Lead | Tucson, AZ | 2025-11-17 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ872-RMS-AP-Bldg-914-1151-East-Hermans-Road-Building-914-Tucson-AZ-85756-USA/Software-Engineering-II--RAPID-Lead_01806776-1) |
 | RTX | Systems Engineer 2 | St. Petersburg, FL | 2025-11-17 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Systems-Engineer-II--Onsite-_01807181) |
-| RTX | Systems Engineer 1 | Indianapolis, IN | 2025-11-17 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Systems-Engineer-I---Onsite--Indianapolis--IN_01806739) |
-| RTX | Software Engineer 1 | Aurora, CO | 2025-11-17 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/Software-Engineer-I--Onsite-_01807223) |
 | Standard Aero | Data Analytics Development | St. John's, NL, Canada | 2025-11-17 | [Apply Here](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7886) |
 | Apex Fintech Solutions | Software Engineer 1 - Aldp | Austin, TX | 2025-11-17 | [Apply Here](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103499) |
 | Apex Fintech Solutions | Associate Product Analyst - Product Analytics | Austin, TX | 2025-11-17 | [Apply Here](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Associate-Product-Analyst_JR103820) |
@@ -195,10 +295,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | The Wharton School | Pre-Doctoral Research Specialist | Philadelphia, PA | 2025-11-17 | [Apply Here](https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114193) |
 | The Wharton School | Pre-Doctoral Research Specialist | Philadelphia, PA | 2025-11-17 | [Apply Here](https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Accounting-Dept/Pre-Doctoral-Research-Specialist_JR00114176) |
 | Cardinal Health | Senior Analyst - Application Development and Maintenance | Indiana | 2025-11-17 | [Apply Here](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170761) |
-| Sainsbury's | Trading Assistant | Whiteley, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038050) |
-| Sainsbury's | Trading Assistant - Shift | Harrogate, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038025) |
 | Sainsbury's | Trading Assistant - Local | United Kingdom | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037965) |
-| Sainsbury's | Trading Assistant - Shift | Oxford, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037961) |
 | Sainsbury's | Trading Assistant | Ipswich, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037951) |
 | Sainsbury's | Trading Assistant | Workington, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034554) |
 | Genuine Parts Company | HSC-Service Technician | Pompano Beach, FL | 2025-11-17 | [Apply Here](https://genpt.wd1.myworkdayjobs.com/Careers/job/Pompano-Beach-FL-USA/HSC--Service-Technician_R25_0000041228) |
@@ -217,8 +314,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | RTX | Engineering Services & Support Technician | Ottawa, ON, Canada | 2025-11-17 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/104-30-Edgewater-Drive-Ottawa-Ontario-K2L-1V8-Canada/Engineering-Services---Support-Technician--T1---Onsite-_01807033) |
 | L3Harris Technologies | Associate – Systems Engineer | Ottawa, ON, Canada | 2025-11-17 | [Apply Here](https://jobs.l3harris.com/job/Ottawa-Associate,-Systems-Engineer-ON-K2H-9N6/1343330400/?ats=successfactors) |
 | University of Virginia | CCL Digital Humanities and Engagement SRA - Student Wage | Charlottesville, VA | 2025-11-17 | [Apply Here](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1) |
-| Sainsbury's | Trading Assistant | Blackpool, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037896) |
-| Sainsbury's | Trading Assistant | Blackpool, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037891) |
 | Sainsbury's | Trading Assistant - Shift | Winchester, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037883) |
 | Sainsbury's | Trading Assistant | Croydon, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400026693) |
 | Sainsbury's | Trading Assistant | Croydon, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400026694) |
@@ -226,10 +321,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Guidewire | Associate Product Manager – New Graduate | Remote in Canada | 2025-11-17 | [Apply Here](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Remote/Associate-Product-Manager---New-Graduate_JR_13948) |
 | RTX | Electronics Technician | Solihull, UK | 2025-11-17 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/Goodrich-Control-Systems-The-Radleys-Marston-Green-Birmingham-B33-0HZ/Electronics-Technician_01805668) |
 | CVS Health | Innovation & Technology Leadership Development Program - Aetna Product Management - Summer 2026 | Wheeling, IL, Smithfield, RI, Scottsdale, AZ, Hartford, CT, NYC, Irving, TX | 2025-11-17 | [Apply Here](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Innovation---Technology-Leadership-Development-Program--Aetna-Product-Management----Summer-2026_R0771788) |
+| Astreya | Data Center Network Modeling Technician 4 | Boulder, CO | 2025-11-17 | [Apply Here](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013743) |
+| Astreya | Data Center Network Modeling Technician 4 | Boulder, CO | 2025-11-17 | [Apply Here](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Boulder-CO/Data-Center-Network-Modeling-Technician-IV_R0013744) |
 | Fermilab | Research Associate/ECA | Batavia, IL | 2025-11-17 | [Apply Here](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Research-Associate-ECA_R_009154) |
 | Sainsbury's | Trading Assistant | Winchester, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037840) |
 | Sainsbury's | Trading Assistant | Winchester, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037841) |
-| Sainsbury's | Trading Assistant - Shift | Oxford, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037684) |
 | Circle | New Grad Software Engineer - Backend 2026 | Salt Lake City, UT, Boston, MA, Seattle, WA, Washington, DC, SF, Austin, TX, LA, Miami, FL, Chicago, IL, NYC, Phoenix, AZ, Atlanta, GA | 2025-11-17 | [Apply Here](https://careers.circle.com/us/en/job/JR100011-EG) |
 | RTX | SETC Effectors Systems Engineer 1 | Tucson, AZ | 2025-11-17 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/SETC-Effectors-Systems-Engineer-I_01806514-1) |
 | Citi | Technology, Production Support, Full-Time Analyst | New York, NY | 2025-11-17 | [Apply Here](https://jobs.citi.com/job/new-york/technology-production-support-full-time-analyst-new-york-new-jersey-usa-2026/287/88356984496) |
@@ -241,13 +337,13 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sainsbury's | Trading Assistant | Hereford, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037811) |
 | Sainsbury's | Trading Assistant | Hereford, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037793) |
 | Sainsbury's | Trading Assistant - Local | Nottingham, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037788) |
-| Sainsbury's | Trading Assistant - Shift | Edinburgh, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037741) |
 | Sainsbury's | Trading Assistant - Shift | Bracknell, UK | 2025-11-17 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037764) |
 | Cardinal Health | Senior Analyst - Application Development and Maintenance | Indiana | 2025-11-16 | [Apply Here](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Senior-Analyst--Application-Development-and-Maintenance_20170673) |
 | ION Group | Rotational Analyst - London | London, UK | 2025-11-16 | [Apply Here](https://jobs.lever.co/ion/d1ea10e9-c568-427a-ac83-98f8b2706880/apply) |
 | Sainsbury's | Trading Assistant - Shift | Crawley, UK | 2025-11-16 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037710) |
 | Sainsbury's | Trading Assistant - Shift | Crawley, UK | 2025-11-16 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035840) |
 | Sainsbury's | Trading Assistant - Shift | Crawley, UK | 2025-11-16 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037711) |
+| Sainsbury's | Trading Assistant - Shift | Trowbridge, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037642) |
 | Sainsbury's | Trading Assistant - Shift | Trowbridge, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037693) |
 | Sainsbury's | Trading Assistant - Shift | Peterborough, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037575) |
 | Sainsbury's | Trading Assistant - Shift | Trowbridge, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037696) |
@@ -257,10 +353,12 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sainsbury's | Trading Assistant - Shift | Glasgow, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037572) |
 | Thales | Firmware Research Engineer | Reading, UK | 2025-11-15 | [Apply Here](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Reading/Firmware-Research-Engineer_R0301492-2) |
 | Rapid7 | Business Systems Analyst | Boston, MA | 2025-11-15 | [Apply Here](https://mymoose.wd1.myworkdayjobs.com/careers/job/US---MA---Boston/Business-Systems-Analyst_R10501) |
+| Sainsbury's | Trading Assistant | Aldershot, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037545) |
+| Sainsbury's | Trading Assistant | Aldershot, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037544) |
+| CDW Corporation | Product Data Subscriptions Specialist - Microsoft | Chicago, IL | 2025-11-15 | [Apply Here](https://cdw.wd5.myworkdayjobs.com/careers/job/Chicago--Adams---IL/Solution-Specialist--Microsoft_R25_00003246) |
 | Sainsbury's | Trading Assistant - Shift | Basingstoke, UK | 2025-11-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037495) |
 | Nuro | Senior Software Engineer - Networking - Teleoperation | Mountain View, CA | 2025-11-15 | [Apply Here](https://nuro.ai/careersitem?gh_jid=7398839) |
 | Nuro | Fleet Technician - Santa Clara | Santa Clara, CA | 2025-11-15 | [Apply Here](https://nuro.ai/careersitem?gh_jid=7396396) |
-| Arjo | Field Service Engineer | London, UK | 2025-11-15 | [Apply Here](https://jobs.arjo.com/job/South-Region-UK,-Field-based-(-Field-Service-Engineer-South-London,-UK-Lond/1263814501/?ats=successfactors) |
 | ASSA ABLOY | Installation Technician | Elk Grove Village, IL | 2025-11-15 | [Apply Here](https://assaabloy.jobs2web.com/job/Elk-Grove-Village-Installation-Technician-IL-60007/1267860001/?ats=successfactors) |
 | ASSA ABLOY | Order Processing Technician 1 | Mason City, IA | 2025-11-15 | [Apply Here](https://assaabloy.jobs2web.com/job/Mason-City-Order-Processing-Technician-I-IA-50401/1260586501/?ats=successfactors) |
 | ASSA ABLOY | Associate Product Engineer | Mason City, IA | 2025-11-15 | [Apply Here](https://assaabloy.jobs2web.com/job/Mason-City-Associate-Product-Engineer-IA-50401/1233045501/?ats=successfactors) |
@@ -276,10 +374,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Rolls Royce | Digitalisation - Placement Year | Solihull, UK | 2025-11-15 | [Apply Here](https://jobs.bmwgroup.com/job/Coleshill-Digitalisation-Placement-Year/1251904201/?ats=successfactors) |
 | Rolls Royce | Data Analytics & Logistics | Portsmouth, UK | 2025-11-15 | [Apply Here](https://jobs.bmwgroup.com/job/Goodwood-Data-Analytics-&-Logistics-Placement-Year/1250576001/?ats=successfactors) |
 | Allegiant Air | Product Manager 1 | Las Vegas, NV | 2025-11-15 | [Apply Here](https://jobs.lever.co/allegiantair/eae0d56b-4187-4c46-b595-700fef1c69ab/apply) |
-| Kensington | Product Associate | Toronto, ON, Canada | 2025-11-15 | [Apply Here](https://job-boards.greenhouse.io/kensingtontours/jobs/4982201007) |
 | Oracle | Advanced Degree Product Manager - Oracle Health & Analytics | United States | 2025-11-15 | [Apply Here](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315136) |
-| TD Bank | Associate Software Engineer | Toronto, ON, Canada | 2025-11-15 | [Apply Here](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1456531-1) |
-| TD Bank | Machine Learning Engineer 1 | Toronto, ON, Canada | 2025-11-15 | [Apply Here](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1456493) |
 | Beth Israel Lahey Health | Research Data Coordinator-Cardiovascular Research | Boston, MA | 2025-11-15 | [Apply Here](https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Data-Coordinator--Cardiovascular-Research--Nezafat-Lab_JR87230) |
 | Thermo Fisher Scientific | Field Service Engineer | Watford, UK | 2025-11-15 | [Apply Here](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hemel-Hempstead-United-Kingdom/Field-Service-Engineer_R-01333489) |
 | Genuine Parts Company | Field Services Support | Nashville, TN | 2025-11-15 | [Apply Here](https://genpt.wd1.myworkdayjobs.com/Careers/job/Nashville-TN-USA/Field-Services-Support_R25_0000009052) |
@@ -296,9 +391,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Peraton | Software Engineering - Associate | Reston, VA | 2025-11-14 | [Apply Here](https://careers-peraton.icims.com/jobs/161382/job?mobile=true&needsRedirect=false) |
 | Rose Rocket | Associate Product Manager | Toronto, ON, Canada | 2025-11-14 | [Apply Here](https://jobs.ashbyhq.com/rose%20rocket/db63734f-b398-440f-8366-8d339bc8cc72/application) |
 | Morse Micro | Graduate Firmware Engineer | Cambridge, UK | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/morsemicro/jobs/8131720002) |
-| SoundCloud | Associate Product Marketing Manager | LA, NYC | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/soundcloud71/jobs/8288324002) |
 | Uhaul | Hitch Professional | Grande Prairie, AB, Canada | 2025-11-14 | [Apply Here](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Grand-Prairie-Alberta/Hitch-Professional_R232617) |
-| Intuit | Software Engineer 1 | San Diego, CA | 2025-11-14 | [Apply Here](https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/88424693024) |
 | Pariveda Solutions | Qlik Developer | Remote in USA | 2025-11-14 | [Apply Here](https://careers-skyepoint.icims.com/jobs/3033/job?mobile=true&needsRedirect=false) |
 | Agilent Technologies | Embedded Systems Engineer | Santa Clara, CA | 2025-11-14 | [Apply Here](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-CA-Santa-Clara/Embedded-Systems-Engineer_4034633) |
 | Thoughtworks | Graduate Developer | Toronto, ON, Canada | 2025-11-14 | [Apply Here](https://www.thoughtworks.com/careers/jobs/7397113?gh_jid=7397113) |
@@ -329,7 +422,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | mthree | Entry Level - C Software Developer | Tampa, FL | 2025-11-14 | [Apply Here](https://mthree.com/careers/job/?gh_jid=4602566006) |
 | mthree | Fullstack Developer | Montreal, QC, Canada | 2025-11-14 | [Apply Here](https://mthree.com/careers/job/?gh_jid=4613766006) |
 | Man Group | Associate Engineer - Enterprise Engineering | London, UK | 2025-11-14 | [Apply Here](https://job-boards.eu.greenhouse.io/mangroup/jobs/4709111101) |
-| AGILE Space Industries | Test Operations Technician | Dolores, CO | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/agilespaceindustries/jobs/4630313005) |
 | KLA Corporation | Graduate Software Engineer | Cardiff, UK | 2025-11-14 | [Apply Here](https://kla.wd1.myworkdayjobs.com/search/job/Newport-United-Kingdom/Graduate-Software-Engineer_2531886-1) |
 | Valkyrie Trading | May 2026 Trading Boot Camp | Chicago, IL | 2025-11-14 | [Apply Here](https://jobs.lever.co/valkyrietrading/9c960962-c628-4aa5-9343-82c545476da0/apply) |
 | Louisiana State University (LSU) | Postdoctoral Researcher | Baton Rouge, LA | 2025-11-14 | [Apply Here](https://lsu.wd1.myworkdayjobs.com/LSU/job/0303-SL-Lockett-Hall/Postdoctoral-Researcher_R00111109) |
@@ -346,31 +438,24 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Prudential Financial | Associate Software Engineer , Retirement Strategies | Newark, NJ | 2025-11-14 | [Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ-USA/Associate-Software-Engineer---Retirement-Strategies_R-122407-2) |
 | Honeywell | Graduate – R&D Engineer - m/f/d - Months | Neukirchen-Vluyn, Germany | 2025-11-14 | [Apply Here](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/127697) |
 | Genuine Parts Company | Motion Ai-Application Engineer | Anaheim, CA | 2025-11-14 | [Apply Here](https://genpt.wd1.myworkdayjobs.com/Careers/job/Anaheim-CA-USA/Motion-Ai--Application-Engineer_R25_0000033255) |
-| Sainsbury's | Trading Assistant - Shift | Girvan, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037307) |
-| Sainsbury's | Trading Assistant | Exeter, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037300) |
 | Sainsbury's | Trading Assistant | Exeter, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037301) |
 | John Deere | Student - Product Engineering | Austin, TX, Grimes, IA, Davenport, IA | 2025-11-14 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137477652429) |
-| CACI | Data Analyst - Systems Analysis Engineer/Scientist Support | Norco, CA | 2025-11-14 | [Apply Here](https://caci.wd1.myworkdayjobs.com/external/job/US-CA-Norco/Data-Analyst--Systems-Analysis-Engineer-Scientist-Support-_319036) |
 | Nielsen | Digital Data Research Support | Manchester, UK | 2025-11-14 | [Apply Here](https://jobs.smartrecruiters.com/NielsenIQ/744000089945155) |
 | Dave & Busters | Game Support Technician | Livonia, MI | 2025-11-14 | [Apply Here](https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Livonia-MI/Game-Support-Technician_R-1008908) |
 | Auto-Owners Insurance | Business Intelligence Developer | East Lansing, MI | 2025-11-14 | [Apply Here](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_10771) |
 | Sainsbury's | Trading Assistant - Shift | Liverpool, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037241) |
-| Sainsbury's | Trading Assistant - Shift | Exeter, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037229) |
 | Intuit | Software Engineer 1 | Mountain View, CA | 2025-11-14 | [Apply Here](https://jobs.intuit.com/job/mountain-view/full-stack-swe1/27595/88401821136) |
 | General Dynamics Information Technology | UiPath Robotic Process Automation Developer Associate | Louisiana | 2025-11-14 | [Apply Here](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ210208-1) |
-| Medtronic | In-House Repair Representative 1 | Jacksonville, FL | 2025-11-14 | [Apply Here](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Jacksonville-Florida-United-States-of-America/In-House-Repair-Rep-I_R52350) |
 | Banco Bilbao Vizcaya Argentaria | Equity Sales Trading Analyst | London, UK | 2025-11-14 | [Apply Here](https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Equity-Sales-Trading-Analyst_JR00086301-2) |
+| Parkhill | Senior Lidar Specialist | Norman, OK | 2025-11-14 | [Apply Here](https://careers-parkhill.icims.com/jobs/1350/job?mobile=true&needsRedirect=false) |
 | NVIDIA | System Design Engineer | Santa Clara, CA | 2025-11-14 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2025_JR2006011) |
 | NVIDIA | Architecture Energy Modeling Engineer | Austin, TX | 2025-11-14 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Architecture-Energy-Modeling-Engineer---New-College-Grad-2025_JR2007279) |
-| Manulife Financial | Investment Analyst - Fixed Income | London, UK | 2025-11-14 | [Apply Here](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/London-UK/Investment-Analyst---Fixed-Income_JR25092016) |
 | CAI | Toll Equipment Technician 1 | Pompano Beach, FL | 2025-11-14 | [Apply Here](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Toll-Equipment-Technician-I_R6625) |
 | GM financial | Software Development Engineer 1 | Arlington, TX, Las Colinas, Irving, TX, Fort Worth, TX, Irving, TX | 2025-11-14 | [Apply Here](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1309) |
 | Five Rings Capital | Software Development Intensive Program | NYC | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/fiveringsllc/jobs/4988120008) |
 | BSE Global | Digital Fellow | Brooklyn, NY | 2025-11-14 | [Apply Here](https://www.bseglobal.net/job/?gh_jid=7519280003&gh_jid=7519280003) |
-| Sainsbury's | Trading Assistant - Shift | Exeter, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037230) |
 | Sainsbury's | Trading Assistant - Shift | Wellington, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037213) |
 | Sainsbury's | Trading Assistant - Shift | Bury Saint Edmunds, UK | 2025-11-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037232) |
-| GE Vernova | Assistant Commissioning Engineer | Stoke-on-Trent, UK | 2025-11-14 | [Apply Here](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Assistant-Commissioning-Engineer_R5024870-1) |
 | PagerDuty | Product Manager - App Platform | Remote in USA | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/pagerduty/jobs/5691989004) |
 | Maven Securities | Graduate Developer Programme | Chicago, IL | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/emergingtalent/jobs/7204281) |
 | Maven Securities | Graduate Trader | London, UK | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/emergingtalent/jobs/7267544) |
@@ -378,7 +463,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Northrop Grumman | Software Engineer - Level 2 | Halethorpe, MD, Fairfax, VA | 2025-11-14 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/Software-Engineer---Level-2_R10214417-1) |
 | Northrop Grumman | Associate Software Engineer/Software Engineer - Space Systems | El Segundo, CA | 2025-11-14 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Software-Engineer-Software-Engineer---PGS-Space-Systems-_R10210446) |
 | Prudential Financial | Associate Software Engineer - Retirement Strategies | Newark, NJ | 2025-11-14 | [Apply Here](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Associate-Software-Engineer---Retirement-Strategies_R-122407-2) |
-| The Boeing Company | Entry-Level Software Engineer-Embedded | Long Beach, CA | 2025-11-14 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Entry-Level-Software-Engineer-Embedded_JR2025483359) |
 | The Boeing Company | Software Engineer-Embedded - Embedded | Long Beach, CA | 2025-11-14 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Software-Engineer-Embedded--Embedded-_JR2025483587-1) |
 | Avis Budget Group | Accelerate - Business Insights Analyst - Post Graduation Opportunity | Parsippany-Troy Hills, NJ | 2025-11-14 | [Apply Here](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Business-Insights-Analyst--Post-Graduation-Opportunity-_R0181082) |
 | Neuralink | Manufacturing Technician | Austin, TX | 2025-11-14 | [Apply Here](https://boards.greenhouse.io/neuralink/jobs/6258222003) |
@@ -389,14 +473,12 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Southern Company | Data Analytics Analyst - Load Research | Atlanta, GA | 2025-11-14 | [Apply Here](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15710) |
 | Fanatics | Software Engineer 1 | Remote in UK | 2025-11-14 | [Apply Here](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25522) |
 | mthree | Entry Level Full-Stack Developer | Montreal, QC, Canada | 2025-11-14 | [Apply Here](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613045006) |
-| Man Group | Technology Rotational Program - Associate Engineer | Boston, MA | 2025-11-14 | [Apply Here](https://job-boards.eu.greenhouse.io/mangroup/jobs/4710813101) |
 | Booz Allen | Data Scientist | McLean, VA | 2025-11-14 | [Apply Here](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0229416) |
 | PURE Insurance | Product Development Specialist | Chicago, IL | 2025-11-14 | [Apply Here](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Chicago/Product-Development-Specialist_R2529) |
 | PennState University | Student Researcher | State College, PA | 2025-11-14 | [Apply Here](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Researcher_REQ_0000073588-2) |
 | Acuity | Engineering Technician Senior | Brossard, QC, Canada | 2025-11-13 | [Apply Here](https://careers.acuityinc.com/job/Brossard-Engineering-Technician-Senior-Queb-J4Y-0C4/1342591100/?ats=successfactors) |
 | Adobe | University Graduate - AI Context Engineer | SF, San Jose, CA | 2025-11-13 | [Apply Here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---AI-Context-Engineer_R158639) |
 | American Express | Software Engineer 1 | Phoenix, AZ | 2025-11-13 | [Apply Here](https://aexp.eightfold.ai/careers/job/38773050) |
-| State Street | Investment Management - Client Trading - Associate 2 | Boston, MA | 2025-11-13 | [Apply Here](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management---Client-Trading--Associate-2_R-777804) |
 | Citigroup | Technology - Application Development - Placement Analyst | Belfast, UK | 2025-11-13 | [Apply Here](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast--2026_25920708) |
 | Citigroup | Technology - Application Development - Full Time Analyst | Belfast, UK | 2025-11-13 | [Apply Here](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Technology---Application-Development--Full-Time-Analyst--Belfast--2026_25920692) |
 | General Dynamics Mission Systems | Entry Level Systems Engineer - SLCMN Program | Pittsfield, MA | 2025-11-13 | [Apply Here](https://careers-gdms.icims.com/jobs/69210/job?mobile=true&needsRedirect=false) |
@@ -405,16 +487,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | General Dynamics Mission Systems | Systems Engineer – Entry Level | Huntsville, AL | 2025-11-13 | [Apply Here](https://careers-gdms.icims.com/jobs/69258/job?mobile=true&needsRedirect=false) |
 | Dillards | Electronics Repair Technician | Little Rock, AR | 2025-11-13 | [Apply Here](https://job-boards.greenhouse.io/dillards/jobs/4728351007) |
 | Sainsbury's | Trading Assistant - Shift | Livingston, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036932) |
-| Sainsbury's | Trading Assistant - Shift | Livingston, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036929) |
-| Sainsbury's | Trading Assistant - Shift | Livingston, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036931) |
-| Sainsbury's | Trading Assistant - Local | United Kingdom | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037060) |
 | Sainsbury's | Trading Assistant | Gloucester, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037096) |
 | Sainsbury's | Trading Assistant - Shift | Basingstoke, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036952) |
 | Sainsbury's | Trading Assistant - Local | Bangor, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036796) |
 | Sainsbury's | Trading Assistant - Shift | Exeter, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036599) |
-| Susquehanna International Group (SIG) | Quantitative Systematic Trader | Ardmore, PA | 2025-11-13 | [Apply Here](https://careers-sig.icims.com/jobs/9439/job?mobile=true&needsRedirect=false) |
 | Brookhaven Lab | Postdoctoral Research Associate - Partial Oxidation by Copper Catalysts | Shirley, NY | 2025-11-13 | [Apply Here](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate---Partial-Oxidation-by-Copper-Catalysts_JR102141) |
-| The Boeing Company | Systems Engineer | Daytona Beach, FL | 2025-11-13 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Systems-Engineer--Associate-or-Experienced-_JR2025479044-1) |
 | Grayce | Graduate Data Analyst | London, UK | 2025-11-13 | [Apply Here](https://apply.workable.com/grayce/j/0B7AF9BAB8/apply) |
 | Aritzia | Product Associate - Technical Development | Vancouver, BC, Canada | 2025-11-13 | [Apply Here](https://aritzia.wd3.myworkdayjobs.com/External/job/Support-Office-Vancouver/Technical-Development-Associate_R0021228) |
 | Trend Micro | Software Developer | Ottawa, ON, Canada | 2025-11-13 | [Apply Here](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Software-Egineer_R0008536) |
@@ -447,7 +524,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Citigroup | Technology - Application Development - Full Time Analyst | Mississauga, ON, Canada | 2025-11-13 | [Apply Here](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Full-Time-Analyst--Mississauga--Canada-2026_25920345) |
 | Marriott International | Product Analyst | Bethesda, MD | 2025-11-13 | [Apply Here](https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25181891) |
 | Marmon Holdings | Data Analyst | Milwaukee, WI | 2025-11-13 | [Apply Here](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Analyst_JR0000039156) |
-| Nordstrom | Engineer 1 - Full-Stack | Seattle, WA | 2025-11-13 | [Apply Here](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Full-Stack--Store-Experience-Technology--Hybrid---Seattle--WA-_R-799099) |
 | Raymond James Financial | Senior ServiceNow Engineer | St. Petersburg, FL | 2025-11-13 | [Apply Here](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/ITAM-Analyst_R-0007507) |
 | Sainsbury's | Trading Assistant - Shift | Winchester, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036863) |
 | Sainsbury's | Trading Assistant | Essex, UK | 2025-11-13 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035755) |
@@ -472,14 +548,12 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | iSpot.tv | Software Development Engineer 1 | Bellevue, WA | 2025-11-12 | [Apply Here](https://job-boards.greenhouse.io/ispottv/jobs/4629254005) |
 | Susquehanna International Group (SIG) | Sports Trader | Philadelphia, PA | 2025-11-12 | [Apply Here](https://careers-sig.icims.com/jobs/8860/job?mobile=true&needsRedirect=false) |
 | Hillenbrand | Electrical Fitter | Peterborough, UK | 2025-11-12 | [Apply Here](https://hillenbrand.wd3.myworkdayjobs.com/global/job/Peterborough-United-kingdom/Electrical-Fitter_R-7757) |
-| Corteva | Data Analyst | Des Moines, IA | 2025-11-12 | [Apply Here](https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Data-Analyst_244191W-1) |
 | RTX | Systems Engineer 1 | St. Petersburg, FL | 2025-11-12 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Systems-Engineer-I--Onsite-_01803787) |
 | Databricks | Software Engineer New Grad - 2026 Start | Vancouver, BC, Canada | 2025-11-12 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=6866542002) |
 | Optiver | Futurefocus Tech 2026 | Chicago, IL | 2025-11-12 | [Apply Here](https://optiver.com/working-at-optiver/career-opportunities/8286208002/?gh_jid=8286208002) |
 | The Travelers Companies | Consultant - Data Management | Hartford, CT | 2025-11-12 | [Apply Here](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Consultant--Data-Management_R-47949) |
 | Optiver | Futurefocus Quants - Trading & Research | Chicago, IL | 2025-11-12 | [Apply Here](https://optiver.com/working-at-optiver/career-opportunities/8175264002/?gh_jid=8175264002) |
 | University of Chicago | Programming Analyst | Chicago, IL | 2025-11-12 | [Apply Here](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Programming-Analyst_JR31969) |
-| Motorola | Entry-Level Software Engineer | Chicago, IL, Hoffman Estates, IL | 2025-11-12 | [Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Entry-Level-Software-Engineer_R56026) |
 | CenturyLink | Telecommunications Technician | Cape Coral, FL | 2025-11-12 | [Apply Here](https://internaljobs.centurylink.com/job/CAPE-CORAL-Telecommunications-Technician-FL-33904/1342204300/?ats=successfactors) |
 | L2TMedia | Careers at L2T | Chicago, IL | 2025-11-12 | [Apply Here](https://l2tmediallc.applytojob.com/apply/ixfoMJ75hr/Technical-Administrative-Support-Coordinator) |
 | Accenture | Data and AI Analyst | Huntsville, AL | 2025-11-12 | [Apply Here](https://boards.greenhouse.io/accenturefederalservices/jobs/4617714006) |
@@ -495,7 +569,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sandisk | Staff Engineer – New College Graduate - Product Development Engineering - Program Management | Milpitas, CA | 2025-11-12 | [Apply Here](https://jobs.smartrecruiters.com/Sandisk/744000091901566) |
 | MultiCare Health System | Data Consultant 1 | Remote in USA | 2025-11-12 | [Apply Here](https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Data-Consultant-I_JR63714) |
 | Flagstone Capital | Associate Fullstack Engineer | London, UK | 2025-11-12 | [Apply Here](https://job-boards.greenhouse.io/flagstone/jobs/8125911002) |
-| NVIDIA | CPU Design Engineer | Texas, Santa Clara, CA, Durham, NC, Hillsboro, OR, Massachusetts | 2025-11-12 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Engineer---New-College-Grad-2026_JR2007624) |
 | JP Morgan Chase | Applied AI ML Associate - AI for Operations - Customer Onboarding and Documentation | London, UK | 2025-11-12 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684418) |
 | Leidos | PCBA Soldering Technician | Huntsville, AL | 2025-11-12 | [Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309) |
 | Royal Bank of Canada | Analyst – Futures E-Trading Connectivity and Support | Chicago, IL | 2025-11-12 | [Apply Here](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Chicago-Illinois-United-States-of-America/Analyst---Futures-E-Trading-Connectivity-and-Support_R-0000148370) |
@@ -518,6 +591,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | GHD | Graduate Scientist | Southfield, MI | 2025-11-12 | [Apply Here](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24220) |
 | The Boeing Company | Entry Level Product Data Management Specialist | Hazelwood, MO | 2025-11-12 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Entry-Level-Product-Data-Management-Specialist_JR2025468110) |
 | Analog Devices | Associate Mechatronics Engineer | Beaverton, OR | 2025-11-12 | [Apply Here](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Associate-Mechatronics-Engineer_R257066) |
+| RTX | Systems Engineer 1 | Fulton, MD | 2025-11-12 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Systems-Engineer-I--Onsite-_01801296) |
 | Stryker | Portfolio Associate - Mako Enabling Technologies | Fort Lauderdale, FL | 2025-11-12 | [Apply Here](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Portfolio-Associate--Mako-Enabling-Technologies_R547205) |
 | ASML | Field Service Engineer | Hillsboro, OR, Chandler, AZ | 2025-11-12 | [Apply Here](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Field-Service-Engineer_J-00330125-1) |
 | EquipmentShare | Telematics Installer - Telematics | Huntsville, AL | 2025-11-12 | [Apply Here](https://www.equipmentshare.com/careers/openings/?gh_jid=7388679) |
@@ -536,7 +610,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | CenturyLink | Telecommunications Technician | Fort Collins, CO | 2025-11-12 | [Apply Here](https://internaljobs.centurylink.com/job/FORT-COLLINS-Telecommunications-Technician-CO-80524/1342099500/?ats=successfactors) |
 | CenturyLink | Telecommunications Technician | Chandler, AZ | 2025-11-12 | [Apply Here](https://internaljobs.centurylink.com/job/CHANDLER-Telecommunications-Technician-AZ-85225/1341872500/?ats=successfactors) |
 | Benchling | Software Engineer New Grad | SF | 2025-11-12 | [Apply Here](https://boards.greenhouse.io/benchling/jobs/7386982) |
-| Thomson Reuters | AI Engineer | NYC, Minneapolis, MN | 2025-11-12 | [Apply Here](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/AI-Engineer--Materia--New-Grad---2026-_JREQ194290) |
 | Huntington Ingalls Industries | Engineer Test 1 | Biloxi, MS | 2025-11-12 | [Apply Here](https://careers.huntingtoningalls.com/job/Pascagoula-ENGINEER-TEST-1-Miss/1337399900/?ats=successfactors) |
 | Fanatics | Data Analyst 1 | Denver, CO | 2025-11-12 | [Apply Here](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25106) |
 | Nexstar | Assistant 1 - Production Part Time KXMB | Bismarck, ND | 2025-11-12 | [Apply Here](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/ND-Bismarck/Assistant-I--Production-Part-Time-KXMB_REQ-39192) |
@@ -552,10 +625,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sainsbury's | Trading Assistant | Trowbridge, UK | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036059) |
 | Sainsbury's | Trading Assistant | Trowbridge, UK | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036048) |
 | Sainsbury's | Trading Assistant | Wimborne Minster, Wimborne, UK | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034555) |
-| Sainsbury's | Trading Assistant - Shift | Essex, UK | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035908) |
-| Sainsbury's | Trading Assistant - Local | United Kingdom | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036033) |
 | Sainsbury's | Trading Assistant | Portsmouth, UK | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035961) |
-| Sainsbury's | Trading Assistant - Shift | Cambridge, UK | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035853) |
 | Sainsbury's | Trading Assistant | Essex, UK | 2025-11-11 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400028468) |
 | Palantir | Meritocracy Fellowship | NYC | 2025-11-11 | [Apply Here](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply) |
 | T-Mobile | Associate Product Manager - Data - CRM & Personalization | Bellevue, WA | 2025-11-11 | [Apply Here](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager--Data---CRM---Personalization_REQ333813) |
@@ -572,9 +642,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Northrop Grumman | Modeling and Simulation Systems Engineer 2 or 3 - Aht | Northridge, LA | 2025-11-11 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Modeling---Simulation-Systems-Engineer-2-or-3--AHT-_R10204533) |
 | Merck | Postdoctoral Research Fellow | North Wales, PA, Linden, NJ | 2025-11-11 | [Apply Here](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Postdoctoral-Research-Fellow---Biostatistics-and-Data-Science-for-Digital-Clinical-Measures-Development--Hybrid-_R371440-1) |
 | West Virginia University | Hybrid – Research Data Management Librarian - Downtown Library | Morgantown, WV | 2025-11-10 | [Apply Here](https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=26134) |
-| AssetMark | Associate Data Engineer | Charlotte, NC | 2025-11-10 | [Apply Here](https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003491) |
 | Major League Baseball | Associate – International Analyst | Queens, NY | 2025-11-10 | [Apply Here](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Associate--International-Analyst_R1369) |
-| Netsmart | Software Engineer - Onsite Overland Park, KS | Overland Park, KS | 2025-11-10 | [Apply Here](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Python-Experience---Onsite-Overland-Park--KS_R014616-1) |
 | AstraZeneca | R&D Data Sciences & AI Graduate Program - Boston - MA | Boston, MA, Waltham, MA | 2025-11-10 | [Apply Here](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Waltham---MA/R-D-Data-Sciences---AI-Graduate-Program---Boston--MA_R-239117) |
 | Koddi | Junior Software Engineering Cohort | Fort Worth, TX | 2025-11-10 | [Apply Here](https://job-boards.greenhouse.io/koddi/jobs/8250132002) |
 | The Boeing Company | ASIC/FPGA Verification Engineer Lead - Associate | Huntington Beach, CA, El Segundo, CA | 2025-11-10 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380-1) |
@@ -585,7 +653,9 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Light & Wonder | Associate Mathematician | Las Vegas, NV | 2025-11-10 | [Apply Here](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Mathematician_R320784) |
 | Ithaka | Data Engineer | Remote in USA | 2025-11-10 | [Apply Here](https://www.ithaka.org/job/4601605005?gh_jid=4601605005) |
 | Gotion | Data Analyst | Fremont, CA | 2025-11-10 | [Apply Here](https://job-boards.greenhouse.io/gotion/jobs/8282912002) |
+| URBN | Free People Product Development Coordinator | Philadelphia, PA | 2025-11-10 | [Apply Here](https://homeoffice-na-urbn.icims.com/jobs/22644/job?mobile=true&needsRedirect=false) |
 | ServiceNow | Associate Software Engineer | Waltham, MA | 2025-11-10 | [Apply Here](https://jobs.smartrecruiters.com/ServiceNow/744000091879765) |
+| General Dynamics Mission Systems | Systems Engineer – Entry level | Scottsdale, AZ | 2025-11-10 | [Apply Here](https://careers-gdms.icims.com/jobs/68574/job?mobile=true&needsRedirect=false) |
 | Marsh | DCX Product Analytics Analyst - m/w/d | London, UK | 2025-11-10 | [Apply Here](https://mmc.wd1.myworkdayjobs.com/mmc/job/Zurich---Lowenstrasse/DCX-Product-Analytics-Analyst--m-w-d-_R_329324) |
 | Qualcomm | Product Software Engineer | San Diego, CA | 2025-11-10 | [Apply Here](https://qualcomm.eightfold.ai/careers/job/446715361809) |
 | TikTok | Software Engineer Graduate (Data Arch - Data Ecosystem) | San Jose, CA | 2025-11-10 | [Apply Here](https://lifeattiktok.com/search/7535220808265681159) |
@@ -638,7 +708,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Leidos | Decal Lab Technician | Webster, TX | 2025-11-07 | [Apply Here](https://leidos.wd5.myworkdayjobs.com/External/job/Webster-TX/Decal-Lab-Technician_R-00170050) |
 | TD Bank | Software Engineer 1 - Technology Solutions | Toronto, ON, Canada | 2025-11-07 | [Apply Here](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1451394) |
 | Genuine Parts Company | PIM Data Analyst - Vendor Relations-2 | Birmingham, AL | 2025-11-07 | [Apply Here](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst---Vendor-Relations-2_R25_0000033456) |
-| Sainsbury's | Trading Assistant - Shift | Brandon, UK | 2025-11-07 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035123) |
 | Sainsbury's | Trading Assistant - Shift | Ipswich, UK | 2025-11-07 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034753) |
 | Sainsbury's | Trading Assistant - Shift | United Kingdom | 2025-11-07 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035063) |
 | Sainsbury's | Trading Assistant | Brighton, UK | 2025-11-07 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400030416) |
@@ -655,14 +724,12 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Uline | Associate Product Manager | Waukegan, IL, Milwaukee, WI, Pleasant Prairie, WI, Morton Grove, IL, Kenosha, WI | 2025-11-07 | [Apply Here](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R259019-1) |
 | Eudia | AI Fellowship: Cracked Academy | Palo Alto, CA | 2025-11-07 | [Apply Here](https://job-boards.greenhouse.io/eudia/jobs/4048654009) |
 | John Deere | Student - Quality Analytics - Data and Analytics | Grimes, IA, Ames, IA | 2025-11-07 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137477670658) |
-| Oshkosh | NASCAR Track Support Engineer-Entry Level | Huntersville, NC | 2025-11-07 | [Apply Here](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R41700) |
 | Northrop Grumman | Software Engineer | Rancho Cordova, CA | 2025-11-07 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/Engineer-Principal-Engineer-Software_R10211264) |
 | GHD | Graduate Engineer | Houston, TX, Norridge, IL, Southfield, MI | 2025-11-07 | [Apply Here](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23799) |
 | NextEra Energy | College Engineer Student - UWF Program | Pensacola, FL | 2025-11-07 | [Apply Here](https://jobs.nexteraenergy.com/job/Pensacola-College-Engineer-Student-UWF-Program-FL-32505/1283469400/?ats=successfactors) |
 | Vertiv | Electrical Testing Technician | Fort Myers, FL | 2025-11-07 | [Apply Here](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20251820) |
 | Hudson River Trading | Hardware Design Engineer | NYC | 2025-11-07 | [Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7141895) |
 | Hudson River Trading | Hardware Design Engineer | Chicago, IL | 2025-11-07 | [Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7181476) |
-| Textron | Associate Technician - Drive Systems Test Lab | Grand Prairie, TX | 2025-11-07 | [Apply Here](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=337548) |
 | AtkinsRéalis | Clean Water Modeller | Peterborough, UK, Cambridge, UK | 2025-11-07 | [Apply Here](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBPeterboroughWestern-House/Clean-Water-Modeller---Peterborough-Cambridge_R-123743-3) |
 | Jump Trading | Campus AI Researcher | London, UK | 2025-11-07 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=7141675) |
 | Bowhead | Engineering Technician 1 | Aberdeen, MD | 2025-11-07 | [Apply Here](https://bowheadcareers-uicalaska.icims.com/jobs/23849/job?mobile=true&needsRedirect=false) |
@@ -674,6 +741,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Artech Information System | Repairs Services Associate | Long Island, New York | 2025-11-07 | [Apply Here](https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99669868) |
 | Google | Product Manager 1 - Kids Content Machine Learning | San Bruno, CA | 2025-11-07 | [Apply Here](https://www.google.com/about/careers/applications/jobs/results/72221174532055750) |
 | University of Chicago | Data Science - Analyst | Chicago, IL | 2025-11-07 | [Apply Here](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science--Analyst_JR31922-1) |
+| Kimley-Horn | GIS Analyst | Fort Worth, TX | 2025-11-07 | [Apply Here](https://careers-kimley-horn.icims.com/jobs/20773/job?mobile=true&needsRedirect=false) |
 | ExxonMobil | PhD Student | Houston, TX | 2025-11-07 | [Apply Here](https://jobs.exxonmobil.com/ExxonMobil/job/Houston-PhD-Students-Seeking-Full-Time-Employment-TX-77001/1314976300/?ats=successfactors) |
 | Globus Medical | Product Manager | King of Prussia, PA | 2025-11-07 | [Apply Here](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR103718) |
 | SAS | Software Developer - Emerging Career - 0 | Morrisville, NC | 2025-11-07 | [Apply Here](https://careers-sas.icims.com/jobs/39730/job?mobile=true&needsRedirect=false) |
@@ -706,8 +774,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | SpaceX | Gateway Site Development Engineer - Starlink | Redmond, WA | 2025-11-06 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8242959002) |
 | 7-Eleven | Integration Analyst 1 | Irving, TX | 2025-11-06 | [Apply Here](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Integration-Analyst-I_R25_0000009211) |
 | Texas A&M University - Corpus Christi | Assistant Professor - Data Science | Corpus Christi, TX | 2025-11-06 | [Apply Here](https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Assistant-Professor--Data-Science_R-088833-1) |
-| Bridgewater Associates | Trading Associate | Westport, CT | 2025-11-06 | [Apply Here](https://job-boards.greenhouse.io/bwaltpostings/jobs/8096635002) |
-| Bridgewater Associates | Trading Associate | Westport, CT | 2025-11-06 | [Apply Here](https://job-boards.greenhouse.io/bridgewater89/jobs/7985213002) |
 | University of Southern California | Enterprise Applications Developer | LA | 2025-11-06 | [Apply Here](https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Enterprise-Applications-Developer_REQ20168827-2) |
 | NVIDIA | GPU Architecture Engineer [0m New College Grad 2025 | California, Austin, TX, Texas, Santa Clara, CA, Durham, NC, North Carolina, United States | 2025-11-06 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495) |
 | Lenovo | IT Product Analyst - eCommerce | Morrisville, NC | 2025-11-06 | [Apply Here](https://jobs.lenovo.com/en_US/careers/JobDetail/IT-Product-Analyst-eCommerce/69337) |
@@ -739,7 +805,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Intertek | Technician 1 - Entry level | Homer, NY | 2025-11-05 | [Apply Here](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13181) |
 | Micron Technology | Senior Data Scientist - Tpg | Boise, ID, Folsom, CA | 2025-11-05 | [Apply Here](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Data-Scientist--TPG_JR84538) |
 | The Home Depot | Data Analyst | Atlanta, GA | 2025-11-05 | [Apply Here](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/DATA-ANALYST_Req154371) |
-| ALFA LAVAL | Product/Application Engineer-Process Heat Exchangers | Scarborough, ON, Canada, Calgary, AB, Canada | 2025-11-05 | [Apply Here](https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Scarborough-ON/Product-Application-Engineer--Process-Heat-Exchangers_JR0041035-1) |
 | Pacific Life | Investments Operational Support Analyst - Document/Data Management | Newport Beach, CA | 2025-11-05 | [Apply Here](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Pacific-Life-Investments-Operational-Support-Analyst---Document-Data-Management_R15681-1) |
 | Graphcore | Graduate Machine Learning Engineer - Applied AI | Cambridge, UK | 2025-11-05 | [Apply Here](https://job-boards.greenhouse.io/graphcore/jobs/8243816002) |
 | Graphcore | 2026 Graduate Machine Learning Engineer - Applied AI | Bristol, UK | 2025-11-05 | [Apply Here](https://job-boards.greenhouse.io/graphcore/jobs/8234675002) |
@@ -761,7 +826,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | CACI | Software Engineer | Downers Grove, IL | 2025-11-05 | [Apply Here](https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_314970-1) |
 | Brevium | Data Analyst Assistant | American Fork, UT | 2025-11-05 | [Apply Here](https://job-boards.greenhouse.io/brevium/jobs/4326783006) |
 | hhaexchange | Full Stack Engineer | United States | 2025-11-05 | [Apply Here](https://jobs.lever.co/hhaexchange/840c7851-1c8a-4225-ae00-f349a2a7dee2/apply) |
-| NBCUniversal | Software Engineer - Fandango | North Hollywood, CA | 2025-11-05 | [Apply Here](https://jobs.smartrecruiters.com/NBCUniversal3/744000091519849) |
 | Visa | Graduate Software Engineer | Reading, UK | 2025-11-05 | [Apply Here](https://jobs.smartrecruiters.com/Visa/744000091613645) |
 | Visa | Graduate Software Engineer | Reading, United Kingdom | 2025-11-05 | [Apply Here](https://jobs.smartrecruiters.com/Visa/615efbc7-5ef9-4dc3-b65a-cf364e55674e?dcr_ci=Visa) |
 | Warp | Software Engineer | Remote in USA, Remote in Canada | 2025-11-05 | [Apply Here](https://job-boards.greenhouse.io/warp/jobs/4324888004) |
@@ -771,7 +835,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | JP Morgan Chase | Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence | Seattle, WA | 2025-11-05 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680850) |
 | Super Micro Computer | Engineering Technician | San Jose, CA | 2025-11-05 | [Apply Here](https://jobs.supermicro.com/job/San-Jose-Engineering-Technician-Cali/1340417400/?ats=successfactors) |
 | The Boeing Company | Software Program Analyst | San Luis Obispo, CA | 2025-11-05 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Luis-Obispo-CA/Part-Time-Software-Program-Analyst_JR2025479448-1) |
-| Waters Corporation | Instrument Technician | Franklin, MA | 2025-11-05 | [Apply Here](https://uscareers-waters.icims.com/jobs/23759/job?mobile=true&needsRedirect=false) |
 | American Express | Analyst – Data Analytics - A757144 - GCS AI&M Enablement | NYC | 2025-11-04 | [Apply Here](https://aexp.eightfold.ai/careers/job/38689644) |
 | Roblox | 2026] Software Engineer – Early Career - Security | San Mateo, CA | 2025-11-04 | [Apply Here](https://careers.roblox.com/jobs/7357095?gh_jid=7357095) |
 | CAE | Simulator Technician | Orange County, FL | 2025-11-04 | [Apply Here](https://cae.wd3.myworkdayjobs.com/career/job/Lake-Nona-FL-USA/Simulator-Technician_118134) |
@@ -817,7 +880,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | AspenTech | Associate Software Developer | Wayzata, MN | 2025-11-03 | [Apply Here](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-Software-Developer_R8050) |
 | Cirrus Logic | Engineering Technician | Austin, TX | 2025-11-03 | [Apply Here](https://jobs.eu.lever.co/cirrus/aadd768d-465f-4938-940c-9978ada7c38b/apply) |
 | Fortinet | AI Researcher - Fortideceptor | Burnaby, BC, Canada | 2025-11-03 | [Apply Here](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/21140) |
-| Truveta | Software Engineer – Entry Level - Imaging Services | Seattle, WA | 2025-11-03 | [Apply Here](https://job-boards.greenhouse.io/truveta/jobs/5696523004) |
 | Vanderlande Industries | Mechanic Mechatronic 3 | Council Bluffs, IA | 2025-11-03 | [Apply Here](https://vanderlande.wd3.myworkdayjobs.com/careers/job/White/Mechanic-Mechatronic-III_JR34404-1) |
 | Veterans United | Associate Software Engineer | Missouri | 2025-11-03 | [Apply Here](https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Associate-Software-Engineer_R5288) |
 | Northrop Grumman | Electromechanical Engineer - Level 2 or 3 | Aurora, CO, Cherry Hills Village, CO | 2025-11-03 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-2-or-3-_R10213234) |
@@ -840,8 +902,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sierra Nevada Corporation | Configuration Analyst 1 | Dayton, OH | 2025-11-03 | [Apply Here](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Configuration-Analyst-I_R0028796) |
 | Dell Technologies | MBA Product Management Cohort | Austin, TX, Round Rock, TX, Westborough, MA | 2025-11-03 | [Apply Here](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/MBA-Product-Management_R277647-1) |
 | Schweitzer Engineering Laboratories | Associate Hardware Engineer | Moscow, ID | 2025-11-03 | [Apply Here](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-16326) |
+| Sono-Tek Corporation | Electrical Lab Technician | Middletown, NY | 2025-11-03 | [Apply Here](https://careers-councilofindustry.icims.com/jobs/4842/job?mobile=true&needsRedirect=false) |
+| Sainsbury's | Trading Assistant - Shift | Highland Council, UK | 2025-11-03 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033871) |
 | Moog  | Embedded Software and Systems Engineer | Goleta, CA | 2025-11-03 | [Apply Here](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software---Systems-Engineering_R-25-13937) |
 | Cummins | Software Engineer I | Indiana | 2025-11-03 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420573) |
+| General Dynamics | Configuration and Logistics Data Analyst 1 - Engineering | Brunswick, ME | 2025-11-03 | [Apply Here](https://careers-gdbiw.icims.com/jobs/4772/job?mobile=true&needsRedirect=false) |
 | The University of Edinburgh | Research Fellow in Data Science | Edinburgh, UK | 2025-11-03 | [Apply Here](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13090) |
 | Jane Street | Software Engineer | NYC | 2025-11-03 | [Apply Here](https://job-boards.greenhouse.io/janestreet/jobs/8160791002) |
 | Red Hat | Associate Software Engineer | Remote in USA | 2025-11-03 | [Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Remote-US-NC/Associate-Software-Engineer_R-052052) |
@@ -862,8 +927,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Thales | 2026 Research and Development Graduate | Crawley, UK | 2025-11-03 | [Apply Here](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2026-Research-and-Development-Graduate_R0298311-1) |
 | Thales | Engineering Graduate | Yeovil, UK | 2025-11-03 | [Apply Here](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2026-Hardware-Engineering-Manager-Graduate_R0298346-1) |
 | Thales | Machine Learning Operations – Graduate - ML Ops | Crawley, UK | 2025-11-03 | [Apply Here](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2026-Machine-Learning-Operations--ML-Ops--Graduate_R0298306-1) |
-| Sainsbury's | Trading Assistant - Shift | Canterbury, UK | 2025-11-02 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033652) |
-| RTX | 2026 Full-time - Software Engineer I - Onsite - TX | Richardson, TX | 2025-11-02 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX234-Richardson-1717-CityLine-1717-East-CityLine-Drive-Building-C17-Richardson-TX-75082-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01801919) |
 | American Express | Campus Full Time - Technology Software Engineer | London, UK | 2025-11-02 | [Apply Here](https://aexp.eightfold.ai/careers/job/38535543) |
 | Sainsbury's | Trading Assistant - Shift | Liverpool, UK | 2025-11-01 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033327) |
 | Sainsbury's | Trading Assistant - Shift | Edinburgh, UK | 2025-11-01 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033382) |
@@ -873,7 +936,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Genuine Parts Company | Mechanical Technician | Cleveland, OH | 2025-11-01 | [Apply Here](https://genpt.wd1.myworkdayjobs.com/Careers/job/Cleveland-OH-USA/Mechanical-Technician_R25_0000030916) |
 | Northrop Grumman | Software Engineer/Principal Software Engineer | Aurora, CO | 2025-11-01 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME--DoD-SkillBridge--Software-Engineer-Principal-Software-Engineer_R10198108) |
 | Morgan Stanley | Machine Learning Research Associate Program - PhD | NYC | 2025-11-01 | [Apply Here](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171) |
-| Morgan Stanley | 1L Financial Crimes Risk - Data Analytics and Reporting Analyst | White Plains, NY | 2025-11-01 | [Apply Here](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/XMLNAME-1L-Financial-Crimes-Risk--Data-Analytics-and-Reporting-Analyst_PT-JR017932) |
 | KBR | Junior Image Scientist | Springfield, VA, Chantilly, VA | 2025-11-01 | [Apply Here](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Junior-Image-Scientist_R2098927) |
 | Northrop Grumman | Principal/Embedded Software Engineer - Skillbridge | Northridge, LA | 2025-11-01 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Principal-Embedded-Software-Engineer--SkillBridge-_R10206400) |
 | Genuine Parts Company | Field Services Support | Tennessee | 2025-11-01 | [Apply Here](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-TN---Remote/Field-Services-Support_R25_0000021396) |
@@ -885,7 +947,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | NVIDIA | Research Scientist – PhD New College Grad - Generative AI for Physical AI | Santa Clara, CA | 2025-11-01 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2025_JR2005875) |
 | NVIDIA | DL Performance Software Engineer – New College Graduate 2025 - LLM Inference | Toronto, ON, Canada | 2025-11-01 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer--LLM-Inference---New-College-Graduate-2025_JR2006789) |
 | GE Vernova | Software-defined Networking and IPv6 for Secure Distributed Energy Resources Research | Schenectady, NY | 2025-11-01 | [Apply Here](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Software-defined-Networking-and-IPv6-for-Secure-Distributed-Energy-Resources-Research-Intern---Summer-2026_R5022672-1) |
-| NVIDIA | Systems Software Engineer – New College Grad 2025 - Geforce NOW Low Latency Streaming Technology | Santa Clara, CA | 2025-11-01 | [Apply Here](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--GeForce-NOW-Low-Latency-Streaming-Technology---New-College-Grad-2025_JR2007180) |
 | Thales | Software Engineer | Belfast, UK | 2025-11-01 | [Apply Here](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/Software-Engineer_R0289970) |
 | GE Vernova | GE Vernova Safe Human Robot Interaction and Planning - Summer 2026 | Schenectady, NY | 2025-11-01 | [Apply Here](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Safe-Human-Robot-Interaction-and-Planning---Summer-2025_R5023246-1) |
 | Northrop Grumman | Sensors & Systems Technician - Electronics | Baltimore, MD | 2025-11-01 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105-Sensors---Systems-Technician--Electronics-Technician-_R10210087-1) |
@@ -894,7 +955,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Freudenberg Group | On-Site Application Engineer - I-Park | Bay City, MI | 2025-11-01 | [Apply Here](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Midland-MI/On-Site-Application-Engineer---I-Park_R_00091560) |
 | Jabil | Diagnostic Technician 1 | Florence, KY | 2025-11-01 | [Apply Here](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2413704) |
 | Bank of America | Quantitative Engineer Analyst | Chicago, IL, Charlotte, NC, Phoenix, AZ, Jacksonville, FL, Atlanta, GA | 2025-11-01 | [Apply Here](https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Quantitative-Engineer-Analyst_25043236) |
-| General Motors | Entry Level Data Governance Engineer | Austin, TX, Warren, MI | 2025-11-01 | [Apply Here](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Data-Governance-Engineer_JR-202519672) |
 | Auto-Owners Insurance | Software Developer | East Lansing, MI | 2025-11-01 | [Apply Here](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer_R_1017) |
 | Northrop Grumman | Software Engineer/Principal Software Engineer - Aht | Huntsville, AL | 2025-11-01 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer-Principal-Software-Engineer--AHT-_R10211293) |
 | Analog Devices | Systems Integration Engineer | Boston, MA, San Jose, CA, Durham, NC, Burlington, MA | 2025-11-01 | [Apply Here](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Systems-Integration-Engineer_R255211) |
@@ -904,8 +964,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Zeiss | Field Service Engineer - Level 1 | NYC | 2025-11-01 | [Apply Here](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-NY/Field-Service-Engineer---Level-1_JR_1044670-2) |
 | Plexus | Test Support Technician | Neenah, WI | 2025-11-01 | [Apply Here](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Test-Support-Technician_R034348) |
 | Full Sail | Data Project Analyst | Winter Park, FL | 2025-11-01 | [Apply Here](https://fullsail.wd1.myworkdayjobs.com/External/job/Full-Sail/Data-Project-Analyst_R00010708) |
-| Barclays | Technology Developer Rotational Graduate Program 2026 Whippany | Parsippany-Troy Hills, NJ | 2025-11-01 | [Apply Here](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Technology-Developer-Rotational-Graduate-Program-2026-Whippany_JR-0000067446) |
-| Barclays | Technology Analyst Graduate Program | Parsippany-Troy Hills, NJ | 2025-11-01 | [Apply Here](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Technology-Analyst-Graduate-Program-2026-Whippany_JR-0000067431) |
 | Northrop Grumman | Engineer/Principal Engineer Metrology Level | Hill AFB, UT | 2025-11-01 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Engineer-Principal-Engineer-Metrology-Level-2-3_R10210679) |
 | GlobalFoundries | Metrology Equipment Engineer | Burlington, VT | 2025-11-01 | [Apply Here](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Metrology-Equipment-Engineer--2026-New-College-Graduate-_JR-2502959) |
 | Aristocrat Leisure | Associate Product Manager | London, UK | 2025-11-01 | [Apply Here](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Associate-Product-Manager_R0019161) |
@@ -914,7 +972,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Parsons | Entry-Level Software or Embedded Engineer/Developer - TS Cleared | Centreville, VA | 2025-11-01 | [Apply Here](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Entry-Level-Software-or-Embedded-Engineer-Developer---TS-Cleared_R171025-1) |
 | Trimble | Software Engineer 1 - SketchUp Warehouse Platform Team | Westminster, CO | 2025-11-01 | [Apply Here](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineer_R50787) |
 | Micron Technology | New College Grad - Engineer - Shift Equipment | Boise, ID | 2025-11-01 | [Apply Here](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer--Shift-Equipment_JR80427) |
-| Micron Technology | New College Grad - IT Software Engineer | Boise, ID | 2025-11-01 | [Apply Here](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Job-Posting-Title-IT-Software-Engineer_JR84354) |
 | Polaris | Digital & Information Technology Leadership Development Program Associate - Predictive Data Science | Wayzata, MN | 2025-11-01 | [Apply Here](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Digital---Information-Technology-Leadership-Development-Program-Associate---Predictive-Data-Science_R27032) |
 | Mass General Brigham | Postdoctoral Research Fellowship - Medical Artificial Intelligence | Boston, MA | 2025-11-01 | [Apply Here](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Postdoctoral-Research-Fellowship---Medical-Artificial-Intelligence_RQ4037789) |
 | Hewlett Packard (HP) | AI Lab – Junior Machine Learning Engineer - AI Lab - GenAI Modelling | Palo Alto, CA, Sant Cugat del Vallès, Barcelona, Spain | 2025-11-01 | [Apply Here](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3151000-2) |
@@ -945,7 +1002,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | University of Chicago | Marketing Technology Analyst | Chicago, IL | 2025-11-01 | [Apply Here](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Marketing-Technology-Analyst_JR31547) |
 | Voya Financial | Student - Data Analytics | Atlanta, GA | 2025-11-01 | [Apply Here](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Data-Analytics_JR0031913) |
 | Teledyne | In-House/Service Repair Technician | Whiteley, UK | 2025-11-01 | [Apply Here](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Fareham/In-House-Service-Repair-Technician_REQ30416) |
-| CACI | Field Service Representative - Junior | Colorado Springs, CO | 2025-11-01 | [Apply Here](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Field-Service-Representative--Junior_316788) |
 | The Travelers Companies | Gen AI Data Engineer I | Atlanta, GA | 2025-11-01 | [Apply Here](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Gen-AI-Data-Engineer-I_R-45739) |
 | The Travelers Companies | Data Engineer I - Aws - Pyspark - Snowflake | Atlanta, GA | 2025-11-01 | [Apply Here](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46363) |
 | CACI | Software Engineer | Downers Grove, IL | 2025-11-01 | [Apply Here](https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_318232) |
@@ -992,9 +1048,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Viavi Solutions | Early Careers Rotational Program - Development Engineer | Morrisville, NC | 2025-11-01 | [Apply Here](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program---Development-Engineer_250003822) |
 | Viavi Solutions | Early Careers Rotational Program - Development Engineer - AI Track | Germantown, MD, Ashburn, VA | 2025-11-01 | [Apply Here](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Rotational-Program---Development-Engineer--AI-Track-_250003820-1) |
 | Bloom Energy | Manufacturing Systems Integration Analyst - Ncg | Newark, DE | 2025-11-01 | [Apply Here](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Newark-Delaware/Manufacturing-Systems-Integration-Analyst--NCG-_JR-19965) |
-| CTEH | Field Data Specialist - Field Operations - Data Management | Webster, TX, Jackson, MS, Little Rock, AR, Elk Grove Village, IL, Metairie, LA, Golden, CO | 2025-11-01 | [Apply Here](https://montrose.wd1.myworkdayjobs.com/cteh/job/USA-AR-Little-Rock--Northshore-Dr/Field-Data-Specialist_R6889) |
 | University of Texas - Austin | Postdoctoral Fellow in Future Runoff and Reservoir Evaporation Projections for Texas River Basins | Austin, TX | 2025-11-01 | [Apply Here](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-in-Future-Runoff-and-Reservoir-Evaporation-Projections-for-Texas-River-Basins_R_00034762-1) |
-| University of Texas - Austin | Telescope Operator - Hobby-Eberly Telescope - Mcdonald Observatory | Marathon, TX | 2025-11-01 | [Apply Here](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/MCDONALD-OBSERVATORY/Telescope-Operator--McDonald-Observatory_R_00042499) |
 | Fiserv | Product Analyst 1 | Omaha, NE | 2025-11-01 | [Apply Here](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Product-Analyst-I_R-10379911) |
 | PennState University | Postdoctoral Scholar - Experimental Ultrahigh Energy Neutrino - PUEO Experiment | State College, PA | 2025-11-01 | [Apply Here](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Experimental-Ultrahigh-Energy-Neutrino---PUEO-Experiment_REQ_0000043392-2) |
 | KLA | Algorithm Engineer - Image Processing | Ann Arbor, MI | 2025-11-01 | [Apply Here](https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/Algorithm-Engineer--Image-Processing-_2531225) |
@@ -1014,13 +1068,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Adobe | Software Development Engineer | Edinburgh, UK | 2025-10-31 | [Apply Here](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Edinburgh/Software-Development-Engineer_R161983) |
 | Palantir | Forward Deployed Software Engineer – New Grad - Commercial | London, UK | 2025-10-31 | [Apply Here](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0/apply) |
 | Maven Securities | Chicago Graduate Trader Programme 2026 | Chicago, IL | 2025-10-31 | [Apply Here](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227500) |
-| Bosselman Enterprises | Systems Programmer/Analyst | Grand Island, NE | 2025-10-31 | [Apply Here](https://careers-bosselman.icims.com/jobs/46685/job?mobile=true&needsRedirect=false) |
 | Sainsbury's | Trading Assistant - Shift | Bath, UK | 2025-10-31 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033248) |
 | Zip | Software Engineer – New Grad - 2026 Start | SF | 2025-10-31 | [Apply Here](https://jobs.ashbyhq.com/zip/bec203f9-7919-479a-b021-c7871b7757e2/application) |
 | EquipmentShare | Telematics Installer | McKinney, TX | 2025-10-31 | [Apply Here](https://www.equipmentshare.com/careers/openings/?gh_jid=7370946) |
 | Robert Half | Software Engineer I | San Ramon, CA | 2025-10-31 | [Apply Here](https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-258714) |
 | PMG | Graduate Leadership Program - AI Strategy - Solutions & Automation Track | Dallas, TX | 2025-10-31 | [Apply Here](https://job-boards.greenhouse.io/pmg/jobs/8227319002) |
-| W.R. Berkley | Data Analytics Engineer | Irvine, CA | 2025-10-31 | [Apply Here](https://careers-berkley.icims.com/jobs/13174/job?mobile=true&needsRedirect=false) |
 | Cummins | Placement Intern - Sales Application Engineer | Peterborough, UK | 2025-10-31 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2419255) |
 | Cummins | Placement Intern - Aftertreatment Integration Test Engineering | Durham, UK | 2025-10-31 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2417987) |
 | Cummins | Placement Student - Product Engineering - Engine Business Unit Team | Durham, UK | 2025-10-31 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420105) |
@@ -1028,7 +1080,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Cummins | Placement Student - Product Engineering | Durham, UK | 2025-10-31 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420176) |
 | GE Aerospace | Engineering Technician | Grand Rapids, MI | 2025-10-31 | [Apply Here](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Engineering-Technician_R5021970-1) |
 | Microchip Technology | Electronic Design Automation - Eda - Engineer II','Software | Toronto, ON, Canada | 2025-10-31 | [Apply Here](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/Canada---Toronto---67-Yonge-Street-9th-Floor/Electronic-Design-Automation--EDA--Engineer-II---Software_R2055-25) |
-| Rambus | Firmware Engineer | Vancouver, BC, Canada | 2025-10-31 | [Apply Here](https://careers-rambus.icims.com/jobs/22415/job?mobile=true&needsRedirect=false) |
 | Red Hat | Associate Software Engineer | North Carolina | 2025-10-31 | [Apply Here](https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NC/Associate-Software-Engineer_R-052052) |
 | SharkNinja | Rapid Prototyping Technician - Rp - Technician | London, UK | 2025-10-31 | [Apply Here](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4608411006) |
 | IMC Trading | Graduate Trading Operations Specialist | Chicago, IL | 2025-10-31 | [Apply Here](https://job-boards.eu.greenhouse.io/imc/jobs/4608591101) |
@@ -1259,7 +1310,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Alignerr | AI Training for Law | Remote in India, Remote in USA, Remote in UK, Remote in Canada | 2025-10-31 | [Apply Here](https://job-boards.greenhouse.io/alignerr/jobs/4362433007) |
 | Eos Energy Storage | Electrical Technician | Monroeville, PA | 2025-10-31 | [Apply Here](https://eosenergystorage.wd1.myworkdayjobs.com/eos/job/PA-Turtle-Creek/Electrical-Technician_R4313) |
 | Fannie Mae | Campus Analytics and Modeling Program Associate | Washington, DC | 2025-10-31 | [Apply Here](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Midtown-Center/Campus---Analytics-and-Modeling-Program-Associate_JR1256) |
-| Fever Up | Technical Operator - Orlando | Orlando, FL | 2025-10-31 | [Apply Here](https://job-boards.eu.greenhouse.io/feverup/jobs/4539567101) |
 | General Dynamics Information Technology | Mid-Level Capabilities Development Engineer | Hanover, MD | 2025-10-31 | [Apply Here](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Mid-Level-Capabilities-Development-Engineer_RQ207031) |
 | John Deere | Part-Time Student - Radar Systems - Product Engineering | Grimes, IA, Davenport, IA | 2025-10-31 | [Apply Here](https://johndeere.eightfold.ai/careers/job/137465721076) |
 | N1 | New Grad Software Engineer - Full Stack | NYC | 2025-10-31 | [Apply Here](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a/application) |
@@ -1273,7 +1323,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Hudson River Trading | Software Engineer 2026 Grads - C++ - Python | London, UK | 2025-10-31 | [Apply Here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7297917) |
 | Amentum | Tools and Applications Software Engineer | Cape Canaveral, FL | 2025-10-31 | [Apply Here](https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000B9Z) |
 | Amentum | Tools and Applications Software Engineer | Cape Canaveral, FL | 2025-10-31 | [Apply Here](https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000BA2) |
-| Cape | New College Graduate - Software Engineer | Washington, DC, NYC | 2025-10-31 | [Apply Here](https://jobs.ashbyhq.com/cape/bd280ded-4298-47de-a186-1aebd1bd94b8/application) |
 | Viridien | Imaging Geophysicist / Scientist Graduate Programme | Crawley, UK | 2025-10-31 | [Apply Here](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Imaging-Geophysicist---Scientist-2025-Graduate-Programme_JR100959) |
 | Viridien | Machine Learning Engineer/Researcher - 2025 Programme | Crawley, UK | 2025-10-31 | [Apply Here](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2025-Programme_JR100925-1) |
 | Orion Systems Integrators | Software Developer - Software Developer | Edison, NJ | 2025-10-31 | [Apply Here](https://www.orioninc.com/careers/job/?gh_jid=4266820006) |
@@ -1344,12 +1393,10 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | PVM | DoD Skillbridge Fellowship-Software Engineer | United States | 2025-10-31 | [Apply Here](https://job-boards.greenhouse.io/pvminc/jobs/4073946007) |
 | Sainsbury's | Trading Assistant - Shift | Newbury, UK | 2025-10-31 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400031499) |
 | Dow Chemical Company | Campus Graduate - Research & Development - Bachelor/Master | Simpsonville, KY, Lake Jackson, TX, Phoenixville, PA, Bay City, MI, Baton Rouge, LA, Wilmington, DE, Charleston, WV | 2025-10-31 | [Apply Here](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2025-2026-Campus-Graduate---Research---Development--BS-MS-_R2060619) |
-| Rivian | Metrology Technician 1 - Afternoon Shift | Normal, IL | 2025-10-31 | [Apply Here](https://careers.rivian.com/jobs/25771?lang=en-us&icims=1) |
 | Analog Devices | Product Engineer - Product Developer | Sioux Falls, SD, Durham, NC, Lowell, MA, Beaverton, OR, Chandler, AZ, Burlington, MA | 2025-10-31 | [Apply Here](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Product-Engineering--Prod-Dev-_R255207) |
 | Jabil | Dia. Tech 1 | Florence, KY | 2025-10-31 | [Apply Here](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Dia-Tech-1_J2427466) |
 | Argonne National Laboratory | Postdoctoral Appointee | Woodridge, IL | 2025-10-31 | [Apply Here](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Building-Agentic-AI-Platform-for-X-ray-Science_421248) |
 | Optiver | Graduate Quantitative Developer | Austin, TX | 2025-10-31 | [Apply Here](https://optiver.com/working-at-optiver/career-opportunities/8159966002/?gh_jid=8159966002) |
-| Motorola | Electronics Test and Assembly Technician - Entry-Level | LA | 2025-10-31 | [Apply Here](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Electronics-Test-and-Assembly-Technician--Entry-Level-_R59031-1) |
 | Anomali | Graduate Software Engineer - Onsite Redwood City - CA | San Carlos, CA | 2025-10-31 | [Apply Here](https://jobs.lever.co/anomali/f9124157-0886-4a52-883a-eec96f3d5166/apply) |
 | Blue Origin | Technician Integration Engineer | Merritt Island, FL | 2025-10-31 | [Apply Here](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Integration-Tech-III_R54159) |
 | University of Chicago | Research Professional | Chicago, IL | 2025-10-31 | [Apply Here](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR31354) |
@@ -1403,11 +1450,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | IMC Trading | 2026 Women in Trading & Technology Program - Quant Trading | Chicago, IL | 2025-10-31 | [Apply Here](https://job-boards.eu.greenhouse.io/imc/jobs/4693599101) |
 | IMC Trading | 2026 Women in Trading & Technology Program - Software Engineer | Chicago, IL | 2025-10-31 | [Apply Here](https://job-boards.eu.greenhouse.io/imc/jobs/4693598101) |
 | Castleton Commodities International | Natural Gas Trading Analyst | Calgary, AB, Canada | 2025-10-31 | [Apply Here](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Calgary-Canada/Natural-Gas-Trading-Analyst--2026-Start-_R1140) |
+| Draper | ASIC/FPGA Hardware Engineer for Cryptographic Systems | Cambridge, MA, Hill AFB, UT | 2025-10-31 | [Apply Here](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-ASIC-FPGA-Hardware-Engineer-for-Cryptographic-Systems_JR001787) |
 | Fanatics | Quantitative Analyst 1 | Denver, CO | 2025-10-31 | [Apply Here](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22824) |
 | L3Harris Technologies | Graduate Hardware Engineer - Sept 2026 | Bristol, UK, Portsmouth, UK | 2025-10-31 | [Apply Here](https://jobs.l3harris.com/job/Bristol-Graduate-Hardware-Engineer-(Sept-2026)-Bris-BS32-4SR/1337764400/?ats=successfactors) |
 | Fanatics | Trader 1 2 - Risk | Denver, CO | 2025-10-31 | [Apply Here](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24990) |
 | Montrose Environmental Group | Electronic Engineering Technician | Bridgeville, PA | 2025-10-31 | [Apply Here](https://montrose.wd1.myworkdayjobs.com/meg/job/USA-PA-Bridgeville/Electronic-Engineering-Technician_R6139) |
-| Waters Corporation | Software Engineer - AI/ML | Franklin, MA | 2025-10-31 | [Apply Here](https://uscareers-waters.icims.com/jobs/24756/job?mobile=true&needsRedirect=false) |
 | Hilcorp | Geologist | Houston, TX, Anchorage, AK | 2025-10-31 | [Apply Here](https://hec.wd5.myworkdayjobs.com/hilcorp_energy_company/job/Houston-TX/XMLNAME-25-123E---Geologist_R004690) |
 | Wolverine Trading | Entry-Level C++ Software Engineer | Chicago, IL | 2025-10-31 | [Apply Here](https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216/apply) |
 | L3Harris Technologies | Hardware Cleaning Technician | Fort Wayne, IN | 2025-10-31 | [Apply Here](https://jobs.l3harris.com/job/Fort-Wayne-Hardware-Cleaning-Technician-IN-46818/1328636800/?ats=successfactors) |
@@ -1444,6 +1491,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Hewlett Packard Enterprise | Data Science Graduate | Eau Claire, WI, Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Roseville, CA | 2025-10-31 | [Apply Here](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963-1) |
 | Whoop | Android Engineer 1 - Growth | Boston, MA | 2025-10-31 | [Apply Here](https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f/apply) |
 | LexisNexis Risk Solutions | Data Relationship Analyst 1 | Crawley, UK | 2025-10-31 | [Apply Here](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/East-Grinstead/Data-Relationship-Analyst-I_R103164) |
+| General Dynamics | SWS Fleet Support Engineer 1 / 2 | Groton, CT | 2025-10-31 | [Apply Here](https://careers-gdeb.icims.com/jobs/15343/job?mobile=true&needsRedirect=false) |
 | Five9 | Associate Data Scientist/AI Trainer | San Ramon, CA, Remote in USA | 2025-10-31 | [Apply Here](https://www.five9.com/about/careers/job-detail?gh_jid=5656002004) |
 | Nuro | Software Engineer – New Grad - AI Platform | Mountain View, CA | 2025-10-31 | [Apply Here](https://nuro.ai/careersitem?gh_jid=7351066) |
 | Nexstar | Studio Technician | High Point, NC | 2025-10-31 | [Apply Here](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/NC-High-Point2005-Francis-Street-Tribune-WGHP/Part-time-Studio-Technician_REQ-38434-1) |
@@ -1506,6 +1554,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | TikTok | Product Manager Graduate - Tiktok-Product-Content Ecosystem - 2026 Start | San Jose, CA | 2025-10-30 | [Apply Here](https://lifeattiktok.com/search/7532815853353863432) |
 | Goodleap | Capital Markets Analytics Analyst | SF | 2025-10-30 | [Apply Here](https://jobs.lever.co/goodleap/d8bd982a-a201-4b6b-9072-2b84138f74a7/apply) |
 | Maryland Institute College of Art | Graduate Research Lab - Student Worker | Baltimore, MD | 2025-10-30 | [Apply Here](https://mica.wd5.myworkdayjobs.com/student/job/Baltimore-MD/Graduate-Research-Lab--Student-Worker_R3659) |
+| Beyond New Horizons | Linux System Administrator | Tullahoma, TN | 2025-10-30 | [Apply Here](https://careers-bnh.icims.com/jobs/22154/job?mobile=true&needsRedirect=false) |
 | TikTok | Data Scientist - TikTok Shop AMS Data Science | Seattle, WA | 2025-10-30 | [Apply Here](https://lifeattiktok.com/search/7532272949161593096) |
 | Dave & Busters | Game Support Technician | Wyoming, MI | 2025-10-30 | [Apply Here](https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Kentwood-MI/Game-Support-Technician_R-1009181) |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2025 Start','MS | San Jose, CA | 2025-10-30 | [Apply Here](https://lifeattiktok.com/search/7427268259895003418) |
@@ -1552,9 +1601,9 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | mthree | Développeur génie logiciel / Junior Software Developer - Canada - Montreal | Montreal, QC, Canada | 2025-10-29 | [Apply Here](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613765006) |
 | 42dot | Transcription & Speech Data Labeling Specialist | Sunnyvale, CA | 2025-10-29 | [Apply Here](https://jobs.ashbyhq.com/42dot/4c50178b-6fbd-46f6-a423-ff6b1aeb75a1/application) |
 | Keysight Technologies | R&D Data Analytics Engineer | Santa Rosa, CA | 2025-10-29 | [Apply Here](https://jobs.keysight.com/jobs/49963?lang=en-us&icims=1) |
+| Newell Brands | Associate Product Engineer | Amherst, MA | 2025-10-29 | [Apply Here](https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer-Mass/1338335600/?ats=successfactors) |
 | Newell Brands | Associate Product Engineer - Product Engineering | Amherst, MA | 2025-10-29 | [Apply Here](https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer-Mass/1338391500/?ats=successfactors) |
 | GE Healthcare | Field Engineer 1 - Albany - NY | Albany, NY | 2025-10-29 | [Apply Here](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-I---Albany--NY_R4031121-2) |
-| IXL Learning | Software Engineer – New Grad | Raleigh, NC | 2025-10-29 | [Apply Here](https://www.ixl.com/company/jobs?gh_jid=8231360002) |
 | Invisible Technologies | Japanese Speaker - AI Trainer | Remote in USA | 2025-10-29 | [Apply Here](https://job-boards.eu.greenhouse.io/agency/jobs/4650952101) |
 | Major League Baseball | Minor League Affiliate Technology Coordinator | Salisbury, MD, Frederick, MD, Bowie, MD, Norfolk, VA, Sarasota, FL | 2025-10-29 | [Apply Here](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5650705004) |
 | Major League Baseball | Pro Scouting Analyst Fellowship | Baltimore, MD | 2025-10-29 | [Apply Here](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5634155004) |
@@ -1573,9 +1622,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | QVC | Assistant Technical Designer - US | West Chester, PA | 2025-10-28 | [Apply Here](https://qvc.wd5.myworkdayjobs.com/qrg/job/USA-PA-West-Chester/Assistant-Technical-Designer--US-_R80520) |
 | Major League Baseball | Analyst – Domestic Scouting | Baltimore, MD | 2025-10-28 | [Apply Here](https://job-boards.greenhouse.io/baltimoreorioles/jobs/5678108004) |
 | Northeastern | Postdoctoral Research Associate | Boston, MA | 2025-10-28 | [Apply Here](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R136622-1) |
+| Acuity | Leadership Program - Software Engineering - July 2026 | Atlanta, GA | 2025-10-28 | [Apply Here](https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Software-Engineering-(July-2026)-GA-30309/1338003700/?ats=successfactors) |
 | Astera Labs | Hardware Lab Engineer - Ncg | San Jose, CA | 2025-10-28 | [Apply Here](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4623638005) |
 | Stripe | Data Analyst | Canada | 2025-10-28 | [Apply Here](https://stripe.com/jobs/search?gh_jid=5416444) |
 | Hastings Direct | Analyst Microservices Developer | Tunbridge Wells, UK, Leicester, UK | 2025-10-28 | [Apply Here](https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Analyst-Microservices-Developer_60012552) |
+| Northrop Grumman | Engineer/Principal Engineer Systems Test | Dulles, VA | 2025-10-28 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Engineer-Principal-Engineer-Systems-Test_R10211276) |
 | Aechelon Technology | Geotypical Production Analyst 1 | San Bruno, CA | 2025-10-28 | [Apply Here](https://job-boards.greenhouse.io/aechelontechnology/jobs/4606307008) |
 | JP Morgan Chase | Corporate Treasury - Program & Data Management - Associate | Newark, DE | 2025-10-28 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680012) |
 | Nokia | Hardware Debug Technician | United States | 2025-10-28 | [Apply Here](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24915) |
@@ -1584,7 +1635,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Honeywell | Embedded Engineer 1 | Bellefontaine, OH | 2025-10-27 | [Apply Here](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124562) |
 | Instawork | Product Operations Analyst | Chicago, IL | 2025-10-27 | [Apply Here](https://job-boards.greenhouse.io/instawork/jobs/4583588006) |
 | Instawork | Product Operations Analyst | SF | 2025-10-27 | [Apply Here](https://job-boards.greenhouse.io/instawork/jobs/4583589006) |
-| Ciena | Waveserver Software Developer - New Graduate | Atlanta, GA | 2025-10-27 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Waveserver-Software-Developer---New-Grad_R029253) |
 | Tekion | Data Conversion Specialist 1 | Sharonville, OH | 2025-10-27 | [Apply Here](https://job-boards.greenhouse.io/tekion/jobs/7505411003) |
 | Sainsbury's | Trading Assistant | Christchurch, UK, Dorchester, UK | 2025-10-27 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400030473) |
 | Vertiv | ERS Electrical Testing Technician - Atlanta | Atlanta, GA | 2025-10-27 | [Apply Here](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20258256) |
@@ -1595,7 +1645,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Welocalize | Scout Search Quality Rater - English - United States | Remote in USA | 2025-10-27 | [Apply Here](https://jobs.lever.co/welocalize/90c51db9-ff3f-43c7-8ead-d607582b230f/apply) |
 | Universal  | B-Crew Dockman - 7 | Louisville, KY | 2025-10-27 | [Apply Here](https://hrone.wd1.myworkdayjobs.com/en-US/Universal_Logistics_Holdings/job/WESTPORT-LOUISVILLE-KY/B-Crew-Dockman--7_JR115349-1) |
 | SpaceX | Software Engineer - Starship Quality | Brownsville, TX | 2025-10-27 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8220138002) |
-| Daifuku | Technical Service Engineer 1 | Novi, MI | 2025-10-27 | [Apply Here](https://careers-daifuku-america.icims.com/jobs/20722/job?mobile=true&needsRedirect=false) |
 | Man Group | Data Management Analyst | London, UK | 2025-10-27 | [Apply Here](https://job-boards.eu.greenhouse.io/mangroup/jobs/4663412101) |
 | Visionist | Full-Stack Application Developer | Columbia, MD | 2025-10-27 | [Apply Here](https://jobs.jobvite.com/visionist/job/oNmLyfwc?nl=1&nl=1&fr=false) |
 | L3Harris Technologies | Senior Associate - Application Development | Greenville, TX | 2025-10-27 | [Apply Here](https://jobs.l3harris.com/job/Greenville-Sr_-Associate,-Application-Development-TX-75402/1335454700/?ats=successfactors) |
@@ -1683,6 +1732,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Logitech | Junior Software QA Engineer | San Jose, CA | 2025-10-23 | [Apply Here](https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/San-Jose-California---USA/Junior-Software-QA-Engineer_144324) |
 | Analog Devices | Associate Engineer, Embedded Software | Edinburgh, SC, UK | 2025-10-23 | [Apply Here](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Associate-Engineer--Embedded-Software_R257164) |
 | Citadel Securities | Quantitative Research Engineer | Miami, FL, New York, NY | 2025-10-23 | [Apply Here](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) |
+| Susquehanna International Group (SIG) | Trading Operations Analyst - Multiple Teams | London, UK | 2025-10-22 | [Apply Here](https://careers-sig.icims.com/jobs/9928/job?mobile=true&needsRedirect=false) |
 | Sainsbury's | Trading Assistant | London, UK | 2025-10-22 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400026260) |
 | The Home Depot | Associate Data Scientist - Online Insights | Atlanta, GA | 2025-10-22 | [Apply Here](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/ASSOCIATE-DATA-SCIENTIST_Req159469) |
 | Vermont Information Processing | Software Engineer 1 | Holland, MI | 2025-10-22 | [Apply Here](https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/4953972007) |
@@ -1692,12 +1742,9 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | JP Morgan Chase | Quant Model Risk Analyst/Associate | London, UK | 2025-10-22 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679051) |
 | Becton Dickinson | Molding Electro-Mechanical Technician - C Shift | Norfolk, NE | 2025-10-22 | [Apply Here](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Molding-Electro-Mechanical-Technician---C-Shift_R-530626) |
 | Stripe | Software Engineer - Payouts | London, UK | 2025-10-22 | [Apply Here](https://stripe.com/jobs/search?gh_jid=7208537) |
-| Quantexa | Associate Engineer | London, UK | 2025-10-22 | [Apply Here](https://apply.workable.com/quantexa/j/78D672ACCC/apply) |
-| Connection | Associate Applications Developer | Jeffersonville, OH | 2025-10-22 | [Apply Here](https://careers-connection.icims.com/jobs/9906/job?mobile=true&needsRedirect=false) |
 | ByteDance | Visual Perception Algorithm Engineer Graduate - Human Body Perception Direction | San Jose, CA | 2025-10-22 | [Apply Here](https://jobs.bytedance.com/en/position/7561662675321096509/detail) |
 | Flock Safety | Installation Technician - Boston - MA | Boston, MA | 2025-10-22 | [Apply Here](https://jobs.ashbyhq.com/Flock%20Safety/eefda4a6-7fb3-4cae-b232-465e43a368f9/application) |
 | Keysight Technologies | Sales Compensation Data Analyst – Recent Graduate | Santa Rosa, CA | 2025-10-22 | [Apply Here](https://jobs.keysight.com/jobs/49981?lang=en-us&icims=1) |
-| Metropolitan Transportation Authority | Transit Management Analyst Series - Subways - MOW Engineering | Brooklyn, NY | 2025-10-22 | [Apply Here](https://jobs.jobvite.com/metropolitantransportationauthority/job/oNDKyfws?nl=1&nl=1&fr=false) |
 | Edgehog Trading | Graduate Trader (March 2026) | Chicago, IL | 2025-10-22 | [Apply Here](https://ats.rippling.com/edgehog-trading/jobs/d7fae9de-8925-418b-b722-eb72ad2ddc4d) |
 | Samsung Research America | Health Applied Scholar - Digital Health | Mountain View, CA | 2025-10-22 | [Apply Here](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8215480002) |
 | Spot & Tango | Jr. Software Engineer | New York, NY | 2025-10-21 | [Apply Here](https://www.spotandtango.com/careers?gh_jid=4620638005) |
@@ -1706,12 +1753,10 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sainsbury's | Trading Assistant | Dartford District, UK | 2025-10-20 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400024638) |
 | WSP | Instrument Operator - Surveying | Cohoes, NY | 2025-10-20 | [Apply Here](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/73900) |
 | CACI | Systems Engineer | Colorado Springs, CO | 2025-10-20 | [Apply Here](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Systems-Engineer_318783) |
-| Adtheorant | Associate Data Scientist | NYC | 2025-10-20 | [Apply Here](https://careers-cadent.icims.com/jobs/1266/job?mobile=true&needsRedirect=false) |
 | 360 IT Professionals | Java Developer | Chicago, IL | 2025-10-20 | [Apply Here](https://jobs.smartrecruiters.com/360ITProfessionals1/743999657426860) |
 | Sainsbury's | Trading Assistant | Chesterfield, UK | 2025-10-19 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400029707) |
 | University of Maryland - College Park | ARLIS Artificial Intelligence Research Professional | Hyattsville, MD | 2025-10-19 | [Apply Here](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775) |
 | IQVIA | Field Service Engineer – Entry Level | St. Louis, MO | 2025-10-18 | [Apply Here](https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/St-Louis-MO/Field-Service-Engineer---Entry-Level_R1504158-1) |
-| ABB | R&D Early Career Program | Florence, SC, Richmond, VA, Memphis, TN, Mebane, NC, Hartford, CT | 2025-10-18 | [Apply Here](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Early-Career-Program--US--2026-Cohort_JR00009935) |
 | Veeva Systems | Associate Software Engineer – Seeking 2025 & 2026 Grads | Pleasanton, CA | 2025-10-18 | [Apply Here](https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply) |
 | Veeva Systems | Associate Software Engineer – Seeking 2025 & 2026 Grads | Columbus, OH | 2025-10-18 | [Apply Here](https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply) |
 | Veeva Systems | Marketing Analytics - Data Analyst - Adp | NYC | 2025-10-18 | [Apply Here](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
@@ -1747,8 +1792,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | The Boeing Company | Product Security Engineers | St Charles, MO, Hazelwood, MO | 2025-10-17 | [Apply Here](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Product-Security-Engineers_JR2025478888) |
 | Truist Bank | Software Engineer 1 SAS Programmer | Charlotte, NC, Atlanta, GA | 2025-10-17 | [Apply Here](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Software-Engineer-I_R0107411) |
 | SpaceX | Application Software Engineer | West Athens, CA | 2025-10-17 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8211826002) |
-| The New York Times | Fellow – A.1. Initiatives | NYC | 2025-10-17 | [Apply Here](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4618264005) |
-| Uline | Product Management Analyst | Waukegan, IL, Milwaukee, WI, Pleasant Prairie, WI, Morton Grove, IL, Kenosha, WI | 2025-10-17 | [Apply Here](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R258428-1) |
 | GE Healthcare | Field Service Engineer 1 - Northern AZ - Navajo Nation area | Arizona | 2025-10-17 | [Apply Here](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Northern-AZ--Navajo-Nation-area_R4030392-2) |
 | StubHub | Associate Product Manager | Santa Monica, CA, NYC | 2025-10-17 | [Apply Here](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101) |
 | Ciena | Embedded Software Engineer – New Grad | Ottawa, ON, Canada | 2025-10-17 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R029246) |
@@ -1770,7 +1813,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Sainsbury's | Trading Assistant | Dorking, UK | 2025-10-15 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400027617) |
 | Glide | Junior Full Stack Engineer - Frontend and Backend - TypeScript, React, Node.js, Next.js | NYC | 2025-10-15 | [Apply Here](https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application) |
 | Cummins | BMS Product Engineer | Columbus, IN | 2025-10-15 | [Apply Here](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420390) |
-| Centerline Communications | Wireless Technician Level 1 - Hudson NH | Nashua, NH | 2025-10-15 | [Apply Here](https://careers-clinellc.icims.com/jobs/2588/job?mobile=true&needsRedirect=false) |
 | Aurora Innovation | Software Engineer I - Remote Assist | Pittsburgh, PA | 2025-10-15 | [Apply Here](https://aurora.tech/careers/8209480002?gh_jid=8209480002) |
 | Aurora Innovation | Software Engineer I - Remote Assist | Mountain View, CA | 2025-10-15 | [Apply Here](https://aurora.tech/careers/8191750002?gh_jid=8191750002) |
 | Lewis Brisbois | Financial Systems Analyst 1 | St. Louis, MO | 2025-10-15 | [Apply Here](https://careers-lewisbrisbois.icims.com/jobs/12140/job?mobile=true&needsRedirect=false) |
@@ -1784,6 +1826,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Esri | Java Software Engineer I - Arcgis Enterprise | West Redlands, Redlands, CA | 2025-10-14 | [Apply Here](https://www.esri.com/careers/4660952007?gh_jid=4660952007) |
 | Northrop Grumman | Associate Full Stack Software Developer - Aht | California, MD | 2025-10-14 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Full-Stack-Software-Developer--AHT-_R10211087) |
 | Sainsbury's | Trading Assistant | Crawley, UK | 2025-10-14 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400028319) |
+| URBN | Assistant Product Development Coordinator | Philadelphia, PA | 2025-10-14 | [Apply Here](https://homeoffice-na-urbn.icims.com/jobs/22705/job?mobile=true&needsRedirect=false) |
 | Arrow Electronics | Apprentice - Cloud Infrastructure | Bangalore, IN | 2025-10-14 | [Apply Here](https://arrow.wd1.myworkdayjobs.com/en-US/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Apprentice---Cloud-Infrastructure_R236670) |
 | D2 Consulting | Deployment/Hardware Engineer - Skillbridge Fellowship | Fort Belvoir, VA | 2025-10-14 | [Apply Here](https://job-boards.greenhouse.io/d2consulting/jobs/4522989008) |
 | Northrop Grumman | Northrop Grumman – Cyber Software Engineer or Principal Cyber Software Engineer - DoD Skillbridge | Annapolis, MD | 2025-10-14 | [Apply Here](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Northrop-Grumman--DoD-SkillBridge----Cyber-Software-Engineer-or-Principal-Cyber-Software-Engineer_R10210231-1) |
@@ -1844,7 +1887,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Dallas County | GIS Analyst 1 Public Works | Dallas, TX | 2025-10-09 | [Apply Here](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/25001637) |
 | Ursa Major | Software Engineer | Loveland, CO | 2025-10-09 | [Apply Here](https://ursamajor.com/careers/?gh_jid=4585198005) |
 | M&T Bank | Technology Development Program 2026 - Servicenow | Buffalo, NY | 2025-10-09 | [Apply Here](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Development-Program---ServiceNow_R80405) |
-| Ameresco | Integration Technician | Chandler, AZ | 2025-10-09 | [Apply Here](https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Arizona---Chandler/Integration-Technician_R3434) |
 | GSA Capital | Women in Trading and Technology Insight Programme | London, UK | 2025-10-09 | [Apply Here](https://www.gsacapital.com/careers/gh/?gh_jid=8199077002) |
 | Vail Systems | Software Engineer - Test & Infrastructure I | Chicago, IL, Highland Park, IL | 2025-10-09 | [Apply Here](https://jobs.lever.co/vailsys/ad5c0c59-c301-4ac5-983b-bbd62b736c94/apply) |
 | Global Lending Services | Business Systems Analyst - Data Warehouse | Greenville, SC | 2025-10-09 | [Apply Here](https://jobs.lever.co/glsllc/36be43e8-4c98-41c1-bdae-3f3bcb9353ba/apply) |
@@ -1881,7 +1923,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Data Intellect | Graduate STEM Developer - Summer 2026 | Belfast, UK | 2025-10-07 | [Apply Here](https://jobs.smartrecruiters.com/DataIntellect/744000085940995) |
 | Microsoft | Software Engineer | USA | 2025-10-07 | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer) |
 | General Dynamics Information Technology | Software Developer Associate - TS/SCI w/Poly | Annapolis Junction, MD | 2025-10-07 | [Apply Here](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001) |
-| Walmart | Software Engineer III - Dataiku Platform | Bentonville, AR | 2025-10-07 | [Apply Here](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III---Dataiku-Platform_R-2315724) |
 | TikTok | Machine Learning Engineer Graduate - Risk Data Mining | San Jose, CA | 2025-10-07 | [Apply Here](https://lifeattiktok.com/search/7516006918402951432) |
 | Viridien | Researcher | Crawley, UK | 2025-10-07 | [Apply Here](https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Researcher_JR100977) |
 | DoorDash | Software Engineer 1 - Multiple Teams | Toronto, ON, Canada | 2025-10-07 | [Apply Here](https://job-boards.greenhouse.io/doordashcanada/jobs/7264351) |
@@ -1890,7 +1931,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Howmet Aerospace | Product Engineer - Plant 5 - Ti-Cast | Muskegon, MI | 2025-10-07 | [Apply Here](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114644) |
 | Ciena | RLS Photonics Software Engineer – 2026 New Grads | Ottawa, ON, Canada | 2025-10-06 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---2026-New-Grads_R029180) |
 | Loyola Marymount University | Assistant Professor of Mathematics - Statistics and Data Science | LA | 2025-10-06 | [Apply Here](https://lmu.wd1.myworkdayjobs.com/careers/job/Westchester-Campus/Assistant-Professor-of-Mathematics--Statistics-and-Data-Science_R11535) |
-| Susquehanna International Group (SIG) | Quantitative Researcher - Master's: 2026 | Ardmore, PA | 2025-10-06 | [Apply Here](https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false) |
 | Amentum | C++ Junior Software Developer | Dahlgren, VA | 2025-10-06 | [Apply Here](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junior-Software-Developer_R0147273) |
 | General Dynamics Mission Systems | Junior Software Engineer | Dedham, MA | 2025-10-06 | [Apply Here](https://careers-gdms.icims.com/jobs/68413) |
 | Wind River | Embedded Software Engineer for Professional Services | San Diego, CA | 2025-10-06 | [Apply Here](https://jobs.jobvite.com/windriver/job/o97iyfwQ) |
@@ -1933,9 +1973,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | American Express | Campus Undergraduate Full-Time - Software Engineer 1 - Technology | Phoenix, AZ | 2025-10-03 | [Apply Here](https://aexp.eightfold.ai/careers/job/38270714) |
 | American Express | Campus Graduate - Software Engineer II - Technology | NYC | 2025-10-03 | [Apply Here](https://aexp.eightfold.ai/careers/job/38270711) |
 | Wind River | College Permanent Hire | Boston, MA, Troy, MI, Walnut Creek, CA, Cupertino, CA, San Diego, CA | 2025-10-03 | [Apply Here](https://jobs.jobvite.com/windriver/job/o97iyfwQ?nl=1&nl=1&fr=false) |
-| Ciena | Software Engineer Packet Platform New Grad - Packet Software - Embedded Linux | Ottawa, ON, Canada | 2025-10-03 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-Packet-Platform---New-Grad_R029135-1) |
 | RTX | Software Engineer 1 - C/C++ Linux | Newport, RI | 2025-10-03 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278) |
-| Waters Corporation | Manufacturing Technician 1 | New Castle, DE | 2025-10-03 | [Apply Here](https://uscareers-waters.icims.com/jobs/24210/job?mobile=true&needsRedirect=false) |
 | Honeywell | Field Service Engineer 1 | Texarkana, TX, Paris, TX | 2025-10-02 | [Apply Here](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/120796) |
 | PennState University | Postdoctoral Scholar | State College, PA | 2025-10-02 | [Apply Here](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1) |
 | Anaplan | Associate Software Engineer | York, UK | 2025-10-02 | [Apply Here](https://job-boards.greenhouse.io/anaplan/jobs/8161559002) |
@@ -1958,9 +1996,9 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Yuzu Health | Product Engineer | New York City | 2025-10-01 | [Apply Here](https://yuzu.health/careers/bddd5ff3-3478-497b-b849-76256992b89f) |
 | Sierra | Software Engineer, Agent | San Francisco, CA, New York, NY | 2025-10-01 | [Apply Here](https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96) |
 | Coherent  | Photonics Technician | Traverse City, MI | 2025-10-01 | [Apply Here](https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2008846) |
-| TD Synnex | Electronic Repair Technician 1 | Groveport, OH | 2025-10-01 | [Apply Here](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Groveport-Ohio-United-States/Electronic-Repair-Technician-I_R43556-1) |
 | AIG | Data Office Analyst - Data Office - Analyst | Atlanta, GA | 2025-10-01 | [Apply Here](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Data-Office---Analyst---United-States--Atlanta--GA-_JR2505352) |
 | NBCUniversal | Associate Data Engineer | Hammersmith, London, UK | 2025-10-01 | [Apply Here](https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859) |
+| RTX | Software Engineer 1 - Radar Product Line Team | Marlborough, MA | 2025-10-01 | [Apply Here](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122) |
 | Goldman Sachs | Risk – Analytics & Reporting - Analyst - Birmingham | Birmingham, UK | 2025-10-01 | [Apply Here](https://higher.gs.com/roles/153298) |
 | Moog  | Electronic Technician | Blacksburg, VA | 2025-10-01 | [Apply Here](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-25-14221) |
 | Pivotal Software | System Integration Prototype Engineer | Palo Alto, CA | 2025-10-01 | [Apply Here](https://jobs.lever.co/pivotal/5a753d22-0933-4974-a736-62ea10f3b1eb/apply) |
@@ -1970,7 +2008,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Autodesk | Industrial Placement - Software Engineer - JavaScript | Sheffield, UK | 2025-09-30 | [Apply Here](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/XMLNAME-12-Month-Industrial-Placement--Software-Engineer--Javascript-_25WD91767) |
 | CoStar Group | Associate Software Engineer | Nashville, TN | 2025-09-30 | [Apply Here](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1) |
 | Comcast | Software Engineer 1 with AWS & Python | Chicago, IL, Englewood, CO | 2025-09-30 | [Apply Here](https://jobs.comcast.com/job/-/-/45483/86516813920) |
-| Teledyne | Engineering Technician | Hook, UK | 2025-09-30 | [Apply Here](https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Alton/Engineering-Techncian_REQ31338) |
 | L3Harris Technologies | Engineering Technician A | Salt Lake City, UT | 2025-09-30 | [Apply Here](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1330252200/?ats=successfactors) |
 | Ciena | Modem Hardware Engineer New Graduate - Hardware Design | Ottawa, ON, Canada | 2025-09-30 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Modem-Hardware---Engineer-New-Grad_R028721) |
 | Viavi Solutions | Early Careers Rotational Program - AI Track | Ottawa, ON, Canada | 2025-09-30 | [Apply Here](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Ottawa-CAN/Early-Careers-Rotational-Program--AI-Track-_250003817-1) |
@@ -1987,11 +2024,11 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | General Motors | Software Engineer – Early Career | Milford Charter Twp, MI, Austin, TX, Mountain View, CA, Warren, MI, Pontiac, MI | 2025-09-27 | [Apply Here](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Early-Career_JR-202518329) |
 | Stackline | Software Development Engineer I | Seattle, WA | 2025-09-27 | [Apply Here](https://job-boards.greenhouse.io/stackline/jobs/4613319005) |
 | Aviatrix | MTS – Software Development | Urbana, IL | 2025-09-27 | [Apply Here](https://aviatrix.com/careers/?gh_jid=4611861005) |
+| Lewis Brisbois | Financial Systems Analyst 1 | Kansas City, MO | 2025-09-27 | [Apply Here](https://careers-lewisbrisbois.icims.com/jobs/12138/job?mobile=true&needsRedirect=false) |
 | Global Lending Services | Data Developer | Greenville, SC | 2025-09-27 | [Apply Here](https://jobs.lever.co/glsllc/b452c19a-d83d-4343-b1d2-8a249d9381c9/apply) |
 | Chatham Financial | Full Stack Engineer | West Chester, PA | 2025-09-27 | [Apply Here](https://job-boards.greenhouse.io/chathamfinancial/jobs/7271894) |
 | HYDAC | Rotational Engineer - Sales Application Engineer | Bethlehem, PA | 2025-09-27 | [Apply Here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3390877) |
 | TikTok | Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM - Tiktok Trust and Safety | Seattle, WA | 2025-09-27 | [Apply Here](https://lifeattiktok.com/search/7395700606508140810) |
-| JP Morgan Chase | 2026 Data Science Analyst Program - Full-Time Analyst | Plano, TX, Chicago, IL, Columbus, OH, NYC, Wilmington, DE, United States | 2025-09-27 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415) |
 | Milwaukee Tool | Repair Tech 2 | Greenwood, IN | 2025-09-26 | [Apply Here](https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-IN/Repair-Tech-2_R66704) |
 | Sierra | Software Engineer – New Grad - Agent | NYC | 2025-09-26 | [Apply Here](https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075/application) |
 | Honeywell | Systems Engineering | United States | 2025-09-26 | [Apply Here](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113416) |
@@ -2035,11 +2072,9 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Ciena | Routing/IP Software Engineer – New Grad | Ottawa, ON, Canada | 2025-09-24 | [Apply Here](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer---New-Grad_R029033) |
 | Marsh | Oliver Wyman-Vector-Data Analyst | Atlanta, GA | 2025-09-24 | [Apply Here](https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/Oliver-Wyman--Vector--Data-Analyst_R_325198) |
 | Sainsbury's | Trading Assistant | Maidenhead, UK | 2025-09-24 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400021834) |
-| IXL Learning | Software Engineer – New Grad - Multiple Teams | San Mateo, CA | 2025-09-24 | [Apply Here](https://www.ixl.com/company/jobs?gh_jid=8182830002) |
 | Figma | Software Engineer | San Francisco, CA, New York, NY | 2025-09-24 | [Apply Here](https://job-boards.greenhouse.io/figma/jobs/5616603004) |
 | JPMorganChase | Quantitative Research - Data Analytics - Associate | New York, NY | 2025-09-24 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344) |
 | Appian | Associate Business Applications Engineer | McLean, VA | 2025-09-24 | [Apply Here](https://job-boards.greenhouse.io/appian/jobs/7272540) |
-| IXL Learning | Associate Product Manager – New Grad - Product Management | San Mateo, CA | 2025-09-24 | [Apply Here](https://www.ixl.com/company/jobs?gh_jid=8182864002) |
 | Appian | Internal Technical Consultant | McLean, VA | 2025-09-24 | [Apply Here](https://job-boards.greenhouse.io/appian/jobs/7254384) |
 | Appian | Associate Application Engineer – Dec 2025 Grads | McLean, VA | 2025-09-24 | [Apply Here](https://job-boards.greenhouse.io/appian/jobs/7272543) |
 | Appian | Associate Application Developer - Appian Platform | McLean, VA | 2025-09-24 | [Apply Here](https://job-boards.greenhouse.io/appian/jobs/7272542) |
@@ -2056,6 +2091,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Toyota Research Institute | Postdoctoral Researcher - Large Behavior Models | Mountain View, CA | 2025-09-23 | [Apply Here](https://jobs.lever.co/tri/84ea4ff1-27e9-40cb-9b16-b6eb186df986/apply) |
 | Jump Trading | Campus Quantitative Researcher - Full-Time | Chicago, IL, NYC | 2025-09-23 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=7125354) |
 | NorthMark Strategies | Graduate Engineering Program | Dallas, TX | 2025-09-22 | [Apply Here](https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714) |
+| Susquehanna International Group (SIG) | Quantitative Researcher - Master's: 2026 | NYC | 2025-09-22 | [Apply Here](https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false) |
 | CoStar Group | Associate Software Engineer | San Diego, CA | 2025-09-22 | [Apply Here](https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1) |
 | Blackhawk Network Holdings | Software Engineer | Coppell, TX | 2025-09-22 | [Apply Here](https://careers-blackhawknetwork.icims.com/jobs/24807/job?mobile=true&needsRedirect=false) |
 | Jade Global | Data/Ai Engineer Intern | Ogden, UT | 2025-09-22 | [Apply Here](https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685) |
@@ -2110,7 +2146,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Louisiana State University (LSU) | Moodle Developer | Baton Rouge, LA | 2025-09-16 | [Apply Here](https://lsu.wd1.myworkdayjobs.com/LSU/job/8585-Archives-Blvd-Suite-201/Moodle-Developer_R00109175) |
 | Cubic | Repair Technician | Crawley, UK | 2025-09-16 | [Apply Here](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Crawley-West-Sussex/Repair-Technician_REQ_46025) |
 | Cubic | Repair Technician | Crawley, UK | 2025-09-16 | [Apply Here](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Crawley-West-Sussex/Repair-Technician_REQ_46027) |
-| Cubic | Repair Technician | Crawley, UK | 2025-09-16 | [Apply Here](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Crawley-West-Sussex/Repair-Technician_REQ_46021) |
 | PennState University | Postdoctoral Scholar: Applied Machine Learning - Johnson Kinyua | State College, PA | 2025-09-16 | [Apply Here](https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Applied-Machine-Learning--Johnson-Kinyua-_REQ_0000071806-1) |
 | AV | Software Engineer (Apps) I | Melbourne, FL | 2025-09-16 | [Apply Here](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Software-Engineer--Apps--I_5898) |
 | BAE Systems | Engineering Assistant I – Software | Dayton, OH | 2025-09-16 | [Apply Here](https://jobs.baesystems.com/global/en/job/BAE1US115922BREXTERNAL/Engineering-Assistant-I-Software-Part-Time) |
@@ -2127,55 +2162,54 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | ByteDance | Student Researcher - Seed Vision - Multimodal Video Generation | San Jose, CA | 2025-09-16 | [Apply Here](https://jobs.bytedance.com/en/position/7549290849889995016/detail) |
 | ByteDance | Student Researcher - Seed Vision - Multimodal Video Generation | San Jose, CA | 2025-09-16 | [Apply Here](https://jobs.bytedance.com/en/position/7549296431607302418/detail) |
 | AI Fund | Founder in Residence - Embedfi - SMB Hardware Leasing | California, Remote in USA | 2025-09-16 | [Apply Here](https://jobs.lever.co/AIFund/e5ef49f6-2014-45d7-a5fb-2d534e6af556/apply) |
-| NV5 Global | Lidar – Quicklook Data Verification Technician | Portland, OR | 2025-09-16 | [Apply Here](https://careers-nv5.icims.com/jobs/11395/job?mobile=true&needsRedirect=false) |
 | Konrad Group | Software Developer Entry Level | Toronto, ON, Canada | 2025-09-16 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=7326972003) |
 | Eventual | Software Engineer – New Grad | SF | 2025-09-16 | [Apply Here](https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application) |
 | Duolingo | Data Scientist – New Graduate | Pittsburgh, PA | 2025-09-16 | [Apply Here](https://careers.duolingo.com/jobs/8162849002?gh_jid=8162849002) |
 | Duolingo | AI Research Engineer – New PhD Graduate | NYC | 2025-09-16 | [Apply Here](https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002) |
 | Duolingo | AI Research Engineer – New PhD Graduate | Pittsburgh, PA | 2025-09-16 | [Apply Here](https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002) |
 | American Axle & Manufacturing | Quality Tech | Warren, MI | 2025-09-15 | [Apply Here](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Warren-MI/Quality-Tech_JREQ-218353) |
+| Intercontinental Exchange | Cross Asset Market Data Analyst | Bedford, MA | 2025-09-15 | [Apply Here](https://careers-ice.icims.com/jobs/11312/job?mobile=true&needsRedirect=false) |
 | Hearst | Part-Time Operations Technician | Cincinnati, OH | 2025-09-15 | [Apply Here](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025060) |
 | Centene | Application Development Engineer I | Missouri | 2025-09-15 | [Apply Here](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Application-Development-Engineer-I_1592119-1) |
 | Mohawk | Product Management Associate - Aspire Ldp | Georgia | 2025-09-15 | [Apply Here](https://careers.mohawkind.com/job/Product-Management-Associate-ASPIRE-LDP-Geor/1326218500/?ats=successfactors) |
 | Boston Scientific | Software Development Engineer 1 - Engineering - Development | Cambridge, MA | 2025-09-15 | [Apply Here](https://bostonscientific.eightfold.ai/careers/job/563602808591541) |
 | Red Hat | Associate Software Software Engineer | Durham, NC, Raleigh, NC, Boston, MA | 2025-09-15 | [Apply Here](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1) |
 | Citi | Reference Data Analyst Junior | Getzville, NY | 2025-09-15 | [Apply Here](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Reference-Data-Analyst-Junior_25905888) |
-| Lynker | Drafter 1 | John C. Stennis Space Center, MS | 2025-09-15 | [Apply Here](https://careers-lynker.icims.com/jobs/1466/job?mobile=true&needsRedirect=false) |
 | Gartner | Data Analyst - Insights and Product Analytics | Stamford, CT, Irving, TX | 2025-09-15 | [Apply Here](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst---2026-graduates_103573) |
 | Blackhawk Network Holdings | Software Engineer - Multiple Teams | Pleasanton, CA | 2025-09-13 | [Apply Here](https://careers-blackhawknetwork.icims.com/jobs/24806/job?mobile=true&needsRedirect=false) |
 | TikTok | Product Manager Graduate - PhD | San Jose, CA | 2025-09-12 | [Apply Here](https://lifeattiktok.com/search/7546336514033764626) |
 | Cresta | Embedded Expert - Saas Software - Contact Center | Remote in USA | 2025-09-12 | [Apply Here](https://job-boards.greenhouse.io/cresta/jobs/4919163008) |
+| Susquehanna International Group (SIG) | Software Developer Graduate | London, UK | 2025-09-12 | [Apply Here](https://careers-sig.icims.com/jobs/9823/job?mobile=true&needsRedirect=false) |
 | EliseAI | Software Engineer | New York, NY | 2025-09-12 | [Apply Here](https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353) |
 | Nordstrom | Engineer 1 - Full Stack, Store POS+ | Seattle, WA | 2025-09-12 | [Apply Here](https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729) |
 | Jane Street | Cybersecurity Analyst | New York, NY | 2025-09-12 | [Apply Here](https://www.janestreet.com/join-jane-street/position/8053215002/) |
-| DataDirect Networks (DDN) | Associate Software Engineer | Columbia, MD | 2025-09-12 | [Apply Here](https://careers-ddn.icims.com/jobs/5271/job?mobile=true&needsRedirect=false) |
 | LPL Financial Holdings | New Grad - Technology - Data & Analytics | Austin, TX, Fort Mill, SC, Charlotte, NC | 2025-09-12 | [Apply Here](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/New-Grad-2026---Technology--Data---Analytics_R-046208-1) |
 | Susquehanna International Group (SIG) | Linux/Windows Engineer | Ardmore, PA | 2025-09-12 | [Apply Here](https://careers-sig.icims.com/jobs/9089/job?mobile=true&needsRedirect=false) |
 | Atlassian | Machine Learning Engineer 2026 Graduate - Machine Learning | Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada | 2025-09-11 | [Apply Here](https://campus-globalcareers-atlassian.icims.com/jobs/20909/machine-learning-engineer%2c-2026-graduate-canada/job) |
 | Atlassian | Software Engineer 2026 Graduate | Seattle, WA | 2025-09-11 | [Apply Here](https://campus-americas.icims.com/jobs/20901/software-engineer%2c-2026-graduate-u.s./job) |
 | Atlassian | Machine Learning Engineer 2026 Graduate - Machine Learning | SF | 2025-09-11 | [Apply Here](https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job) |
+| Susquehanna International Group (SIG) | Quantitative Sports Researcher – Graduate Hire | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) |
 | Peraton | Electronic Technician 1 | Topeka, KS | 2025-09-11 | [Apply Here](https://careers-peraton.icims.com/jobs/151732/job?mobile=true&needsRedirect=false) |
 | LPL Financial Holdings | New Grad 2026 - Technology - Software Development | Austin, TX, Fort Mill, SC, San Diego, CA | 2025-09-11 | [Apply Here](https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1) |
 | Peraton | Associate Systems Engineer | Layton, UT | 2025-09-11 | [Apply Here](https://careers-peraton.icims.com/jobs/158613/job?mobile=true&needsRedirect=false) |
+| Sono-Tek Corporation | Software Engineer I | Saratoga County, NY | 2025-09-11 | [Apply Here](https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Quantitative Researcher - PhD: 2026 | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false) |
-| Susquehanna International Group (SIG) | Discovery Program Technology | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9757/job?mobile=true&needsRedirect=false) |
+| Susquehanna International Group (SIG) | Faculty Fellow | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) |
+| Susquehanna International Group (SIG) | Discovery Program: Quantitative Trading | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9572/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Associate Linux/Windows Engineer - Platform Services | Ardmore, PA | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9090/job?mobile=true&needsRedirect=false) |
+| Parkhill | Senior Lidar Specialist | Oklahoma City, OK | 2025-09-11 | [Apply Here](https://careers-parkhill.icims.com/jobs/1351/job?mobile=true&needsRedirect=false) |
 | Waters Corporation | Instrument Technician | Franklin, MA | 2025-09-11 | [Apply Here](https://uscareers-waters.icims.com/jobs/23762/job?mobile=true&needsRedirect=false) |
+| Parkhill | Senior LiDAR Specialist | Lubbock, TX | 2025-09-11 | [Apply Here](https://careers-parkhill.icims.com/jobs/1338/job?mobile=true&needsRedirect=false) |
 | Pentair | 2026 Information Technology & Cybersecurity | Golden Valley, MN | 2025-09-11 | [Apply Here](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2026-Information-Technology---Cybersecurity---AI---Machine-Learning-Specialization-Leadership-Development-Program_R21984) |
-| Scientific Research Corporation | Salesforce Database Administrator | North Charleston, SC | 2025-09-11 | [Apply Here](https://careers-scires.icims.com/jobs/10598/job?mobile=true&needsRedirect=false) |
 | Utah State University | AI and Machine Learning Assistant Professor/Professional Practice Assistant Professor | Logan, UT | 2025-09-11 | [Apply Here](https://careers-usu.icims.com/jobs/8433/job?mobile=true&needsRedirect=false) |
 | Susquehanna International Group (SIG) | Quantitative Systematic Trader - PhD: 2026 | NYC | 2025-09-11 | [Apply Here](https://careers-sig.icims.com/jobs/9440/job?mobile=true&needsRedirect=false) |
 | The J. Paul Getty Trust | GCI Postdoctoral Fellow in Conservation Science | LA | 2025-09-11 | [Apply Here](https://jobs-getty.icims.com/jobs/4672/job?mobile=true&needsRedirect=false) |
-| SDSU Research Foundation | Niwc Senior | San Diego, CA | 2025-09-11 | [Apply Here](https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false) |
 | Applied Materials | Field Service Engineer - Bachelor's Degree | Austin, TX, Boise, ID, Phoenix, AZ, Chandler, AZ, Richardson, TX | 2025-09-11 | [Apply Here](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Field-Service-Engineer---New-College-Graduate-Rotational-Program--College-Grad---Bachelor-s-Degree--US-Based-_R2516565) |
-| Amentum | Entry Level Software Engineer | Fredericksburg, VA, Dahlgren, VA | 2025-09-11 | [Apply Here](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145734) |
 | Advocate Health Care | IT Data Solutions Developer Associate | Winston-Salem, NC | 2025-09-11 | [Apply Here](https://aah.wd5.myworkdayjobs.com/External/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/IT-Data-Solutions-Develop-Associate_R178892) |
-| Sev1Tech | Software Developer – Entry Level | Lawton, OK | 2025-09-11 | [Apply Here](https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false) |
 | Amentum | Entry Level Software Engineer | Fredericksburg, VA, Dahlgren, VA | 2025-09-11 | [Apply Here](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1) |
 | SHEIN | Associate Database Engineer - Hbase | San Diego, CA | 2025-09-10 | [Apply Here](https://job-boards.greenhouse.io/shein/jobs/4916625008) |
-| Lewis Brisbois | Financial Systems Analyst 1 | Dallas, TX | 2025-09-10 | [Apply Here](https://careers-lewisbrisbois.icims.com/jobs/12139/job?mobile=true&needsRedirect=false) |
-| SDSU Research Foundation | Niwc Senior - Multiple Teams | San Diego, CA | 2025-09-10 | [Apply Here](https://careers-sdsurf.icims.com/jobs/19750/job?mobile=true&needsRedirect=false) |
-| Cook Group | Service Technician | Philadelphia, PA | 2025-09-10 | [Apply Here](https://americas-cookmedical.icims.com/jobs/17170/job?mobile=true&needsRedirect=false) |
+| Intercontinental Exchange | Analyst – Index Product Development | NYC | 2025-09-10 | [Apply Here](https://careers-ice.icims.com/jobs/10938/job?mobile=true&needsRedirect=false) |
+| Lewis Brisbois | Financial Systems Analyst 1 | Fort Lauderdale, FL | 2025-09-10 | [Apply Here](https://careers-lewisbrisbois.icims.com/jobs/12143/job?mobile=true&needsRedirect=false) |
 | Huntsman | IT - Data & Analytics | The Woodlands, TX | 2025-09-10 | [Apply Here](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1) |
 | Emerson Electric | Software Engineer | Shakopee, MN, Eden Prairie, MN | 2025-09-10 | [Apply Here](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025153) |
 | Emerson Electric | Manufacturing Software Engineer | Eden Prairie, MN | 2025-09-10 | [Apply Here](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025075) |
@@ -2270,7 +2304,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Great American Insurance Company | Associate Product Manager - AI & Predictive Analytics | Cincinnati, OH | 2025-09-03 | [Apply Here](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Associate-Product-Manager---AI---Predictive-Analytics_R7913) |
 | SpaceX | Software Engineer | Hawthorne, CA | 2025-09-02 | [Apply Here](https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002) |
 | IBM | Software Developer | Sandy Springs, GA, Poughkeepsie, NY, Lowell, MA, Rochester, MN, Tucson, AZ, Research Triangle Park, NC, Durham, NC, Hopewell Junction, NY, San Jose, CA, Dallas, TX, Houston, TX, Austin, TX, Herndon, VA, New York, NY | 2025-09-02 | [Apply Here](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285) |
-| Argonne National Laboratory | Assistant Computational Scientist - DUNE Software & Data Systems | Woodridge, IL | 2025-09-02 | [Apply Here](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Computational-Scientist---DUNE-Software---Data-Systems_421040) |
 | SpaceX | New Graduate Engineer - Software | West Athens, CA | 2025-09-02 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8145483002) |
 | Alignerr | AI Trainer for Thermodynamics - Freelance - Remote | Remote in USA | 2025-09-02 | [Apply Here](https://job-boards.greenhouse.io/alignerr/jobs/4603841007) |
 | SpaceX | New Graduate Engineer - Software - Starlink | Redmond, WA | 2025-09-02 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8121675002) |
@@ -2435,7 +2468,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | ByteDance | Graduate Software Engineer - Cloud Native Infrastructure | Seattle, WA | 2025-08-20 | [Apply Here](https://jobs.bytedance.com/en/position/7540430373219977479/detail) |
 | Applied Intuition | Research Engineer – New Grad | Mountain View, CA | 2025-08-20 | [Apply Here](https://boards.greenhouse.io/appliedintuition/jobs/4489207005) |
 | Palantir | Software Engineer, New Grad - Infrastructure | Palo Alto, CA | 2025-08-20 | [Apply Here](https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply?lever-source=LinkedIn) |
-| Walmart | Software Engineer 3 | Bentonville, AR | 2025-08-20 | [Apply Here](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2118821-1) |
 | ByteDance | Graduate Software Engineer - Cloud Native Infrastructure | San Jose, CA | 2025-08-19 | [Apply Here](https://jobs.bytedance.com/en/position/7538951609075271943/detail) |
 | ByteDance | Student Researcher - Multiple Teams | Seattle, WA | 2025-08-19 | [Apply Here](https://jobs.bytedance.com/en/position/7540125997414287623/detail) |
 | ByteDance | Software Engineer Graduate - AI Platform - 2026 Start | San Jose, CA | 2025-08-19 | [Apply Here](https://jobs.bytedance.com/en/position/7540345448911309074/detail) |
@@ -2478,7 +2510,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Prosidian Consulting | PPM Data Scientist/Statistician 1 - WA | Seattle, WA | 2025-08-15 | [Apply Here](https://jobs.smartrecruiters.com/prosidianconsulting/743999692260593) |
 | Dave & Busters | Support Technician | Bloomington, IN | 2025-08-15 | [Apply Here](https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Bloomington-IN/Support-Technician_R-1007298-1) |
 | The Travelers Companies | Software Engineer I - AWS/Node/React/AI | Atlanta, GA | 2025-08-15 | [Apply Here](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114) |
-| The Travelers Companies | Software Engineer I - AWS/Node/React/AI | Hartford, CT, Richardson, TX, St Paul, MN | 2025-08-15 | [Apply Here](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121) |
 | SpaceX | Data Engineer - Regulatory - Starlink | Washington, DC | 2025-08-15 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8116298002) |
 | 360 IT Professionals | Data Security Analyst - Cisco Certified - Linux | Denver, CO | 2025-08-15 | [Apply Here](https://jobs.smartrecruiters.com/360ITProfessionals1/743999652812027) |
 | Prosidian Consulting | Analyst 2 - Technical Analysis | Washington, DC | 2025-08-15 | [Apply Here](https://jobs.smartrecruiters.com/prosidianconsulting/743999787592371) |
@@ -2506,7 +2537,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | ByteDance | Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS) | San Jose, CA | 2025-08-15 | [Apply Here](https://joinbytedance.com/search/7536272435440716040) |
 | ByteDance | Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS) | San Jose, CA | 2025-08-15 | [Apply Here](https://joinbytedance.com/search/7532538236133902599) |
 | ByteDance | Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS) | San Jose, CA | 2025-08-15 | [Apply Here](https://joinbytedance.com/search/7535233571066349842) |
-| Ultima Genomics | Field Service Engineer I - Development Program | Fremont, CA | 2025-08-14 | [Apply Here](https://job-boards.greenhouse.io/ultimagenomics/jobs/5619330004) |
 | Jump Trading | Campus Quantitative Trader - Full-Time | London, UK | 2025-08-14 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=7157477) |
 | AG Technologies | Java Developer | Dallas, TX | 2025-08-14 | [Apply Here](https://jobs.smartrecruiters.com/AGTechnologies1/87648199) |
 | AG Technologies | Java Informatica MicroStrategy Training | Dallas, TX | 2025-08-14 | [Apply Here](https://jobs.smartrecruiters.com/AGTechnologies1/92232329) |
@@ -2653,7 +2683,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | TikTok | Data Science Graduate - BRIC Risk Measurement - 2026 Start | San Jose, CA | 2025-08-09 | [Apply Here](https://lifeattiktok.com/search/7533770966762064136) |
 | Resmed | Specialist - Technical Product Management | Norcross, GA, San Diego, CA | 2025-08-09 | [Apply Here](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Specialist-Technical-Product-Management-GPM-_JR_042721) |
 | Argonne National Laboratory | Postdoctoral Researcher - Advanced Scanning/Transmission Electron Microscopy - S/Tem | Woodridge, IL | 2025-08-09 | [Apply Here](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Advanced-Scanning-Transmission-Electron-Microscopy--S-TEM--Development_420917) |
-| Databricks | Data Scientist – New Grad - 2026 Start | Mountain View, CA | 2025-08-09 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=6866554002) |
 | NOV | Service Technician | Corpus Christi, TX | 2025-08-09 | [Apply Here](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/29993) |
 | AlphaSights | Graduate Software Engineer | London, UK | 2025-08-08 | [Apply Here](https://www.alphasights.com/careers/open-roles?gh_jid=6450783) |
 | TikTok | Software Engineer Graduate Social - 2026 Start | Los Angeles, CA | 2025-08-08 | [Apply Here](https://lifeattiktok.com/search/7532626482364909842?spread=5MWH5CQ) |
@@ -2778,7 +2807,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | TikTok | Machine Learning Engineer Graduate Short Video Content Ecology - 2026 Start - PhD | San Jose, CA | 2025-08-07 | [Apply Here](https://lifeattiktok.com/search/7530979904155683079) |
 | TikTok | Graduate Data Scientist - TikTok-Search | San Jose, CA | 2025-08-07 | [Apply Here](https://lifeattiktok.com/search/7533416449727432968) |
 | TikTok | Data Engineer Graduate - E-commerce - 2026 Start | Seattle, WA | 2025-08-07 | [Apply Here](https://lifeattiktok.com/search/7533292831260920082) |
-| Jump Trading | Campus Quantitative Trader | Chicago, IL, NYC | 2025-08-07 | [Apply Here](https://boards.greenhouse.io/embed/job_app?token=7140611) |
 | Rockstar Games | Associate .NET - Windows Presentation Foundation - Software Developer | Dundee, UK | 2025-08-07 | [Apply Here](https://job-boards.greenhouse.io/rockstargames/jobs/6670421003) |
 | Roblox | Software Engineer – Early Career | San Mateo, CA | 2025-08-07 | [Apply Here](https://careers.roblox.com/jobs/7114754?gh_jid=7114754) |
 | ByteDance | Engineer Graduate: - Machine Learning Engineer - Data-Search-Recommendation Tiktok.US | Seattle, WA | 2025-08-07 | [Apply Here](https://jobs.bytedance.com/en/position/7533377193083177234/detail) |
@@ -2861,7 +2889,6 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | ByteDance | Student Researcher - Multiple Teams | San Jose, CA | 2025-07-31 | [Apply Here](https://jobs.bytedance.com/en/position/7533020375207479570/detail) |
 | ByteDance | Software Engineer Large Model System Graduate - Machine Learning Systems | Seattle, WA | 2025-07-30 | [Apply Here](https://jobs.bytedance.com/en/position/7265561065802582328/detail) |
 | SpaceX | Full Stack Software Engineer - Starlink | West Athens, CA | 2025-07-30 | [Apply Here](https://boards.greenhouse.io/spacex/jobs/8098597002) |
-| Spotify | Associate Machine Learning Engineer | New York, NY | 2025-07-30 | [Apply Here](https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813) |
 | Berkshire Hathaway Energy | Technician - Mapping I | Reno, NV | 2025-07-30 | [Apply Here](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10002986) |
 | ByteDance | Student Researcher - LLM Post Training - Agent & Reinforcement Learning | San Jose, CA | 2025-07-30 | [Apply Here](https://jobs.bytedance.com/en/position/7532653875506989320/detail) |
 | ByteDance | Student Researcher - Seed LLM Post Training - Reward Modeling | San Jose, CA | 2025-07-30 | [Apply Here](https://jobs.bytedance.com/en/position/7532650246078892306/detail) |
