@@ -1,5 +1,431 @@
 [
     {
+        "category": "Quant",
+        "company_name": "Manulife Financial",
+        "id": "28e04146-7926-46e5-9992-96a12902c138",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1764549850,
+        "date_posted": 1764549850,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Investment-Analyst_JR25091648-2",
+        "locations": [
+            "Boston, MA",
+            "Charlotte, NC",
+            "NYC"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Morgan Stanley",
+        "id": "6a9e7be6-ab2f-4f46-a9d1-7c44368e66c2",
+        "title": "Java Developer - Associate",
+        "active": true,
+        "date_updated": 1764546225,
+        "date_posted": 1764546225,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Java-Developer---Associate_PT-JR024825",
+        "locations": [
+            "NYC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "3e0ff160-6782-4b09-90e1-18475b83bfbf",
+        "title": "Research Engineering/Scientist Associate 1",
+        "active": true,
+        "date_updated": 1764545723,
+        "date_posted": 1764545723,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Aramark",
+        "id": "3c1226c8-40e6-4316-962d-ba5936e7276d",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1764545235,
+        "date_posted": 1764545235,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Bloomington-Service-Technician-MN-55438/1343457400/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Four Seasons",
+        "id": "4261c748-a194-4989-ae3f-65b10557a7c4",
+        "title": "Barista - Barista",
+        "active": true,
+        "date_updated": 1764544357,
+        "date_posted": 1764544357,
+        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Seasonal_REQ10363532",
+        "locations": [
+            "Hawaii"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "73a5af1c-485b-45f6-912d-5781c1c9149b",
+        "title": "Low Power ASIC Engineer – New College Grad 2026",
+        "active": true,
+        "date_updated": 1764540122,
+        "date_posted": 1764540122,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2026_JR2008185",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "98a00da4-5f65-4d8d-94e9-e7861d7fab2b",
+        "title": "Applied Machine Learning Scientist 1",
+        "active": true,
+        "date_updated": 1764536499,
+        "date_posted": 1764536499,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1451699",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "10c910d8-90d9-4186-a13f-93281d3fd7ac",
+        "title": "Technology - Application Development - Full Time Analyst",
+        "active": true,
+        "date_updated": 1764535485,
+        "date_posted": 1764535485,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2026_25920348",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Magna",
+        "id": "1b65201b-9b24-4c0d-aa4d-dd70de1b427a",
+        "title": "Software Engineer 1 - Thermal Camera",
+        "active": true,
+        "date_updated": 1764535373,
+        "date_posted": 1764535373,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Citi",
+        "id": "47b489a1-5ddc-4bb2-9ffd-f66b5a23359c",
+        "title": "Reference Data Analyst",
+        "active": true,
+        "date_updated": 1764535231,
+        "date_posted": 1764535231,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Reference-Data-Analyst_25922156",
+        "locations": [
+            "Cheektowaga, NY"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "ac6b854a-c6da-458b-95b0-af4f9dd7c6b9",
+        "title": "Software Engineer – Early Career",
+        "active": true,
+        "date_updated": 1764533523,
+        "date_posted": 1764533523,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+        "locations": [
+            "NYC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "2536fc43-f3e0-4239-bf31-e8c19894b771",
+        "title": "Quality Assurance Software Engineer 1",
+        "active": true,
+        "date_updated": 1764522857,
+        "date_posted": 1764522857,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992321007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "adaef14a-321c-491d-b9e8-94126ae7fffd",
+        "title": "Field Service Tech HW",
+        "active": true,
+        "date_updated": 1764522463,
+        "date_posted": 1764522463,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SKH-25/Field-Service-Tech-HW---Minot--ND_R-23354",
+        "locations": [
+            "Minot, ND"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University - Corpus Christi",
+        "id": "7fa15bdb-3ecc-42aa-a8cf-fbdabc44f4ec",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1764522405,
+        "date_posted": 1764522405,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
+        "locations": [
+            "Corpus Christi, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "University of Texas - Austin",
+        "id": "9ac74a13-8611-4414-944f-2db9dba7f8f8",
+        "title": "FAB Equipment Technician Senior - Multiple Teams",
+        "active": true,
+        "date_updated": 1764521855,
+        "date_posted": 1764521855,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/FAB-Equipment-Technician---Levels-I--II--Sr--or-Master--Texas-Institute-for-Electronics_R_00041137",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1dd1971d-4757-4c89-ba71-1060d844ede8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1764521092,
+        "date_posted": 1764521092,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041024",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "d1362864-fd70-4c92-bdc7-1c76896acc53",
+        "title": "Software Developer - Rotational Program - Netsuite",
+        "active": true,
+        "date_updated": 1764520573,
+        "date_posted": 1764520573,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314506",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "Epiroc",
+        "id": "8aba4c68-64db-48cf-9c94-eee58c9496df",
+        "title": "Early Career",
+        "active": true,
+        "date_updated": 1764520220,
+        "date_posted": 1764520220,
+        "url": "https://www.careerprofile.epiroc.com/job/Broomfield-Early-Career-Product-Application-&-Marketing-Engineer-Development-Program-CO-80020/1245337401/?ats=successfactors",
+        "locations": [
+            "Garland, TX",
+            "Broomfield, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e2c954ef-f37b-4ad1-a373-b1ec36791c0e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1764520192,
+        "date_posted": 1764520192,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041060",
+        "locations": [
+            "Aylesbury, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "934e4582-72e9-4ce4-b42f-9ee8132ca594",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764520191,
+        "date_posted": 1764520191,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040978",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7b574834-d8f2-4900-82d5-2da0a6726231",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764520189,
+        "date_posted": 1764520189,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041088",
+        "locations": [
+            "Derby, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "bd77c669-8a5c-4d98-b49b-9ef0c5aa739f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1764520187,
+        "date_posted": 1764520187,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041027",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ae3f2e53-2fd4-4d09-8ee8-7aae0eddbabc",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764520185,
+        "date_posted": 1764520185,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041082",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0c99bfa3-57b9-4585-be8f-5d78ab8827f4",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764520184,
+        "date_posted": 1764520184,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400041089",
+        "locations": [
+            "United Kingdom"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9aef7d4a-1a14-4df0-98e1-ba95eea590cf",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764520183,
+        "date_posted": 1764520183,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040793",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "76c273c6-12b7-4748-b11e-f2a0e8639372",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764520183,
+        "date_posted": 1764520183,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038487",
+        "locations": [
+            "United Kingdom"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "ShyftLabs",
+        "id": "f37c77b7-0682-4e48-8559-c8d685f7719b",
+        "title": "Technical Product Manager",
+        "active": true,
+        "date_updated": 1764519646,
+        "date_posted": 1764519646,
+        "url": "https://jobs.lever.co/shyftlabs/116b8142-6898-4056-ae5b-1621914f3249/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Advanced Energy",
+        "id": "f0615ba4-1bf8-47a8-a564-8814bad8e23c",
+        "title": "Product Compliance Engineer 1",
+        "active": true,
+        "date_updated": 1764518730,
+        "date_posted": 1764518730,
+        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Product-Compliance-Engineer-I-CO-80525/1344925100/?ats=successfactors",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Select Milk Producers ",
+        "id": "0d205c8c-ff04-4d71-a305-b0ec4b1867cb",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1764487464,
+        "date_posted": 1764487464,
+        "url": "https://selectmilk.wd12.myworkdayjobs.com/selectmilkproducers/job/La-Crosse-WI/Data-Analyst-I_JR101657",
+        "locations": [
+            "Winona, MN"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Ramboll",
+        "id": "394cfd31-0636-4063-aed6-1456bc1f089e",
+        "title": "Associate Air Quality Consultant",
+        "active": true,
+        "date_updated": 1764468675,
+        "date_posted": 1764468675,
+        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000096245581",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "CVS Health",
         "id": "5c6e0ea7-ddd5-4795-9212-8980c4b73069",
@@ -144,21 +570,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "52d588b4-44bf-4162-a541-005ba5d97bc9",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1764371691,
-        "date_posted": 1764371691,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040651",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "9ad4746d-479c-4e4b-a221-f5f275017576",
         "title": "Trading Assistant - Shift",
         "active": true,
@@ -168,34 +579,6 @@
         "locations": [
             "Edinburgh, UK",
             "Midlothian, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7e427cf0-b175-4a6a-af12-bab19390277b",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1764371604,
-        "date_posted": 1764371604,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400040238",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ab01e7a1-d78b-4fa9-b9b4-3860ab00ff34",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1764371602,
-        "date_posted": 1764371602,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400031735",
-        "locations": [
-            "Warrington, UK"
         ],
         "degrees": []
     },
@@ -493,6 +876,20 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "AWE",
+        "id": "82aaa01d-73a9-4f11-bc18-02aead3529a2",
+        "title": "Industry-Applied & Theoretical Scientist",
+        "active": true,
+        "date_updated": 1764364823,
+        "date_posted": 1764364823,
+        "url": "https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Reading-area/Year-in-Industry--Applied---Theoretical-Scientist_R28801",
+        "locations": [
+            "Newbury, UK"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Newfront Insurance",
         "id": "766d7b3b-8adf-4de7-b3ae-897f7cd44435",
@@ -531,20 +928,6 @@
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Research-Positions-at-Penn-State-Center-for-Exoplanets---Habitable-Worlds_REQ_0000073486-1",
         "locations": [
             "State College, PA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Product",
-        "company_name": "Blackberry",
-        "id": "9bd5a445-5944-4e88-878c-8bdda4ca2150",
-        "title": "QNX Product Management Student",
-        "active": true,
-        "date_updated": 1764363533,
-        "date_posted": 1764363533,
-        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX-Product-Management-Student_20250339",
-        "locations": [
-            "Ottawa, ON, Canada"
         ],
         "degrees": []
     },
@@ -775,16 +1158,16 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "460c121a-307a-4178-bb4a-b91a55d959a4",
-        "title": "Graduate Research Aide - Nuclear Engineering",
+        "category": "Hardware",
+        "company_name": "Barry-Wehmiller",
+        "id": "a6e8b948-f75a-41c7-b39c-fdbb5e048c1b",
+        "title": "Entry Level Software Engineer - Start Spring / Summer 2026",
         "active": true,
-        "date_updated": 1764300739,
-        "date_posted": 1764300739,
-        "url": "https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425",
+        "date_updated": 1764300442,
+        "date_posted": 1764300442,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer--Start-Spring---Summer-2026-_R019945",
         "locations": [
-            "Woodridge, IL"
+            "Raleigh, NC"
         ],
         "degrees": []
     },
@@ -833,54 +1216,12 @@
     {
         "category": "Hardware",
         "company_name": "Danaher Corporation",
-        "id": "78ca8a92-f5c2-47bc-be3a-a090d77ff90d",
-        "title": "Field Service Engineer",
-        "active": true,
-        "date_updated": 1764300162,
-        "date_posted": 1764300162,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1295342-1",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "bc182196-d43a-4193-93ba-0cd5272996a2",
-        "title": "Field Service Engineer",
-        "active": true,
-        "date_updated": 1764300146,
-        "date_posted": 1764300146,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298398",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
         "id": "282a2a24-5c99-456d-bcf1-9bf4be98d228",
         "title": "Field Service Engineer",
         "active": true,
         "date_updated": 1764300146,
         "date_posted": 1764300146,
         "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298395",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "65321c89-77db-43ee-b1ab-1f8ee993463e",
-        "title": "Field Service Engineer",
-        "active": true,
-        "date_updated": 1764300145,
-        "date_posted": 1764300145,
-        "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/GBR---Remote/Field-Service-Engineer--London-_R1298396",
         "locations": [
             "London, UK"
         ],
@@ -1056,6 +1397,21 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Bird Construction",
+        "id": "288d316e-85d1-4559-a810-93801df4fe0b",
+        "title": "Data Analyst Student",
+        "active": true,
+        "date_updated": 1764287037,
+        "date_posted": 1764287037,
+        "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Mississauga-ON/Data-Analyst-Student_JR-7932",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Mississauga, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Product",
         "company_name": "Ardian",
         "id": "7d8e2585-2a5b-4543-8f19-db4423757b33",
@@ -1080,20 +1436,6 @@
         "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/Montreal/Co-Investment-Analyst--Private-Equity-_JR1001392",
         "locations": [
             "Montreal, QC, Canada"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Blackberry",
-        "id": "aa4d3c5e-665d-46b9-9fac-f1f2b72eb3f3",
-        "title": "Web Design Student",
-        "active": true,
-        "date_updated": 1764286933,
-        "date_posted": 1764286933,
-        "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Web-Design-Student_20250337",
-        "locations": [
-            "Kitchener, ON, Canada"
         ],
         "degrees": []
     },
@@ -1258,7 +1600,7 @@
     {
         "category": "Software Engineering",
         "company_name": "CLEAR",
-        "id": "9376d6c8-050e-4931-a2b0-150f22f2fcb9",
+        "id": "13175006-e5f3-4600-94cf-20c3dd115faa",
         "title": "Software Engineer, New Grad, Backend",
         "active": true,
         "date_updated": 1764259856,
@@ -1626,20 +1968,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "a8637d13-6ef7-45f2-9b2f-15b747fe0c6f",
-        "title": "Electrical/Hardware Engineer 1",
-        "active": true,
-        "date_updated": 1764209452,
-        "date_posted": 1764209452,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineer-I_1195982",
-        "locations": [
-            "Eau Claire, WI"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
         "company_name": "ChowBus",
         "id": "97654be5-d207-49da-8822-b820aae70149",
         "title": "Test Operator",
@@ -1703,6 +2031,20 @@
         "date_updated": 1764208873,
         "date_posted": 1764208873,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Population-Research-Institute_REQ_0000073860-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "0f1b28fb-2b6d-41ce-9ce9-59d83cc282d2",
+        "title": "Part-Time Grad",
+        "active": true,
+        "date_updated": 1764208866,
+        "date_posted": 1764208866,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1",
         "locations": [
             "State College, PA"
         ],
@@ -1875,20 +2217,6 @@
         "url": "https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004",
         "locations": [
             "Remote in USA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Stratolaunch",
-        "id": "38df0e8a-0a99-43ab-93b9-ad5e58b0e441",
-        "title": "Environmental Test Engineering Technician",
-        "active": true,
-        "date_updated": 1764198727,
-        "date_posted": 1764198727,
-        "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/4771185008",
-        "locations": [
-            "Mojave, CA"
         ],
         "degrees": []
     },
@@ -2445,6 +2773,20 @@
         "degrees": []
     },
     {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9e243ce5-a567-4725-bae9-f1a186e95a17",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1764124710,
+        "date_posted": 1764124710,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039716",
+        "locations": [
+            "Bicester, UK"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Product",
         "company_name": "Mastercard",
         "id": "3a13758d-1339-4332-b8ba-5dab0e2fd23b",
@@ -2694,20 +3036,6 @@
     },
     {
         "category": "Product",
-        "company_name": "Unilever",
-        "id": "461699a8-c37b-4160-bff5-19c7f5bae687",
-        "title": "Product Development Technologist",
-        "active": true,
-        "date_updated": 1764116003,
-        "date_posted": 1764116003,
-        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Colworth-Science-Park/Product-Development-Technologist_R-1169028",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Product",
         "company_name": "Robert Bosch Venture Capital",
         "id": "7738a1df-75b5-414c-bce7-e4067757c255",
         "title": "Undergraduate Placement Year 2026 - Product Management Undergraduate - Combustion Solutions",
@@ -2745,20 +3073,6 @@
         "url": "https://jobs.lever.co/sunsrce/9fc024b9-59a4-41ce-ab84-ef4385285379/apply",
         "locations": [
             "Charlotte, NC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "GE Healthcare",
-        "id": "961ec761-68ea-452a-8346-579a0bd02a0e",
-        "title": "Software Engineer 1 - MIM Platform",
-        "active": true,
-        "date_updated": 1764114449,
-        "date_posted": 1764114449,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I---MIM-Platform_R4031385-1",
-        "locations": [
-            "Orange, OH"
         ],
         "degrees": []
     },
@@ -3219,20 +3533,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "59fc5068-24ac-4a7c-8ca7-495a4b4e4ad5",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1764033195,
-        "date_posted": 1764033195,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039612",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "c753ee4b-6f0d-4f67-8e32-9727fa3f7409",
         "title": "Trading Assistant",
         "active": true,
@@ -3416,21 +3716,6 @@
         "degrees": []
     },
     {
-        "category": "Product",
-        "company_name": "Medline",
-        "id": "5b8476ce-074a-47c3-8f3d-a0d28202d1b8",
-        "title": "Associate Product Manager - Summer 2026 Start Date",
-        "active": true,
-        "date_updated": 1764026886,
-        "date_posted": 1764026886,
-        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Associate-Product-Manager---Summer-2026-Start-Date_R2512924",
-        "locations": [
-            "Northbrook, IL",
-            "Chicago, IL"
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "BNY",
         "id": "0bd3f695-239d-48fc-a182-53e0330fb39c",
@@ -3469,20 +3754,6 @@
         "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program---Cleveland_R-35369-1",
         "locations": [
             "Cleveland, OH"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6e556166-1dea-40e8-9ea6-b6ce6f63db09",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1763947041,
-        "date_posted": 1763947041,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039595",
-        "locations": [
-            "Blackpool, UK"
         ],
         "degrees": []
     },
@@ -3611,20 +3882,6 @@
         "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Postdoctoral-Research-Associate_JR102138",
         "locations": [
             "Shirley, NY"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Anduril",
-        "id": "538530de-89f8-4a80-af1b-2891b24079f1",
-        "title": "Skillbridge Software Engineer",
-        "active": true,
-        "date_updated": 1763898814,
-        "date_posted": 1763898814,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4989142007",
-        "locations": [
-            "Seattle, WA"
         ],
         "degrees": []
     },
@@ -4094,6 +4351,34 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Perle",
+        "id": "50c5b556-fa30-4122-a8b4-6d5b87911017",
+        "title": "Hebrew Language Specialist",
+        "active": true,
+        "date_updated": 1763768987,
+        "date_posted": 1763768987,
+        "url": "https://ats.rippling.com/perle/jobs/4905fb62-b7d5-4fc7-9f2c-b4ed50dc9c9f",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Sensata",
+        "id": "35b05f39-8081-404b-aab4-42ef82a8e346",
+        "title": "Engineering Lab Technician - Emc",
+        "active": true,
+        "date_updated": 1763768884,
+        "date_posted": 1763768884,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Engineering-Lab-Technician--EMC_IRC96180",
+        "locations": [
+            "Attleboro, MA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Google",
         "id": "d43517b4-0413-405e-bdfc-2720fe4b1d1c",
@@ -4537,22 +4822,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Charles Schwab",
-        "id": "51c0ac82-bbc2-4845-9cb2-3e6122b4c960",
-        "title": "Junior Software Development Engineer",
-        "active": true,
-        "date_updated": 1763714192,
-        "date_posted": 1763714192,
-        "url": "https://career-schwab.icims.com/jobs/117180/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "General Dynamics Mission Systems",
         "id": "e039a275-ac00-403e-ab6f-6a50536d677c",
@@ -4940,14 +5209,14 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "3f32163e-2e14-4470-a1f3-5503feb14d97",
+        "id": "ff626abc-7bd5-4a76-8b36-e535b1e32d2d",
         "title": "Trading Assistant - Local",
         "active": true,
-        "date_updated": 1763673687,
-        "date_posted": 1763673687,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035335",
+        "date_updated": 1763673693,
+        "date_posted": 1763673693,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038726",
         "locations": [
-            "Exeter, UK"
+            "Livingston, UK"
         ],
         "degrees": []
     },
@@ -5257,6 +5526,27 @@
     },
     {
         "category": "Product",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "994f37bc-5c1f-4c2d-bdfd-bb1eedfce2f6",
+        "title": "Legal Associate Product Manager",
+        "active": true,
+        "date_updated": 1763666544,
+        "date_posted": 1763666544,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Home-based-Oregon/Associate-Product-Manager_R104183",
+        "locations": [
+            "Washington",
+            "Pennsylvania",
+            "Oregon",
+            "Texas",
+            "Florida",
+            "Georgia",
+            "North Carolina",
+            "Ohio"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
         "company_name": "Uline",
         "id": "8557a2f9-4623-46b8-9fde-328de41d71f6",
         "title": "Product Management Analyst",
@@ -5315,20 +5605,6 @@
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Associate-Engineer-Hardware_R10214599",
         "locations": [
             "San Diego, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "dd2b3439-6db2-4650-8796-9f6b1c3d6a20",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "date_updated": 1763666432,
-        "date_posted": 1763666432,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Software-Engineer-Industrial-Placement_R10214530",
-        "locations": [
-            "Gloucester, UK"
         ],
         "degrees": []
     },
@@ -5501,20 +5777,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Telix Pharmaceuticals",
-        "id": "af7f216a-67c4-4c89-9759-05b9bcb0e63b",
-        "title": "Field Service Engineer 1",
-        "active": true,
-        "date_updated": 1763665745,
-        "date_posted": 1763665745,
-        "url": "https://telixpharma.com/careers/find-a-job/?region=telixus&gh_jid=4619388006",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Insperity",
         "id": "89cb902a-e555-4c98-ab26-485a002df740",
@@ -5671,6 +5933,20 @@
         "url": "https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Business-Systems-Analyst-Hybrid-GA-30309/1338234400/?ats=successfactors",
         "locations": [
             "Atlanta, GA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "739d934e-158c-4fa2-adfc-78233180058b",
+        "title": "Software Engineer 2: Cybersecurity",
+        "active": true,
+        "date_updated": 1763664889,
+        "date_posted": 1763664889,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Software-Engineer-II--Cybersecurity--Onsite-_01803156",
+        "locations": [
+            "Hartford, CT"
         ],
         "degrees": []
     },
@@ -5954,6 +6230,20 @@
         "url": "https://wellsky.wd1.myworkdayjobs.com/en-US/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR3933",
         "locations": [
             "Overland Park, KS"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TD Synnex",
+        "id": "fcb9ff5f-3353-408b-a9af-d1082313a74c",
+        "title": "AI Automation Analysis - Placement",
+        "active": true,
+        "date_updated": 1763620708,
+        "date_posted": 1763620708,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Basingstoke-United-Kingdom/AI-Automation-Analysis---Placement_R44802",
+        "locations": [
+            "Basingstoke, UK"
         ],
         "degrees": []
     },
@@ -6919,6 +7209,20 @@
         "degrees": []
     },
     {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cc598a4b-ec99-44db-a58b-96e7a029799d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1763512775,
+        "date_posted": 1763512775,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037285",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "The Hartford ",
         "id": "bd766241-266e-4209-b825-d833b6e011a2",
@@ -7004,20 +7308,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Metropolitan Transportation Authority",
-        "id": "0fc9a9ed-ae8f-4f20-9025-df78fc58a895",
-        "title": "Computer Specialist",
-        "active": true,
-        "date_updated": 1763510348,
-        "date_posted": 1763510348,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oQhNyfwc?nl=1&nl=1&fr=false",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Mass General Brigham",
         "id": "fadfe69a-47d6-40a2-a6bc-1832c4436ee2",
@@ -7070,6 +7360,20 @@
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-F-15-Mission-Systems-Software-Engineers_JR2025485333-1",
         "locations": [
             "Hazelwood, MO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "Insperity",
+        "id": "a5128fae-6288-45d7-8949-a3d6f49ce65b",
+        "title": "Product Manager - Hris - Workday",
+        "active": true,
+        "date_updated": 1763509639,
+        "date_posted": 1763509639,
+        "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Product-Manager--HRIS--Workday-_JR101777",
+        "locations": [
+            "Kingwood, Houston, TX"
         ],
         "degrees": []
     },
@@ -7284,23 +7588,6 @@
         "url": "https://jobs.smartrecruiters.com/Visa/744000094151680",
         "locations": [
             "Cambridge, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "3e6c6676-620d-4ed3-b372-fd8020e224c5",
-        "title": "Video & Technology Associate",
-        "active": true,
-        "date_updated": 1763455222,
-        "date_posted": 1763455222,
-        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003",
-        "locations": [
-            "Reading, PA",
-            "Allentown, PA",
-            "Lakewood, NJ",
-            "Clearwater, FL"
         ],
         "degrees": []
     },
@@ -7666,6 +7953,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Apex Fintech Solutions",
+        "id": "d24b8b2c-a64e-4171-9027-2cceeb1e2b7b",
+        "title": "Software Engineer 1 - Aldp",
+        "active": true,
+        "date_updated": 1763421565,
+        "date_posted": 1763421565,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103499",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Product",
         "company_name": "Apex Fintech Solutions",
         "id": "d515f10e-1201-49d7-a06d-37aae6145889",
@@ -7736,20 +8037,6 @@
         "degrees": []
     },
     {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0ef51958-0c57-43ab-ad54-7cc955af5027",
-        "title": "Trading Assistant - Local",
-        "active": true,
-        "date_updated": 1763398488,
-        "date_posted": 1763398488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037965",
-        "locations": [
-            "United Kingdom"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Genuine Parts Company",
         "id": "4ba7f0ec-34fa-4a4d-96e9-fef479856a8b",
@@ -7788,20 +8075,6 @@
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Tampa-FL-USA/HSC--Service-Technician_R25_0000041398",
         "locations": [
             "Tampa, FL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "c1a658e1-a5e2-4b72-bc95-0b3284d1a5c7",
-        "title": "Entry Level Systems Engineer - Conventional Prompt Strike Program",
-        "active": true,
-        "date_updated": 1763398292,
-        "date_posted": 1763398292,
-        "url": "https://careers-gdms.icims.com/jobs/69097/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pittsfield, MA"
         ],
         "degrees": []
     },
@@ -8190,6 +8463,48 @@
         "degrees": []
     },
     {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "73acfb04-2166-448a-b6b4-76da2ce56bbd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1763250142,
+        "date_posted": 1763250142,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037623",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Rapid7",
+        "id": "0996383a-6bd5-46cb-9144-fc21996371d9",
+        "title": "Business Systems Analyst",
+        "active": true,
+        "date_updated": 1763459920,
+        "date_posted": 1763233026,
+        "url": "https://mymoose.wd1.myworkdayjobs.com/careers/job/US---MA---Boston/Business-Systems-Analyst_R10501",
+        "locations": [
+            "Boston, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "CDW Corporation",
+        "id": "fe55ca4a-8cce-4f12-9590-e0fcade6e11d",
+        "title": "Product Data Subscriptions Specialist - Microsoft",
+        "active": true,
+        "date_updated": 1763669063,
+        "date_posted": 1763231391,
+        "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Chicago--Adams---IL/Solution-Specialist--Microsoft_R25_00003246",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Nuro",
         "id": "ed1f377e-45ad-4074-84b3-aae6f4c5f7d4",
@@ -8410,20 +8725,6 @@
         "url": "https://jobs.bmwgroup.com/job/Coleshill-Digitalisation-Placement-Year/1251904201/?ats=successfactors",
         "locations": [
             "Solihull, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Rolls Royce",
-        "id": "00e88000-425c-48a4-9881-b47cc777f2bf",
-        "title": "Data Analytics & Logistics",
-        "active": true,
-        "date_updated": 1763191912,
-        "date_posted": 1763191912,
-        "url": "https://jobs.bmwgroup.com/job/Goodwood-Data-Analytics-&-Logistics-Placement-Year/1250576001/?ats=successfactors",
-        "locations": [
-            "Portsmouth, UK"
         ],
         "degrees": []
     },
@@ -8821,6 +9122,20 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity National Financial",
+        "id": "75713ae8-9fca-469c-904d-eb1a3430a359",
+        "title": "Imaging Analyst",
+        "active": true,
+        "date_updated": 1763191560,
+        "date_posted": 1763162169,
+        "url": "https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Altamonte Springs, FL"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Quant",
         "company_name": "Valkyrie Trading",
         "id": "ff170527-cc0e-4f33-8363-80e787fa25af",
@@ -9064,20 +9379,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Parkhill",
-        "id": "afc24115-bcfd-4f9f-bcd5-8ebfc202873c",
-        "title": "Senior Lidar Specialist",
-        "active": true,
-        "date_updated": 1763130906,
-        "date_posted": 1763112123,
-        "url": "https://careers-parkhill.icims.com/jobs/1350/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Norman, OK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "ca7512ca-475f-468b-9fc6-bacff659062c",
@@ -9310,20 +9611,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Marshall Wace",
-        "id": "19216d8d-516a-45eb-8265-b4f7ea981ec3",
-        "title": "Technology Placement - 2026 - 4-Months",
-        "active": true,
-        "date_updated": 1763087294,
-        "date_posted": 1763087294,
-        "url": "https://job-boards.greenhouse.io/mwam-imperial-placements/jobs/8147000002",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Product",
         "company_name": "Global Payments",
         "id": "d32a2fc4-92f4-45c8-8ccd-633def0fd0d4",
@@ -9379,6 +9666,20 @@
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613045006",
         "locations": [
             "Montreal, QC, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "ef7bcd77-c30c-41f3-a901-a13984a4148d",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1763086356,
+        "date_posted": 1763086356,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0229416",
+        "locations": [
+            "McLean, VA"
         ],
         "degrees": []
     },
@@ -9464,6 +9765,20 @@
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast--2026_25920708",
         "locations": [
             "Belfast, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "bde4d4d8-8dd9-4365-b1bb-a9ecd5656a48",
+        "title": "Entry Level Systems Engineer - SLCMN Program",
+        "active": true,
+        "date_updated": 1763052875,
+        "date_posted": 1763052875,
+        "url": "https://careers-gdms.icims.com/jobs/69210/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
         ],
         "degrees": []
     },
@@ -9590,6 +9905,20 @@
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/b249941e-4d3e-4a1d-b1d1-d8a86853c2d2/application",
         "locations": [
             "United Kingdom"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Great American Insurance Company",
+        "id": "38bb956b-cd5f-4961-8a53-905a8b600cfa",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1763050599,
+        "date_posted": 1763050599,
+        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Engineer_R8143",
+        "locations": [
+            "Cincinnati, OH"
         ],
         "degrees": []
     },
@@ -9881,20 +10210,6 @@
         "degrees": []
     },
     {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "72816d7f-0375-457b-b564-9511ddc71256",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1762992772,
-        "date_posted": 1762992772,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400031922",
-        "locations": [
-            "Bury Saint Edmunds, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Cummins",
         "id": "720c3e74-c0e6-43d0-935f-0199c17d1de5",
@@ -9961,34 +10276,6 @@
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Cloud-Developer-Graduate_R011704",
         "locations": [
             "Cambridge, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Metropolitan Transportation Authority",
-        "id": "0481028e-5f77-4cdd-b5be-cdc1022d6a4a",
-        "title": "Enterprise Strategy - Technology & Engineering Fellow",
-        "active": true,
-        "date_updated": 1762992360,
-        "date_posted": 1762992360,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/os7QyfwH?nl=1&nl=1&fr=false",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Metropolitan Transportation Authority",
-        "id": "4b8cab63-d8b0-4eae-a812-6a5cee75eed8",
-        "title": "Enterprise Architecture - Technology & Engineering Fellow",
-        "active": true,
-        "date_updated": 1762992355,
-        "date_posted": 1762992355,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/op6QyfwD?nl=1&nl=1&fr=false",
-        "locations": [
-            "NYC"
         ],
         "degrees": []
     },
@@ -10063,20 +10350,6 @@
         "degrees": []
     },
     {
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "925be3dd-561f-4a79-a34a-0c1c46d4654f",
-        "title": "Sports Trader",
-        "active": true,
-        "date_updated": 1762991967,
-        "date_posted": 1762991967,
-        "url": "https://careers-sig.icims.com/jobs/8860/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Hillenbrand",
         "id": "605701e0-a63a-4cdd-b865-77310d1ed8db",
@@ -10129,6 +10402,20 @@
         "url": "https://optiver.com/working-at-optiver/career-opportunities/8286208002/?gh_jid=8286208002",
         "locations": [
             "Chicago, IL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Travelers Companies",
+        "id": "5a7d081b-a494-4d13-91f4-5f7df827afdc",
+        "title": "Consultant - Data Management",
+        "active": true,
+        "date_updated": 1762991472,
+        "date_posted": 1762991472,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Consultant--Data-Management_R-47949",
+        "locations": [
+            "Hartford, CT"
         ],
         "degrees": []
     },
@@ -10234,20 +10521,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "University of Oklahoma",
-        "id": "d37819ec-68c6-4b91-9b4f-4bf2e67e2fdd",
-        "title": "Research Technician",
-        "active": true,
-        "date_updated": 1762990671,
-        "date_posted": 1762990671,
-        "url": "https://ou.taleo.net/careersection/2/jobdetail.ftl?job=252503",
-        "locations": [
-            "Norman, OK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Howard University",
         "id": "e8a384b1-608e-4e21-b271-20ef0de27f08",
@@ -10316,22 +10589,6 @@
             "Milpitas, CA"
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "MultiCare Health System",
-        "id": "5b108836-5f37-478d-a277-91deb8acc2a4",
-        "title": "Data Consultant 1",
-        "active": true,
-        "date_updated": 1762930492,
-        "date_posted": 1762930492,
-        "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Data-Consultant-I_JR63714",
-        "locations": [
-            "Remote in USA"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -10470,6 +10727,21 @@
         "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4984590008",
         "locations": [
             "Troy, MI"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Cencora",
+        "id": "cde3b291-6d32-425b-9e9b-3ca8a70ea2ae",
+        "title": "Master Data Administrator",
+        "active": true,
+        "date_updated": 1763120890,
+        "date_posted": 1762907822,
+        "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/WEMEA--United-Kingdom--Support-Centre/Master-Data-Administrator_R2520381",
+        "locations": [
+            "Weybridge, UK",
+            "United Kingdom"
         ],
         "degrees": []
     },
@@ -10630,20 +10902,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "e2109695-4cd5-4e95-8c87-b73279275024",
-        "title": "Undergraduate Data Science",
-        "active": true,
-        "date_updated": 1762906516,
-        "date_posted": 1762906516,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---London-Bishopsgate/Undergraduate-Data-Science-Placement_R104668",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Grayce",
         "id": "c291f4f8-d1aa-4755-8f65-78c4e30c7ee7",
         "title": "Digital Analyst",
@@ -10653,6 +10911,20 @@
         "url": "https://apply.workable.com/grayce/j/3AE2DF2E02/apply",
         "locations": [
             "Cardiff, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Axiom Space",
+        "id": "d09e6a67-1220-4a81-aca5-9c33d05ac005",
+        "title": "Lunar Terrain Vehicle - Multiple Teams",
+        "active": true,
+        "date_updated": 1762906454,
+        "date_posted": 1762906454,
+        "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Lunar-Terrain-Vehicle--LTV--Software-Engineer--NASA-LTVS-Award-Contingent-_JR100297",
+        "locations": [
+            "Houston, TX"
         ],
         "degrees": []
     },
@@ -10710,6 +10982,20 @@
         "locations": [
             "Montreal, QC, Canada",
             "Toronto, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Link Logistics",
+        "id": "25774e9d-d58e-4053-b071-59a8f7b24aca",
+        "title": "Investment Analyst - Ios",
+        "active": true,
+        "date_updated": 1762906345,
+        "date_posted": 1762906345,
+        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Analyst--Investments---IOS_JR101650",
+        "locations": [
+            "NYC"
         ],
         "degrees": []
     },
@@ -11154,20 +11440,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Koddi",
-        "id": "164a2a44-afa0-442d-bb8c-e9dc4f6fbefb",
-        "title": "Junior Software Engineering Cohort",
-        "active": true,
-        "date_updated": 1762818724,
-        "date_posted": 1762818724,
-        "url": "https://job-boards.greenhouse.io/koddi/jobs/8250132002",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "840f362d-e7a1-4739-9961-fc1eeddaf55b",
@@ -11212,6 +11484,20 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "406d7a5c-55fb-4513-9840-cd0e96e31a84",
+        "title": "Associate – Institutional Equity Research - Data Scientist",
+        "active": true,
+        "date_updated": 1762818099,
+        "date_posted": 1762818099,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Institutional-Equity-Research--Data-Scientist-_2524873",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Gotion",
         "id": "9ee895f9-f3c4-4415-9d51-558e1881b398",
         "title": "Data Analyst",
@@ -11235,20 +11521,6 @@
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000091879765",
         "locations": [
             "Waltham, MA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "cb7358fb-41b5-4e64-87f8-de441b50aff4",
-        "title": "Systems Engineer – Entry level",
-        "active": true,
-        "date_updated": 1763668381,
-        "date_posted": 1762816926,
-        "url": "https://careers-gdms.icims.com/jobs/68574/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
         ],
         "degrees": []
     },
@@ -11559,6 +11831,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Nationwide Children's Hospital",
+        "id": "9f2753f8-0324-4710-bd67-00dbf1ddc2e8",
+        "title": "Outpatient: PHP Therapist",
+        "active": true,
+        "date_updated": 1762620131,
+        "date_posted": 1762620131,
+        "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/Outpatient--PHP-Therapist_R-20684-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Penumbra Inc",
         "id": "b35988a3-af35-4542-a458-9fd5083313d1",
@@ -11573,6 +11859,20 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "The Travelers Companies",
+        "id": "b1062ca6-2c4c-41bb-8f95-29addce94379",
+        "title": "Data Engineer 1 - Databricks - PySpark - Snowflake",
+        "active": true,
+        "date_updated": 1762619493,
+        "date_posted": 1762619493,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks--PySpark--Snowflake-_R-47919",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "degrees": []
     },
     {
         "category": "Product",
@@ -11845,20 +12145,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "cd21c580-a5a9-42ae-a2f1-ed342e19b845",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1762541184,
-        "date_posted": 1762541184,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035063",
-        "locations": [
-            "United Kingdom"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "7b7f04eb-9c4e-40ab-bd71-c735f015e23e",
         "title": "Trading Assistant",
         "active": true,
@@ -11973,21 +12259,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "0a412f3e-372e-442b-a96d-08bd11d5b851",
-        "title": "Student - Quality Analytics - Data and Analytics",
-        "active": true,
-        "date_updated": 1762917590,
-        "date_posted": 1762538600,
-        "url": "https://johndeere.eightfold.ai/careers/job/137477670658",
-        "locations": [
-            "Grimes, IA",
-            "Ames, IA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -12133,6 +12404,20 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "Aritzia",
+        "id": "be31e968-db52-4bb1-9213-a594df096293",
+        "title": "Product Technical Development Fit Model - Size 4",
+        "active": true,
+        "date_updated": 1762918766,
+        "date_posted": 1762535614,
+        "url": "https://aritzia.wd3.myworkdayjobs.com/External/job/Support-Office-Vancouver/Technical-Development---Size-4-Fit-Model_R0002378",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Artech Information System",
         "id": "ca88e4a0-5f30-414e-bf05-902e87a1b36c",
@@ -12274,20 +12559,6 @@
         "url": "https://job-boards.greenhouse.io/epicbio/jobs/5587739004",
         "locations": [
             "San Bruno, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Recursion Pharmaceuticals",
-        "id": "f7829c2d-8909-4ae9-8f96-560906fa0dce",
-        "title": "Data Science Returnship",
-        "active": true,
-        "date_updated": 1762532498,
-        "date_posted": 1762532498,
-        "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7345334",
-        "locations": [
-            "Salt Lake City, UT"
         ],
         "degrees": []
     },
@@ -12549,6 +12820,20 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "University of Miami",
+        "id": "43548e3d-6824-4e32-88c2-08c014f1f531",
+        "title": "Artificial Intelligence",
+        "active": true,
+        "date_updated": 1762471758,
+        "date_posted": 1762471758,
+        "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/Artificial-Intelligence--Expertise-in-Quantum-Science-and-AI-_R100092114",
+        "locations": [
+            "Coral Gables, FL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "7-Eleven",
         "id": "41c746ec-ea0d-4335-9fd4-56e2c19123e6",
         "title": "Integration Analyst 1",
@@ -12600,20 +12885,6 @@
         "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/7985213002",
         "locations": [
             "Westport, CT"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "University of Southern California",
-        "id": "75828313-07e6-40e2-b18f-4212e043bf3c",
-        "title": "Enterprise Applications Developer",
-        "active": true,
-        "date_updated": 1762470385,
-        "date_posted": 1762470385,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Enterprise-Applications-Developer_REQ20168827-2",
-        "locations": [
-            "LA"
         ],
         "degrees": []
     },
@@ -12704,6 +12975,20 @@
         "date_updated": 1762435047,
         "date_posted": 1762435047,
         "url": "https://careers-gdms.icims.com/jobs/69129/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "51bfcbac-7f03-4321-9860-1b8a9cc8382f",
+        "title": "SWC Systems Engineer – Entry Level",
+        "active": true,
+        "date_updated": 1762435047,
+        "date_posted": 1762435047,
+        "url": "https://careers-gdms.icims.com/jobs/69095/job?mobile=true&needsRedirect=false",
         "locations": [
             "Pittsfield, MA"
         ],
@@ -12814,6 +13099,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Bevel",
+        "id": "0345db2f-493d-4d1e-b563-f7cb0d4d252b",
+        "title": "iOS Engineer",
+        "active": true,
+        "date_updated": 1763123948,
+        "date_posted": 1762433628,
+        "url": "https://jobs.ashbyhq.com/Bevel/e771c115-5372-43aa-a97b-6db16a0fc97c/application",
+        "locations": [
+            "NYC"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "4cde3e80-0447-49b4-a9a7-0cbb52511d19",
@@ -12839,6 +13138,20 @@
         "locations": [
             "Oregon",
             "Roseburg, OR"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Veryable",
+        "id": "f1db527c-e4ea-4925-9a94-9c96342020c1",
+        "title": "Front-End Engineer",
+        "active": true,
+        "date_updated": 1762386713,
+        "date_posted": 1762386713,
+        "url": "https://ats.rippling.com/veryable-careers/jobs/ada3136d-44c6-432c-b5ab-401aed5c4505",
+        "locations": [
+            "Dallas, TX"
         ],
         "degrees": []
     },
@@ -13064,20 +13377,6 @@
         "url": "https://jobs.lever.co/thinkahead/ea0c65d1-dd6b-4f68-8abb-2bacebbd98a1/apply",
         "locations": [
             "Chicago, IL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "AbbVie",
-        "id": "8c1ca538-1ea8-470e-94b2-a06bec13dbbc",
-        "title": "2026 Business Technology Solutions Extern",
-        "active": true,
-        "date_updated": 1762385017,
-        "date_posted": 1762385017,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010196336",
-        "locations": [
-            "Vernon Hills, IL"
         ],
         "degrees": []
     },
@@ -13381,6 +13680,20 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "Waters Corporation",
+        "id": "b14d9d74-20cf-42bb-9dc8-7ecb826a6ae0",
+        "title": "Instrument Technician",
+        "active": true,
+        "date_updated": 1763191592,
+        "date_posted": 1762332148,
+        "url": "https://uscareers-waters.icims.com/jobs/23759/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "American Express",
         "id": "ce414dee-5a0f-4607-b361-028d4f62c674",
@@ -13589,6 +13902,20 @@
             "Florida",
             "Greensboro, NC",
             "Lake Mary, FL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "65f0a9ab-1e10-4b37-9dd3-e46120e8e016",
+        "title": "Engineering Scientist Associate",
+        "active": true,
+        "date_updated": 1762297646,
+        "date_posted": 1762297646,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Engineering-Scientist-Associate---Data-Analytics-for-Nuclear-Engineering-Application_R_00042538",
+        "locations": [
+            "Austin, TX"
         ],
         "degrees": []
     },
@@ -13947,6 +14274,20 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "EUNA Solutions",
+        "id": "200bde5e-f205-446e-8769-16e4c01ff06d",
+        "title": "Associate Technical Solution Specialist",
+        "active": true,
+        "date_updated": 1762213489,
+        "date_posted": 1762213489,
+        "url": "https://euna.bamboohr.com/careers/488/",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Cirrus Logic",
         "id": "29a6e44e-30fc-4fd3-bc77-79ecea0673d4",
@@ -14160,6 +14501,20 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "5ab61436-8517-4d56-8a8b-ed1badd56a23",
+        "title": "Configuration Analyst 1",
+        "active": true,
+        "date_updated": 1762908735,
+        "date_posted": 1762211740,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Configuration-Analyst-I_R0028796",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "c6330af5-5672-4a94-9db3-89951980fa6c",
@@ -14170,20 +14525,6 @@
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-16326",
         "locations": [
             "Moscow, ID"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Sono-Tek Corporation",
-        "id": "b40bb0c9-f655-4705-985a-206e56d73789",
-        "title": "Electrical Lab Technician",
-        "active": true,
-        "date_updated": 1763131371,
-        "date_posted": 1762211525,
-        "url": "https://careers-councilofindustry.icims.com/jobs/4842/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Middletown, NY"
         ],
         "degrees": []
     },
@@ -14497,20 +14838,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033327",
         "locations": [
             "Liverpool, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3930c5ae-121e-4a74-b7a2-969d5885aa5a",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1762011569,
-        "date_posted": 1762011569,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033382",
-        "locations": [
-            "Edinburgh, UK"
         ],
         "degrees": []
     },
@@ -14860,20 +15187,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "39799c33-3126-43c2-a071-b8db9bf764d4",
-        "title": "Design Readiness Engineer",
-        "active": true,
-        "date_updated": 1762911333,
-        "date_posted": 1761993336,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Readiness-Engineer_JR81940",
-        "locations": [
-            "Boise, ID"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Product",
         "company_name": "Applied Materials",
         "id": "45fd0ddb-a96d-4bed-a065-932a8875ed34",
@@ -14898,20 +15211,6 @@
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer--Shift-Equipment_JR80427",
         "locations": [
             "Boise, ID"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Polaris",
-        "id": "ea98fcdc-f42c-4b60-a61a-80829bb371b9",
-        "title": "Digital & Information Technology Leadership Development Program Associate - Predictive Data Science",
-        "active": true,
-        "date_updated": 1761993255,
-        "date_posted": 1761993255,
-        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Digital---Information-Technology-Leadership-Development-Program-Associate---Predictive-Data-Science_R27032",
-        "locations": [
-            "Wayzata, MN"
         ],
         "degrees": []
     },
@@ -15194,6 +15493,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "NatWest Group",
+        "id": "1ffc83e4-c35d-47fd-9c78-78d219b87a5a",
+        "title": "Graduate Trainee - Engineering",
+        "active": true,
+        "date_updated": 1761992442,
+        "date_posted": 1761992442,
+        "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Graduate-Trainee---Engineering_R-00265149",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "University of Chicago",
         "id": "b32b1451-ca58-4708-8dc5-41036437115b",
@@ -15204,20 +15517,6 @@
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Marketing-Technology-Analyst_JR31547",
         "locations": [
             "Chicago, IL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Voya Financial",
-        "id": "daff5849-bfca-4baa-8ff0-429234eef2c9",
-        "title": "Student - Data Analytics",
-        "active": true,
-        "date_updated": 1762936442,
-        "date_posted": 1761992414,
-        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Data-Analytics_JR0031913",
-        "locations": [
-            "Atlanta, GA"
         ],
         "degrees": []
     },
@@ -15250,6 +15549,20 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "The Travelers Companies",
+        "id": "c1c70341-3c43-46d5-9e80-3d299835af15",
+        "title": "Data Engineer I - Aws - Pyspark - Snowflake",
+        "active": true,
+        "date_updated": 1761992390,
+        "date_posted": 1761992390,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--PySpark--Snowflake-_R-46363",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "CACI",
         "id": "61a5c149-527a-4d02-abd6-a60e9947e766",
@@ -15260,20 +15573,6 @@
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_318232",
         "locations": [
             "Downers Grove, IL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "9ae967a2-2a47-4196-914c-2b7aa739b941",
-        "title": "CSE Part-Time Researcher-Rui Zhang",
-        "active": true,
-        "date_updated": 1761992351,
-        "date_posted": 1761992351,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher--Rui-Zhang_REQ_0000055929",
-        "locations": [
-            "State College, PA"
         ],
         "degrees": []
     },
@@ -15344,6 +15643,20 @@
         "date_updated": 1761992329,
         "date_posted": 1761992329,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/PT-Research-Assistant-Programmer---Recendes_REQ_0000062857-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "PennState University",
+        "id": "d02beb7c-41df-4536-9ac0-d082e2b2ff92",
+        "title": "Undergraduate Researcher",
+        "active": true,
+        "date_updated": 1761992323,
+        "date_posted": 1761992323,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Researcher_REQ_0000063402",
         "locations": [
             "State College, PA"
         ],
@@ -15506,12 +15819,40 @@
     {
         "category": "AI/ML/Data",
         "company_name": "PennState University",
+        "id": "a29766ff-554e-4aea-82d5-a2a52d9a3c9c",
+        "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
+        "active": true,
+        "date_updated": 1761992246,
+        "date_posted": 1761992246,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant-Programmer---Yanxi-Liu_REQ_0000069003-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
         "id": "df79d9c9-6455-48cb-ab4f-b3339523befb",
         "title": "Research Associate",
         "active": true,
         "date_updated": 1762917468,
         "date_posted": 1761992173,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000072097-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "a3c3cb21-a6e5-4873-9acb-8eb782662fd7",
+        "title": "Research Assistant - Chart Understanding Project",
+        "active": true,
+        "date_updated": 1763119492,
+        "date_posted": 1761992166,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-for-a-Chart-Understanding-Project_REQ_0000072333-1",
         "locations": [
             "State College, PA"
         ],
@@ -15528,6 +15869,20 @@
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE1_R4026249-2",
         "locations": [
             "Albuquerque, NM"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "PennState University",
+        "id": "31a6db78-1795-45ff-a8cf-7fa9073f5fbf",
+        "title": "IST Graduate Assistant - Dr. Calacci",
+        "active": true,
+        "date_updated": 1761992153,
+        "date_posted": 1761992153,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IST-Graduate-Assistant---Dr-Calacci_REQ_0000072565-2",
+        "locations": [
+            "State College, PA"
         ],
         "degrees": []
     },
@@ -15560,6 +15915,55 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Alice L. Walton School of Medicine",
+        "id": "d47d80db-5498-4dbd-8d6b-2f5203f8b8e9",
+        "title": "Data Analyst - AI and Automation Focus",
+        "active": true,
+        "date_updated": 1761992060,
+        "date_posted": 1761992060,
+        "url": "https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/Data-Analyst--AI-and-Automation-Focus_JR1904",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Wounded Warrior Project",
+        "id": "4f4768cd-83c5-488f-aa0c-321b389d38fb",
+        "title": "Senior Salesforce Marketing Cloud Developer",
+        "active": true,
+        "date_updated": 1761992040,
+        "date_posted": 1761992040,
+        "url": "https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp/job/Jacksonville-FL/Senior-Salesforce-Marketing-Cloud-Developer_R14110",
+        "locations": [
+            "Fayetteville, NC",
+            "Boston, MA",
+            "Houston, TX",
+            "Nashville, TN",
+            "Washington, DC",
+            "LA",
+            "Tampa, FL",
+            "Colorado Springs, CO",
+            "Tacoma, WA",
+            "Dallas, TX",
+            "Richmond, VA",
+            "Chicago, IL",
+            "San Antonio, TX",
+            "Pittsburgh, PA",
+            "Sacramento, CA",
+            "NYC",
+            "Phoenix, AZ",
+            "Minneapolis, MN",
+            "Jacksonville, FL",
+            "Kansas City, KS",
+            "San Diego, CA",
+            "Cincinnati, OH"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Product",
         "company_name": "CareSource",
         "id": "5a218a73-e59e-4f22-83da-726a02a5b547",
@@ -15572,6 +15976,22 @@
             "Ohio"
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "9c759ae3-1188-48eb-82c1-e6d1f2672e6e",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1761991956,
+        "date_posted": 1761991956,
+        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3255-Patrick-F-Taylor-Hall/Postdoctoral-Researcher_R00109651",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "degrees": [
+            "PhD"
+        ]
     },
     {
         "category": "AI/ML/Data",
@@ -15603,6 +16023,34 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Bloom Energy",
+        "id": "dd9800ce-cc41-475c-a41b-de3f745c0897",
+        "title": "Manufacturing Systems Integration Analyst - Ncg",
+        "active": true,
+        "date_updated": 1761991836,
+        "date_posted": 1761991836,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Newark-Delaware/Manufacturing-Systems-Integration-Analyst--NCG-_JR-19965",
+        "locations": [
+            "Newark, DE"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "61ccd754-cb5e-4e52-8a9e-fa2e607a4fd5",
+        "title": "Postdoctoral Fellow in Future Runoff and Reservoir Evaporation Projections for Texas River Basins",
+        "active": true,
+        "date_updated": 1761991739,
+        "date_posted": 1761991739,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-in-Future-Runoff-and-Reservoir-Evaporation-Projections-for-Texas-River-Basins_R_00034762-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Product",
         "company_name": "Fiserv",
         "id": "d76eb582-2d34-4961-9d7e-95e8261c904d",
@@ -15615,6 +16063,22 @@
             "Omaha, NE"
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "bfca3855-6999-403b-99c7-013d8278c444",
+        "title": "Postdoctoral Scholar - Experimental Ultrahigh Energy Neutrino - PUEO Experiment",
+        "active": true,
+        "date_updated": 1761991652,
+        "date_posted": 1761991652,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar---Experimental-Ultrahigh-Energy-Neutrino---PUEO-Experiment_REQ_0000043392-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": [
+            "PhD"
+        ]
     },
     {
         "category": "Hardware",
@@ -15641,20 +16105,6 @@
         "url": "https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Taos-NM/Field-Service-Tech-I--Taos_R503553",
         "locations": [
             "Taos, NM"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M International University",
-        "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
-        "title": "Undergraduate Research Assistant - Engineering-MSEIP-STEM2",
-        "active": true,
-        "date_updated": 1761991479,
-        "date_posted": 1761991479,
-        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--Engineering--MSEIP-STEM2-_R-083398",
-        "locations": [
-            "Laredo, TX"
         ],
         "degrees": []
     },
@@ -18847,20 +19297,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "General Dynamics Information Technology",
-        "id": "d54689b7-964b-4bd0-9bfb-b3db384cc58e",
-        "title": "Mid-Level Capabilities Development Engineer",
-        "active": true,
-        "date_updated": 1761898866,
-        "date_posted": 1761898866,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Mid-Level-Capabilities-Development-Engineer_RQ207031",
-        "locations": [
-            "Hanover, MD"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
         "company_name": "John Deere",
         "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
         "title": "Part-Time Student - Radar Systems - Product Engineering",
@@ -18914,20 +19350,6 @@
         "url": "https://careers.rivian.com/jobs/25714?lang=en-us&icims=1",
         "locations": [
             "Winston-Salem, NC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Overland AI",
-        "id": "c33035bb-a162-406a-b861-79ebd5eb18a9",
-        "title": "Mission Success Engineer - Hardware or Software - All levels",
-        "active": true,
-        "date_updated": 1762212579,
-        "date_posted": 1761898477,
-        "url": "https://job-boards.greenhouse.io/overlandai/jobs/4481624008",
-        "locations": [
-            "Seattle, WA"
         ],
         "degrees": []
     },
@@ -19073,20 +19495,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "PDF Solutions",
-        "id": "1c6eb6ca-e3e9-445b-94f7-8a35b8211354",
-        "title": "Senior Systems Engineer",
-        "active": true,
-        "date_updated": 1761897772,
-        "date_posted": 1761897772,
-        "url": "https://careers.pdf.com/jobs/1447?lang=en-us&icims=1",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Allied Solutions",
         "id": "b849601a-9eee-493a-a875-b3d214cff8df",
         "title": "Data File Analyst 1 - IN",
@@ -19125,6 +19533,20 @@
         "locations": [
             "Leicester, UK",
             "Glasgow, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Daktronics",
+        "id": "e5cea4b1-1686-4b8b-84b0-7e1cc6c334b7",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1764152750,
+        "date_posted": 1761897309,
+        "url": "https://careers-daktronics.icims.com/jobs/7037/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Marshall, MN"
         ],
         "degrees": []
     },
@@ -19330,6 +19752,20 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "8bb9c12f-b231-4d72-9963-b9d4e85051d5",
+        "title": "Scorecard Data Assistant",
+        "active": true,
+        "date_updated": 1761895674,
+        "date_posted": 1761895674,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Scorecard-Data-Assistant_REQ_0000072644-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "University of Texas - Austin",
         "id": "403a9bf0-e77b-43f7-aa61-ed61834bab10",
         "title": "Postdoctoral Fellow in Water Systems",
@@ -19387,6 +19823,22 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "6bc957ff-b7af-4a67-95e7-463ab4f0971d",
+        "title": "Communications Systems Engineer - Ship Control",
+        "active": true,
+        "date_updated": 1763713544,
+        "date_posted": 1761879674,
+        "url": "https://careers-gdeb.icims.com/jobs/15600/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Wood",
         "id": "def6059f-c26a-4014-b4f0-804d5a23dca8",
@@ -19397,6 +19849,20 @@
         "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12731",
         "locations": [
             "Buffalo, WY"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Miami",
+        "id": "fbf71ac1-f9cb-490b-ba78-5764ef478670",
+        "title": "CAS-Chemistry-Computational",
+        "active": true,
+        "date_updated": 1761879477,
+        "date_posted": 1761879477,
+        "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/CAS-Chemistry-Computational---Artificial-Intelligence-in-Chemistry--Assistant-Professor_R100091730",
+        "locations": [
+            "Coral Gables, FL"
         ],
         "degrees": []
     },
@@ -19883,20 +20349,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Sev1Tech",
-        "id": "a228d4b8-ec7a-43de-9126-473f5c2901d8",
-        "title": "Configuration and Data Management Analyst",
-        "active": true,
-        "date_updated": 1763130998,
-        "date_posted": 1761876696,
-        "url": "https://careers-sev1tech.icims.com/jobs/9288/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Anomali",
         "id": "a0e36f59-91fa-4991-b74d-4b76702cf9b5",
@@ -19939,6 +20391,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Q2",
+        "id": "b8d38f0b-fec5-4db0-bd30-36ce2368262b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1761876358,
+        "date_posted": 1761876358,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Software-Engineer_REQ-11665",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Quant",
         "company_name": "Akuna Capital",
         "id": "065473d2-5018-4311-b571-9174318ed936",
@@ -19949,6 +20415,20 @@
         "url": "https://www.akunacapital.com/job-details?gh_jid=7236619",
         "locations": [
             "Chicago, IL"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "4676f7b2-b8b0-46c1-861a-a5c8f74f3d9e",
+        "title": "Post-Doctoral Associate",
+        "active": true,
+        "date_updated": 1761876328,
+        "date_posted": 1761876328,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR100737",
+        "locations": [
+            "Hyattsville, MD"
         ],
         "degrees": []
     },
@@ -20019,6 +20499,20 @@
         "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-TX-Austin/Annotation-Specialist-I---ARK--3rd-Eye_REQ-8931",
         "locations": [
             "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "cc99048f-9cdc-4404-b6f4-be4129c41477",
+        "title": "Technology Developer Non-Rotational Graduate Programme 2026 London",
+        "active": true,
+        "date_updated": 1761876023,
+        "date_posted": 1761876023,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Technology-Developer-Non-Rotational-Graduate-Programme-2026-London_JR-0000068198",
+        "locations": [
+            "London, UK"
         ],
         "degrees": []
     },
@@ -20326,21 +20820,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Hawk-Eye Innovations",
-        "id": "2686f224-f33e-4ac9-a059-e149f874bf7c",
-        "title": "Software Engineering Graduate Scheme 2026",
-        "active": true,
-        "date_updated": 1761874564,
-        "date_posted": 1761874564,
-        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/bbb328c9-79da-4829-810a-169d45db3d42/application",
-        "locations": [
-            "London, UK",
-            "Basingstoke, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "BNY",
         "id": "beb85000-e9bb-4d9f-8ff1-5ed1fd4953c7",
         "title": "BNY Analyst Program",
@@ -20585,6 +21064,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Northeastern",
+        "id": "99283317-d8aa-4b4e-be87-1a9bd31e8e11",
+        "title": "R&D Software Engineer",
+        "active": true,
+        "date_updated": 1762914005,
+        "date_posted": 1761873639,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Burlington-MA/Temporary-R-D-Software-Engineer_R123231",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "53d0212b-9071-4a6d-96d0-672cbcd0f600",
@@ -20672,20 +21165,6 @@
             "Columbus, OH",
             "Painesville, OH",
             "Glendale, AZ"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "9b8dca97-3cae-45be-a7a3-dc64218f6be6",
-        "title": "Data Scientist",
-        "active": true,
-        "date_updated": 1762213099,
-        "date_posted": 1761873183,
-        "url": "https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8150642002",
-        "locations": [
-            "Cleveland, OH"
         ],
         "degrees": []
     },
@@ -20867,6 +21346,22 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "971c9279-1641-4ab0-abf8-ee1d259fecbf",
+        "title": "Postdoctoral Researcher - Multiple Levels",
+        "active": true,
+        "date_updated": 1761872229,
+        "date_posted": 1761872229,
+        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/3319-Patrick-F-Taylor-Hall/Postdoctoral-Researcher--Multiple-Levels-_R00100578",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Hewlett Packard Enterprise",
         "id": "a69a23cd-442c-4a6c-8fb5-574c6d2acfb4",
@@ -20896,6 +21391,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "ee2c4038-7fa2-4e9b-8bcd-d2043e96ed39",
+        "title": "Firmware Engineer Graduate",
+        "active": true,
+        "date_updated": 1761872050,
+        "date_posted": 1761872050,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1192956-1",
+        "locations": [
+            "Eau Claire, WI",
+            "Andover, MA",
+            "Bloomington, MN",
+            "San Jose, CA",
+            "Spring, TX",
+            "Durham, NC",
+            "Roseville, CA"
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -20958,20 +21473,6 @@
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/East-Grinstead/Data-Relationship-Analyst-I_R103164",
         "locations": [
             "Crawley, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "General Dynamics",
-        "id": "14559dae-4954-4777-b9a5-7806e3df103d",
-        "title": "SWS Fleet Support Engineer 1 / 2",
-        "active": true,
-        "date_updated": 1763667047,
-        "date_posted": 1761871686,
-        "url": "https://careers-gdeb.icims.com/jobs/15343/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
         ],
         "degrees": []
     },
@@ -21699,15 +22200,15 @@
     },
     {
         "category": "Software",
-        "company_name": "Beyond New Horizons",
-        "id": "0ac4f15a-4f7a-4921-a4ff-0132bff851e5",
-        "title": "Linux System Administrator",
+        "company_name": "Maryland Institute College of Art",
+        "id": "e9b95553-663d-4bea-936d-88aecbfda107",
+        "title": "Graduate Research Lab - Student Worker",
         "active": true,
-        "date_updated": 1763131829,
-        "date_posted": 1761867589,
-        "url": "https://careers-bnh.icims.com/jobs/22154/job?mobile=true&needsRedirect=false",
+        "date_updated": 1761867611,
+        "date_posted": 1761867611,
+        "url": "https://mica.wd5.myworkdayjobs.com/student/job/Baltimore-MD/Graduate-Research-Lab--Student-Worker_R3659",
         "locations": [
-            "Tullahoma, TN"
+            "Baltimore, MD"
         ],
         "degrees": []
     },
@@ -21962,20 +22463,6 @@
         "date_updated": 1761821706,
         "date_posted": 1761821706,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4607272005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "MatX",
-        "id": "c1d313c1-fab6-44a1-ac87-78eaff485c24",
-        "title": "Software Engineer - Compiler",
-        "active": true,
-        "date_updated": 1761812709,
-        "date_posted": 1761812709,
-        "url": "https://job-boards.greenhouse.io/matx/jobs/4003260008",
         "locations": [
             "Mountain View, CA"
         ],
@@ -22308,20 +22795,6 @@
             "Bowie, MD",
             "Norfolk, VA",
             "Sarasota, FL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "4621579b-dbe7-42a3-8f3d-d192b3fd8516",
-        "title": "Pro Scouting Analyst Fellowship",
-        "active": true,
-        "date_updated": 1761723294,
-        "date_posted": 1761723294,
-        "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5634155004",
-        "locations": [
-            "Baltimore, MD"
         ],
         "degrees": []
     },
@@ -22825,6 +23298,20 @@
         "url": "https://boards.greenhouse.io/spacex/jobs/8220138002",
         "locations": [
             "Brownsville, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Daifuku",
+        "id": "3d34a5e5-1dee-49e5-b6a5-b9d73674ab29",
+        "title": "Technical Service Engineer 1",
+        "active": true,
+        "date_updated": 1763162268,
+        "date_posted": 1761537544,
+        "url": "https://careers-daifuku-america.icims.com/jobs/20722/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Novi, MI"
         ],
         "degrees": []
     },
@@ -23562,6 +24049,20 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Marsh & McLennan",
+        "id": "61c905e5-2281-4abd-afcc-83089ab79869",
+        "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
+        "active": true,
+        "date_updated": 1762907694,
+        "date_posted": 1761470150,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Promise",
         "id": "f490ebdd-aaae-4bdf-af52-b3974fbf71b1",
@@ -24040,6 +24541,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Connection",
+        "id": "10130993-d533-4036-b281-e96a5a9e90ef",
+        "title": "Associate Applications Developer",
+        "active": true,
+        "date_updated": 1763161819,
+        "date_posted": 1761096715,
+        "url": "https://careers-connection.icims.com/jobs/9906/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Jeffersonville, OH"
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "a5feb749-b412-4449-9ff9-89b96b8864fa",
@@ -24110,6 +24625,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Semtech",
+        "id": "45508ce9-e506-43de-adad-133c968f01d7",
+        "title": "Associate Product Engineer - Lifecycle Engineering",
+        "active": true,
+        "date_updated": 1761009620,
+        "date_posted": 1761009620,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/XMLNAME---Associate-Product-Engineer--Lifecycle-Engineering-_REQ2960-1",
+        "locations": [
+            "Burlington, ON, Canada"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software Engineering",
         "company_name": "Shopify",
         "id": "3b7b1744-bddb-4645-8ffe-3f4b1a0e5adf",
@@ -24148,6 +24677,20 @@
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Systems-Engineer_318783",
         "locations": [
             "Colorado Springs, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adtheorant",
+        "id": "485de379-a6c2-43b6-93c1-b49275c62aaa",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1763161858,
+        "date_posted": 1760994750,
+        "url": "https://careers-cadent.icims.com/jobs/1266/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
         ],
         "degrees": []
     },
@@ -24683,20 +25226,6 @@
     },
     {
         "category": "Software",
-        "company_name": "RELX",
-        "id": "5791ff9b-5300-4df2-8676-42896017cee6",
-        "title": "Software Engineer I - Student Placement  months FTC",
-        "active": true,
-        "date_updated": 1761920640,
-        "date_posted": 1760659303,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Nottingham/Software-Engineer-I---Student-Placement-12-months-FTC_R101564-2",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "MatX",
         "id": "bb5aac7d-f9a3-4c96-ba87-781d1aeac510",
         "title": "Software Engineer - Kernels",
@@ -24710,17 +25239,16 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "093c449a-8dc3-4e20-abaa-56c9a995d9a7",
-        "title": "AI SoC Design Verification",
+        "category": "Software",
+        "company_name": "Morgan Stanley",
+        "id": "f79fc65f-4fe6-4602-8788-9e7b61ace523",
+        "title": "Associate Software Engineer",
         "active": true,
-        "date_updated": 1762819287,
-        "date_posted": 1760594009,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4946569007",
+        "date_updated": 1760599622,
+        "date_posted": 1760599622,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Software-Engineer_PT-JR021580",
         "locations": [
-            "Toronto, ON, Canada",
-            "Ottawa, ON, Canada"
+            "NYC"
         ],
         "degrees": []
     },
@@ -24853,20 +25381,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Centerline Communications",
-        "id": "a326698d-ad27-4321-af84-dca20efffce1",
-        "title": "Wireless Technician Level 1 - Hudson NH",
-        "active": true,
-        "date_updated": 1763162460,
-        "date_posted": 1760495689,
-        "url": "https://careers-clinellc.icims.com/jobs/2588/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Nashua, NH"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software Engineering",
         "company_name": "Aurora Innovation",
         "id": "2199e407-beea-48a0-92e0-2e9baccabd36",
@@ -24919,6 +25433,20 @@
         "url": "https://careers-lewisbrisbois.icims.com/jobs/12141/job?mobile=true&needsRedirect=false",
         "locations": [
             "Atlanta, GA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "f870d5b6-a11b-4261-8c01-197544a40274",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1762920542,
+        "date_posted": 1760493591,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000072784-1",
+        "locations": [
+            "State College, PA"
         ],
         "degrees": []
     },
@@ -25026,6 +25554,20 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "URBN",
+        "id": "936de21a-95ba-44f3-8c1f-0ab522920ec4",
+        "title": "Assistant Product Development Coordinator",
+        "active": true,
+        "date_updated": 1763665532,
+        "date_posted": 1760456719,
+        "url": "https://homeoffice-na-urbn.icims.com/jobs/22705/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software Engineering",
         "company_name": "Arrow Electronics",
         "id": "698c3131-0f52-4a8e-88c4-32cd4c7ccdab",
@@ -25036,20 +25578,6 @@
         "url": "https://arrow.wd1.myworkdayjobs.com/en-US/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Apprentice---Cloud-Infrastructure_R236670",
         "locations": [
             "Bangalore, IN"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "D2 Consulting",
-        "id": "dba287e6-a2c4-472e-81f1-82f164d0ab78",
-        "title": "Deployment/Hardware Engineer - Skillbridge Fellowship",
-        "active": true,
-        "date_updated": 1761264326,
-        "date_posted": 1760415634,
-        "url": "https://job-boards.greenhouse.io/d2consulting/jobs/4522989008",
-        "locations": [
-            "Fort Belvoir, VA"
         ],
         "degrees": []
     },
@@ -25396,20 +25924,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "NV5 Global",
-        "id": "abe91c19-9936-46ff-b2c3-1f08cdfb15cb",
-        "title": "Technician",
-        "active": true,
-        "date_updated": 1763162566,
-        "date_posted": 1760250019,
-        "url": "https://careers-nv5.icims.com/jobs/11388/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lexington, KY"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "b8423038-9ca5-4510-ac3b-c9b33156ca00",
         "title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
@@ -25551,20 +26065,6 @@
         "degrees": []
     },
     {
-        "category": "Product",
-        "company_name": "Box",
-        "id": "0d1061dd-2cd9-4255-a59d-bf1ee6006c27",
-        "title": "Product Support Placement Student - London - UK",
-        "active": true,
-        "date_updated": 1762818360,
-        "date_posted": 1760129245,
-        "url": "https://job-boards.greenhouse.io/boxinc/jobs/7300201",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software Engineering",
         "company_name": "Vail Systems",
         "id": "32cb2e37-5ef8-43d5-8edc-d40de0e9fdf5",
@@ -25593,23 +26093,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "True Anomaly",
-        "id": "a7a6ee54-b2af-4153-bd7f-6a9746e20c3d",
-        "title": "Elixir Software Engineer",
-        "active": true,
-        "date_updated": 1764238063,
-        "date_posted": 1760054791,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4940122007",
-        "locations": [
-            "Long Beach, CA",
-            "Washington, DC",
-            "Colorado Springs, CO",
-            "Denver, CO"
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -25916,6 +26399,20 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "9db8f1c3-4053-456d-a998-ba7c264785ba",
+        "title": "Postdoctoral Fellow - Department of Computer Science",
+        "active": true,
+        "date_updated": 1760022460,
+        "date_posted": 1760022460,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow--Department-of-Computer-Science_R_00042583",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Klaviyo",
         "id": "056b01e2-b52b-4c95-80f7-93447fe07353",
@@ -26075,6 +26572,20 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Worcester Polytechnic Institute",
+        "id": "6b329ca6-a382-4b89-9fa5-a1e9c4ef4f44",
+        "title": "Assistant Professor",
+        "active": true,
+        "date_updated": 1761861315,
+        "date_posted": 1759903771,
+        "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Assistant-Professor_R0003284",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "8b474f86-3c0e-4b89-a684-57f214023f70",
@@ -26103,20 +26614,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Geosyntec Consultants",
-        "id": "a61a955c-2b9b-403c-9927-0e4b185d3b97",
-        "title": "Staff or Sr. Staff Environmental Engineer - Geologist - Or Scientist",
-        "active": true,
-        "date_updated": 1763712348,
-        "date_posted": 1759849177,
-        "url": "https://careers-geosyntec.icims.com/jobs/3292/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Anchorage, AK"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -26591,34 +27088,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Yusen Logistics",
-        "id": "87d544ea-2e0b-4424-b70d-d3eba688d8ee",
-        "title": "Business Solutions Data Specialist",
-        "active": true,
-        "date_updated": 1763712730,
-        "date_posted": 1759492043,
-        "url": "https://careers-yusen-logistics.icims.com/jobs/6050/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Good Inside",
-        "id": "a35b38e0-eebb-4d24-b452-b6ea009ec394",
-        "title": "Full Stack Engineer",
-        "active": true,
-        "date_updated": 1760042235,
-        "date_posted": 1759481079,
-        "url": "https://job-boards.greenhouse.io/goodinside/jobs/4928011007",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Domino Data Lab",
         "id": "e9fac06c-a8f6-4e81-a5b3-6ee1c5827e79",
@@ -26870,6 +27339,34 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Waters Corporation",
+        "id": "95a7652d-a480-4a3f-a806-1a111ccb1741",
+        "title": "Manufacturing Technician 1",
+        "active": true,
+        "date_updated": 1762923907,
+        "date_posted": 1759449667,
+        "url": "https://uscareers-waters.icims.com/jobs/24210/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "f56c3266-c05a-4ffc-b6f8-3f7ac6228863",
+        "title": "Postdoctoral Scholar",
+        "active": true,
+        "date_updated": 1759423602,
+        "date_posted": 1759423602,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000072094-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -27131,20 +27628,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "AIG",
-        "id": "d52af68f-bcb6-41ad-9711-cf682cb1053b",
-        "title": "Data Office Analyst - Data Office - Analyst",
-        "active": true,
-        "date_updated": 1762819436,
-        "date_posted": 1759298030,
-        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Data-Office---Analyst---United-States--Atlanta--GA-_JR2505352",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
         "id": "ae02b8d3-1e4a-442d-9d16-d2f94a1c1699",
         "title": "Associate Data Engineer",
@@ -27198,6 +27681,20 @@
         "url": "https://jobs.lever.co/pivotal/5a753d22-0933-4974-a736-62ea10f3b1eb/apply",
         "locations": [
             "Palo Alto, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "KLA Corporation",
+        "id": "0be62210-0fe2-4d3d-b8c3-0029dd88f271",
+        "title": "Graduate Product Management Engineer",
+        "active": true,
+        "date_updated": 1762255210,
+        "date_posted": 1759285067,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Newport-United-Kingdom/Graduate-Product-Management-Engineer_2531445",
+        "locations": [
+            "Cardiff, UK"
         ],
         "degrees": []
     },
@@ -27375,20 +27872,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Jane Street",
-        "id": "b193533a-895b-4821-9ec5-e39ead289749",
-        "title": "Software Engineer - Autumn Off Cycle",
-        "active": true,
-        "date_updated": 1761264042,
-        "date_posted": 1759191276,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8189520002",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "McDonald's",
         "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
         "title": "Software Engineer 1 - iOS - iOS",
@@ -27506,20 +27989,6 @@
         "url": "https://jobs.lever.co/glsllc/b452c19a-d83d-4343-b1d2-8a249d9381c9/apply",
         "locations": [
             "Greenville, SC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Kimley-Horn",
-        "id": "7752464a-240e-469c-aa9d-e1fdc906ac75",
-        "title": "GIS Analyst",
-        "active": true,
-        "date_updated": 1763131374,
-        "date_posted": 1758987104,
-        "url": "https://careers-kimley-horn.icims.com/jobs/19950/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Virginia Beach, VA"
         ],
         "degrees": []
     },
@@ -28233,20 +28702,6 @@
     {
         "category": "Software",
         "company_name": "Appian",
-        "id": "3549c248-80b5-44f9-8cda-d8d0e4cda08a",
-        "title": "Associate Application Engineer – Dec 2025 Grads",
-        "active": true,
-        "date_updated": 1762905774,
-        "date_posted": 1758680765,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7272543",
-        "locations": [
-            "McLean, VA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Appian",
         "id": "e1b7438a-9f19-4de4-9c65-d8e98cbcd620",
         "title": "Associate Application Developer - Appian Platform",
         "active": true,
@@ -28329,20 +28784,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "RA Capital Management",
-        "id": "6faff3d6-cd85-40e8-b0ee-47e36bf75180",
-        "title": "Research Assistant - Research Operations - AI Tools",
-        "active": true,
-        "date_updated": 1762187860,
-        "date_posted": 1758607918,
-        "url": "https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/4596395008",
-        "locations": [
-            "Boston, MA"
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -28433,23 +28874,6 @@
             "Dallas, TX"
         ],
         "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "32cef3b3-acc2-4892-b8cf-4a623e29b3e1",
-        "title": "Quantitative Researcher - Master's: 2026",
-        "active": true,
-        "date_updated": 1763116487,
-        "date_posted": 1758534310,
-        "url": "https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "Software Engineering",
@@ -28669,20 +29093,6 @@
     },
     {
         "category": "Software",
-        "company_name": "SingleStore",
-        "id": "b6ee703c-cc87-4de9-898b-913ba3c73777",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1758667912,
-        "date_posted": 1758327304,
-        "url": "https://job-boards.greenhouse.io/singlestore/jobs/7262849",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Q2",
         "id": "bfc243cf-8061-4fbb-8cee-0348905af2da",
         "title": "Software Engineer",
@@ -28847,6 +29257,20 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Northeastern",
+        "id": "3f3751fd-e6ea-4409-8cb6-fb0ad3dcc409",
+        "title": "Research Assistant",
+        "active": true,
+        "date_updated": 1758227283,
+        "date_posted": 1758227283,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R136132-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Toyota Connected",
         "id": "ad826aa9-729b-43bb-a565-2b7ffd21855b",
         "title": "Machine Learning Engineer – Entry Level",
@@ -28904,6 +29328,20 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Savannah River National Laboratory",
+        "id": "9c103625-b40b-43d0-b531-21cf09ea3b87",
+        "title": "Graduate Research Associate - Post Bachelors",
+        "active": true,
+        "date_updated": 1758156011,
+        "date_posted": 1758156011,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1819",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -29095,6 +29533,22 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "0d4aced9-22bc-43d7-b6c8-2a964648b80e",
+        "title": "Student Worker",
+        "active": true,
+        "date_updated": 1762930698,
+        "date_posted": 1758064413,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Part-time-student-worker_JR100994",
+        "locations": [
+            "Remote in USA"
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "BNY",
         "id": "307243ab-1117-4930-8d32-bef23cb3ae61",
@@ -29123,6 +29577,20 @@
             "Pittsburgh, PA",
             "Lake Mary, FL",
             "NYC"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "9b85e226-ea7b-460f-ad23-01e725f7de86",
+        "title": "Moodle Developer",
+        "active": true,
+        "date_updated": 1758049471,
+        "date_posted": 1758049471,
+        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/8585-Archives-Blvd-Suite-201/Moodle-Developer_R00109175",
+        "locations": [
+            "Baton Rouge, LA"
         ],
         "degrees": []
     },
@@ -29355,20 +29823,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "NV5 Global",
-        "id": "6de90bea-576b-4481-9e19-e47fc06cb76c",
-        "title": "Lidar – Quicklook Data Verification Technician",
-        "active": true,
-        "date_updated": 1763191636,
-        "date_posted": 1757984647,
-        "url": "https://careers-nv5.icims.com/jobs/11395/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Portland, OR"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Konrad Group",
         "id": "d55d7650-9731-450b-9ef2-e80cec498193",
@@ -29553,20 +30007,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "53bd44b1-ca36-45a5-a3fd-c8377fe45574",
-        "title": "Quantitative Strategy Developer",
-        "active": true,
-        "date_updated": 1763232652,
-        "date_posted": 1757793162,
-        "url": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Product",
         "company_name": "TikTok",
         "id": "5af10211-101d-4630-84bb-aeee9939f616",
@@ -29577,34 +30017,6 @@
         "url": "https://lifeattiktok.com/search/7546336514033764626",
         "locations": [
             "San Jose, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Product",
-        "company_name": "Cresta",
-        "id": "1863a011-3ff2-4937-b849-d6e148688e23",
-        "title": "Embedded Expert - Saas Software - Contact Center",
-        "active": true,
-        "date_updated": 1757696976,
-        "date_posted": 1757696976,
-        "url": "https://job-boards.greenhouse.io/cresta/jobs/4919163008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "c99cdd2f-301e-436a-83d1-4921248a8e89",
-        "title": "Software Developer Graduate",
-        "active": true,
-        "date_updated": 1763131290,
-        "date_posted": 1757695151,
-        "url": "https://careers-sig.icims.com/jobs/9823/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "London, UK"
         ],
         "degrees": []
     },
@@ -29652,15 +30064,15 @@
     },
     {
         "category": "Hardware",
-        "company_name": "DataDirect Networks (DDN)",
-        "id": "e95d80d7-2b59-4bd2-9b96-947eb90be3e4",
-        "title": "Associate Software Engineer",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "c78dc8d2-6431-4fcd-978b-c50e0353afc7",
+        "title": "Senior Engineering Technician",
         "active": true,
-        "date_updated": 1763130695,
-        "date_posted": 1757646615,
-        "url": "https://careers-ddn.icims.com/jobs/5271/job?mobile=true&needsRedirect=false",
+        "date_updated": 1763121688,
+        "date_posted": 1757638001,
+        "url": "https://careers-gdms.icims.com/jobs/68009/job?mobile=true&needsRedirect=false",
         "locations": [
-            "Columbia, MD"
+            "Bloomington, MN"
         ],
         "degrees": []
     },
@@ -29675,20 +30087,6 @@
         "url": "https://careers-sig.icims.com/jobs/9089/job?mobile=true&needsRedirect=false",
         "locations": [
             "Ardmore, PA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Sharp Electronics",
-        "id": "70b658c3-fc29-4a96-a976-ccc56c9e4f84",
-        "title": "Shop Technician",
-        "active": true,
-        "date_updated": 1763130659,
-        "date_posted": 1757635379,
-        "url": "https://careers-sharpusa.icims.com/jobs/8625/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Charlotte, NC"
         ],
         "degrees": []
     },
@@ -29758,20 +30156,6 @@
         "degrees": []
     },
     {
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
-        "title": "Quantitative Sports Researcher – Graduate Hire",
-        "active": true,
-        "date_updated": 1763124615,
-        "date_posted": 1757626809,
-        "url": "https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Peraton",
         "id": "6404ef37-95ff-4e46-a027-cc990d1c83ec",
@@ -29800,20 +30184,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Sono-Tek Corporation",
-        "id": "cbfb0cc9-c599-43df-8344-a3fda9036699",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1762213215,
-        "date_posted": 1757614666,
-        "url": "https://careers-councilofindustry.icims.com/jobs/4864/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Saratoga County, NY"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97f47759-6968-4395-843f-a0085fd92681",
@@ -29822,20 +30192,6 @@
         "date_updated": 1762620421,
         "date_posted": 1757612996,
         "url": "https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "79702bf6-af31-445f-97a0-9127d09059a3",
-        "title": "Faculty Fellow",
-        "active": true,
-        "date_updated": 1763163767,
-        "date_posted": 1757612977,
-        "url": "https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false",
         "locations": [
             "Ardmore, PA"
         ],
@@ -29870,34 +30226,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Waters Corporation",
-        "id": "d7ed5872-e4df-403f-9749-cf908e873331",
-        "title": "Instrument Technician",
-        "active": true,
-        "date_updated": 1763162513,
-        "date_posted": 1757612897,
-        "url": "https://uscareers-waters.icims.com/jobs/23762/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Franklin, MA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Parkhill",
-        "id": "20c16b4a-cbaf-4965-b9cf-085e960b1695",
-        "title": "Senior LiDAR Specialist",
-        "active": true,
-        "date_updated": 1763130904,
-        "date_posted": 1757612308,
-        "url": "https://careers-parkhill.icims.com/jobs/1338/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lubbock, TX"
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Pentair",
         "id": "58cc042f-045e-4678-b8d6-1c26bead87c7",
@@ -29928,6 +30256,20 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Utah State University",
+        "id": "b184063f-0ffd-4768-88e7-c0febdf63fda",
+        "title": "AI and Machine Learning Assistant Professor/Professional Practice Assistant Professor",
+        "active": true,
+        "date_updated": 1763161923,
+        "date_posted": 1757603339,
+        "url": "https://careers-usu.icims.com/jobs/8433/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Logan, UT"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7f75d862-d02b-4dab-ad06-38dfb99b779d",
@@ -29954,22 +30296,6 @@
             "LA"
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Exponent",
-        "id": "33a0b8f1-23f2-4d15-8947-b762a2339805",
-        "title": "Engineering Technician - Electronics and Instrumentation",
-        "active": true,
-        "date_updated": 1763121924,
-        "date_posted": 1757582131,
-        "url": "https://careers-exponent.icims.com/jobs/2162/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -30032,15 +30358,29 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Cook Group",
-        "id": "50c09ca4-36b0-428e-81cd-fdc2d0a1b157",
-        "title": "Service Technician",
+        "company_name": "SDSU Research Foundation",
+        "id": "aa3663c0-e0d6-43a7-a761-4dbbd5f6bdc4",
+        "title": "Niwc Senior - Multiple Teams",
         "active": true,
-        "date_updated": 1763130877,
-        "date_posted": 1757536555,
-        "url": "https://americas-cookmedical.icims.com/jobs/17170/job?mobile=true&needsRedirect=false",
+        "date_updated": 1763421131,
+        "date_posted": 1757541157,
+        "url": "https://careers-sdsurf.icims.com/jobs/19750/job?mobile=true&needsRedirect=false",
         "locations": [
-            "Philadelphia, PA"
+            "San Diego, CA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Huntsman",
+        "id": "3b4fe0ef-9c0c-4322-b5c1-11a510585186",
+        "title": "IT - Data & Analytics",
+        "active": true,
+        "date_updated": 1762922092,
+        "date_posted": 1757531320,
+        "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1",
+        "locations": [
+            "The Woodlands, TX"
         ],
         "degrees": []
     },
@@ -30609,20 +30949,6 @@
         "url": "https://boards.greenhouse.io/point72/jobs/7045943002",
         "locations": [
             "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Varda Space",
-        "id": "cefaa0a9-dbe6-4fa6-899e-6ad4ab301ef1",
-        "title": "Vehicle Integration & Test",
-        "active": true,
-        "date_updated": 1761503462,
-        "date_posted": 1757110325,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6972976003",
-        "locations": [
-            "El Segundo, CA"
         ],
         "degrees": []
     },
@@ -31250,6 +31576,20 @@
             "Hartford, CT",
             "Atlanta, GA",
             "St Paul, MN"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "Great American Insurance Company",
+        "id": "d8ce19d8-652f-4294-a386-82b12134aa84",
+        "title": "Associate Product Manager - AI & Predictive Analytics",
+        "active": true,
+        "date_updated": 1756858517,
+        "date_posted": 1756858517,
+        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Associate-Product-Manager---AI---Predictive-Analytics_R7913",
+        "locations": [
+            "Cincinnati, OH"
         ],
         "degrees": []
     },
@@ -32113,6 +32453,20 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Analog Devices",
+        "id": "8abc553a-2f9e-4c88-aa48-5c64c987cf9c",
+        "title": "Electronic Design Automation Research and Development Engineer with Emphasis on Simulation - Modeling - Software Development",
+        "active": true,
+        "date_updated": 1761938313,
+        "date_posted": 1756254281,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/EDA-R-D-Engineer-with-Emphasis-on-Simulation--Modeling--and-Software-Development_R254720",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Globus Medical",
         "id": "24a4d4c1-9b9e-4880-a4c3-7de91bce6cd3",
@@ -32600,6 +32954,20 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Northeastern",
+        "id": "a0178230-c42b-419f-b050-7233c4d3cc09",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1755959867,
+        "date_posted": 1755959867,
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R132402",
+        "locations": [
+            "Boston, MA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Wash U",
         "id": "ace8bc2b-6513-4a62-bafc-464421bea500",
         "title": "Postdoctoral Research Associate - Engineering",
@@ -32613,23 +32981,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "b841f0e1-cb16-4f57-b5a2-1ce146393d2e",
-        "title": "Data Analysis Specialist",
-        "active": true,
-        "date_updated": 1755957953,
-        "date_posted": 1755957953,
-        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/California-Bay-Area/Data-Analysis-Specialist_R0006347",
-        "locations": [
-            "California",
-            "Remote in USA"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "Apex Fintech Solutions",
         "id": "61f248d1-fb21-4da6-ba94-323cd500187e",
@@ -32640,6 +32991,49 @@
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Associate-Product-Analyst--ALDP-_JR103415-1",
         "locations": [
             "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "06a0f678-4b8c-4682-baee-9c218e984c24",
+        "title": "Part-Time Innovation Research Assistant",
+        "active": true,
+        "date_updated": 1762924776,
+        "date_posted": 1755956452,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Innovation-Research-Assistants_REQ_0000063545-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "54e01f92-58ed-48c5-bcb6-c977295cadbc",
+        "title": "Research Assistants",
+        "active": true,
+        "date_updated": 1755956449,
+        "date_posted": 1755956449,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000063953-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "PennState University",
+        "id": "81c71c47-0d49-41d9-8d3d-88a8548d0824",
+        "title": "FPGA Engineer Research and Development",
+        "active": true,
+        "date_updated": 1761937248,
+        "date_posted": 1755956404,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/FPGA-Engineer-R-D_REQ_0000058210-1",
+        "locations": [
+            "State College, PA",
+            "Reston, VA"
         ],
         "degrees": []
     },
@@ -32848,6 +33242,22 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "West Virginia University",
+        "id": "200fbf15-4c8b-4d7e-b556-6d614363faa5",
+        "title": "Lecturer",
+        "active": true,
+        "date_updated": 1762919220,
+        "date_posted": 1755890098,
+        "url": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=25826",
+        "locations": [
+            "Morgantown, WV",
+            "Berkeley Springs, WV",
+            "Beckley, WV"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "ByteDance",
         "id": "91781434-b2d9-4de6-8f4b-170cdb599048",
@@ -33033,6 +33443,20 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "c858f1f9-a733-4d3f-91c8-9ca0ab53220d",
+        "title": "Postdoctoral Researcher - Aerosols and hydroclimate risk",
+        "active": true,
+        "date_updated": 1755812039,
+        "date_posted": 1755812039,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Researcher---Aerosols-and-hydroclimate-risk_R_00041495",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Tiber Technologies",
         "id": "eccbf1b3-459e-49b6-ad78-e3fb32327155",
         "title": "System Engineer - Data Integration and Dashboard Development - All Levels','Poly Required",
@@ -33098,20 +33522,6 @@
         "url": "https://pru.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Portfolio-Management-Investment-Associate--Hybrid-_R-121848-1",
         "locations": [
             "Newark, NJ"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Visionist",
-        "id": "7bc02c7a-03ce-4d88-867d-a6a16620e2fb",
-        "title": "Database Engineer - Multiple Levels",
-        "active": true,
-        "date_updated": 1758316080,
-        "date_posted": 1755775060,
-        "url": "https://jobs.jobvite.com/visionist/job/omHlxfwF?nl=1&nl=1&fr=false",
-        "locations": [
-            "Washington, DC"
         ],
         "degrees": []
     },
@@ -33248,23 +33658,6 @@
             "Santa Clara, CA"
         ],
         "degrees": []
-    },
-    {
-        "category": "Quantitative Finance",
-        "company_name": "Citadel Securities",
-        "id": "ae5bd7a0-0600-42d1-b21c-5a645b496968",
-        "title": "Quantitative Researcher – PhD Graduate",
-        "active": true,
-        "date_updated": 1755679928,
-        "date_posted": 1755679928,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "category": "Data Science, AI & Machine Learning",
@@ -34873,21 +35266,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Altamira Technologies",
-        "id": "2ab33f9e-028d-48d0-8a17-4f5c3b9b1b12",
-        "title": "Geolocation Operator / Analyst",
-        "active": true,
-        "date_updated": 1762816556,
-        "date_posted": 1755193856,
-        "url": "https://jobs.jobvite.com/altamiracorps/job/oFN5wfwN?nl=1&nl=1&fr=false",
-        "locations": [
-            "Augusta, GA",
-            "San Antonio, TX"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Figure",
         "id": "91e63edf-634a-438a-8645-8b316d48cfcf",
         "title": "Helix Data Creator",
@@ -35210,6 +35588,20 @@
             "Nevada"
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Apex Fintech Solutions",
+        "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
+        "title": "Software Engineer I - Aldp",
+        "active": true,
+        "date_updated": 1755147515,
+        "date_posted": 1755147515,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": null
     },
     {
         "category": "AI/ML/Data",
@@ -38710,48 +39102,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "6df80d78-14ae-4275-890a-35c9b9e03e06",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1762817660,
-        "date_posted": 1754316528,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/7961782002",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "355cea68-3fff-4846-b9fb-5bcef24617e2",
-        "title": "Sales and Trading",
-        "active": true,
-        "date_updated": 1761489253,
-        "date_posted": 1754316528,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8084942002",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "2231e412-c199-4be9-8b7b-033410c10b4a",
-        "title": "Quantitative Researcher",
-        "active": true,
-        "date_updated": 1754316525,
-        "date_posted": 1754316525,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8017833002",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Quant",
         "company_name": "Jane Street",
         "id": "51a1cf90-7f58-4de4-9539-4eeb5baa44fd",
@@ -38774,20 +39124,6 @@
         "date_updated": 1756304702,
         "date_posted": 1754316519,
         "url": "https://job-boards.greenhouse.io/janestreet/jobs/8092062002",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Jane Street",
-        "id": "4a1e1d07-47d1-42b4-9fef-d6ec6838950e",
-        "title": "Machine Learning Researcher",
-        "active": true,
-        "date_updated": 1754316514,
-        "date_posted": 1754316514,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061093002",
         "locations": [
             "London, UK"
         ],
@@ -38906,20 +39242,6 @@
         "degrees": []
     },
     {
-        "category": "Product",
-        "company_name": "edX",
-        "id": "23f82e54-18f9-4e39-b8e0-179a1bb6a2d5",
-        "title": "Product Management - Product Management Student Support",
-        "active": true,
-        "date_updated": 1762905774,
-        "date_posted": 1754088567,
-        "url": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751318002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "edX",
         "id": "89a9cc54-0766-4960-9b8b-57d9b006a604",
@@ -38942,20 +39264,6 @@
         "date_updated": 1761264033,
         "date_posted": 1754087305,
         "url": "https://job-boards.greenhouse.io/janestreet/jobs/8040547002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "9634b5fa-b788-415d-84b5-76e80c4810c4",
-        "title": "Sales and Trading",
-        "active": true,
-        "date_updated": 1761264021,
-        "date_posted": 1754087299,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/7844500002",
         "locations": [
             "NYC"
         ],
@@ -39066,6 +39374,20 @@
     {
         "category": "AI/ML/Data",
         "company_name": "University of Southern California",
+        "id": "4ab5afc6-b71e-49e9-951d-1918516153a9",
+        "title": "Postdoctoral Scholar Research Associate",
+        "active": true,
+        "date_updated": 1754064978,
+        "date_posted": 1754064978,
+        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Postdoctoral-Scholar-Research-Associate_REQ20098741",
+        "locations": [
+            "LA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Southern California",
         "id": "9af75743-2cd1-42b4-93e3-ccff68405dfc",
         "title": "Postdoctoral Scholar - Research Associate",
         "active": true,
@@ -39129,6 +39451,20 @@
         "date_updated": 1763119261,
         "date_posted": 1754056127,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "2e17e435-e594-47c6-89d4-9fd698967ff5",
+        "title": "Part time Smeal - Computer Science",
+        "active": true,
+        "date_updated": 1762990018,
+        "date_posted": 1754056011,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1",
         "locations": [
             "State College, PA"
         ],
@@ -39237,20 +39573,6 @@
         "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4245633101",
         "locations": [
             "Miami, FL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Marmon Holdings",
-        "id": "5cd23eaa-d91b-4fd5-b633-4c4a5dffa2a4",
-        "title": "Application Engineer",
-        "active": true,
-        "date_updated": 1753987326,
-        "date_posted": 1753987326,
-        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Amarillo-TX/Application-Engineer_JR0000030203",
-        "locations": [
-            "Amarillo, TX"
         ],
         "degrees": []
     },
@@ -39915,20 +40237,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Core One",
-        "id": "ca6ba120-30b7-463f-8084-5f11fa08eebc",
-        "title": "Software Developer 1",
-        "active": true,
-        "date_updated": 1762816865,
-        "date_posted": 1752519352,
-        "url": "https://job-boards.greenhouse.io/coreone/jobs/6603161002",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Black Canyon Consulting",
         "id": "e176141a-6fbd-427c-ba94-6ea00aa16620",
         "title": "Software Developer",
@@ -40059,6 +40367,20 @@
         "degrees": null
     },
     {
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "1ad064d1-ddc7-4b14-8862-a0ac04de00ea",
+        "title": "Global Quantitative Strategies",
+        "active": true,
+        "date_updated": 1761829639,
+        "date_posted": 1752196371,
+        "url": "https://www.citadel.com/careers/details/global-quantitative-strategies-post-doctorate-quantitative-researcher/",
+        "locations": [
+            "NYC"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Citadel Securities",
         "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
@@ -40169,20 +40491,6 @@
     {
         "category": "Quant",
         "company_name": "Jane Street",
-        "id": "634a8640-7b13-4ee0-b51b-d03c06a0616a",
-        "title": "Trading Desk Operations Engineer",
-        "active": true,
-        "date_updated": 1752187848,
-        "date_posted": 1752187848,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8070509002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Jane Street",
         "id": "94833978-b3da-4d7b-8fe2-21b1ddeb9abe",
         "title": "Quantitative Trader",
         "active": true,
@@ -40197,68 +40505,12 @@
     {
         "category": "Software",
         "company_name": "Jane Street",
-        "id": "0f4638c7-970f-456b-8bb4-2446c04a9d20",
-        "title": "Tools and Compilers Research and Development",
-        "active": true,
-        "date_updated": 1752187847,
-        "date_posted": 1752162417,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/5869205002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "f3b26c76-d6cf-46bd-ade3-5e3f99f4c584",
-        "title": "Quantitative Trader",
-        "active": true,
-        "date_updated": 1753717561,
-        "date_posted": 1752162391,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8047137002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "66c6b675-9967-4cdf-85c3-15d3c7ad6a5e",
-        "title": "Quantitative Researcher",
-        "active": true,
-        "date_updated": 1753717560,
-        "date_posted": 1752162385,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/7979031002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Jane Street",
         "id": "d45ab101-255d-4a8e-b0ad-917ad0a1cc88",
         "title": "Linux Engineer",
         "active": true,
         "date_updated": 1752162381,
         "date_posted": 1752162381,
         "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Jane Street",
-        "id": "bbcfe70b-f3ce-4471-b743-9e5f73f3c6fe",
-        "title": "Machine Learning Researcher",
-        "active": true,
-        "date_updated": 1753717556,
-        "date_posted": 1752162378,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8060848002",
         "locations": [
             "NYC"
         ],
@@ -40293,6 +40545,20 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "1e5a0af8-ed36-41cb-92a8-415d7a30522f",
+        "title": "Product Manager 1 - Insurance",
+        "active": true,
+        "date_updated": 1762816612,
+        "date_posted": 1752120557,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Product-Mgr-I_R97329",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Tucows",
         "id": "cb4a0195-b8de-4371-aa29-dc7a9184c1aa",
@@ -40319,6 +40585,20 @@
             "San Francisco, CA"
         ],
         "degrees": null
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "0cbf1527-ccc7-4b25-bb22-625881bbc8f5",
+        "title": "Postdoctoral Scholar - Experimental Condensed Matter Physics",
+        "active": true,
+        "date_updated": 1752012496,
+        "date_posted": 1752012496,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Experimental-Condensed-Matter-Physics-_REQ_0000050105",
+        "locations": [
+            "State College, PA"
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -40387,20 +40667,6 @@
         "url": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/725",
         "locations": [
             "Bangor, ME"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Kelsey-Seybold Clinic",
-        "id": "6f55c298-5941-429d-94a7-45c5b0eaa3a2",
-        "title": "Per Diem PET/CT Technologist",
-        "active": true,
-        "date_updated": 1761934457,
-        "date_posted": 1751644879,
-        "url": "https://fa-evfp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/8979",
-        "locations": [
-            "Houston, TX"
         ],
         "degrees": []
     },
@@ -40810,20 +41076,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Celonis",
-        "id": "677b5a1f-cac6-4de4-8d8d-b7e56611d25e",
-        "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-        "active": true,
-        "date_updated": 1761889434,
-        "date_posted": 1750814416,
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6620068003?gh_jid=6620068003",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
