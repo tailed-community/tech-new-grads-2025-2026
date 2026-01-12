@@ -1,6 +1,39 @@
 [
     {
         "category": "Software",
+        "company_name": "Microsoft",
+        "id": "10c83b14-9176-4a4c-98ae-5b552494660e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1768118870,
+        "date_posted": 1768118870,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556643050",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "OpusClip",
+        "id": "4e0b7c5f-1f3c-4569-bd29-1f41f0b3f519",
+        "title": "Software Engineer - AI Video Agent",
+        "active": true,
+        "date_updated": 1768116363,
+        "date_posted": 1768116363,
+        "url": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Accenture",
         "id": "f1fdb553-196c-4a11-8292-2df435c6b077",
         "title": "Software Engineer",
@@ -19397,20 +19430,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Fidelity National Financial",
-        "id": "75713ae8-9fca-469c-904d-eb1a3430a359",
-        "title": "Imaging Analyst",
-        "active": true,
-        "date_updated": 1763191560,
-        "date_posted": 1763162169,
-        "url": "https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Altamonte Springs, FL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "PennState University",
         "id": "f0c154b7-27aa-41af-aacf-d692a0812287",
         "title": "Data Scientist / Machine Learning Engineer",
@@ -28119,6 +28138,20 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "Sysmex",
+        "id": "c1fba69e-d208-4604-914c-d6ea1dc22ef6",
+        "title": "Field Service Technician - Field Service",
+        "active": true,
+        "date_updated": 1767309591,
+        "date_posted": 1759865260,
+        "url": "https://careers-sysmex.icims.com/jobs/4486/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "California"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software Engineering",
         "company_name": "Microsoft",
         "id": "d18c4c7e-b351-49e7-82db-b3cdf79f1bfd",
@@ -28897,20 +28930,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Seismic",
-        "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
-        "title": "Data Engineer 1",
-        "active": true,
-        "date_updated": 1762816263,
-        "date_posted": 1759308681,
-        "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "degrees": []
     },
     {
         "category": "Software Engineering",
@@ -30474,6 +30493,20 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "53bd44b1-ca36-45a5-a3fd-c8377fe45574",
+        "title": "Quantitative Strategy Developer",
+        "active": true,
+        "date_updated": 1763232652,
+        "date_posted": 1757793162,
+        "url": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "degrees": []
     },
     {
         "category": "Product",
@@ -38820,34 +38853,6 @@
         "locations": [
             "Tempe, AZ",
             "Irving, TX"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Anduril",
-        "id": "553a1a10-f1b3-4959-8c01-70ce3c671955",
-        "title": "Electronics Technician",
-        "active": true,
-        "date_updated": 1762992391,
-        "date_posted": 1747438854,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4737743007",
-        "locations": [
-            "Rhode Island"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Occidental Petroleum",
-        "id": "f3c8d039-bf58-4136-b9fe-f59e6ffb8e39",
-        "title": "Maintenance Planning Tech",
-        "active": true,
-        "date_updated": 1747423879,
-        "date_posted": 1747423879,
-        "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/Platteville-Colorado/Maintenance-Planning-Tech_JR102869",
-        "locations": [
-            "Fort Lupton, CO"
         ],
         "degrees": []
     }
