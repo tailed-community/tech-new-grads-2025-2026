@@ -2,14 +2,98 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "4869100d-6ce6-4ba4-b475-9c1336088f1c",
+        "id": "75567918-83ac-483b-b83b-bb02c3b337fa",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769987517,
+        "date_posted": 1769987517,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047865",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6d0e6d78-0f2c-43f7-b45a-f42bfc0e1d34",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769987508,
+        "date_posted": 1769987508,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047857",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "586d68ab-687d-4251-ab8b-aa2dbfed632d",
         "title": "Trading Assistant",
         "active": true,
-        "date_updated": 1769901089,
-        "date_posted": 1769901089,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047782",
+        "date_updated": 1769987497,
+        "date_posted": 1769987497,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047861",
         "locations": [
-            "Cambridge, UK"
+            "Blackpool, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "eea95e58-b209-44d9-8927-e7f12b9e7d5a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769987491,
+        "date_posted": 1769987491,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047858",
+        "locations": [
+            "United Kingdom"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "69778df0-f6f9-4467-ad57-b96f26f566a3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769987479,
+        "date_posted": 1769987479,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047864",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "89f2670a-3fb7-4b47-a4d4-6178422ce00f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769958684,
+        "date_posted": 1769958684,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047836",
+        "locations": [
+            "Hereford, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f2bef836-f430-4ba6-8d39-875711810196",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769958659,
+        "date_posted": 1769958659,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047839",
+        "locations": [
+            "Hereford, UK"
         ],
         "degrees": []
     },
@@ -30,48 +114,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "d98ae0cd-74d1-4c35-8624-c6f9084b80f8",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1769901080,
-        "date_posted": 1769901080,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047803",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "952cc8f3-5f84-42cb-a468-981b9ef7f3da",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1769901077,
-        "date_posted": 1769901077,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047780",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d56aa71e-a62a-4037-a3c1-2ee36f4f2bdc",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1769901072,
-        "date_posted": 1769901072,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047804",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "ee40e23e-e2cc-4ff6-b7b4-f114e6908d95",
         "title": "Trading Assistant",
         "active": true,
@@ -80,20 +122,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047787",
         "locations": [
             "Edinburgh, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f68d668a-af59-473a-b108-9866750805f6",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1769872353,
-        "date_posted": 1769872353,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047755",
-        "locations": [
-            "Portadown, Craigavon, UK"
         ],
         "degrees": []
     },
@@ -142,22 +170,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "NextEra Energy",
-        "id": "eb4cc09a-4ac0-47ae-9ef8-275dec3d3165",
-        "title": "Associate Data Scientist",
-        "active": true,
-        "date_updated": 1769857824,
-        "date_posted": 1769857824,
-        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-Data-Scientist-FL-33408/1360699900/?ats=successfactors",
-        "locations": [
-            "Palm Beach Gardens, FL"
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -314,24 +326,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Centene",
-        "id": "25618cdb-e39c-4f82-b577-66303a6aeb9e",
-        "title": "Enterprise Platforms Product Manager",
-        "active": true,
-        "date_updated": 1769826618,
-        "date_posted": 1769826618,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Enterprise-Platforms-Product-Manager_1627585",
-        "locations": [
-            "North Carolina",
-            "Missouri",
-            "Illinois"
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -1079,34 +1073,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "0ad330f2-f3cd-46bc-948d-066b279b6834",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1769814761,
-        "date_posted": 1769814761,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047698",
-        "locations": [
-            "Durham, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d56efc9f-28b7-4be5-9b0b-7041961e369d",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1769814750,
-        "date_posted": 1769814750,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047699",
-        "locations": [
-            "Durham, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "7389557f-fc2c-4c14-828f-a7591768eed3",
         "title": "Trading Assistant - Shift",
         "active": true,
@@ -1409,22 +1375,6 @@
             "Florence, KY"
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Ameren",
-        "id": "e3f89d61-1e1c-4a15-83d5-6ffc30533a07",
-        "title": "Senior Data Analyst - Associate - Data Analyst",
-        "active": true,
-        "date_updated": 1769757953,
-        "date_posted": 1769757953,
-        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Collinsville-IL/Data-Analyst--Associate--Data-Analyst--Senior-_032302",
-        "locations": [
-            "Collinsville, IL"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -2353,51 +2303,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "General Dynamics",
-        "id": "ef97f792-c91b-44ae-95d0-ed997319c726",
-        "title": "Integrated Communications Systems Engineer",
-        "active": true,
-        "date_updated": 1769728414,
-        "date_posted": 1769728414,
-        "url": "https://careers-gdeb.icims.com/jobs/16147/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7b6f9551-7118-4d22-9be3-477191c97316",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1769728385,
-        "date_posted": 1769728385,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047550",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "32eafd6c-ae19-4666-a1e2-c6e3213fd917",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1769728384,
-        "date_posted": 1769728384,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047578",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "6155b253-f05e-445c-b3e5-9109fe7391ff",
@@ -2864,23 +2769,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "55515f05-f170-4987-a265-ba377eb44b64",
-        "title": "Software Development Engineer 1 - Front End",
-        "active": true,
-        "date_updated": 1769689751,
-        "date_posted": 1769689751,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-99742-2",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -3588,20 +3476,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Clay",
-        "id": "291c93ed-5b14-4d0a-ae2b-0aaa990cefee",
-        "title": "GTM Data Scientist",
-        "active": true,
-        "date_updated": 1769642298,
-        "date_posted": 1769642298,
-        "url": "https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03/application",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -4497,22 +4371,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "7f060903-7cfe-48a8-b2bb-369a2220e426",
-        "title": "Engineering Associate - Middleware & Automation",
-        "active": true,
-        "date_updated": 1769556682,
-        "date_posted": 1769556682,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Middleware---Automation_R-517729-1",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "RELX",
         "id": "9334dac6-9443-4ba0-a940-1cb43a2d2440",
@@ -5207,6 +5065,27 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "308d4901-8497-4a65-98ec-751aba307b19",
+        "title": "Applied Researcher 1 - Multi-agent Systems - Knowledge Graphs/Graphrag/Graph-of-Thought / Got",
+        "active": true,
+        "date_updated": 1769471604,
+        "date_posted": 1769471604,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--Multi-agent-Systems--Knowledge-Graphs-GraphRAG-Graph-of-Thought---GoT--MCP--LangGraph--Agent-Protocols-_R234367",
+        "locations": [
+            "Cambridge, MA",
+            "SF",
+            "San Jose, CA",
+            "McLean, VA",
+            "NYC"
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -7734,6 +7613,22 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "a2b22bf8-6138-427a-b797-486f4ec81592",
+        "title": "Research Scientist – PhD New College Grad 2026 - Human‑AI Perception and Interaction Research",
+        "active": true,
+        "date_updated": 1769048780,
+        "date_posted": 1769048780,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "PhD"
         ]
     },
     {
@@ -12226,20 +12121,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Mondelez International",
-        "id": "fbf78054-74b5-40a4-886a-94087ca4e192",
-        "title": "Innovation Assistant - Grenade",
-        "active": true,
-        "date_updated": 1768908020,
-        "date_posted": 1768260310,
-        "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Innovation-Executive---Grenade_R-157098",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Bank of Montreal",
         "id": "5558b06f-abdf-4b7b-b2b7-a53f2749d7e0",
@@ -15112,20 +14993,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Sherwin-Williams",
-        "id": "fb8b980a-c7b6-4de5-89d2-81b2d186e7a1",
-        "title": "Spray Equipment Repairer",
-        "active": true,
-        "date_updated": 1767655494,
-        "date_posted": 1767655494,
-        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600151",
-        "locations": [
-            "Pensacola, FL"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Dell Technologies",
         "id": "8bc324e5-0b85-4e45-bfc6-29dcf1fba9bc",
@@ -17903,20 +17770,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210678649",
         "locations": [
             "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "8de22862-f383-4ebe-bfaf-badf9b70fa72",
-        "title": "Graduate Systems Engineer - Gdp - September 2026 Start",
-        "active": true,
-        "date_updated": 1765988349,
-        "date_posted": 1765988349,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR01Harlow-Essex-Kao-One-Kao-Park-Harlow-CM17-9NA/Graduate-Systems-Engineer--GDP---September-2026-Start-_01809747",
-        "locations": [
-            "Harlow, UK"
         ],
         "degrees": []
     },
@@ -31634,6 +31487,20 @@
         "locations": [
             "Fredericksburg, VA",
             "Dahlgren, VA"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "26f366b0-ec19-4937-ba07-4b0753ac432e",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1761501628,
+        "date_posted": 1761501628,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---Machine-Learning-in-High-Energy-Physics-Detector-Operations_421270",
+        "locations": [
+            "Woodridge, IL"
         ],
         "degrees": []
     },
