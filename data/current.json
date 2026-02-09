@@ -2,28 +2,122 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "830700da-299b-4f3c-8370-bddeea8eaeb4",
+        "id": "e73a030c-060b-43f5-b342-cb2036db54da",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770592309,
+        "date_posted": 1770592309,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048721",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "LinkedIn",
+        "id": "19b9e8d0-9bcc-4b8d-8465-b3f7b7c9166c",
+        "title": "Software Engineer - Frontend - Media SDK Team",
+        "active": true,
+        "date_updated": 1770592083,
+        "date_posted": 1770592083,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000108014435",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "fb32e50b-7225-45b6-a968-376a5592570a",
+        "title": "Product Functional Test Technology Engineer",
+        "active": true,
+        "date_updated": 1770592074,
+        "date_posted": 1770592074,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420156",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ee54bbc0-3233-4628-8294-8c7648a1258f",
         "title": "Trading Assistant",
         "active": true,
-        "date_updated": 1770505990,
-        "date_posted": 1770505990,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048646",
+        "date_updated": 1770563511,
+        "date_posted": 1770563511,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048635",
         "locations": [
-            "Tunbridge Wells, UK"
+            "East Midlands, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "901f951f-7dc0-4383-a0c8-22481843805e",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1770536638,
+        "date_posted": 1770536638,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Software-Developer_RQ214333",
+        "locations": [
+            "Reston, VA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Vanderbilt Health",
+        "id": "3e3fdc0c-7f98-4dab-b27c-b7edaf11c3c3",
+        "title": "Associate Product Manager - Clinical Engineering Products",
+        "active": true,
+        "date_updated": 1770536205,
+        "date_posted": 1770536205,
+        "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Associate-Product-Manager---Clinical-Engineering-Products--Local---Hybrid-_R-53972-2",
+        "locations": [
+            "Nashville, TN"
         ],
         "degrees": []
     },
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "9e3509d5-2a8d-4da9-b69b-313335845ee2",
-        "title": "Trading Assistant",
+        "id": "09f85471-7bae-42ab-9371-7a9ac6b047ca",
+        "title": "Trading Assistant - Shift",
         "active": true,
-        "date_updated": 1770505988,
-        "date_posted": 1770505988,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048639",
+        "date_updated": 1770534681,
+        "date_posted": 1770534681,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048665",
         "locations": [
             "Cambridge, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "efabd73c-54fb-466b-8c36-76baed22c320",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770516697,
+        "date_posted": 1770516697,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048666",
+        "locations": [
+            "Manchester, UK"
         ],
         "degrees": []
     },
@@ -71,34 +165,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a6482392-3b2d-4e14-ab77-caf42e733c44",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1770460563,
-        "date_posted": 1770460563,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048564",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e7936394-46c4-4bd4-8151-66ab482d1bc1",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1770430201,
-        "date_posted": 1770430201,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048556",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -665,20 +731,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "db06ab87-8432-4aad-b44f-da12efdb556a",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1770419682,
-        "date_posted": 1770419682,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048550",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Jerry",
         "id": "161ba6df-2f66-4dd7-8037-d7675a4b090a",
@@ -788,34 +840,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "474e34a0-ff61-4411-9992-58a5507a7153",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1770419430,
-        "date_posted": 1770419430,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048555",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "796386b1-1a5a-4da7-8a98-b0aa8e7a75af",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1770419429,
-        "date_posted": 1770419429,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048554",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -1134,20 +1158,6 @@
         "degrees": []
     },
     {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "212bb317-a161-4841-b96a-02e489dc6382",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1770390641,
-        "date_posted": 1770390641,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048507",
-        "locations": [
-            "United Kingdom"
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "DNV",
         "id": "0ff2f5ff-5b01-43fe-9183-a880199d0c63",
@@ -1369,6 +1379,22 @@
     },
     {
         "category": "Hardware",
+        "company_name": "Snap",
+        "id": "effb419f-75ca-46b2-aefd-41eb27a6d8b1",
+        "title": "Embedded Software Engineer - Level 3",
+        "active": true,
+        "date_updated": 1770344626,
+        "date_posted": 1770344626,
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/San-Diego-California/Embedded-Software-Engineer--Level-3_R0044475-1",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
         "company_name": "EOS IT Solutions",
         "id": "3d0043f4-4f63-4e40-84c1-534d94e09938",
         "title": "CST-AV Technician",
@@ -1380,23 +1406,6 @@
             "NYC"
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "USAA",
-        "id": "4212aee2-c968-4286-9eb1-cb5b70bfa2e1",
-        "title": "Kafka Software Engineer Entry Level",
-        "active": true,
-        "date_updated": 1770343803,
-        "date_posted": 1770343803,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Kafka-Software-Engineer-Entry-Level_R0114747",
-        "locations": [
-            "Plano, TX",
-            "San Antonio, TX"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Quant",
@@ -1411,6 +1420,22 @@
             "Kelso, UK"
         ],
         "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "8a8a1aa0-ab34-451b-b414-5bbfc0f083ca",
+        "title": "Manufacturing Specialist",
+        "active": true,
+        "date_updated": 1770544491,
+        "date_posted": 1770343726,
+        "url": "https://careers-gdms.icims.com/jobs/70715/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "degrees": [
+            "Associate's"
+        ]
     },
     {
         "category": "Software",
@@ -4870,24 +4895,6 @@
         "date_updated": 1770133701,
         "date_posted": 1770133701,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056680",
-        "locations": [
-            "Cambridge, MA",
-            "Ambler, PA",
-            "High Wycombe, UK"
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "fb66b7b0-2b71-489d-b4f4-a4cb86db1d4e",
-        "title": "Postdoctoral Researcher Omics & Multimodal Data Integration",
-        "active": true,
-        "date_updated": 1770209669,
-        "date_posted": 1770133693,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Postdoctoral-Researcher-Omics---Multimodal-Data-Integration--R-D-Neuroscience-Data-Science---Digital-Health_R-056279-1",
         "locations": [
             "Cambridge, MA",
             "Ambler, PA",
@@ -13672,20 +13679,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "aa5e7214-a338-40ca-9202-c3be01386467",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1768691580,
-        "date_posted": 1768691580,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046244",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "FOX",
         "id": "284b7bb3-6b91-445c-beb4-de0b686076b5",
@@ -15382,24 +15375,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "afea1137-cb1c-4c05-b769-a67e837ccec7",
-        "title": "Solumina iSeries Software Developer",
-        "active": true,
-        "date_updated": 1768347203,
-        "date_posted": 1768347203,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Unknown-City/Solumina-iSeries-Software-Developer-2-3_R10218870",
-        "locations": [
-            "Maryland",
-            "Arizona"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -29901,6 +29876,20 @@
     },
     {
         "category": "Software",
+        "company_name": "Amazon",
+        "id": "c2821a6e-4442-4bcc-b484-dd143af28dfe",
+        "title": "System Development Engineer - Analytics Amazon Dedicated Cloud - Adc",
+        "active": true,
+        "date_updated": 1770542497,
+        "date_posted": 1761978284,
+        "url": "https://amazon.jobs/en/jobs/3117599/system-development-engineer-analytics-amazon-dedicated-cloud-adc",
+        "locations": [
+            "Denver, CO"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
         "company_name": "Relativity Space",
         "id": "a7362af4-64e0-4965-913f-07b77fec304a",
         "title": "GNC Simulation Engineer 1",
@@ -43874,6 +43863,20 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Welocalize",
+        "id": "350cfdb9-8982-41e4-8e05-f3f740c15a6e",
+        "title": "Scout Search Quality Rater - English - UK",
+        "active": true,
+        "date_updated": 1750308242,
+        "date_posted": 1750308242,
+        "url": "https://jobs.lever.co/welocalize/70522b25-5543-4fa1-a511-158e27a64386/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
         "id": "7e002038-b321-49a1-852b-0c65e1db736a",
         "title": "Scout Search Quality Rater",
         "active": true,
@@ -44054,20 +44057,6 @@
         "url": "https://jobs.ashbyhq.com/omnea/425759c7-c2d6-4dcd-b04a-3dc27c4a3c10/application",
         "locations": [
             "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Postman",
-        "id": "049837ed-d6d4-4307-bef8-03700d3cf595",
-        "title": "Forward Deployed Engineer",
-        "active": true,
-        "date_updated": 1757554835,
-        "date_posted": 1749786010,
-        "url": "https://job-boards.greenhouse.io/postman/jobs/6535743003",
-        "locations": [
-            "SF"
         ],
         "degrees": []
     }
