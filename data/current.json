@@ -1,5 +1,128 @@
 [
     {
+        "category": "Product",
+        "company_name": "Milwaukee Tool",
+        "id": "85f0b038-8701-454d-b49e-017d59e73c72",
+        "title": "Product Owner",
+        "active": true,
+        "date_updated": 1772850756,
+        "date_posted": 1772850756,
+        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/Product-Owner_R71452",
+        "locations": [
+            "Menomonee Falls, WI"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "805f81b4-b6dd-4279-b384-4d0dbfbbb72b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1772850313,
+        "date_posted": 1772850313,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7651606003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Cincinnati Children’s Hospital and Medical Center",
+        "id": "36034137-c316-4e39-a93a-13a366a039f6",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1772850146,
+        "date_posted": 1772850146,
+        "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Business-Intelligence-Analyst_JR218015",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "dfaa88aa-6867-4a2f-8366-394931fe87ea",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772849764,
+        "date_posted": 1772849764,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052295",
+        "locations": [
+            "Letchworth Garden City, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "2452a9b1-23dd-46e5-aab8-3bdda63623e0",
+        "title": "Data Center Repair Technician",
+        "active": true,
+        "date_updated": 1772849651,
+        "date_posted": 1772849651,
+        "url": "https://eosits.com/company/careers/?gh_jid=8453113002",
+        "locations": [
+            "Bowling Green, OH"
+        ],
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d9edb080-016d-4478-bea1-61b2a8265eb2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1772849370,
+        "date_posted": 1772849370,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052296",
+        "locations": [
+            "Bolton, UK"
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Neuralink",
+        "id": "eb88db8a-82d4-4711-88a2-6aa3bf0891d3",
+        "title": "Software Engineer - Pathology and Digital Imaging",
+        "active": true,
+        "date_updated": 1772849210,
+        "date_posted": 1772849210,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/7656401003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Woongjin",
+        "id": "12f9b72f-acc7-412d-8bb2-5a2e9d1a972e",
+        "title": "Java Developer",
+        "active": true,
+        "date_updated": 1772849082,
+        "date_posted": 1772849082,
+        "url": "https://jobs.smartrecruiters.com/WJCompany/744000113287272",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Amentum",
         "id": "d0e60d55-d698-4726-bb58-19f1d05f8d25",
@@ -1503,24 +1626,6 @@
         "url": "https://careers-melaleuca.icims.com/jobs/9067/job?mobile=true&needsRedirect=false",
         "locations": [
             "Idaho Falls, ID"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "fc030413-0f4d-4449-8e6a-76dc6a366e10",
-        "title": "Associate AI Software Developer",
-        "active": true,
-        "date_updated": 1772756738,
-        "date_posted": 1772756738,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-AI-Software-Developer_R-00177628",
-        "locations": [
-            "Eagan, MN",
-            "Gaithersburg, MD",
-            "Egg Harbor Township, NJ"
         ],
         "degrees": [
             "Bachelor's"
@@ -6575,20 +6680,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5546efef-4437-45b1-9c87-e989643440d4",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1772464285,
-        "date_posted": 1772464285,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051608",
-        "locations": [
-            "United Kingdom"
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -16542,21 +16633,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "2020 Companies",
-        "id": "8d8681bb-f9e9-4272-bb94-6415bd5b759a",
-        "title": "Android Sales Expert",
-        "active": true,
-        "date_updated": 1771456943,
-        "date_posted": 1771456943,
-        "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Springfield-Gardens-NY/Android-Sales-Expert_REQ_099301",
-        "locations": [
-            "Queens, NY",
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Creation Technologies",
         "id": "d63eedf5-8718-4b0b-80b2-b59131b25b5b",
@@ -20309,22 +20385,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "IEM",
-        "id": "05593cfc-a9e3-4f81-8bd6-57bbd3a99311",
-        "title": "Engineering Administrator",
-        "active": true,
-        "date_updated": 1770776887,
-        "date_posted": 1770766297,
-        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4129298009",
-        "locations": [
-            "Tualatin, OR"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "KLA",
         "id": "5d2a6066-104d-4c60-9e65-392f017338ad",
         "title": "Systems Software Engineer - Object Oriented - Data Analysis",
@@ -24039,23 +24099,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Rubrik",
-        "id": "09adbde2-9a6b-4acf-a827-0b85f9cdad2a",
-        "title": "Software Engineer - Cloud Unstructured",
-        "active": true,
-        "date_updated": 1770075344,
-        "date_posted": 1770075344,
-        "url": "https://www.rubrik.com/company/careers/departments/job.7576661?gh_jid=7576661",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "EOS IT Solutions",
         "id": "25c579ac-8f2c-4d8c-bbe6-ad334fb1b441",
@@ -24102,23 +24145,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "BlackRock",
-        "id": "7624e113-cdf6-4e17-aa86-5dd806000b9b",
-        "title": "Java Engineer - Analyst/Associate",
-        "active": true,
-        "date_updated": 1770074566,
-        "date_posted": 1770074566,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Java-Engineer--Analyst-Associate_R260487",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "DV Trading",
         "id": "1c9478ab-b426-4f4f-ae44-5766bc9dde25",
@@ -24133,22 +24159,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Cox",
-        "id": "3eef765d-9505-405a-88d1-f527002c9c9f",
-        "title": "Product Manager 1",
-        "active": true,
-        "date_updated": 1770074501,
-        "date_posted": 1770074501,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-I_R202672840",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -27653,22 +27663,6 @@
             "Billerica, MA"
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "IEM",
-        "id": "1ed447b8-327d-45cc-937d-8a1dd396f38b",
-        "title": "Engineering Administrator",
-        "active": true,
-        "date_updated": 1769028695,
-        "date_posted": 1769028695,
-        "url": "https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4109427009",
-        "locations": [
-            "Surrey, BC, Canada"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Hardware",
@@ -35065,20 +35059,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "24e6a0fd-67b2-417b-a2de-1a28d44898e5",
-        "title": "Associate / Engineer Systems Architect",
-        "active": true,
-        "date_updated": 1763898775,
-        "date_posted": 1763898775,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate---Engineer-Systems-Architect_R10213736",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
         "company_name": "Teledyne",
         "id": "f4ed971e-a6be-4189-bc0a-a2e7a4db1c5f",
         "title": "Electronics Technician",
@@ -38905,20 +38885,6 @@
         "date_updated": 1761906122,
         "date_posted": 1761906122,
         "url": "https://lifeattiktok.com/search/7541512820980418824",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "ecca3720-1638-4af3-8e14-0066cf1aeb89",
-        "title": "Graduate Algorithm Engineer - Intelligent Multimedia Streaming Strategy - Bachelor of Science/Master of Science",
-        "active": true,
-        "date_updated": 1762921289,
-        "date_posted": 1761902916,
-        "url": "https://lifeattiktok.com/search/7543781253578836242",
         "locations": [
             "San Jose, CA"
         ],
@@ -44746,6 +44712,23 @@
         "degrees": []
     },
     {
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "d8d3887c-f0f5-45e9-af46-6c289c90d27f",
+        "title": "MBA University Graduate - Product Manager",
+        "active": true,
+        "date_updated": 1758358426,
+        "date_posted": 1756434231,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-MBA-University-Graduate---Product-Manager_R158962",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "2c3dbd28-678e-4dcb-aadf-f67d3c4f3b1d",
@@ -49975,33 +49958,5 @@
             "New York, NY"
         ],
         "degrees": null
-    },
-    {
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "94833978-b3da-4d7b-8fe2-21b1ddeb9abe",
-        "title": "Quantitative Trader",
-        "active": true,
-        "date_updated": 1752187824,
-        "date_posted": 1752187824,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8070482002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "d45ab101-255d-4a8e-b0ad-917ad0a1cc88",
-        "title": "Linux Engineer",
-        "active": true,
-        "date_updated": 1752162381,
-        "date_posted": 1752162381,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
     }
 ]
