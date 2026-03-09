@@ -1757,6 +1757,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Caesars Entertainment | Salesforce Engineer 1 | Las Vegas, NV | 2026-01-21 | [Apply Here](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/78686) |
 | Daifuku | Installation Quality Control Specialist 1 | Woodridge, IL | 2026-01-21 | [Apply Here](https://careers-daifuku-america.icims.com/jobs/20949/job?mobile=true&needsRedirect=false) |
 | Sainsbury's | Associate Analyst - Digital Analytics | London, UK | 2026-01-21 | [Apply Here](https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046538) |
+| Citadel Securities | Quantitative Researcher – PhD Graduate - Europe | Paris, France, London, UK | 2026-01-21 | [Apply Here](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/) |
 | DXC Technology | Associate Professional Application Programmer | Waterbury, CT | 2026-01-20 | [Apply Here](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Associate-Professional-Application-Programmer_51569293) |
 | Akima | Electronics Technician 1 - Non-Travel | Oklahoma City, OK | 2026-01-20 | [Apply Here](https://careers.akima.com/jobs/21139?lang=en-us&icims=1) |
 | JP Morgan Chase | Product Solutions Associate - GenAI Specialist | London, UK | 2026-01-20 | [Apply Here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682522) |
@@ -2571,6 +2572,7 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Nuro | Software Engineer – New Grad - AI Platform | Mountain View, CA | 2025-10-31 | [Apply Here](https://nuro.ai/careersitem?gh_jid=7351066) |
 | Red Ventures | Associate Data Science Product Manager | Charlotte, NC | 2025-10-31 | [Apply Here](https://www.redventures.com/careers/positions/open?gh_jid=7279145) |
 | Scientific Games | Field Service Tech - Farmington | Farmington, NM | 2025-10-31 | [Apply Here](https://sglottery.wd5.myworkdayjobs.com/ScientificGamesExternalCareers/job/Farmington-NM/Field-Service-Tech-I--Farmington_R503552) |
+| Citadel Securities | Software Engineer – University Graduate - US | Miami, FL, NYC | 2025-10-31 | [Apply Here](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
 | University of Texas - Austin | Postdoctoral Fellow | Austin, TX | 2025-10-31 | [Apply Here](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow_R_00029113) |
 | Veeva Systems | Associate Software Engineer in Test | Pleasanton, CA | 2025-10-31 | [Apply Here](https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply) |
 | WTW | Early Careers: Investment Analyst - Multiple Locations - 2026 | Tampa, FL, Philadelphia, PA, Chicago, IL, Pittsburgh, PA, NYC, Atlanta, GA | 2025-10-31 | [Apply Here](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs/job/202506183) |
@@ -3233,16 +3235,3 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | Path Robotics | Hardware Technician | Columbus, OH | 2025-07-15 | [Apply Here](https://boards.greenhouse.io/pathrobotics/jobs/8042872002) |
 | DRW | Quantitative Trading Analyst | London, UK | 2025-07-14 | [Apply Here](https://job-boards.greenhouse.io/drweng/jobs/6987086) |
 | Akuna Capital | Junior Quantitative Developer & Strategist | Chicago, IL | 2025-07-14 | [Apply Here](https://www.akunacapital.com/job-details?gh_jid=7063563) |
-| Black Canyon Consulting | Software Developer | Bethesda, MD | 2025-07-11 | [Apply Here](https://job-boards.greenhouse.io/bcc/jobs/5880038003) |
-| Engineering Economics | Data Center Mission Critical Commissioning Agent - Electrical & Mechanical | Columbus, OH | 2025-07-11 | [Apply Here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2527427) |
-| Engineering Economics | Data Center Mission Critical Commissioning Agent - Electrical & Mechanical | Washington, DC | 2025-07-11 | [Apply Here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2527589) |
-| Engineering Economics | Data Center Mission Critical Commissioning Agent - Electrical & Mechanical | South Bend, IN | 2025-07-11 | [Apply Here](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2643642) |
-| Citadel Securities | Quantitative Research Analyst – University Graduate | London, UK, Paris, France, Dublin, Ireland | 2025-07-11 | [Apply Here](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/) |
-| Citadel | Quantitative Research Analyst – University Graduate | London, UK, Paris, France, Dublin, Ireland | 2025-07-11 | [Apply Here](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/) |
-| Citadel Securities | Software Engineer – University Graduate | Miami, FL, New York, NY | 2025-07-11 | [Apply Here](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |
-| Citadel Securities | Quantitative Research Analyst – University Graduate | Miami, FL, New York, NY | 2025-07-11 | [Apply Here](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/) |
-| Citadel | Quantitative Research Analyst – University Graduate - US | Miami, FL, NYC | 2025-07-11 | [Apply Here](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) |
-| Citadel Securities | Quantitative Researcher – PhD Graduate - Europe | London, UK, Paris, France | 2025-07-11 | [Apply Here](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/) |
-| Citadel | Quantitative Researcher – PhD Graduate | Miami, FL, NYC | 2025-07-11 | [Apply Here](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) |
-| Citadel | Quantitative Research Engineer – PhD Graduate - US | Miami, FL, NYC | 2025-07-11 | [Apply Here](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/) |
-| Citadel | Quantitative Research Engineer – University Graduate | Miami, FL, New York, NY | 2025-07-11 | [Apply Here](https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/) |

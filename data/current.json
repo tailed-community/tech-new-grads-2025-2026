@@ -27988,6 +27988,23 @@
         "degrees": []
     },
     {
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
+        "title": "Quantitative Researcher – PhD Graduate - Europe",
+        "active": true,
+        "date_updated": 1768955568,
+        "date_posted": 1768955568,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+        "locations": [
+            "Paris, France",
+            "London, UK"
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "DXC Technology",
         "id": "293a8026-0188-4705-90d9-8930bd3548e8",
@@ -40087,6 +40104,25 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "Citadel Securities",
+        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
+        "title": "Software Engineer – University Graduate - US",
+        "active": true,
+        "date_updated": 1764581908,
+        "date_posted": 1761871128,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "University of Texas - Austin",
         "id": "e059fefc-56b5-48ec-b344-128320c0bb7a",
@@ -49760,202 +49796,6 @@
         "url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
         "locations": [
             "Chicago, IL"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "Black Canyon Consulting",
-        "id": "e176141a-6fbd-427c-ba94-6ea00aa16620",
-        "title": "Software Developer",
-        "active": true,
-        "date_updated": 1752214415,
-        "date_posted": 1752214415,
-        "url": "https://job-boards.greenhouse.io/bcc/jobs/5880038003",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Engineering Economics",
-        "id": "81d52a8f-1d96-4215-8dac-26650bc86326",
-        "title": "Data Center Mission Critical Commissioning Agent - Electrical & Mechanical",
-        "active": true,
-        "date_updated": 1752198228,
-        "date_posted": 1752198228,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2527427",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Engineering Economics",
-        "id": "e2559e73-8caa-43db-a5e0-d1a03b6a6409",
-        "title": "Data Center Mission Critical Commissioning Agent - Electrical & Mechanical",
-        "active": true,
-        "date_updated": 1752198227,
-        "date_posted": 1752198227,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2527589",
-        "locations": [
-            "Washington, DC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Engineering Economics",
-        "id": "43fd014c-59c2-48c4-bc41-90fcd49a31c2",
-        "title": "Data Center Mission Critical Commissioning Agent - Electrical & Mechanical",
-        "active": true,
-        "date_updated": 1752198227,
-        "date_posted": 1752198227,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2643642",
-        "locations": [
-            "South Bend, IN"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "79054f04-0e8b-45fb-865d-bc789b4acfe9",
-        "title": "Quantitative Research Analyst – University Graduate",
-        "active": true,
-        "date_updated": 1752196374,
-        "date_posted": 1752196374,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
-        "locations": [
-            "London, UK",
-            "Paris, France",
-            "Dublin, Ireland"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
-        "title": "Quantitative Research Analyst – University Graduate",
-        "active": true,
-        "date_updated": 1755284210,
-        "date_posted": 1752196371,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
-        "locations": [
-            "London, UK",
-            "Paris, France",
-            "Dublin, Ireland"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "Citadel Securities",
-        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
-        "title": "Software Engineer – University Graduate",
-        "active": true,
-        "date_updated": 1755284300,
-        "date_posted": 1752196370,
-        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "9f39417b-65f8-44a7-a1f8-63cce9e90313",
-        "title": "Quantitative Research Analyst – University Graduate",
-        "active": true,
-        "date_updated": 1755268857,
-        "date_posted": 1752196370,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
-        "title": "Quantitative Research Analyst – University Graduate - US",
-        "active": true,
-        "date_updated": 1761857043,
-        "date_posted": 1752196369,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
-        "title": "Quantitative Researcher – PhD Graduate - Europe",
-        "active": true,
-        "date_updated": 1752196368,
-        "date_posted": 1752196368,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "6a5a374d-834e-4bb6-992d-4cc74f3f8e8e",
-        "title": "Quantitative Researcher – PhD Graduate",
-        "active": true,
-        "date_updated": 1761847644,
-        "date_posted": 1752196368,
-        "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "efc32a65-4a70-4386-892a-4d0c83f56292",
-        "title": "Quantitative Research Engineer – PhD Graduate - US",
-        "active": true,
-        "date_updated": 1761860905,
-        "date_posted": 1752196367,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
-        "title": "Quantitative Research Engineer – University Graduate",
-        "active": true,
-        "date_updated": 1755284243,
-        "date_posted": 1752196364,
-        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
         ],
         "degrees": null
     }
