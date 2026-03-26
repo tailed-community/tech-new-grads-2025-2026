@@ -3,6 +3,7 @@ import json
 import datetime
 import shutil
 import os
+from location_normalizer import normalize_locations, validate_location
 
 def scrape_newgrads():
     existing_data = []
@@ -17,6 +18,9 @@ def scrape_newgrads():
     data = response.json()
 
     def normalize_item(item):
+        raw_locations = item.get("locations", []) or []
+        normalized_locations = normalize_locations(raw_locations)
+        normalized_locations = [loc for loc in normalized_locations if validate_location(loc)]
         return {
             "category": item.get("category", ""),
             "company_name": item.get("company_name", ""),
@@ -26,7 +30,8 @@ def scrape_newgrads():
             "date_updated": item.get("date_updated"),
             "date_posted": item.get("date_posted"),
             "url": item.get("url", ""),
-            "locations": item.get("locations", []),
+            "locations": raw_locations,
+            "normalized_locations": normalized_locations,
             "degrees": item.get("degrees", [])
         }
 
@@ -52,6 +57,9 @@ def scrape_newgrads():
     filtered_data = []
     for item in data:
         if item.get("active") and item.get("active") == True:
+            raw_locations = item.get("locations", []) or []
+            normalized_locations = normalize_locations(raw_locations)
+            normalized_locations = [loc for loc in normalized_locations if validate_location(loc)]
             filtered_item = {
                 "category": item.get("category"),
                 "company_name": item.get("company_name"),
@@ -61,7 +69,8 @@ def scrape_newgrads():
                 "date_updated": item.get("date_updated"),
                 "date_posted": item.get("date_posted"),
                 "url": item.get("url"),
-                "locations": item.get("locations"),
+                "locations": raw_locations,
+                "normalized_locations": normalized_locations,
                 "degrees": item.get("degrees")
             }
             filtered_data.append(filtered_item)
