@@ -23,7 +23,6 @@ COUNTRY_ALIAS_TO_CODE = {
     "united states": "US",
     "united states of america": "US",
     "america": "US",
-    "ca": "CA",
     "can": "CA",
     "canada": "CA",
     "uk": "GB",
@@ -101,7 +100,11 @@ def classify_location_type(raw: str) -> str:
 def resolve_country(value: Optional[str]) -> Dict[str, Optional[str]]:
     if not value:
         return {"code": None, "name": None}
-    code = COUNTRY_ALIAS_TO_CODE.get(normalize_text(value))
+    key = normalize_text(value)
+    # "CA" est ambigu (Canada vs California). On n'accepte pas "CA" comme pays sans contexte.
+    if key == "ca":
+        return {"code": None, "name": None}
+    code = COUNTRY_ALIAS_TO_CODE.get(key)
     if not code:
         return {"code": None, "name": None}
     return {"code": code, "name": COUNTRY_CODE_TO_NAME.get(code)}
