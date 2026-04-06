@@ -1,5 +1,21 @@
 [
     {
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "e8d4a37e-6dac-4b25-8b6b-3f517a6a2cd3",
+        "title": "Global Product Support",
+        "active": true,
+        "date_updated": 1775351881,
+        "date_posted": 1775351381,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--early-in-Career-_R2616746-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "e946ab1e-24de-42e1-a623-5a9b45a97d4a",
@@ -26,20 +42,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056225",
         "locations": [
             "Cardiff, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d5a15c4f-9afb-4f2d-8ae8-cdf09ba8eb35",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1775341441,
-        "date_posted": 1775340424,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056231",
-        "locations": [
-            "Leicester, UK"
         ],
         "degrees": []
     },
@@ -96,20 +98,6 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056192",
         "locations": [
             "Nottingham, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4654947b-a29e-496f-bb39-1aa1b0b3fd88",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1775312461,
-        "date_posted": 1775311637,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056160",
-        "locations": [
-            "United Kingdom"
         ],
         "degrees": []
     },
@@ -736,6 +724,23 @@
         "locations": [
             "Washington, DC",
             "Virginia"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "935522eb-70a8-4d7f-abbe-01fa130ab79b",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775383265,
+        "date_posted": 1775295195,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-HC_R4036677-1",
+        "locations": [
+            "Seattle, WA"
         ],
         "degrees": [
             "Bachelor's",
@@ -1527,6 +1532,22 @@
             "Chicago, IL",
             "NYC",
             "Atlanta, GA"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "cebcf839-fa11-4531-9dfa-552df2bae3a8",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1775257781,
+        "date_posted": 1775254232,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer_R-00179976",
+        "locations": [
+            "Huntsville, AL"
         ],
         "degrees": [
             "Bachelor's"
@@ -2331,20 +2352,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "56e9f1b3-9b01-4a5d-9bde-b2491c0409d6",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1775197441,
-        "date_posted": 1775196447,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056060",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "KLA",
         "id": "e25f6dec-98bb-4611-b469-fe415d089405",
@@ -2355,6 +2362,23 @@
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Engineer_2635404",
         "locations": [
             "Ann Arbor, MI"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "34b1d462-b361-4b09-8f3d-7a9f943946be",
+        "title": "Machine Learning Engineer Graduate - Data Search TikTok - BS/MS",
+        "active": true,
+        "date_updated": 1775179261,
+        "date_posted": 1775178840,
+        "url": "https://lifeattiktok.com/search/7533371534829095175",
+        "locations": [
+            "San Jose, CA"
         ],
         "degrees": [
             "Bachelor's",
@@ -3334,20 +3358,6 @@
         "degrees": []
     },
     {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "68399e57-9de5-47ce-a6a5-c37e31cd17ea",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1775110861,
-        "date_posted": 1775110067,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055943",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "GE Healthcare",
         "id": "7dd821db-bbd1-4e35-8fa2-d75c89d87bc6",
@@ -3876,22 +3886,6 @@
         "url": "https://careers.huntingtoningalls.com/job/Pascagoula-ENGINEER-TEST-1-Miss/1378849000/?ats=successfactors",
         "locations": [
             "Biloxi, MS"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TIAA",
-        "id": "84ced990-e812-4d3c-a05c-73f4a8313bb2",
-        "title": "Seismic Marketing Manager",
-        "active": true,
-        "date_updated": 1775084041,
-        "date_posted": 1775081262,
-        "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Virtual-NY-USA/Seismic-Marketing-Manager_R260300601-1",
-        "locations": [
-            "NYC"
         ],
         "degrees": [
             "Bachelor's"
@@ -9952,6 +9946,23 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
+        "title": "Field Engineer 1",
+        "active": true,
+        "date_updated": 1774089409,
+        "date_posted": 1774089409,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
+        "locations": [
+            "Normal, IL"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
         "category": "Product",
         "company_name": "Gartner",
         "id": "fe73fdc7-21d1-45d5-b1f4-e7d30dbe1161",
@@ -12855,6 +12866,22 @@
     },
     {
         "category": "Software",
+        "company_name": "AlphaSights",
+        "id": "0485f920-641d-4c62-b891-89f06d38f531",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1773642029,
+        "date_posted": 1773642029,
+        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
+        "locations": [
+            "London, UK"
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Secureframe",
         "id": "62969ff5-55ea-4213-999d-0154730708f3",
         "title": "Graduate Software Engineer - Product",
@@ -13891,6 +13918,23 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "fddcab17-1476-4ab7-9b29-71e8a89c74d1",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1773365526,
+        "date_posted": 1773365526,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R165849-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -22136,22 +22180,6 @@
         "degrees": []
     },
     {
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "e926f253-86c1-4b6f-9ea6-a9228ce77826",
-        "title": "Associate – Digital Product Management",
-        "active": true,
-        "date_updated": 1771640095,
-        "date_posted": 1771640095,
-        "url": "https://aexp.eightfold.ai/careers/job/40312543",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Cleveland Clinic",
         "id": "acc02593-2ced-40d3-93fc-c5b2d69c5359",
@@ -26722,6 +26750,22 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "ef640b95-0637-40ba-9222-599c4acc1824",
+        "title": "Field Service Engineer 1 - Pcs - Chicago",
+        "active": true,
+        "date_updated": 1770248499,
+        "date_posted": 1770248499,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---PCS---Chicago--IL_R4035432-1",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -43811,301 +43855,5 @@
             "Chicago, IL"
         ],
         "degrees": null
-    },
-    {
-        "category": "Software",
-        "company_name": "AlphaSights",
-        "id": "0485f920-641d-4c62-b891-89f06d38f531",
-        "title": "Graduate Software Engineer",
-        "active": true,
-        "date_updated": 1761834559,
-        "date_posted": 1754680577,
-        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
-        "locations": [
-            "London, UK"
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "TikTok",
-        "id": "35bd50e7-b4b1-465c-baf9-70af0a53e614",
-        "title": "Software Engineer Graduate Social - 2026 Start",
-        "active": true,
-        "date_updated": 1754676794,
-        "date_posted": 1754676794,
-        "url": "https://lifeattiktok.com/search/7532626482364909842?spread=5MWH5CQ",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "TikTok",
-        "id": "c1fe3539-1d8e-4d12-a200-fb863a28c8e4",
-        "title": "Product Security Engineer - Security Assurance",
-        "active": true,
-        "date_updated": 1755082139,
-        "date_posted": 1754676669,
-        "url": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "TikTok",
-        "id": "c7f00278-2abf-40e3-a84f-c6d8fdee9900",
-        "title": "Machine Learning Engineer - Search E-Commerce",
-        "active": true,
-        "date_updated": 1754676325,
-        "date_posted": 1754676325,
-        "url": "https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "TikTok",
-        "id": "90c8a174-8ced-4a23-935a-761dbcc3fea0",
-        "title": "SDET, Software Development Engineer in Test",
-        "active": true,
-        "date_updated": 1754676244,
-        "date_posted": 1754676244,
-        "url": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "NVIDIA",
-        "id": "20e564c1-72f3-4cbb-af1c-91cd9e5e6ea9",
-        "title": "Research Scientist, Robotics Research",
-        "active": true,
-        "date_updated": 1755652010,
-        "date_posted": 1754650390,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Celonis",
-        "id": "c1bda983-4826-4916-b7d0-13de88f2cbe8",
-        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
-        "active": true,
-        "date_updated": 1755282579,
-        "date_posted": 1754650227,
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003",
-        "locations": [
-            "New York, NY"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "Cook Systems",
-        "id": "84ea0eef-b51b-47f6-b7d9-800f3cfb2a0f",
-        "title": "Software Developer",
-        "active": true,
-        "date_updated": 1756942869,
-        "date_posted": 1754649789,
-        "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Emerson",
-        "id": "736ff7fd-9859-482b-b73b-e3b5ffd38452",
-        "title": "Embedded Software Engineer",
-        "active": true,
-        "date_updated": 1755041520,
-        "date_posted": 1754649625,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "Ping Identity",
-        "id": "b85f9a7d-08ab-407f-bed2-9b773c7b5aba",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1759961545,
-        "date_posted": 1754642937,
-        "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
-        "locations": [
-            "Denver, CO"
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Royal Carribean Group",
-        "id": "6e1f2c33-4a57-4f51-a2bb-2cd3de84d5b5",
-        "title": "Associate Engineer, Software",
-        "active": true,
-        "date_updated": 1755045240,
-        "date_posted": 1754642817,
-        "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
-        "locations": [
-            "Miramar, FL"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "Radiance Technologies",
-        "id": "1ea4b748-fd4a-4ddb-a767-f544ed2bbd5b",
-        "title": "Junior Full Stack Software Engineer",
-        "active": true,
-        "date_updated": 1755036485,
-        "date_posted": 1754642427,
-        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "Oracle",
-        "id": "d6ed9b5f-f43b-410d-862c-1efe7b31e131",
-        "title": "Undergrad Software Engineer",
-        "active": true,
-        "date_updated": 1757542935,
-        "date_posted": 1754642341,
-        "url": "https://careers.oracle.com/en/sites/jobsearch/job/304100",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Maxar",
-        "id": "07e3733c-260c-4dc2-8ea5-de5cdcaba9cc",
-        "title": "Forward Deployed Software Engineer I",
-        "active": true,
-        "date_updated": 1757384775,
-        "date_posted": 1754642261,
-        "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1",
-        "locations": [
-            "Herndon, VA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Iowa State University",
-        "id": "b2c3b509-3077-4e43-8818-395c67f30753",
-        "title": "Software Developer I - AI Developer",
-        "active": true,
-        "date_updated": 1755223410,
-        "date_posted": 1754642138,
-        "url": "http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481",
-        "locations": [
-            "Remote, IA"
-        ],
-        "degrees": null
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "e40f133a-71ab-472d-8ef3-4d156379450f",
-        "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start",
-        "active": true,
-        "date_updated": 1761860128,
-        "date_posted": 1754621663,
-        "url": "https://lifeattiktok.com/search/7517105710544161032",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "f624cacf-5cd8-42ea-bc15-38f980bc6e29",
-        "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - 2026 Start - PhD",
-        "active": true,
-        "date_updated": 1761836622,
-        "date_posted": 1754621516,
-        "url": "https://lifeattiktok.com/search/7517106896071903496",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "63b0ab3f-3419-4c66-98d1-4d51309dafb7",
-        "title": "Research Scientist Graduate-CV/NLP/Multimodal LLM - Trust and Safety - San Jose",
-        "active": true,
-        "date_updated": 1761864746,
-        "date_posted": 1754621430,
-        "url": "https://lifeattiktok.com/search/7530772847212644616",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "34b1d462-b361-4b09-8f3d-7a9f943946be",
-        "title": "Engineer Graduate - Machine Learning Engineer Graduate-Data-Search-Tiktok - 2026 Start alternating BS/MS",
-        "active": true,
-        "date_updated": 1762912569,
-        "date_posted": 1754621367,
-        "url": "https://lifeattiktok.com/search/7533371534829095175",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "90b22b32-6d16-4d8f-b7d2-8fcde2cd791d",
-        "title": "Algorithm Developer - Quant Researcher - 2026 Phds",
-        "active": true,
-        "date_updated": 1760269981,
-        "date_posted": 1754618275,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7133986",
-        "locations": [
-            "NYC"
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "5488a260-8a0c-47e9-921d-5bdb5549d63a",
-        "title": "Software Design Assurance Engineer 1 - Engineering - Design Assurance",
-        "active": true,
-        "date_updated": 1758379328,
-        "date_posted": 1754617643,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067367",
-        "locations": [
-            "Maple Grove, MN"
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     }
 ]
