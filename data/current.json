@@ -1,5 +1,212 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "12a3073d-84e3-4183-b08b-112783afb6e2",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1776032830,
+        "date_posted": 1776031743,
+        "url": "https://careers-cotiviti.icims.com/jobs/18853/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e11763b4-d003-467c-b5da-bef9cfc6edb2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776032474,
+        "date_posted": 1776031646,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056986",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Manchester, UK",
+                "normalized": {
+                    "city": "Manchester",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c772d55f-8c61-4c57-ac30-15c772ed0555",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776032474,
+        "date_posted": 1776031646,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056969",
+        "locations": [
+            "York, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "York, UK",
+                "normalized": {
+                    "city": "York",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "26de23a1-d14d-4bba-b447-9745475b28cc",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776003856,
+        "date_posted": 1776002826,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056957",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Brighton, UK",
+                "normalized": {
+                    "city": "Brighton",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "Warner Bros.",
+        "id": "269d6830-ae46-4832-9885-3113813196d0",
+        "title": "NCAA Digital Product Management Post Grad",
+        "active": true,
+        "date_updated": 1775974874,
+        "date_posted": 1775974048,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Post-Grad---Product-Management_R000104539-2",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fb8eb01f-7ad4-4126-bab1-e4a751a844f4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775974874,
+        "date_posted": 1775974030,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056928",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Gloucester, UK",
+                "normalized": {
+                    "city": "Gloucester",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "01787816-8966-4027-a6ce-b97e50dfa2b8",
+        "title": "UiPath Robotic Process Automation Developer Associate",
+        "active": true,
+        "date_updated": 1775975218,
+        "date_posted": 1775973903,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ218022",
+        "locations": [
+            "Shreveport, LA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Shreveport, LA",
+                "normalized": {
+                    "city": "Shreveport",
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "75fa6d5c-d26f-480e-8aae-4aa230d0542e",
@@ -176,35 +383,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "6635fd63-6e46-4246-89c3-ca1054540dd0",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1775946253,
-        "date_posted": 1775945231,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056918",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Harlow, UK",
-                "normalized": {
-                    "city": "Harlow",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "646fea7b-08f3-4a4c-9ca5-5e5f01db62fd",
         "title": "Trading Assistant",
         "active": true,
@@ -263,35 +441,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "878cce86-1805-4d78-9584-c3e591124a97",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1775946253,
-        "date_posted": 1775945231,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056901",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cambridge, UK",
-                "normalized": {
-                    "city": "Cambridge",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "a6740c59-033a-4143-b7b0-a76cf451975a",
         "title": "Trading Assistant",
         "active": true,
@@ -321,35 +470,6 @@
     {
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "a0499443-db3f-4d03-b183-fb2e26c9a0d1",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1775917988,
-        "date_posted": 1775916422,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056865",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Nottingham, UK",
-                "normalized": {
-                    "city": "Nottingham",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "03a57ee3-784b-42ec-b8dc-834726a7b4b6",
         "title": "Trading Assistant",
         "active": true,
@@ -364,35 +484,6 @@
                 "raw": "Nottingham, UK",
                 "normalized": {
                     "city": "Nottingham",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "03040eb1-4ed3-46c9-889f-0c6915a8e512",
-        "title": "Trading Assistant",
-        "active": true,
-        "date_updated": 1775917988,
-        "date_posted": 1775916421,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056870",
-        "locations": [
-            "United Kingdom"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "United Kingdom",
-                "normalized": {
-                    "city": null,
                     "region": null,
                     "region_code": null,
                     "country": "United Kingdom",
@@ -869,6 +960,37 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "f17dac7a-b558-49f1-be6c-2aafd1251eb8",
+        "title": "Computer Science Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1775900714,
+        "date_posted": 1775900665,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Computer-Science-Postdoctoral-Fellow_R1839",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
         ]
     },
     {
@@ -3607,7 +3729,7 @@
     {
         "category": "Product",
         "company_name": "Mattel",
-        "id": "279b1d99-fb33-4227-8404-f54ee93faaf7",
+        "id": "7ef9aa06-16ee-4765-a876-437e7b9bc2b0",
         "title": "Associate Packaging Engineer",
         "active": true,
         "date_updated": 1775785501,
@@ -10117,37 +10239,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "84b6198f-720f-4bfc-a607-0ee4761a5b44",
-        "title": "Software Developer 1",
-        "active": true,
-        "date_updated": 1775542681,
-        "date_posted": 1775542026,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPER-1-Virg/1379799800/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Newport News, VA",
-                "normalized": {
-                    "city": "Newport News",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Thermo Fisher Scientific",
         "id": "5afcf310-2522-4f24-8012-34f2d17df50d",
@@ -11113,37 +11204,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "d1777343-8038-42f8-8889-ca669475b13a",
-        "title": "Electromechanical Engineer 1",
-        "active": true,
-        "date_updated": 1775515741,
-        "date_posted": 1775513254,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-ELECTROMECHANICAL-1-Virg/1379702500/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Newport News, VA",
-                "normalized": {
-                    "city": "Newport News",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b1c2493b-7196-4787-ac44-363e85c59ad7",
@@ -11152,6 +11212,35 @@
         "date_updated": 1775515501,
         "date_posted": 1775513218,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056346",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Crawley, UK",
+                "normalized": {
+                    "city": "Crawley",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5898d9c3-4ff1-459e-817a-2d696bf03f83",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775516941,
+        "date_posted": 1775513218,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056347",
         "locations": [
             "Crawley, UK"
         ],
@@ -11716,35 +11805,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d5a15c4f-9afb-4f2d-8ae8-cdf09ba8eb35",
-        "title": "Trading Assistant - Shift",
-        "active": true,
-        "date_updated": 1775341441,
-        "date_posted": 1775340424,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056231",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Leicester, UK",
-                "normalized": {
-                    "city": "Leicester",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Quant",
@@ -35450,6 +35510,79 @@
         ]
     },
     {
+        "category": "Product",
+        "company_name": "SS&C",
+        "id": "feaa7ea3-be0a-478a-a3d7-a4d3b79f6f55",
+        "title": "Private Markets Senior Product Associate",
+        "active": true,
+        "date_updated": 1775986190,
+        "date_posted": 1773365367,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Chicago-IL/Private-Markets---Senior-Product-Associate--Hybrid--US-Only-_R41559",
+        "locations": [
+            "Boston, MA",
+            "South Orange, NJ",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "South Orange, NJ",
+                "normalized": {
+                    "city": "South Orange",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "TransUnion",
         "id": "f5aedcf5-ba18-4e08-bf0d-5e2c7fcc4232",
@@ -43715,6 +43848,37 @@
                     "country_code": "US"
                 },
                 "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "10de16b2-cf3c-496e-997a-8d3b40e778d7",
+        "title": "Graduate AI Product Manager",
+        "active": true,
+        "date_updated": 1774844986,
+        "date_posted": 1772435739,
+        "url": "https://lifeattiktok.com/search/7537485209698191623",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
             }
@@ -57917,35 +58081,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "752d281f-5581-463b-8c7b-5d218747bb4c",
-        "title": "Conformal Coating Specialist",
-        "active": true,
-        "date_updated": 1770851650,
-        "date_posted": 1770851650,
-        "url": "https://jobs.l3harris.com/job/Camden-Conformal-Coating-Specialist-NJ-08103/1363983700/?ats=successfactors",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -73984,77 +74119,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Cisco",
-        "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
-        "title": "Software Developer 1",
-        "active": true,
-        "date_updated": 1763664416,
-        "date_posted": 1763664416,
-        "url": "https://careers.cisco.com/global/en/job/2001076",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Calgary, AB, Canada",
-            "Kanata, Ottawa, ON, Canada",
-            "Ottawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Montreal, QC, Canada",
-                "normalized": {
-                    "city": "Montréal",
-                    "region": "Quebec",
-                    "region_code": "QC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Kanata, Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Kanata",
-                    "region": "Ottawa",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Ottawa, ON, Canada",
-                "normalized": {
-                    "city": "Ottawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Lightfield",
         "id": "741d8e02-7115-446e-a53f-21eda887c7e0",
         "title": "AI Product Engineer – New Grad",
@@ -74531,35 +74595,6 @@
                     "region_code": null,
                     "country": "United Kingdom",
                     "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Apple",
-        "id": "d82b22f9-83b0-415c-90c6-39be9aa6b6fb",
-        "title": "Formal Verification Engineer",
-        "active": true,
-        "date_updated": 1763514186,
-        "date_posted": 1763514186,
-        "url": "https://jobs.apple.com/en-us/details/200593173",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -81837,38 +81872,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1760765120,
-        "date_posted": 1760765120,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "Software",
@@ -91944,630 +91947,5 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "10de16b2-cf3c-496e-997a-8d3b40e778d7",
-        "title": "AI Product Manager Graduate - Creative and Brand Innovation - 2026 Start",
-        "active": true,
-        "date_updated": 1755303675,
-        "date_posted": 1755303675,
-        "url": "https://lifeattiktok.com/search/7537485209698191623",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "f17dac7a-b558-49f1-be6c-2aafd1251eb8",
-        "title": "Computer Science Postdoctoral Fellow",
-        "active": true,
-        "date_updated": 1755300908,
-        "date_posted": 1755300908,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Computer-Science-Postdoctoral-Fellow_R1839",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "9c03c1e7-58c8-4b45-87a9-1aca08b9be93",
-        "title": "Entry Level Business/Data Analyst",
-        "active": true,
-        "date_updated": 1755299259,
-        "date_posted": 1755299259,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/83931014",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Fremont, CA",
-                "normalized": {
-                    "city": "Fremont",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "2639b68f-6578-42ec-84d1-568dd8add503",
-        "title": "PPM Data Scientist/Statistician 1 - WA",
-        "active": true,
-        "date_updated": 1762909362,
-        "date_posted": 1755298399,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999692260593",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Shield AI",
-        "id": "994496ce-b5a7-4e69-a9eb-b70c6f001308",
-        "title": "Senior Engineer - Autonomy - Tactical Behaviors",
-        "active": true,
-        "date_updated": 1775555821,
-        "date_posted": 1755295103,
-        "url": "https://jobs.lever.co/shieldai/1af75b70-43ff-457b-858b-2935e7c8983a/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "NRG Energy",
-        "id": "2744a8e1-bcd8-43bf-850a-50d04edd1097",
-        "title": "Direct-To-Home-Full Time Installation Technician - Plano - TX",
-        "active": true,
-        "date_updated": 1755293597,
-        "date_posted": 1755293597,
-        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Plano-Direct-To-Home-Full-Time-Installation-Technician-Plano,-TX-TX-75074/1292426500/?ats=successfactors",
-        "locations": [
-            "Plano, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Plano, TX",
-                "normalized": {
-                    "city": "Plano",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Prosidian Consulting",
-        "id": "1d89ddd4-e67a-4ea8-bea4-aff029652d63",
-        "title": "Geospatial Web App Developer 1",
-        "active": true,
-        "date_updated": 1762908899,
-        "date_posted": 1755291959,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979193873",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Salt Lake City, UT",
-                "normalized": {
-                    "city": "Salt Lake City",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Choice Hotels",
-        "id": "3f0f5467-e6ba-4022-827d-b00079622b4e",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1755700545,
-        "date_posted": 1755248003,
-        "url": "https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Scottsdale, AZ",
-                "normalized": {
-                    "city": "Scottsdale",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Disney",
-        "id": "8110ef4b-04c7-45a7-bb84-950c66cc1cdb",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1755864963,
-        "date_posted": 1755247729,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "General Dynamics Mission Systems",
-        "id": "c86c919c-c248-4add-93e7-34228f8199d9",
-        "title": "Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756413324,
-        "date_posted": 1755247607,
-        "url": "https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pittsburgh, PA",
-                "normalized": {
-                    "city": "Pittsburgh",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Boeing",
-        "id": "da762d87-8320-42ad-bf8d-a634b03b70ad",
-        "title": "Entry Level Flight Simulation Software Engineer",
-        "active": true,
-        "date_updated": 1755568306,
-        "date_posted": 1755243725,
-        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
-        "locations": [
-            "Berkeley, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Berkeley, MO",
-                "normalized": {
-                    "city": "Berkeley",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "Jerry",
-        "id": "c4689c3d-5ba8-43ad-8f6f-2eea33310ebf",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1755568251,
-        "date_posted": 1755243638,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5",
-        "locations": [
-            "San Francisco, CA",
-            "Palo Alto, CA",
-            ""
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": true,
-                "confidence": 0.2
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "KBR",
-        "id": "aeacaa6e-d32d-4a0f-8918-d9d29578ce3c",
-        "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1757118346,
-        "date_posted": 1755243482,
-        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Colorado Springs, CO",
-                "normalized": {
-                    "city": "Colorado Springs",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Zoll",
-        "id": "d21570f2-ec82-4986-bb44-c38b632207f1",
-        "title": "Software Engineer I - Embedded Devices",
-        "active": true,
-        "date_updated": 1755700368,
-        "date_posted": 1755243207,
-        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
-        "locations": [
-            "Chelmsford, MA",
-            "Parsippany, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chelmsford, MA",
-                "normalized": {
-                    "city": "Chelmsford",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Parsippany, NJ",
-                "normalized": {
-                    "city": "Parsippany",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Microsoft",
-        "id": "9773d3c0-af8a-4ee6-b4c4-4ea407081d71",
-        "title": "Software Engineer: Microsoft AI Development Acceleration Program",
-        "active": true,
-        "date_updated": 1755700598,
-        "date_posted": 1755242840,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redmond, WA",
-                "normalized": {
-                    "city": "Redmond",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": null,
-        "company_name": "Hudson River Trading",
-        "id": "30500b30-ad9e-469e-b4d9-91de127188ba",
-        "title": "Algorithm Developer (Quant Researcher) – 2026 Grads",
-        "active": true,
-        "date_updated": 1755242727,
-        "date_posted": 1755242727,
-        "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/",
-        "locations": [
-            "New York, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "New York, NY",
-                "normalized": {
-                    "city": "New York",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "ByteDance",
-        "id": "29b38790-e96f-4510-af54-2972c8062987",
-        "title": "Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS)",
-        "active": true,
-        "date_updated": 1755242512,
-        "date_posted": 1755242512,
-        "url": "https://joinbytedance.com/search/7537121677185534216",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "ByteDance",
-        "id": "1ae34a66-204c-4be8-81c7-a39ed6cc1286",
-        "title": "Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)",
-        "active": true,
-        "date_updated": 1755242403,
-        "date_posted": 1755242403,
-        "url": "https://joinbytedance.com/search/7536272435440716040",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "ByteDance",
-        "id": "191488b6-a77d-431c-b7a0-790049adb518",
-        "title": "Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS)",
-        "active": true,
-        "date_updated": 1755242347,
-        "date_posted": 1755242347,
-        "url": "https://joinbytedance.com/search/7532538236133902599",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
-    },
-    {
-        "category": null,
-        "company_name": "ByteDance",
-        "id": "895c4dcf-4f15-400a-8327-9ae5c23a91e2",
-        "title": "Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS)",
-        "active": true,
-        "date_updated": 1755242238,
-        "date_posted": 1755242238,
-        "url": "https://joinbytedance.com/search/7535233571066349842",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": null
     }
 ]
