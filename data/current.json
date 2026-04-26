@@ -1,5 +1,112 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "Turo",
+        "id": "300ed511-d9bc-49b8-a6be-9c8006189469",
+        "title": "Product Data Analyst",
+        "active": true,
+        "date_updated": 1777079429,
+        "date_posted": 1777079240,
+        "url": "https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Product-Data-Analyst_R-102416",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "32c2a62f-2039-4562-a9ec-eed34df2238f",
+        "title": "Software Engineer - AI Networking",
+        "active": true,
+        "date_updated": 1777079535,
+        "date_posted": 1777079226,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--AI-Networking--New-College-Grad-2026_JR2017100",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "c4af72be-3beb-4321-af28-1206dea74e31",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1777079161,
+        "date_posted": 1777079121,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Palo Alto, CA",
+                "normalized": {
+                    "city": "Palo Alto",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "HighRadius",
         "id": "dd00b6e1-6bbb-4984-b566-e04475a1c181",
@@ -22660,6 +22767,38 @@
     },
     {
         "category": "Hardware",
+        "company_name": "Intel",
+        "id": "ee7e0981-ccc6-4146-b334-d41a190ca598",
+        "title": "Product Packaging Engineer",
+        "active": true,
+        "date_updated": 1775861495,
+        "date_posted": 1775858934,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Product-Packaging-Engineer_JR0282767",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Phoenix, AZ",
+                "normalized": {
+                    "city": "Phoenix",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
         "company_name": "BTI Solutions",
         "id": "e490d19f-8a51-44ba-b84f-f8b1a6ea985f",
         "title": "Development Engineer 1",
@@ -27919,6 +28058,84 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "750526d3-f783-4c66-8d9b-aa4e6d10e4de",
+        "title": "Graduate Software Engineer 1 - Mobile - iOS",
+        "active": true,
+        "date_updated": 1775471429,
+        "date_posted": 1775466409,
+        "url": "https://university-uber.icims.com/jobs/158011/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "679879b8-462e-4810-b391-25b5e93ef7e7",
+        "title": "Graduate Software Engineer 1 - Mobile - Android",
+        "active": true,
+        "date_updated": 1775471324,
+        "date_posted": 1775466406,
+        "url": "https://university-uber.icims.com/jobs/158037/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -43774,6 +43991,37 @@
     },
     {
         "category": "Software",
+        "company_name": "TransUnion",
+        "id": "f5aedcf5-ba18-4e08-bf0d-5e2c7fcc4232",
+        "title": "Developer",
+        "active": true,
+        "date_updated": 1773365264,
+        "date_posted": 1773365264,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Boca-Raton-Florida/Developer_19037951",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boca Raton, FL",
+                "normalized": {
+                    "city": "Boca Raton",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Secureframe",
         "id": "3f94d282-4523-424c-8450-0e34874128ab",
         "title": "Graduate Software Engineer",
@@ -57026,37 +57274,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "3ccca4ee-060c-400f-8020-788d2b4b3d32",
-        "title": "Simulator Technician 1",
-        "active": true,
-        "date_updated": 1771544822,
-        "date_posted": 1771544822,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_119502",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Orlando, FL",
-                "normalized": {
-                    "city": "Orlando",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -81381,6 +81598,35 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "32630a1c-ac89-42c9-8670-0fc8eb773446",
+        "title": "Researcher",
+        "active": true,
+        "date_updated": 1759828750,
+        "date_posted": 1759828750,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Researcher_JR100977",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Crawley, UK",
+                "normalized": {
+                    "city": "Crawley",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "6adb7270-df23-45cc-bb13-68784e42c0d5",
@@ -86872,382 +87118,6 @@
                     "city": "Nashville",
                     "region": "Tennessee",
                     "region_code": "TN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Amazon",
-        "id": "86266e03-12a2-4eef-b634-d3c5bbccad6e",
-        "title": "System Dev Engineer I, Analytics ADC",
-        "active": true,
-        "date_updated": 1756731805,
-        "date_posted": 1756414000,
-        "url": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
-        "locations": [
-            "Denver, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Denver, CO",
-                "normalized": {
-                    "city": "Denver",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "NVIDIA",
-        "id": "a2151f28-9ee1-4eec-a92a-3adacf05cd51",
-        "title": "GPU Architecture Engineer",
-        "active": true,
-        "date_updated": 1758068030,
-        "date_posted": 1756413879,
-        "url": "http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
-        "locations": [
-            "Santa Clara, CA",
-            "Austin, TX",
-            "Durham, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Durham, NC",
-                "normalized": {
-                    "city": "Durham",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "NVIDIA",
-        "id": "6d2d9d90-bf0a-4cd7-a110-767aa20737fb",
-        "title": "OEM Account Applications Engineer",
-        "active": true,
-        "date_updated": 1757982793,
-        "date_posted": 1756413857,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Tesla",
-        "id": "4d00db2f-58d8-4e22-9936-02ffbbe2813b",
-        "title": "Software Integration Engineer, Factory Firmware",
-        "active": true,
-        "date_updated": 1757032309,
-        "date_posted": 1756413786,
-        "url": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Fremont, CA",
-                "normalized": {
-                    "city": "Fremont",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Tesla",
-        "id": "e9050b21-a365-4bf0-9312-fcbffabda0fa",
-        "title": "Kernel Software Engineer",
-        "active": true,
-        "date_updated": 1759961378,
-        "date_posted": 1756413621,
-        "url": "https://www.tesla.com/careers/search/job/248966",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "ByteDance",
-        "id": "73a7fbdb-bbd6-436b-ade3-cdae82ba2136",
-        "title": "Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
-        "active": true,
-        "date_updated": 1756413496,
-        "date_posted": 1756413496,
-        "url": "https://joinbytedance.com/search/7542657938525538578",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "ByteDance",
-        "id": "2204117c-3f5d-42c8-bad2-7610e811841b",
-        "title": "Software Engineer Graduate (AI Applications)",
-        "active": true,
-        "date_updated": 1756413457,
-        "date_posted": 1756413457,
-        "url": "https://joinbytedance.com/search/7540808448918079752",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Microsoft",
-        "id": "2e96d4bd-b1d9-43e6-8b6e-cb82a90cdf34",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1757727143,
-        "date_posted": 1756413103,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
-        "locations": [
-            "Remote"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote",
-                "normalized": {
-                    "city": "Remote",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "e1f9f14d-1ffd-4469-b6ad-b476b4d55152",
-        "title": "Research Scientist Graduate - TikTok Recommendation-Agentic AI - 2026 Start",
-        "active": true,
-        "date_updated": 1756397675,
-        "date_posted": 1756397675,
-        "url": "https://lifeattiktok.com/search/7523144222812408071",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Abbott",
-        "id": "013f204e-f50f-4c1d-8d73-6fe3e4c9eeba",
-        "title": "Software Quality Engineer I",
-        "active": true,
-        "date_updated": 1756942880,
-        "date_posted": 1756367509,
-        "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Quality-Engineer-I_31128083-1",
-        "locations": [
-            "Sylmar, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sylmar, CA",
-                "normalized": {
-                    "city": "Sylmar",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Aurora",
-        "id": "9f6c0bfd-9acc-491c-a72f-461468d5db8f",
-        "title": "Security Software Engineer I",
-        "active": true,
-        "date_updated": 1760394504,
-        "date_posted": 1756367372,
-        "url": "https://aurora.tech/careers/8137861002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "NVIDIA",
-        "id": "33bd81ef-6d7f-45d6-af47-ac43c16d36fb",
-        "title": "Software Engineer, TensorRT Specialized Platforms",
-        "active": true,
-        "date_updated": 1758068074,
-        "date_posted": 1756367276,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
                     "country": "United States",
                     "country_code": "US"
                 },
