@@ -2533,8 +2533,3 @@ Anyone can contribute by submitting a pull request to add new new grad job oppor
 | DuBois | Research Scientist I | Sharonville, OH | 2025-09-02 | [Apply Here](https://duboischemicals.wd1.myworkdayjobs.com/en-US/external/job/Sharonville-OH---HQ/Research-Scientist-I_R102506) |
 | Databricks | Software Engineer | Bellevue, Washington, Mountain View, California, San Francisco, California | 2025-09-02 | [Apply Here](https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002) |
 | Netic | Machine Learning Engineer – New Grad | SF | 2025-08-31 | [Apply Here](https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76/application) |
-| Meta | Research Scientist Intern, Anisotropic Optics and Photonics (PhD) | Redmond, WA | 2025-08-29 | [Apply Here](https://www.metacareers.com/jobs/1455625889019477) |
-| CVS Health | Associate Software Development Engineer | Hartford, CT | 2025-08-29 | [Apply Here](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1) |
-| General Dynamics | Entry Level Software Engineer | Pittsburgh, PA | 2025-08-29 | [Apply Here](https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job) |
-| Oracle | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Seattle, WA | 2025-08-29 | [Apply Here](https://careers.oracle.com/en/sites/jobsearch/job/305990) |
-| Oracle | Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) | Nashville, TN | 2025-08-29 | [Apply Here](https://careers.oracle.com/en/sites/jobsearch/job/305993) |
