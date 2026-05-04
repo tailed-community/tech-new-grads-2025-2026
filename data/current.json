@@ -1,5 +1,93 @@
 [
     {
+        "category": "Software",
+        "company_name": "Testlio",
+        "id": "cd218df1-f792-49c8-a221-64af3ff15f82",
+        "title": "Freelancer Software Tester - Android TV",
+        "active": true,
+        "date_updated": 1777846861,
+        "date_posted": 1777846711,
+        "url": "https://job-boards.greenhouse.io/testlio/jobs/7868772",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "a16b92cc-70eb-4894-b73a-79073b23ed57",
+        "title": "Engineer in Training 1 - Data Intelligence & Decision Support",
+        "active": true,
+        "date_updated": 1777846138,
+        "date_posted": 1777845890,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Houston-TX-USA/Engineer-in-Training-I_71266-1",
+        "locations": [
+            "Houston, TX",
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Houston, TX",
+                "normalized": {
+                    "city": "Houston",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Calgary, AB, Canada",
+                "normalized": {
+                    "city": "Calgary",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Edmonton, AB, Canada",
+                "normalized": {
+                    "city": "Edmonton",
+                    "region": "Alberta",
+                    "region_code": "AB",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "RTX",
         "id": "6faf144d-6d33-484b-85e8-6820b53627b9",
@@ -4968,37 +5056,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "4db65d2a-2365-4241-9741-99b84131ee67",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1777472316,
-        "date_posted": 1777471621,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202676423",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irvine, CA",
-                "normalized": {
-                    "city": "Irvine",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Howmet Aerospace",
         "id": "0cebe4a3-37ab-49e8-9150-99b7e345f137",
@@ -8300,38 +8357,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "14c157d0-8980-43ec-a332-8987d569bb67",
-        "title": "Manufacturing Technician A",
-        "active": true,
-        "date_updated": 1777331375,
-        "date_posted": 1777327615,
-        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1385775900/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rochester, NY",
-                "normalized": {
-                    "city": "Rochester",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -16468,6 +16493,35 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Wellington Management",
+        "id": "20b4da37-00a0-47df-94da-0183dd7cc7b4",
+        "title": "Technology Associate – Graduate",
+        "active": true,
+        "date_updated": 1777710484,
+        "date_posted": 1776523592,
+        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Technology-Associate-Programme--Graduate---2025_R92580-2",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -44772,37 +44826,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Allstate Insurance Company",
-        "id": "c493c31e-172c-4f7b-865a-0bc3b9de0fbc",
-        "title": "Applied Machine Learning Engineer",
-        "active": true,
-        "date_updated": 1772753293,
-        "date_posted": 1772753293,
-        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1",
-        "locations": [
-            "Illinois"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Illinois",
-                "normalized": {
-                    "city": null,
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Verse Medical",
         "id": "99de05ac-50e2-401f-a62d-db4d99b5221e",
@@ -66567,35 +66590,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "11ae67cb-402c-4741-b4b5-e27aa1330bb9",
-        "title": "Associate Data Scientist - GenAI",
-        "active": true,
-        "date_updated": 1765377770,
-        "date_posted": 1765377770,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Data-Scientist---GenAI_JR25120038-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "D2L",
         "id": "4f5e74ec-73cb-4c30-887b-3f97e6fdacd6",
@@ -80617,107 +80611,6 @@
                     "region_code": "CA",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Decagon",
-        "id": "fe817911-2a56-4f82-8cd1-c4d560ebac8f",
-        "title": "Software Engineer - New Grad",
-        "active": true,
-        "date_updated": 1757101807,
-        "date_posted": 1757101807,
-        "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
-        "locations": [
-            "San Francisco",
-            "New York"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Francisco",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "New York",
-                "normalized": {
-                    "city": null,
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "CSC",
-        "id": "f1309916-9513-4209-a282-9bd27dcf2245",
-        "title": "Junior Data Analyst",
-        "active": true,
-        "date_updated": 1757384911,
-        "date_posted": 1757081227,
-        "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12967",
-        "locations": [
-            "Wilmington, DE"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Wilmington, DE",
-                "normalized": {
-                    "city": "Wilmington",
-                    "region": "Delaware",
-                    "region_code": "DE",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Wellington Management",
-        "id": "20b4da37-00a0-47df-94da-0183dd7cc7b4",
-        "title": "Technology Associate – Graduate",
-        "active": true,
-        "date_updated": 1763131793,
-        "date_posted": 1757038985,
-        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Technology-Associate-Programme--Graduate---2025_R92580-2",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
                 },
                 "type": "onsite",
                 "unresolved": false,
