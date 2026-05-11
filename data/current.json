@@ -1752,6 +1752,49 @@
     },
     {
         "category": "Software",
+        "company_name": "Nationwide",
+        "id": "187d0d13-56e1-4739-83c6-fb544c8db785",
+        "title": "Entry Level Software Engineer - Software Engineer - Java",
+        "active": true,
+        "date_updated": 1778220749,
+        "date_posted": 1778220315,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer---Entry-Level---Java--Angular--or-Python_098039",
+        "locations": [
+            "Des Moines, IA",
+            "Columbus, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Des Moines, IA",
+                "normalized": {
+                    "city": "Des Moines",
+                    "region": "Iowa",
+                    "region_code": "IA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Columbus, OH",
+                "normalized": {
+                    "city": "Columbus",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
         "company_name": "OpenSesame",
         "id": "56bbd8f4-9d47-44b8-b8a9-4f13bb3c91b3",
         "title": "Software Engineer Associate",
@@ -8603,35 +8646,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Apron",
-        "id": "5b8e29b5-89fc-4ad7-82e7-e527da2b37a6",
-        "title": "Product Manager - Bill Pay",
-        "active": true,
-        "date_updated": 1778143564,
-        "date_posted": 1778076497,
-        "url": "https://jobs.ashbyhq.com/apron/bb50986f-894b-4dfb-b0ae-fadba14359d7/application",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "AT&T",
         "id": "384dbb85-6692-46b4-9f4c-922de400dc68",
@@ -9116,68 +9130,6 @@
                     "city": null,
                     "region": "Louisiana",
                     "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "15373121-dd33-48dd-b5d2-2a961a33e211",
-        "title": "Integration System Engineer",
-        "active": true,
-        "date_updated": 1778029741,
-        "date_posted": 1778029715,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Integration-System-Engineer--Associate-or-Experienced-Level-_JR2026498853-1",
-        "locations": [
-            "Everett, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Everett, WA",
-                "normalized": {
-                    "city": "Everett",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "36b5e8d3-874f-4963-925c-d218fb31fbb8",
-        "title": "Integration System Engineer",
-        "active": true,
-        "date_updated": 1778029741,
-        "date_posted": 1778029706,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Everett-WA/Integration-System-Engineer--Associate-or-Experienced-Level-_JR2026498853",
-        "locations": [
-            "Everett, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Everett, WA",
-                "normalized": {
-                    "city": "Everett",
-                    "region": "Washington",
-                    "region_code": "WA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -9757,35 +9709,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "RELX",
-        "id": "4abd703a-850b-4999-8e84-6ed59df48563",
-        "title": "Product Manager 1",
-        "active": true,
-        "date_updated": 1778019934,
-        "date_posted": 1778019038,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Horsham-PA/Product-Manager-I---Hybrid-in-Horsham--PA_R112840-2",
-        "locations": [
-            "Horsham, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Horsham, PA",
-                "normalized": {
-                    "city": "Horsham",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Magna",
         "id": "57304977-cf60-477a-8592-5de68e44261d",
@@ -9876,96 +9799,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Corteva",
-        "id": "70f9e298-df51-4f02-9bd5-0e3411150e01",
-        "title": "Statistics Research Scientist",
-        "active": true,
-        "date_updated": 1778019874,
-        "date_posted": 1778019006,
-        "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Iowa-United-States/Statistics-Research-Scientist_246621W",
-        "locations": [
-            "Indianapolis, IN",
-            "Iowa"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Indianapolis, IN",
-                "normalized": {
-                    "city": "Indianapolis",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Iowa",
-                "normalized": {
-                    "city": null,
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Corteva",
-        "id": "aec8032d-2a9a-4b53-8b6a-88e9f76ea770",
-        "title": "Statistics Research Scientist",
-        "active": true,
-        "date_updated": 1778019879,
-        "date_posted": 1778019004,
-        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Iowa-United-States/Statistics-Research-Scientist_246621W-1",
-        "locations": [
-            "Indianapolis, IN",
-            "Iowa"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Indianapolis, IN",
-                "normalized": {
-                    "city": "Indianapolis",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Iowa",
-                "normalized": {
-                    "city": null,
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -11807,6 +11640,35 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Klue",
+        "id": "3fcf4a1e-5100-486e-bcf3-a0263e577fd4",
+        "title": "Software Engineer 1 - Artificial Intelligence",
+        "active": true,
+        "date_updated": 1778315988,
+        "date_posted": 1777932561,
+        "url": "https://jobs.ashbyhq.com/klue/ed50e681-1363-4141-ae60-bca17eba5f04/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Product",
@@ -15705,37 +15567,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "549e7da6-ecd5-46dd-82c6-583f49df4e7b",
-        "title": "Software Developer 1 Intern",
-        "active": true,
-        "date_updated": 1777501717,
-        "date_posted": 1777500560,
-        "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/94520493424",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Cisco",
         "id": "966d65a3-6a5a-4edb-a736-8fca60075519",
@@ -16088,37 +15919,6 @@
                     "city": "Des Moines",
                     "region": "Iowa",
                     "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Blue Cross and Blue Shield of Louisiana ",
-        "id": "5dd82d0e-d39f-459a-8021-0ccbf18370e9",
-        "title": "Associate Compensation & People Analytics Analyst",
-        "active": true,
-        "date_updated": 1777472217,
-        "date_posted": 1777471659,
-        "url": "https://bcbsla.wd1.myworkdayjobs.com/external/job/Corporate---Baton-Rouge-LA/Associate-Compensation---People-Analytics-Analyst_R11585",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Baton Rouge, LA",
-                "normalized": {
-                    "city": "Baton Rouge",
-                    "region": "Louisiana",
-                    "region_code": "LA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -18742,152 +18542,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Bank of Montreal",
-        "id": "ca4dd8f2-d00e-424b-bd90-059ab441d097",
-        "title": "Robot Process Automation Developer",
-        "active": true,
-        "date_updated": 1777327782,
-        "date_posted": 1777327527,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Robot--Process-Automation-Developer--New-or-Recent-Graduate-_R260011314",
-        "locations": [
-            "Naperville, IL",
-            "Chicago, IL",
-            "Irving, TX",
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Naperville, IL",
-                "normalized": {
-                    "city": "Naperville",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Bank of Montreal",
-        "id": "dce58ffb-cfcb-4247-b5b1-1f800e509b1f",
-        "title": "Robot Process Automation Developer",
-        "active": true,
-        "date_updated": 1777327738,
-        "date_posted": 1777327471,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Robot--Process-Automation-Developer--New-or-Recent-Graduate-_R260011314-1",
-        "locations": [
-            "Naperville, IL",
-            "Chicago, IL",
-            "Irving, TX",
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Naperville, IL",
-                "normalized": {
-                    "city": "Naperville",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Hologic",
         "id": "fc61042f-d813-4ec9-a8a3-5c04f5e7edc0",
@@ -20272,35 +19926,6 @@
                     "city": "Attleboro",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
-        "id": "61bac18f-f78b-4ccf-9f3e-525007d23958",
-        "title": "HCM & Finance Reporting & Automation Assistant",
-        "active": true,
-        "date_updated": 1777068309,
-        "date_posted": 1777068122,
-        "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/HCM---Finance-Reporting---Automation-Assistant_R0084827-1",
-        "locations": [
-            "Fayetteville, AR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Fayetteville, AR",
-                "normalized": {
-                    "city": "Fayetteville",
-                    "region": "Arkansas",
-                    "region_code": "AR",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -26530,37 +26155,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "The Wharton School",
-        "id": "8abc2a31-15c2-4609-8c19-29e9300bdb74",
-        "title": "Pre-Doctoral Research Specialist",
-        "active": true,
-        "date_updated": 1776505681,
-        "date_posted": 1776505532,
-        "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SD---Wharton-Finance/Pre-Doctoral-Research-Specialist_JR00114183",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "KLA",
         "id": "894d82d9-bf75-44b7-b0a7-34562519e069",
@@ -30117,37 +29711,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "2effb543-0fba-435b-9dc6-d06a4a478216",
-        "title": "Radar Modeling Engineer",
-        "active": true,
-        "date_updated": 1776209248,
-        "date_posted": 1776204641,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Modeling-Engineer_R-00174508-1",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Huntsville, AL",
-                "normalized": {
-                    "city": "Huntsville",
-                    "region": "Alabama",
-                    "region_code": "AL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -35794,37 +35357,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Madewell",
-        "id": "d36557df-ada0-43ad-bdf8-133ece448c81",
-        "title": "Assistant Pattern Maker - Denim Bottoms",
-        "active": true,
-        "date_updated": 1775604601,
-        "date_posted": 1775599598,
-        "url": "https://jcrew.wd1.myworkdayjobs.com/madewellcareers/job/New-York-NY-USA-Headquarters/Assistant-Pattern-Maker---Denim-Bottoms_123905",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Capital One",
         "id": "c189f4e1-4b4e-4dd2-bd37-c57ff6bb9939",
@@ -36534,6 +36066,39 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Handshake",
+        "id": "594e3770-fcd1-4bc5-ac62-ed97804b6051",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1775555061,
+        "date_posted": 1775484598,
+        "url": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
         "category": "Product",
         "company_name": "RaceTrac",
         "id": "520e7bbe-7c2c-4a7b-abd7-e5c6d8945f26",
@@ -36564,52 +36129,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "025be0de-f3a3-4b10-b605-ea3f0e828697",
-        "title": "Security Labs Research Engineer – Graduate Program",
-        "active": true,
-        "date_updated": 1775299501,
-        "date_posted": 1775299457,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Security-Labs-Research-Engineer---Graduate-Program_1192992",
-        "locations": [
-            "Bristol, UK",
-            "Minna, Inverin, Co. Galway, Ireland"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bristol, UK",
-                "normalized": {
-                    "city": "Bristol",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Minna, Inverin, Co. Galway, Ireland",
-                "normalized": {
-                    "city": "Minna",
-                    "region": "Inverin",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -37604,38 +37123,6 @@
         ],
         "degrees": [
             "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "67c255a8-7827-4778-aa59-796819af424e",
-        "title": "Architecture Energy Modeling Engineer",
-        "active": true,
-        "date_updated": 1775257784,
-        "date_posted": 1775254170,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2014899",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
             "Master's",
             "PhD"
         ]
@@ -48086,6 +47573,35 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "c7a072a7-ca30-40e2-89d1-b1afc7288d05",
+        "title": "Data Warehouse Engineer",
+        "active": true,
+        "date_updated": 1778288941,
+        "date_posted": 1773296859,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5074064007",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "SpaceX",
         "id": "7ac9326f-37b2-436b-9e22-dc571c015743",
@@ -48877,51 +48393,6 @@
         ],
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Ultra",
-        "id": "1fd9b0dd-43ba-4e25-892a-11969b77c0be",
-        "title": "Graduate Software Engineer",
-        "active": true,
-        "date_updated": 1773154189,
-        "date_posted": 1773154189,
-        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Weymouth-Dorset-England-UK/Graduate-Software-Engineer_REQ-11623",
-        "locations": [
-            "Wembley, UK",
-            "Dorchester, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Wembley, UK",
-                "normalized": {
-                    "city": "Wembley",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Dorchester, UK",
-                "normalized": {
-                    "city": "Dorchester",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -72239,37 +71710,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Cisco",
-        "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
-        "title": "Software Engineer 2 - Full Stack and Application Development",
-        "active": true,
-        "date_updated": 1763664387,
-        "date_posted": 1763664387,
-        "url": "https://careers.cisco.com/global/en/job/2000127",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Lightfield",
         "id": "741d8e02-7115-446e-a53f-21eda887c7e0",
         "title": "AI Product Engineer – New Grad",
@@ -82584,200 +82024,6 @@
                     "city": "Irving",
                     "region": "Texas",
                     "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "a8c3ea34-c051-434a-8817-bccdf2d17c6c",
-        "title": "Technician 1 - Electronic",
-        "active": true,
-        "date_updated": 1770371754,
-        "date_posted": 1757726812,
-        "url": "https://careers-peraton.icims.com/jobs/158058/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Topeka, KS",
-                "normalized": {
-                    "city": "Topeka",
-                    "region": "Kansas",
-                    "region_code": "KS",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "EliseAI",
-        "id": "e9aa375c-d8f2-4256-afc1-a49556ef4fe9",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1758584670,
-        "date_posted": 1757668156,
-        "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
-        "locations": [
-            "New York, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "New York, NY",
-                "normalized": {
-                    "city": "New York",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Nordstrom",
-        "id": "a48c0369-b4c6-428f-8b24-11678660c772",
-        "title": "Engineer 1 - Full Stack, Store POS+",
-        "active": true,
-        "date_updated": 1758126557,
-        "date_posted": 1757668082,
-        "url": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Jane Street",
-        "id": "538b9ba7-eafb-4e4c-9d6b-fdfab046b379",
-        "title": "Cybersecurity Analyst",
-        "active": true,
-        "date_updated": 1757667963,
-        "date_posted": 1757667963,
-        "url": "https://www.janestreet.com/join-jane-street/position/8053215002/",
-        "locations": [
-            "New York, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "New York, NY",
-                "normalized": {
-                    "city": "New York",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "PathAI",
-        "id": "c02dfa55-86e8-4965-9800-7ea301501001",
-        "title": "Machine Learning Engineer 1/2/3",
-        "active": true,
-        "date_updated": 1758388097,
-        "date_posted": 1757648115,
-        "url": "https://www.pathai.com/careers/8062963002?gh_jid=8062963002",
-        "locations": [
-            "Boston, MA",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Stifel",
-        "id": "f933cfa7-78db-4a9e-a75d-738cc5b06e99",
-        "title": "Cash Product Banking Services Specialist",
-        "active": true,
-        "date_updated": 1774512604,
-        "date_posted": 1757646010,
-        "url": "https://careers-stifel.icims.com/jobs/8650/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "St. Louis, MO",
-                "normalized": {
-                    "city": "St. Louis",
-                    "region": "Missouri",
-                    "region_code": "MO",
                     "country": "United States",
                     "country_code": "US"
                 },
