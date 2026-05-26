@@ -1,5 +1,213 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "Barclays",
+        "id": "b1916b15-c580-4255-b9c2-5e141bab10b6",
+        "title": "Data Science Associate - Portfolio Hedging & Optimisation",
+        "active": true,
+        "date_updated": 1779757741,
+        "date_posted": 1779757577,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Data-Science-Associate---Portfolio-Hedging---Optimisation_JR-0000113213",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "2675c6b2-ca31-447a-bf57-24aa17ae5920",
+        "title": "Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1779757855,
+        "date_posted": 1779757520,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/USA-Massachusetts-Boston-200-Berkeley-Street/Full-Stack-Software-Engineer_JR26040202-3",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Capco",
+        "id": "de2b07d1-c59d-4fb4-a947-7f09e20942a5",
+        "title": "Full Stack Developer - SQL Power Apps Developer",
+        "active": true,
+        "date_updated": 1779747399,
+        "date_posted": 1779747273,
+        "url": "https://job-boards.greenhouse.io/capco/jobs/7769320",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Florida Institute of Technology",
+        "id": "fee94ca5-ffa5-46ca-903d-63ca764ff883",
+        "title": "Research Assistant-Data Analysis-Project Data Management-Dashboard Development",
+        "active": true,
+        "date_updated": 1779689161,
+        "date_posted": 1779689139,
+        "url": "https://floridatech.wd5.myworkdayjobs.com/FloridaTechCareers/job/Florida-Institute-of-Technology/Research-Assistant-Data-Analysis-Project-Data-Management-Dashboard-Development_R8512",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Melbourne, FL",
+                "normalized": {
+                    "city": "Melbourne",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "457f9565-5a65-4e2d-a839-903e2a05ac6b",
+        "title": "Systems Engineer - Networking",
+        "active": true,
+        "date_updated": 1779689161,
+        "date_posted": 1779689131,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineer---Networking_JR-2601903",
+        "locations": [
+            "Austin, TX",
+            "Richardson, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Richardson, TX",
+                "normalized": {
+                    "city": "Richardson",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "39b8fc3c-d27c-43ca-95de-868d5a97ab5b",
+        "title": "Artificial Intelligence Data Associate - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1779689536,
+        "date_posted": 1779689120,
+        "url": "https://amazon.jobs/en/jobs/10422803/ai-data-associate-dutch-artificial-general-intelligence",
+        "locations": [
+            "London, UK",
+            "United Kingdom"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "United Kingdom",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Captivation",
         "id": "5ae34582-a936-4638-a6b7-1452ac6dea22",
@@ -467,51 +675,6 @@
                     "city": "Lafayette",
                     "region": "Colorado",
                     "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "509f18a0-f3db-4632-8167-ec761b4e8e0e",
-        "title": "Systems Engineer 1 - Multiple Teams",
-        "active": true,
-        "date_updated": 1779498606,
-        "date_posted": 1779498472,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Fulltime--Systems-Engineer-I---Onsite-McKinney--Texas_01822465",
-        "locations": [
-            "McKinney, TX",
-            "Plano, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "McKinney, TX",
-                "normalized": {
-                    "city": "Mckinney",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Plano, TX",
-                "normalized": {
-                    "city": "Plano",
-                    "region": "Texas",
-                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -1832,37 +1995,6 @@
                     "region_code": null,
                     "country": "United Kingdom",
                     "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Genworth Financial",
-        "id": "ba0be469-bec0-418d-a90d-30aca0169d59",
-        "title": "AI Engineer",
-        "active": true,
-        "date_updated": 1779459121,
-        "date_posted": 1779458950,
-        "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Lynchburg-Virginia/AI-Engineer_REQ-260203",
-        "locations": [
-            "Lynchburg, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lynchburg, VA",
-                "normalized": {
-                    "city": "Lynchburg",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -4894,38 +5026,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Charles Schwab",
-        "id": "69e5fae9-5a6f-418e-8d4f-411b609432e3",
-        "title": "Digital Product Management Associate",
-        "active": true,
-        "date_updated": 1779315700,
-        "date_posted": 1779314846,
-        "url": "https://career-schwab.icims.com/jobs/121402/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "MBA"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "CACI",
         "id": "010a6db7-faaa-473a-ab4d-bb7717357f4e",
@@ -5451,40 +5551,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "647e3499-c43e-49b0-a0a3-ad7620317671",
-        "title": "Software Engineer 1 - Java/Golang",
-        "active": true,
-        "date_updated": 1779286800,
-        "date_posted": 1779286173,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Java-Golang-_R_1489393",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Certificate"
         ]
     },
     {
@@ -7056,37 +7122,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "AtkinsRéalis",
-        "id": "bfe5053e-2537-4cca-9fd4-8ee5fc856919",
-        "title": "Assistant Data Analyst",
-        "active": true,
-        "date_updated": 1779200461,
-        "date_posted": 1779199661,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/GBWhitehavenRutherford-House/Assistant-Data-Analyst_R-155828",
-        "locations": [
-            "Workington, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Workington, UK",
-                "normalized": {
-                    "city": "Workington",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Hardware",
@@ -11711,37 +11746,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Baker Hughes",
-        "id": "f67e934b-3ab9-4bdd-b1f1-072270463fc3",
-        "title": "Manufacturing Software Engineer",
-        "active": true,
-        "date_updated": 1778797261,
-        "date_posted": 1778796553,
-        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Manufacturing-Software-Engineer_R163821",
-        "locations": [
-            "South Lake Tahoe, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "South Lake Tahoe, CA",
-                "normalized": {
-                    "city": "South Lake Tahoe",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Auto-Owners Insurance",
         "id": "40c9dfd2-4bd0-45eb-98dc-0a34a7d9e285",
         "title": "Mobile App Software Developer",
@@ -13367,39 +13371,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "b1be63a7-16e8-4911-8a3e-d39338388826",
-        "title": "Data Associate",
-        "active": true,
-        "date_updated": 1778711041,
-        "date_posted": 1778710265,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate_R_1488525",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Certificate"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -16783,35 +16754,6 @@
     {
         "category": "Product",
         "company_name": "JP Morgan Chase",
-        "id": "5a43bef6-a170-4df6-9a0f-d2e992c5d706",
-        "title": "Securities Services Associate - Product Development - Complex Assets",
-        "active": true,
-        "date_updated": 1778537706,
-        "date_posted": 1778537134,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745451",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Product",
-        "company_name": "JP Morgan Chase",
         "id": "5d1e1809-59b5-407b-8515-b679c2373655",
         "title": "AI Controls & Product Management Associate",
         "active": true,
@@ -19546,35 +19488,6 @@
                     "city": "Fairmont",
                     "region": "West Virginia",
                     "region_code": "WV",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "General Matter",
-        "id": "a473cbbb-a709-41fc-82c2-254b5306ce3c",
-        "title": "Software Engineer (New Grad)",
-        "active": true,
-        "date_updated": 1778157356,
-        "date_posted": 1778157356,
-        "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5157066008",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Los Angeles, CA",
-                "normalized": {
-                    "city": "Los Angeles",
-                    "region": "California",
-                    "region_code": "CA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -23046,37 +22959,6 @@
                     "city": "Redmond",
                     "region": "Washington",
                     "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Caterpillar Inc.",
-        "id": "383bd4aa-699b-40bd-9858-3e8b2860fb62",
-        "title": "CAD Design Engineer Associate - Electric Power",
-        "active": true,
-        "date_updated": 1778020327,
-        "date_posted": 1778018805,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Associate-CAD-Design-Engineer---Electric-Power_R0000367370",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Alpharetta, GA",
-                "normalized": {
-                    "city": "Alpharetta",
-                    "region": "Georgia",
-                    "region_code": "GA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -28419,35 +28301,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "71d17709-e2b4-4541-b445-c1b73448e1f5",
-        "title": "Loan Trading Services Analyst",
-        "active": true,
-        "date_updated": 1777330801,
-        "date_posted": 1777327746,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740420",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Christchurch, UK",
-                "normalized": {
-                    "city": "Christchurch",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "CAE",
         "id": "743b3dca-b0e0-4af7-9c8d-788fc826b23c",
@@ -30532,49 +30385,6 @@
             "Associate's",
             "Certificate"
         ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Gumloop",
-        "id": "81dfff5d-f5ab-4d60-af92-8e0df63d8df3",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1776937023,
-        "date_posted": 1776937023,
-        "url": "https://jobs.ashbyhq.com/gumloop/a1a881a6-3743-4f03-ab55-3a46297a764b",
-        "locations": [
-            "San Francisco, CA",
-            "Vancouver, BC, CAN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Vancouver, BC, CAN",
-                "normalized": {
-                    "city": "Vancouver",
-                    "region": "British Columbia",
-                    "region_code": "BC",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Product",
@@ -35637,35 +35447,6 @@
     },
     {
         "category": "Software",
-        "company_name": "JP Morgan Chase",
-        "id": "22180855-93a7-4067-86fa-b82fd2cf27c6",
-        "title": "Agility Senior Associate",
-        "active": true,
-        "date_updated": 1776378241,
-        "date_posted": 1776377354,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719683",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
         "company_name": "Hyster-Yale Materials Handling",
         "id": "68a66352-b879-475d-824b-d9a5745d6877",
         "title": "Application Engineer 1",
@@ -36119,35 +35900,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "EUNA Solutions",
-        "id": "ba55e1f8-f020-42c7-bb18-73cfeaa665c6",
-        "title": "AI Developer",
-        "active": true,
-        "date_updated": 1776295449,
-        "date_posted": 1776290988,
-        "url": "https://euna.bamboohr.com/careers/618/",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oakville, ON, Canada",
-                "normalized": {
-                    "city": "Oakville",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -37886,35 +37638,6 @@
                     "country_code": "US"
                 },
                 "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "CAI",
-        "id": "223d8c61-11bd-4c7e-8e62-4a1ac9d9046a",
-        "title": "Junior Data Engineer",
-        "active": true,
-        "date_updated": 1776073191,
-        "date_posted": 1776073191,
-        "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/FL-CLIENT-STATE/Junior-Data-Engineer_R7496",
-        "locations": [
-            "FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "FL",
-                "normalized": {
-                    "city": null,
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
             }
@@ -46510,35 +46233,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "BlackRock",
-        "id": "468f8ce7-8037-43e9-bc53-d357948d58ae",
-        "title": "Data Operations - Associate",
-        "active": true,
-        "date_updated": 1774393014,
-        "date_posted": 1774393014,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Data-Operations--Associate_R261650",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Edinburgh, UK",
-                "normalized": {
-                    "city": "Edinburgh",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Chaucer Group",
         "id": "c4c6e39f-1b23-4067-83f6-6bcfd084b512",
         "title": "Data Analyst - Pricing",
@@ -47682,6 +47376,37 @@
                     "region_code": "MN",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "c38dfeb7-565f-4afc-a25b-62234dcb7a03",
+        "title": "Market Data Analyst",
+        "active": true,
+        "date_updated": 1773962037,
+        "date_posted": 1773962037,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Market-Data-Analyst_JR26030549",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -48928,51 +48653,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "75a3754e-4bb8-4c34-bd0e-5b307f7edd03",
-        "title": "Software Engineer 1 - Monetization ML",
-        "active": true,
-        "date_updated": 1773786505,
-        "date_posted": 1773786505,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8417166002",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "Numeral",
         "id": "d556c74b-3572-47ff-85d9-5bc3a4bbc529",
@@ -49000,37 +48680,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "25ec663e-854d-4edd-a023-081a4d168446",
-        "title": "Software Engineer 1 - Monetization ML",
-        "active": true,
-        "date_updated": 1773785638,
-        "date_posted": 1773785638,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8417224002",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Hardware",
@@ -51151,37 +50800,6 @@
         ],
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "b368b35f-e2e3-45c6-be6f-653117b8cac1",
-        "title": "Hebrew Language Specialist",
-        "active": true,
-        "date_updated": 1773152658,
-        "date_posted": 1773152658,
-        "url": "https://ats.rippling.com/perle/jobs/df9140d7-3f1f-4d0b-9b96-5ea92ac4db75",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -53387,38 +53005,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "BlackRock",
-        "id": "6351ded1-378a-4a57-af64-a7a02aa2d651",
-        "title": "Associate Application Engineer",
-        "active": true,
-        "date_updated": 1772495556,
-        "date_posted": 1772495556,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/LO9-London---Drapers-Gardens/Associate--Application-Engineer_R260695",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -62119,35 +61705,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "4b4f9231-8913-4465-b065-41b60187db41",
-        "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate",
-        "active": true,
-        "date_updated": 1773822612,
-        "date_posted": 1770995712,
-        "url": "https://higher.gs.com/roles/162184",
-        "locations": [
-            "Albany, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Albany, NY",
-                "normalized": {
-                    "city": "Albany",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Mercor",
         "id": "b7de0ef1-2ccb-400c-8e09-b5078a36aa4d",
@@ -62203,35 +61760,6 @@
                 "type": "remote",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Lindy",
-        "id": "a278668b-f235-49a5-91fc-ca5c540e8e3c",
-        "title": "Full Stack Software Engineer – Early Career",
-        "active": true,
-        "date_updated": 1773822396,
-        "date_posted": 1770966504,
-        "url": "https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": []
@@ -63272,53 +62800,6 @@
         ],
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "8ee26259-5914-4601-981d-94d0d0a886ae",
-        "title": "ASIC Verification Engineer",
-        "active": true,
-        "date_updated": 1770333984,
-        "date_posted": 1770333984,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -65125,38 +64606,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "af267ce7-72cb-4bb2-ba0b-1b93364e289e",
-        "title": "Graduate-Product Engineer",
-        "active": true,
-        "date_updated": 1769595957,
-        "date_posted": 1769595957,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422377",
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Canterbury, UK",
-                "normalized": {
-                    "city": "Canterbury",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -68643,63 +68092,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "8229b507-466f-4c8e-889f-74e447c8cdea",
-        "title": "Cantonese Language Specialist",
-        "active": true,
-        "date_updated": 1765581429,
-        "date_posted": 1765581429,
-        "url": "https://ats.rippling.com/perle/jobs/7cc32593-f7cc-468d-95f1-dc41dc088889",
-        "locations": [
-            "Remote in USA",
-            "Remote in Australia",
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Australia",
-                "normalized": {
-                    "city": "Remote In Australia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Curtiss-Wright Corporation",
         "id": "ce85a75f-e278-478c-9081-80676142628e",
@@ -70775,93 +70167,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "1f72486d-d63b-4d19-a4a6-da5333d3150d",
-        "title": "Mandarin Language Specialist (USA-based)",
-        "active": true,
-        "date_updated": 1763768995,
-        "date_posted": 1763768995,
-        "url": "https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "25b8877d-ad5d-4ea7-bcd6-81281dec8e4d",
-        "title": "Farsi Language Specialist",
-        "active": true,
-        "date_updated": 1763768991,
-        "date_posted": 1763768991,
-        "url": "https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "2a393876-fd7d-4027-8c6a-d56bf5975edf",
-        "title": "English Language Specialist",
-        "active": true,
-        "date_updated": 1763768988,
-        "date_posted": 1763768988,
-        "url": "https://ats.rippling.com/perle/jobs/e0e43ac5-e697-4c63-bf8e-f5aa0d5acd94",
-        "locations": [
-            "Remote in UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "RWS",
         "id": "aa42f4fa-9a75-46d4-b15c-9edf6678d943",
         "title": "AI Data Specialist - Texas - US",
@@ -71514,64 +70819,6 @@
                     "country_code": "CA"
                 },
                 "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "0d52cfe6-e4de-4372-90e1-c2303e004eaf",
-        "title": "Hebrew Language Specialist",
-        "active": true,
-        "date_updated": 1763509300,
-        "date_posted": 1763509300,
-        "url": "https://ats.rippling.com/perle/jobs/d0cd62d8-b0dd-4a66-b6fa-c409ff8f575e",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "0b172d6c-bef2-4b27-8dda-4c594ef1b2f7",
-        "title": "Farsi Language Specialist",
-        "active": true,
-        "date_updated": 1763509299,
-        "date_posted": 1763509299,
-        "url": "https://ats.rippling.com/perle/jobs/97f0c5b3-ffd2-4460-bceb-73bdc85e0eaf",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
                 "unresolved": false,
                 "confidence": 1.0
             }
@@ -72521,35 +71768,6 @@
         "date_updated": 1762434202,
         "date_posted": 1762434202,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8238605002",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bristol, UK",
-                "normalized": {
-                    "city": "Bristol",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Graphcore",
-        "id": "9881aa86-eda0-414b-acc4-7cc5e3e43413",
-        "title": "2026 Graduate Machine Learning Engineer - Applied AI",
-        "active": true,
-        "date_updated": 1762385788,
-        "date_posted": 1762385788,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8234675002",
         "locations": [
             "Bristol, UK"
         ],
