@@ -1,5 +1,380 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cba3f10a-54b4-46e8-b274-6000b2fccc5a",
+        "title": "Machine Learning Engineer Graduate - TikTok Recommendation",
+        "active": true,
+        "date_updated": 1781505006,
+        "date_posted": 1781503935,
+        "url": "https://lifeattiktok.com/search/7518139910798215442",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f624cacf-5cd8-42ea-bc15-38f980bc6e29",
+        "title": "CV/NLP/Multimodal LLM Research Scientist Graduate - Trust and Safety",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503934,
+        "url": "https://lifeattiktok.com/search/7517106896071903496",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "63b0ab3f-3419-4c66-98d1-4d51309dafb7",
+        "title": "Graduate Research Scientist - Trust and Safety",
+        "active": true,
+        "date_updated": 1781504998,
+        "date_posted": 1781503918,
+        "url": "https://lifeattiktok.com/search/7530772847212644616",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a17e8180-27b9-4820-969b-796affdeddb3",
+        "title": "Data Scientist - TikTok Live",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503905,
+        "url": "https://lifeattiktok.com/search/7389873473475479817",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "aecaab63-3c94-4ada-9860-efdc777ef42f",
+        "title": "General Hire – Research Scientist Graduate - TikTok Recommendation",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503900,
+        "url": "https://lifeattiktok.com/search/7516697804673190151",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e1f9f14d-1ffd-4469-b6ad-b476b4d55152",
+        "title": "Graduate Research Scientist - Tiktok Recommendation-Agentic AI",
+        "active": true,
+        "date_updated": 1781504974,
+        "date_posted": 1781503891,
+        "url": "https://lifeattiktok.com/search/7523144222812408071",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "edd1cb2c-2893-4e90-8f8f-af97ec4a0012",
+        "title": "Graduate Research Scientist - Tiktok Recommendation",
+        "active": true,
+        "date_updated": 1781505960,
+        "date_posted": 1781503889,
+        "url": "https://lifeattiktok.com/search/7532216894792222994",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d19126c7-186e-4d14-ae4d-756c4d86041d",
+        "title": "CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS",
+        "active": true,
+        "date_updated": 1781504993,
+        "date_posted": 1781503889,
+        "url": "https://lifeattiktok.com/search/7517099008936397064",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e40f133a-71ab-472d-8ef3-4d156379450f",
+        "title": "Graduate Research Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1781504993,
+        "date_posted": 1781503888,
+        "url": "https://lifeattiktok.com/search/7517105710544161032",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "bb7aa421-4cfb-4baa-9fc0-bea49fa9b593",
+        "title": "CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety",
+        "active": true,
+        "date_updated": 1781504958,
+        "date_posted": 1781503888,
+        "url": "https://lifeattiktok.com/search/7517107684337748242",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Computershare",
+        "id": "f23c573e-76bd-4762-8c9d-00b918ebb197",
+        "title": "Graduate AI Analyst",
+        "active": true,
+        "date_updated": 1781487201,
+        "date_posted": 1781485523,
+        "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11247",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "LEAP Legal Software",
+        "id": "579ac545-972a-424f-9eb8-b7a788226521",
+        "title": "Junior Data Quality Analyst",
+        "active": true,
+        "date_updated": 1781476922,
+        "date_posted": 1781474871,
+        "url": "https://apply.workable.com/leap-legal-software/j/0C6BF25348/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "iSoftStone",
         "id": "4282b7bc-e937-4fb3-ada2-0ae60bb50ff3",
@@ -554,6 +929,39 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "University of Maryland - College Park",
+        "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
+        "title": "ARLIS Artificial Intelligence Research Professional",
+        "active": true,
+        "date_updated": 1781430742,
+        "date_posted": 1781360162,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hyattsville, MD",
+                "normalized": {
+                    "city": "Hyattsville",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -1906,37 +2314,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Phillips 66",
-        "id": "e75ce752-4d23-47b5-b042-15ebc556d68b",
-        "title": "Advisor 1 - Data Science - Product Optimization",
-        "active": true,
-        "date_updated": 1781273661,
-        "date_posted": 1781273187,
-        "url": "https://careers.phillips66.com/job/Houston-Advisor-I,-Product-Optimization-(Data-Science)-TX-77042/1383744700/?ats=successfactors",
-        "locations": [
-            "Houston, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Houston, TX",
-                "normalized": {
-                    "city": "Houston",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -6134,7 +6511,7 @@
     {
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "1557a19a-986c-4ab5-a485-a5febb3f17fd",
+        "id": "6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
         "title": "Hardware Development Engineer - Wafer Optical Metrology",
         "active": true,
         "date_updated": 1781170202,
@@ -7102,37 +7479,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "051453da-6119-49e5-ba0c-150b4d284359",
-        "title": "IC Substrate Development Engineer",
-        "active": true,
-        "date_updated": 1781100737,
-        "date_posted": 1781100453,
-        "url": "https://careers.qorvo.com/job/Greensboro-IC-Substrate-Development-Engineer-NC-27409/1398411000/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Greensboro, NC",
-                "normalized": {
-                    "city": "Greensboro",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "National Basketball Association",
         "id": "eeafb88f-6083-45ab-8953-78087122346c",
         "title": "Utility",
@@ -7836,6 +8182,38 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Goldman Sachs",
+        "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
+        "title": "HCM Associate - Data Analytics and Reporting",
+        "active": true,
+        "date_updated": 1781187814,
+        "date_posted": 1781042930,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -9146,37 +9524,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Medtronic",
-        "id": "c525e0aa-a347-49c1-b32d-72025fc21e9f",
-        "title": "Product Engineer 1 - AiBLE Cranial & Spinal Technologies",
-        "active": true,
-        "date_updated": 1780960371,
-        "date_posted": 1780956577,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Product-Engineer-I---AiBLE-CST---Remote-within-USA_R66948",
-        "locations": [
-            "Lafayette, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lafayette, CO",
-                "normalized": {
-                    "city": "Lafayette",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Flashpoint",
         "id": "5b713b2a-17d1-419e-a53d-f04d5eb66da0",
@@ -9694,6 +10041,37 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "TTP",
+        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
+        "title": "FPGA Engineer - Consultant",
+        "active": true,
+        "date_updated": 1780927933,
+        "date_posted": 1780927489,
+        "url": "https://jobs.smartrecruiters.com/TTP1/744000130799419",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cambridge, UK",
+                "normalized": {
+                    "city": "Cambridge",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "BAE Systems",
         "id": "5ed438fb-5fdc-49d8-bce0-3159eb5fbd5a",
@@ -9766,79 +10144,6 @@
         "degrees": [
             "PhD",
             "JD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Johnson & Johnson",
-        "id": "4ff50867-f282-4038-9e52-4ae5ef1dede6",
-        "title": "R&D Applications",
-        "active": true,
-        "date_updated": 1780899121,
-        "date_posted": 1780898871,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/R-D-Applications_R-078334-1",
-        "locations": [
-            "West Chester, PA",
-            "Columbia City, IN",
-            "Bridgewater, MA",
-            "Palm Beach Gardens, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "West Chester, PA",
-                "normalized": {
-                    "city": "West Chester",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Columbia City, IN",
-                "normalized": {
-                    "city": "Columbia City",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Bridgewater, MA",
-                "normalized": {
-                    "city": "Bridgewater",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Palm Beach Gardens, FL",
-                "normalized": {
-                    "city": "Palm Beach Gardens",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -14591,35 +14896,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Best Buy",
-        "id": "4b18438a-8486-404c-bf8c-951ed22c7e5d",
-        "title": "Representative - Field Technical Service Representative - Des services techniques à domicile",
-        "active": true,
-        "date_updated": 1780352915,
-        "date_posted": 1780351608,
-        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11967-LaSalle/Reprsentant-e--des-services-techniques--domicile--Temps-plein----Field-Technical-Service-Representative--Full-Time-_R-50722",
-        "locations": [
-            "Dearborn, MI"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dearborn, MI",
-                "normalized": {
-                    "city": "Dearborn",
-                    "region": "Michigan",
-                    "region_code": "MI",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
         "company_name": "NRG Energy",
         "id": "89a1da11-034b-4548-9503-d12f1c46105d",
         "title": "Field Service Professional",
@@ -16293,53 +16569,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "93d05a3b-2bba-41e7-82de-b586a9f5b075",
-        "title": "Early Career Software Developer - Brake Controls and Diagnostics",
-        "active": true,
-        "date_updated": 1779920284,
-        "date_posted": 1779919570,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Brake-Controls-and-Diagnostics_JR-202611503",
-        "locations": [
-            "Markham, ON, Canada",
-            "Oshawa, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Markham, ON, Canada",
-                "normalized": {
-                    "city": "Markham",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Oshawa, ON, Canada",
-                "normalized": {
-                    "city": "Oshawa",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Halliburton",
         "id": "6db2a90f-7753-4e0c-aa18-c31f5d8069e3",
@@ -16716,6 +16945,37 @@
                     "region_code": "OR",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Wabtec",
+        "id": "58d0b6ca-a9a4-477a-a725-e2d3da87d7b8",
+        "title": "Product Support Engineer",
+        "active": true,
+        "date_updated": 1779872657,
+        "date_posted": 1779872657,
+        "url": "https://jobs.smartrecruiters.com/Wabtec/3743990012585977",
+        "locations": [
+            "Reading, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Reading, UK",
+                "normalized": {
+                    "city": "Reading",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -17285,6 +17545,37 @@
                     "region_code": null,
                     "country": "United Kingdom",
                     "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "cbc6aac8-b358-411d-941e-1be5063055df",
+        "title": "Wafer Manufacturing Equipment Engineer",
+        "active": true,
+        "date_updated": 1779822183,
+        "date_posted": 1779718197,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -23117,38 +23408,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
-        "id": "f83c59a8-334a-4f50-b577-a6ec4b0f73ba",
-        "title": "Machine Learning Engineer Graduate - Local Services Search",
-        "active": true,
-        "date_updated": 1778807521,
-        "date_posted": 1778807496,
-        "url": "https://lifeattiktok.com/search/7639825798757222661",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
         "id": "4d13318b-fed9-4599-9669-87364b53b1f0",
         "title": "Graduate Machine Learning Engineer - Local Services Search",
         "active": true,
@@ -23237,6 +23496,69 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
+        "title": "Software Engineer - Apps",
+        "active": true,
+        "date_updated": 1778807168,
+        "date_posted": 1778807101,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
+        "title": "Software Engineer - Apps & Firmware",
+        "active": true,
+        "date_updated": 1778807168,
+        "date_posted": 1778807100,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
         ]
     },
     {
@@ -23973,22 +24295,22 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "bc25a7fe-df7b-4d19-ba8b-97738d61a421",
-        "title": "Graduate Machine Learning Engineer - TikTok Data Search Basic Ranking",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
+        "title": "Software Engineer - Agentic AI Systems - Moveworks",
         "active": true,
-        "date_updated": 1778721254,
-        "date_posted": 1778721087,
-        "url": "https://lifeattiktok.com/search/7639440318003300613",
+        "date_updated": 1778720941,
+        "date_posted": 1778720777,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779",
         "locations": [
-            "San Jose, CA"
+            "Mountain View, CA"
         ],
         "normalized_locations": [
             {
-                "raw": "San Jose, CA",
+                "raw": "Mountain View, CA",
                 "normalized": {
-                    "city": "San Jose",
+                    "city": "Mountain View",
                     "region": "California",
                     "region_code": "CA",
                     "country": "United States",
@@ -23999,10 +24321,7 @@
                 "confidence": 1.0
             }
         ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "category": "Software",
@@ -24824,37 +25143,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "5e02390a-cb89-4c3e-bcb5-d9ef5ed73f13",
-        "title": "Software Engineer - Apps & Firmware",
-        "active": true,
-        "date_updated": 1778707982,
-        "date_posted": 1778623482,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126151504",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -29499,38 +29787,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Western Digital",
-        "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
-        "title": "Software Engineer - Apps",
-        "active": true,
-        "date_updated": 1777586761,
-        "date_posted": 1777586631,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Depop",
         "id": "304772b5-fd20-4392-beb0-df2ba3de1934",
         "title": "Associate Engineer",
@@ -29686,37 +29942,6 @@
     },
     {
         "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "ebda1cc1-7eda-446d-9c79-91bae02fa310",
-        "title": "Associate Software Engineer - Core Infrastructure",
-        "active": true,
-        "date_updated": 1777500361,
-        "date_posted": 1777500252,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123803504",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Wellmark",
         "id": "6b9b43b1-883b-4602-9e88-b3ac1cf2b2b1",
         "title": "Software Engineer",
@@ -29775,38 +30000,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "ce48ddb5-e8b7-4b5f-a82f-62cc7945f2b7",
-        "title": "Research Scientist - Tiktok Recommendation - Nextgen LLM",
-        "active": true,
-        "date_updated": 1777622221,
-        "date_posted": 1777425028,
-        "url": "https://lifeattiktok.com/search/7633605978976520453",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "PhD"
         ]
     },
     {
@@ -31274,38 +31467,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "f3916852-1757-4e3f-98ee-3c671cecfa94",
-        "title": "Machine Learning Engineer - Local Services Search",
-        "active": true,
-        "date_updated": 1776993121,
-        "date_posted": 1776993042,
-        "url": "https://lifeattiktok.com/search/7534641468595489032",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "RoboForce",
         "id": "32fb0fec-1af6-42ec-a08e-3b5f1086976f",
         "title": "Data Collection Operator",
@@ -31567,68 +31728,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "dbc1b4ce-18c5-46c3-a223-dde10ddb51f0",
-        "title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
-        "active": true,
-        "date_updated": 1776906721,
-        "date_posted": 1776906613,
-        "url": "https://lifeattiktok.com/search/7631070662808160565",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "7f7df86f-b755-44f7-b66d-492960736e29",
-        "title": "Research Scientist - Multimodal Generative AI - Intelligent Creation",
-        "active": true,
-        "date_updated": 1776906721,
-        "date_posted": 1776906607,
-        "url": "https://lifeattiktok.com/search/7631001669631789365",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -32664,37 +32763,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
-        "id": "d7f1b24a-b651-4239-81a5-05805190a745",
-        "title": "Research Scientist - Multiple Teams",
-        "active": true,
-        "date_updated": 1776406321,
-        "date_posted": 1776406269,
-        "url": "https://lifeattiktok.com/search/7629243930022267189",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
         "id": "cd59c8ab-bb78-4dc8-bd88-7203bb950533",
         "title": "Research Scientist - LLM Applications on Search/Ads/Recommendation",
         "active": true,
@@ -33518,40 +33586,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "ef45c2bb-b429-4621-a49e-6d2ab5d3abac",
-        "title": "Machine Learning Engineer - E-commerce Feed Recommendation",
-        "active": true,
-        "date_updated": 1776302289,
-        "date_posted": 1776301943,
-        "url": "https://lifeattiktok.com/search/7236829563632257337",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Formlabs",
         "id": "8eedcb0c-1e61-4946-adb6-24b1cf194d35",
@@ -33952,6 +33986,80 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780076703,
+        "date_posted": 1776118194,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+        "locations": [
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Mountain View, CA",
+                "normalized": {
+                    "city": "Mountain View",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "San Diego, CA",
+                "normalized": {
+                    "city": "San Diego",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Software",
@@ -36468,39 +36576,6 @@
     },
     {
         "category": "Software",
-        "company_name": "TikTok",
-        "id": "759bafd3-bdf7-4c43-ac55-adad6fea805c",
-        "title": "Software Engineer - Global CRM Platform",
-        "active": true,
-        "date_updated": 1775082781,
-        "date_posted": 1775081598,
-        "url": "https://lifeattiktok.com/search/7281061641377106234",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Aquatic Capital Management",
         "id": "d54312d4-b724-4f31-8edc-89a45c0f4ef5",
         "title": "Software Engineer – Early Career",
@@ -37538,7 +37613,7 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -38999,7 +39074,7 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -39724,6 +39799,38 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Arthur Grand Technologies",
+        "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
+        "title": "ERP Software Engineer",
+        "active": true,
+        "date_updated": 1773871479,
+        "date_posted": 1773871479,
+        "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
+        "locations": [
+            "Nebraska"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Nebraska",
+                "normalized": {
+                    "city": null,
+                    "region": "Nebraska",
+                    "region_code": "NE",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     },
     {
@@ -57715,70 +57822,41 @@
     {
         "category": "Software",
         "company_name": "TikTok",
-        "id": "c89f30a9-50c6-4081-bb5f-dc41eda3330b",
-        "title": "Software Engineer Graduate - Global CRM - 2026 Start','BS/MS",
-        "active": true,
-        "date_updated": 1761902291,
-        "date_posted": 1761902291,
-        "url": "https://lifeattiktok.com/search/7532009495959521554",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "d7a737ee-392f-4ed2-97f3-7b7b61ebefd5",
-        "title": "Graduate Software Engineer - Experimentation and Evaluation",
-        "active": true,
-        "date_updated": 1762929043,
-        "date_posted": 1761902290,
-        "url": "https://lifeattiktok.com/search/7533278507406182674",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
         "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
         "title": "Frontend Software Engineer - Global CRM Platform",
         "active": true,
         "date_updated": 1761902270,
         "date_posted": 1761902270,
         "url": "https://lifeattiktok.com/search/7104433489986734350",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "8b0f0a57-c19a-494c-9a6e-02dbae9af63b",
+        "title": "Graduate Research Scientist Generative AI - Intelligent Creation",
+        "active": true,
+        "date_updated": 1762916610,
+        "date_posted": 1761902269,
+        "url": "https://lifeattiktok.com/search/7517442299329300754",
         "locations": [
             "San Jose, CA"
         ],
@@ -58785,35 +58863,6 @@
     {
         "category": "Product",
         "company_name": "TikTok",
-        "id": "d4d1db91-a807-4bf9-a213-9aea65222efc",
-        "title": "Graduate Product Manager - Creative and Brand Innovation",
-        "active": true,
-        "date_updated": 1762923053,
-        "date_posted": 1761777061,
-        "url": "https://lifeattiktok.com/search/7537489406471604498",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Product",
-        "company_name": "TikTok",
         "id": "775950e7-6a55-4b1e-8404-d552f09b1618",
         "title": "Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation",
         "active": true,
@@ -59810,186 +59859,5 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "University of Maryland - College Park",
-        "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
-        "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": true,
-        "date_updated": 1760833192,
-        "date_posted": 1760833192,
-        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
-        "locations": [
-            "Hyattsville, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Hyattsville, MD",
-                "normalized": {
-                    "city": "Hyattsville",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
-        "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
-        "active": true,
-        "date_updated": 1760776181,
-        "date_posted": 1760776181,
-        "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pleasanton, CA",
-                "normalized": {
-                    "city": "Pleasanton",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
-        "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads",
-        "active": true,
-        "date_updated": 1760776171,
-        "date_posted": 1760776171,
-        "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Columbus, OH",
-                "normalized": {
-                    "city": "Columbus",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Veeva Systems",
-        "id": "5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
-        "title": "Marketing Analytics - Data Analyst - Adp",
-        "active": true,
-        "date_updated": 1760775379,
-        "date_posted": 1760775379,
-        "url": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "5e87eb4b-25a6-4c78-b01a-897e3f2a26b3",
-        "title": "Associate Software Engineer in Test",
-        "active": true,
-        "date_updated": 1762923291,
-        "date_posted": 1760775258,
-        "url": "https://jobs.lever.co/veeva/eea03b21-0e9e-467b-957d-31ba416b4016/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1760765120,
-        "date_posted": 1760765120,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     }
 ]
