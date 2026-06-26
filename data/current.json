@@ -1,6 +1,161 @@
 [
     {
         "category": "Hardware",
+        "company_name": "EOS IT Solutions",
+        "id": "8f953f48-f630-4a12-a1bf-80cfc39736bf",
+        "title": "Data Center Repair Technician 1 - Mal",
+        "active": true,
+        "date_updated": 1782426875,
+        "date_posted": 1782426483,
+        "url": "https://eosits.com/company/careers/?gh_jid=8609192002",
+        "locations": [
+            "Alabama"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Alabama",
+                "normalized": {
+                    "city": null,
+                    "region": "Alabama",
+                    "region_code": "AL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Four Hands",
+        "id": "e2d23a33-2859-4e62-a5a1-9d2672ebeb4e",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1782426622,
+        "date_posted": 1782426326,
+        "url": "https://job-boards.greenhouse.io/fourhands/jobs/4297618009",
+        "locations": [
+            "Austin, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Corning",
+        "id": "b04e012a-fae8-459e-99d0-b1378ab36891",
+        "title": "Software Engineer - CMMS Systems",
+        "active": true,
+        "date_updated": 1782367561,
+        "date_posted": 1782367506,
+        "url": "https://corningjobs.corning.com/job/Corning-Software-Engineer-(CMMS-Systems)-NY-14831/1403127800/?ats=successfactors",
+        "locations": [
+            "Elmira, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Elmira, NY",
+                "normalized": {
+                    "city": "Elmira",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Vanguard",
+        "id": "9d262d13-ffe1-474f-b058-87dc3ae93511",
+        "title": "Accelerated Career Development Program Senior Associate - Product Pathway",
+        "active": true,
+        "date_updated": 1782349892,
+        "date_posted": 1782349684,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Accelerated-Career-Development-Program--Product-Pathway--Senior-Associate--PA-_179571",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Malvern, PA",
+                "normalized": {
+                    "city": "Malvern",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "City and County of San Francisco",
+        "id": "1ad5e34b-7418-46fe-9725-948719ed2572",
+        "title": "Technology Engineer - Associate - Applications Specialty",
+        "active": true,
+        "date_updated": 1782349921,
+        "date_posted": 1782349560,
+        "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990013780745",
+        "locations": [
+            "SF"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "category": "Hardware",
         "company_name": "Graphcore",
         "id": "0813455c-27d0-4a9e-8972-ee868e70e7e9",
         "title": "Graduate SoC Architect",
@@ -309,37 +464,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Qualtrics",
-        "id": "6eab4c62-1932-4401-8372-fc19af756043",
-        "title": "Software Engineer 1 - Core Topics Platform",
-        "active": true,
-        "date_updated": 1782264111,
-        "date_posted": 1782263953,
-        "url": "https://www.qualtrics.com/careers/us/en/job/8018763?gh_jid=8018763",
-        "locations": [
-            "Provo, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Provo, UT",
-                "normalized": {
-                    "city": "Provo",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Hardware",
@@ -1919,6 +2043,37 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "2573aeed-7da0-4b44-b555-e95d00f6563b",
+        "title": "Software Engineering - Ignite Innovator Program",
+        "active": true,
+        "date_updated": 1782165961,
+        "date_posted": 1782165840,
+        "url": "https://careers-peraton.icims.com/jobs/167926/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Blacksburg, VA",
+                "normalized": {
+                    "city": "Blacksburg",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Merck",
         "id": "5fb9ef3d-9221-4ac1-8d52-a54859ec8b9c",
@@ -2299,37 +2454,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "e286f41d-d303-4de6-a4aa-dddb294ccdef",
-        "title": "ASIC FPGA Engineer – Entry Level",
-        "active": true,
-        "date_updated": 1782138686,
-        "date_posted": 1782137114,
-        "url": "https://careers-gdms.icims.com/jobs/73210/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bloomington, MN",
-                "normalized": {
-                    "city": "Bloomington",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -8551,37 +8675,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "8ff8737a-af04-4d5b-82c5-7b092a7f21f9",
-        "title": "Associate Data Engineer 1",
-        "active": true,
-        "date_updated": 1781650018,
-        "date_posted": 1781647526,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013652366",
-        "locations": [
-            "Vernon Hills, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Vernon Hills, IL",
-                "normalized": {
-                    "city": "Vernon Hills",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -28275,51 +28368,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Dataminr",
-        "id": "dca7dbef-1dae-40d7-8818-e97f1b7be751",
-        "title": "Domain Expert Associate",
-        "active": true,
-        "date_updated": 1778943568,
-        "date_posted": 1778942470,
-        "url": "https://dataminr.wd12.myworkdayjobs.com/Dataminr/job/UK---Remote/Associate--Domain-Expert---MENA_JR2019",
-        "locations": [
-            "Remote in UK",
-            "Remote in Ireland"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Ireland",
-                "normalized": {
-                    "city": "Remote In Ireland",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -60423,35 +60471,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Neuralink",
-        "id": "99474a33-55ff-4529-a48c-0370290c7f03",
-        "title": "Manufacturing Technician",
-        "active": true,
-        "date_updated": 1763087299,
-        "date_posted": 1763087299,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/6258222003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
         "id": "4b1bda7c-4e81-4252-b017-347c603d1df4",
@@ -62688,35 +62707,6 @@
                     "city": "Sarasota",
                     "region": "Florida",
                     "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Aechelon Technology",
-        "id": "7c42ab1d-dcd8-4d75-be34-17361cafdc12",
-        "title": "Geotypical Production Analyst 1",
-        "active": true,
-        "date_updated": 1761942896,
-        "date_posted": 1761619994,
-        "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4606307008",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Bruno, CA",
-                "normalized": {
-                    "city": "San Bruno",
-                    "region": "California",
-                    "region_code": "CA",
                     "country": "United States",
                     "country_code": "US"
                 },
