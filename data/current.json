@@ -1,5 +1,34 @@
 [
     {
+        "category": "Software",
+        "company_name": "Abound",
+        "id": "cf8ea2c6-a348-46f3-ba15-de86844650e5",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1782483121,
+        "date_posted": 1782482870,
+        "url": "https://jobs.ashbyhq.com/Abound/7ae69c2b-1dae-40c6-a5b2-8f5b42157263/application",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "EOS IT Solutions",
         "id": "8f953f48-f630-4a12-a1bf-80cfc39736bf",
@@ -60,6 +89,35 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Strata Decision Technology",
+        "id": "9c3e5c8b-b509-484a-ab45-27aa8cf7cc88",
+        "title": "Data Integration Analyst",
+        "active": true,
+        "date_updated": 1782426593,
+        "date_posted": 1782425960,
+        "url": "https://job-boards.greenhouse.io/stratacareers/jobs/7784495003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Software",
@@ -15242,35 +15300,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Innodata",
-        "id": "3fc5e95a-fb0f-407f-98df-5037d1114dd9",
-        "title": "Generative AI Annotator",
-        "active": true,
-        "date_updated": 1781170923,
-        "date_posted": 1781169535,
-        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4234815009",
-        "locations": [
-            "Texas"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Texas",
-                "normalized": {
-                    "city": null,
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -54699,6 +54728,37 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Shift",
+        "id": "55c4cf2d-b5d2-445e-b104-ba4e1afdcee9",
+        "title": "Graduate Data Scientist",
+        "active": true,
+        "date_updated": 1782275690,
+        "date_posted": 1770678777,
+        "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Snap",
         "id": "ec986f16-6360-42fc-a3b8-2b31ac65ad50",
@@ -62568,149 +62628,6 @@
                     "country_code": "US"
                 },
                 "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "7bbdeb3a-5769-49bb-bd2e-f1d3c99732e6",
-        "title": "Electronic Trading Support Engineer",
-        "active": true,
-        "date_updated": 1761769051,
-        "date_posted": 1761769051,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6575600",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Shift",
-        "id": "55c4cf2d-b5d2-445e-b104-ba4e1afdcee9",
-        "title": "Graduate Data Scientist",
-        "active": true,
-        "date_updated": 1761764857,
-        "date_posted": 1761764857,
-        "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "a88cb225-af03-4d24-9a0b-4e4f43806682",
-        "title": "Minor League Affiliate Technology Coordinator",
-        "active": true,
-        "date_updated": 1761723304,
-        "date_posted": 1761723304,
-        "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5650705004",
-        "locations": [
-            "Salisbury, MD",
-            "Frederick, MD",
-            "Bowie, MD",
-            "Norfolk, VA",
-            "Sarasota, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Salisbury, MD",
-                "normalized": {
-                    "city": "Salisbury",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Frederick, MD",
-                "normalized": {
-                    "city": "Frederick",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Bowie, MD",
-                "normalized": {
-                    "city": "Bowie",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Norfolk, VA",
-                "normalized": {
-                    "city": "Norfolk",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Sarasota, FL",
-                "normalized": {
-                    "city": "Sarasota",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
             }
