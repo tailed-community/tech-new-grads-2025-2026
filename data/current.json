@@ -1,6 +1,348 @@
 [
     {
         "category": "Software",
+        "company_name": "Cox",
+        "id": "05815051-0821-4191-949b-c618f3a8d36e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1782598292,
+        "date_posted": 1782598083,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352",
+        "locations": [
+            "Austin, TX",
+            "Burlington, VT",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Burlington, VT",
+                "normalized": {
+                    "city": "Burlington",
+                    "region": "Vermont",
+                    "region_code": "VT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "86dca459-da2d-4783-b392-328d701e4737",
+        "title": "Packaging Engineer",
+        "active": true,
+        "date_updated": 1782569523,
+        "date_posted": 1782569346,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Packaging-Engineer_R263608",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "7d4e70c6-0b17-4ce9-b7bd-e3bc913a449b",
+        "title": "Senior Data Scientist",
+        "active": true,
+        "date_updated": 1782569636,
+        "date_posted": 1782569322,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Sr-Data-Scientist_R65511",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hoffman Estates, IL",
+                "normalized": {
+                    "city": "Hoffman Estates",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "401ae4e3-b75b-4dec-9758-78342889359f",
+        "title": "Women in Engineering Community",
+        "active": true,
+        "date_updated": 1782559981,
+        "date_posted": 1782559650,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Women-in-Engineering-Community_R23836",
+        "locations": [
+            "Letchworth Garden City, UK",
+            "Bristol, UK",
+            "Bolton, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Letchworth Garden City, UK",
+                "normalized": {
+                    "city": "Letchworth Garden City",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Bristol, UK",
+                "normalized": {
+                    "city": "Bristol",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Bolton, UK",
+                "normalized": {
+                    "city": "Bolton",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "0884f955-5b07-4929-95e0-f6015ea9779c",
+        "title": "Data Conversion Manager - Stock Plan Services",
+        "active": true,
+        "date_updated": 1782560419,
+        "date_posted": 1782559128,
+        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Data-Conversion-Manager---Stock-Plan-Services_2125453-1",
+        "locations": [
+            "Westlake, TX",
+            "Smithfield, RI",
+            "Merrimack, NH",
+            "Cincinnati, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Westlake, TX",
+                "normalized": {
+                    "city": "Westlake",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Smithfield, RI",
+                "normalized": {
+                    "city": "Smithfield",
+                    "region": "Rhode Island",
+                    "region_code": "RI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Merrimack, NH",
+                "normalized": {
+                    "city": "Merrimack",
+                    "region": "New Hampshire",
+                    "region_code": "NH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Cincinnati, OH",
+                "normalized": {
+                    "city": "Cincinnati",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "dcf2f297-91c2-46cb-b09f-128d54efcee1",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554221,
+        "date_posted": 1782554197,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228296008",
+        "locations": [
+            "LA",
+            "Atlanta, GA",
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "a7f0b305-ac90-4ccf-aa96-0d45f87c4bfc",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1782522541,
+        "date_posted": 1782522450,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66197",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Plantation, FL",
+                "normalized": {
+                    "city": "Plantation",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Abound",
         "id": "cf8ea2c6-a348-46f3-ba15-de86844650e5",
         "title": "Graduate Software Engineer",
@@ -10051,6 +10393,35 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Coder",
+        "id": "00ee7d1f-2349-43a4-a7ab-cf16f1fd16a3",
+        "title": "Revenue Workflow Engineer",
+        "active": true,
+        "date_updated": 1782549001,
+        "date_posted": 1781638963,
+        "url": "https://jobs.ashbyhq.com/Coder/f86d9ca6-1a46-4594-91a7-c955904ced49/application",
+        "locations": [
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "bfdfce9a-7e6d-4c6e-a3d0-56b6db119f13",
@@ -11392,81 +11763,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "4da0e478-11a4-4860-a88f-c68471e9b088",
-        "title": "Principal Cyber Software Engineer",
-        "active": true,
-        "date_updated": 1781369101,
-        "date_posted": 1781362538,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Principal-Cyber-Software-Engineer_R10234421",
-        "locations": [
-            "Aurora, CO",
-            "Morrisville, NC",
-            "Annapolis Junction, MD",
-            "San Antonio, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Aurora, CO",
-                "normalized": {
-                    "city": "Aurora",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Morrisville, NC",
-                "normalized": {
-                    "city": "Morrisville",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Annapolis Junction, MD",
-                "normalized": {
-                    "city": "Annapolis Junction",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Antonio, TX",
-                "normalized": {
-                    "city": "San Antonio",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -17922,6 +18218,35 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Bose",
+        "id": "b9fe86b3-9c62-49fa-8137-0d4b93673399",
+        "title": "PCB Solder Technician 1",
+        "active": true,
+        "date_updated": 1781044607,
+        "date_posted": 1781042840,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Binghamton/Solder-Technician-I_R29023",
+        "locations": [
+            "Binghamton, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Binghamton, NY",
+                "normalized": {
+                    "city": "Binghamton",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -42182,35 +42507,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Stoke Space",
-        "id": "01ecb28e-5df8-49be-99af-ec35f7bc9113",
-        "title": "Assembly Technician - Nondestructive Testing",
-        "active": true,
-        "date_updated": 1775004841,
-        "date_posted": 1774995320,
-        "url": "https://stokespace.com/careers/current-openings?gh_jid=5840929004",
-        "locations": [
-            "Kent, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Kent, WA",
-                "normalized": {
-                    "city": "Kent",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "ceeffc80-3190-4538-b7e8-e58617d6dcd9",
         "title": "Design Validation Product Engineer - DEG Technology",
@@ -44060,35 +44356,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Matic",
-        "id": "e74e3fc9-35d6-462a-9f2c-ad5c20129ded",
-        "title": "Hardware Technician",
-        "active": true,
-        "date_updated": 1774342019,
-        "date_posted": 1774342019,
-        "url": "https://jobs.ashbyhq.com/MaticRobots/7cc3217c-b770-4fa9-888f-dd748cfe4863/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Software",
         "company_name": "Leidos",
         "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
@@ -45001,6 +45268,35 @@
                     "country_code": "GB"
                 },
                 "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Cresta",
+        "id": "04c01830-5699-406f-80fb-928762e20887",
+        "title": "Conversational AI Designer Associate",
+        "active": true,
+        "date_updated": 1779326358,
+        "date_posted": 1773843377,
+        "url": "https://job-boards.greenhouse.io/cresta/jobs/4970396008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
                 "unresolved": false,
                 "confidence": 1.0
             }
@@ -62138,496 +62434,6 @@
                     "country_code": "US"
                 },
                 "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "BNY",
-        "id": "beb85000-e9bb-4d9f-8ff1-5ed1fd4953c7",
-        "title": "BNY Analyst Program",
-        "active": true,
-        "date_updated": 1763119751,
-        "date_posted": 1761874513,
-        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/69723",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Manchester, UK",
-                "normalized": {
-                    "city": "Manchester",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "BNY",
-        "id": "9f7190aa-23b9-4618-946d-1996522e0545",
-        "title": "2026 BNY Analyst Program - Engineering Data Science - Manchester",
-        "active": true,
-        "date_updated": 1761874512,
-        "date_posted": 1761874512,
-        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/69714",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Manchester, UK",
-                "normalized": {
-                    "city": "Manchester",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Edgestream",
-        "id": "8d0a5dfb-f535-41f1-a065-9752e2bff41a",
-        "title": "Quantitative Software Engineer",
-        "active": true,
-        "date_updated": 1776161170,
-        "date_posted": 1761874355,
-        "url": "https://www.edgestreamlp.com/career?gh_jid=4163341003",
-        "locations": [
-            "Princeton, NJ",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Princeton, NJ",
-                "normalized": {
-                    "city": "Princeton",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Verition Fund Management",
-        "id": "529088d2-2f82-4a9f-a1b3-fb9342a3144b",
-        "title": "Quantitative Developer",
-        "active": true,
-        "date_updated": 1761872543,
-        "date_posted": 1761872543,
-        "url": "https://www.verition.com/open-positions?gh_jid=4011276007",
-        "locations": [
-            "London, UK",
-            "Waterbury, CT",
-            "Dubai - United Arab Emirates",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Waterbury, CT",
-                "normalized": {
-                    "city": "Waterbury",
-                    "region": "Connecticut",
-                    "region_code": "CT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Dubai - United Arab Emirates",
-                "normalized": {
-                    "city": "Dubai - United Arab Emirates",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Whoop",
-        "id": "e0da206b-f1c0-4af9-9fa2-f7d209331585",
-        "title": "Android Engineer 1 - Growth",
-        "active": true,
-        "date_updated": 1761939114,
-        "date_posted": 1761871964,
-        "url": "https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "af8f1713-cafe-4400-b4bf-3eb36859265a",
-        "title": "Software Engineer – New Grad - AI Platform",
-        "active": true,
-        "date_updated": 1761871643,
-        "date_posted": 1761871643,
-        "url": "https://nuro.ai/careersitem?gh_jid=7351066",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mountain View, CA",
-                "normalized": {
-                    "city": "Mountain View",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Red Ventures",
-        "id": "616767b4-62ce-4140-93d3-d09b3837a73e",
-        "title": "Associate Data Science Product Manager",
-        "active": true,
-        "date_updated": 1761935598,
-        "date_posted": 1761871161,
-        "url": "https://www.redventures.com/careers/positions/open?gh_jid=7279145",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Citadel Securities",
-        "id": "f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
-        "title": "Machine Learning Researcher – PhD Graduate - US",
-        "active": true,
-        "date_updated": 1764160431,
-        "date_posted": 1761871130,
-        "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Miami, FL",
-                "normalized": {
-                    "city": "Miami",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Citadel Securities",
-        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
-        "title": "Software Engineer – University Graduate - US",
-        "active": true,
-        "date_updated": 1764581908,
-        "date_posted": 1761871128,
-        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Miami, FL",
-                "normalized": {
-                    "city": "Miami",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "ae5bd7a0-0600-42d1-b21c-5a645b496968",
-        "title": "Quantitative Researcher PhD Graduate - US",
-        "active": true,
-        "date_updated": 1764276643,
-        "date_posted": 1761871122,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Miami, FL",
-                "normalized": {
-                    "city": "Miami",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
-        "title": "Associate Software Engineer in Test",
-        "active": true,
-        "date_updated": 1761869657,
-        "date_posted": 1761869657,
-        "url": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pleasanton, CA",
-                "normalized": {
-                    "city": "Pleasanton",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Boston Scientific",
-        "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
-        "title": "Software Development - 1 - Engineering",
-        "active": true,
-        "date_updated": 1761833023,
-        "date_posted": 1761833023,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Waltham, MA",
-                "normalized": {
-                    "city": "Waltham",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Cresta",
-        "id": "04c01830-5699-406f-80fb-928762e20887",
-        "title": "Associate Conversational AI Designer",
-        "active": true,
-        "date_updated": 1761811635,
-        "date_posted": 1761811635,
-        "url": "https://job-boards.greenhouse.io/cresta/jobs/4970396008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
                 "unresolved": false,
                 "confidence": 1.0
             }
