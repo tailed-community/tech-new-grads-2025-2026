@@ -1,5 +1,144 @@
 [
     {
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "779500d0-29b5-4c6f-8df1-fc747c1faa1d",
+        "title": "Test and Inspection Embedded Software Engineer-Entry Level",
+        "active": true,
+        "date_updated": 1782684541,
+        "date_posted": 1782684477,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Test-and-Inspection-Embedded-Software-Engineer-Entry-Level_JR2026516830-1",
+        "locations": [
+            "St. Louis, MO",
+            "Hazelwood, MO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "St. Louis, MO",
+                "normalized": {
+                    "city": "St. Louis",
+                    "region": "Missouri",
+                    "region_code": "MO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Hazelwood, MO",
+                "normalized": {
+                    "city": "Hazelwood",
+                    "region": "Missouri",
+                    "region_code": "MO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Liberty University",
+        "id": "2fe92303-968c-4eff-89cc-b77df2c78a49",
+        "title": "Business Data Analyst 1",
+        "active": true,
+        "date_updated": 1782684223,
+        "date_posted": 1782684064,
+        "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/Business-Data-Analyst-I_R0010425-1",
+        "locations": [
+            "Lynchburg, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lynchburg, VA",
+                "normalized": {
+                    "city": "Lynchburg",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "168cd950-f4e0-4aa1-8ace-a28ab856942d",
+        "title": "Associate Insights Analyst",
+        "active": true,
+        "date_updated": 1782638101,
+        "date_posted": 1782637456,
+        "url": "https://careers-cotiviti.icims.com/jobs/19527/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "55e07ebd-156d-42a6-8571-f3837a558d5d",
+        "title": "Analyst – Insurance Benchmark - BCG Vantage",
+        "active": true,
+        "date_updated": 1782609203,
+        "date_posted": 1782608989,
+        "url": "https://careers.bcg.com/global/en/job/58365",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Neukirchen-Vluyn, Germany",
+                "normalized": {
+                    "city": "Neukirchen-vluyn",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Germany",
+                    "country_code": "DE"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Cox",
         "id": "05815051-0821-4191-949b-c618f3a8d36e",
@@ -252,6 +391,71 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "KLA Corporation",
+        "id": "ea6ef50e-2bca-4a9a-be3e-1f91bc32ca03",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1782556632,
+        "date_posted": 1782555679,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Sr-Software-Engineer_2638120",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Milpitas, CA",
+                "normalized": {
+                    "city": "Milpitas",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "KLA Corporation",
+        "id": "4210520a-e30a-4e55-aad9-c41a24fcc119",
+        "title": "Fleet Engineer",
+        "active": true,
+        "date_updated": 1782556562,
+        "date_posted": 1782555677,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Phoenix, AZ",
+                "normalized": {
+                    "city": "Phoenix",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Burson",
         "id": "dcf2f297-91c2-46cb-b09f-128d54efcee1",
@@ -309,6 +513,497 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "954f5e31-206c-4b09-a262-77c8897ff4c4",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554221,
+        "date_posted": 1782554197,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228298008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "91f45fd8-8b61-4938-8d2d-577465584661",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554221,
+        "date_posted": 1782554197,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228291008",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "d0cbe23e-664e-4ca7-99c8-f5208b427d48",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554221,
+        "date_posted": 1782554197,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228280008",
+        "locations": [
+            "LA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "58b6745e-5365-40e4-81a3-7e9da457f804",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554221,
+        "date_posted": 1782554190,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228290008",
+        "locations": [
+            "LA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "afc84c6c-c552-4196-9136-2b81462c1693",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554581,
+        "date_posted": 1782554190,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228295008",
+        "locations": [
+            "Austin, TX",
+            "LA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "bd03646e-eab7-4230-8b1c-6922a6b1d842",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554581,
+        "date_posted": 1782554189,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228301008",
+        "locations": [
+            "Miami, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Miami, FL",
+                "normalized": {
+                    "city": "Miami",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "b4787dd0-248c-4c0c-9337-23005b08375b",
+        "title": "Associate Analyst - Insights - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554221,
+        "date_posted": 1782554189,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228302008",
+        "locations": [
+            "LA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "de60296f-9957-42fb-b728-3d4c4e3a4135",
+        "title": "Insights Analyst - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782557133,
+        "date_posted": 1782554185,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228344008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Burson",
+        "id": "97b8efc2-68af-4e34-a125-987b30785e1f",
+        "title": "Insights Analyst - Data & Intelligence",
+        "active": true,
+        "date_updated": 1782554427,
+        "date_posted": 1782554184,
+        "url": "https://www.bursonglobal.com/careers/jobs?gh_jid=5228309008",
+        "locations": [
+            "LA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Sphere Entertainment Co.",
+        "id": "fb48ec24-696f-4775-ab88-48481478b555",
+        "title": "Sphere Technology Operations Graduate Student Associate Program",
+        "active": true,
+        "date_updated": 1782523313,
+        "date_posted": 1782523101,
+        "url": "https://www.sphereentertainmentco.com/job/5165400007?gh_jid=5165400007",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Burbank, CA",
+                "normalized": {
+                    "city": "Burbank",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "7abbd8da-6283-4bdc-93ed-8bd41b98e7bc",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1782522721,
+        "date_posted": 1782522563,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Carmel-IN---USA/Electronics-Technician_J000700218",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Carmel, IN",
+                "normalized": {
+                    "city": "Carmel",
+                    "region": "Indiana",
+                    "region_code": "IN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -866,37 +1561,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "3M",
-        "id": "97a401ee-e4b6-44f0-a1ab-2b899e57c601",
-        "title": "Fiber Optic Testing Technician - Expanded Beam Optics",
-        "active": true,
-        "date_updated": 1782263521,
-        "date_posted": 1782263445,
-        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Texas-Austin/Fiber-Optic-Testing-Technician----Expanded-Beam-Optics_R01167149",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Honeywell",
         "id": "8625f8ce-59cc-4216-9db0-43314f6c866f",
@@ -1094,63 +1758,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "f1abbff9-d522-4136-8378-82f66c4f851f",
-        "title": "SaaS Security Posture Management Associate Developer",
-        "active": true,
-        "date_updated": 1782253317,
-        "date_posted": 1782252411,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/SaaS-Security-Posture-Management-Associate-Developer_178462-2",
-        "locations": [
-            "Dallas, TX",
-            "Malvern, PA",
-            "Charlotte, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Malvern, PA",
-                "normalized": {
-                    "city": "Malvern",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Microchip Technology",
         "id": "af5bc18c-6ddf-40af-b98a-7daf01cb9cd5",
@@ -1169,101 +1776,6 @@
                     "city": "Colorado Springs",
                     "region": "Colorado",
                     "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Texas A&M University System",
-        "id": "5067c41a-3381-4492-9b27-bd43002abb8d",
-        "title": "Software Applications Developer 1",
-        "active": true,
-        "date_updated": 1782252653,
-        "date_posted": 1782252274,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Software-Applications-Developer-I_R-094387",
-        "locations": [
-            "College Station, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "College Station, TX",
-                "normalized": {
-                    "city": "College Station",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Ameresco",
-        "id": "881fce67-4799-4f24-b95e-e555622669f6",
-        "title": "Distributed Energy Resources Monitoring Platform Technician",
-        "active": true,
-        "date_updated": 1782252595,
-        "date_posted": 1782252240,
-        "url": "https://ameresco.wd5.myworkdayjobs.com/en-US/Ameresco/job/United-States---Connecticut---Waterbury/DER-Monitoring-Platform-Technician_R3880",
-        "locations": [
-            "Waterbury, CT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Waterbury, CT",
-                "normalized": {
-                    "city": "Waterbury",
-                    "region": "Connecticut",
-                    "region_code": "CT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Louisiana State University (LSU)",
-        "id": "807c6824-c7d0-4b9d-bda1-bafe7c681f34",
-        "title": "Wages as Earned Research",
-        "active": true,
-        "date_updated": 1782252536,
-        "date_posted": 1782252192,
-        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/3255-Patrick-F-Taylor-Hall/WAE---Research_R00116663",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Baton Rouge, LA",
-                "normalized": {
-                    "city": "Baton Rouge",
-                    "region": "Louisiana",
-                    "region_code": "LA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -2192,37 +2704,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "WellSky",
-        "id": "e93e54ef-8346-4df2-bd91-dd2a9f14956a",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1782166333,
-        "date_posted": 1782166129,
-        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---Onsite_JR4907",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Overland Park, KS",
-                "normalized": {
-                    "city": "Overland Park",
-                    "region": "Kansas",
-                    "region_code": "KS",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Draper",
         "id": "89d1bccd-2b24-401a-af31-daa233ff2c6d",
@@ -2783,37 +3264,6 @@
                     "city": "Bellevue",
                     "region": "Washington",
                     "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Broadview Federal Credit Union",
-        "id": "30ae5e0c-0c23-455c-ab4a-85b5d8f32999",
-        "title": "Digital Operations Analyst",
-        "active": true,
-        "date_updated": 1782138241,
-        "date_posted": 1782137170,
-        "url": "https://broadviewfcu.wd1.myworkdayjobs.com/broadviewfcucareers/job/Albany-NY/Digital-Operations-Analyst_R4023",
-        "locations": [
-            "Albany, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Albany, NY",
-                "normalized": {
-                    "city": "Albany",
-                    "region": "New York",
-                    "region_code": "NY",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -3702,37 +4152,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "6d7ca563-b2d7-4ae3-b54f-634c23260ab1",
-        "title": "Technician - Assembly & Integration",
-        "active": true,
-        "date_updated": 1781957161,
-        "date_posted": 1781952779,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/Technician---Assembly---Integration_R64420",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Huntsville, AL",
-                "normalized": {
-                    "city": "Huntsville",
-                    "region": "Alabama",
-                    "region_code": "AL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Quant",
         "company_name": "UBS",
         "id": "0f790154-b110-4193-a208-d4dbbc2dad5c",
@@ -4551,37 +4970,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "PIMCO",
-        "id": "746805fc-c4a4-4947-a1d2-05472f648692",
-        "title": "Client Solutions & Analytics: Quantitative Research Analyst",
-        "active": true,
-        "date_updated": 1781878862,
-        "date_posted": 1781878332,
-        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106487",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Euronext",
         "id": "75579fb2-1954-42b9-af73-33352d8cd36c",
@@ -5042,80 +5430,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Charles Schwab",
-        "id": "13a85fb0-9dcd-4897-b408-3c2765cdddb2",
-        "title": "Software Engineer-Investment Research and Data",
-        "active": true,
-        "date_updated": 1781831341,
-        "date_posted": 1781831336,
-        "url": "https://career-schwab.icims.com/jobs/123172/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF",
-            "Chicago, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Everfox",
-        "id": "3d705558-a644-486b-94b4-cf1a5a0ae33f",
-        "title": "Electronics Lab Technician",
-        "active": true,
-        "date_updated": 1781831341,
-        "date_posted": 1781831323,
-        "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/UK---London/Electronics-Lab-Technician_JR500667-3",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "onsemi",
         "id": "c52c9660-6b5a-4d81-8726-1aaadb40d61d",
@@ -5210,37 +5524,6 @@
             "Master's",
             "MBA",
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "d65dab2c-bc6a-4ab2-9085-1294ba438fb0",
-        "title": "Associate Data Scientist 1",
-        "active": true,
-        "date_updated": 1781831534,
-        "date_posted": 1781831176,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013697956",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Waukegan, IL",
-                "normalized": {
-                    "city": "Waukegan",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -7609,37 +7892,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "MedImpact",
-        "id": "2af8cb22-829c-4e04-baef-e8e9657aeb03",
-        "title": "Full Stack Software Engineer 1",
-        "active": true,
-        "date_updated": 1781736732,
-        "date_posted": 1781733708,
-        "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Software-Engineer-I_JR102576",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Diego, CA",
-                "normalized": {
-                    "city": "San Diego",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "CACI",
         "id": "0f6b4bf4-57f6-488e-8464-a006de3c43e2",
@@ -9456,97 +9708,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "SWBC",
-        "id": "35272aab-3305-4804-bcac-ac832e312e50",
-        "title": "Data Analyst",
-        "active": true,
-        "date_updated": 1781646858,
-        "date_posted": 1781639379,
-        "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Data-Analyst_R0015059-1",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Antonio, TX",
-                "normalized": {
-                    "city": "San Antonio",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "22d6db5a-03d6-40ab-a4e9-3fdc8f3423bd",
-        "title": "Software Engineer - Commercial Modification",
-        "active": true,
-        "date_updated": 1781646858,
-        "date_posted": 1781639378,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/GBR---Bristol-UK/Software-Engineer---Commercial-Modification--Associate-or-Experienced-level-_JR2026514887-1",
-        "locations": [
-            "Bristol, UK",
-            "Fleet, UK",
-            "Camberley, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bristol, UK",
-                "normalized": {
-                    "city": "Bristol",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Fleet, UK",
-                "normalized": {
-                    "city": "Fleet",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Camberley, UK",
-                "normalized": {
-                    "city": "Camberley",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Oregon State Government",
         "id": "e317bbf2-88a5-4e4c-953c-717c4ce2b45b",
         "title": "Research Analyst 2",
@@ -9730,38 +9891,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "David Yurman",
-        "id": "55937315-45fc-45b9-93e7-5df6a0795829",
-        "title": "Work Experience Associate",
-        "active": true,
-        "date_updated": 1781646858,
-        "date_posted": 1781639334,
-        "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Work-Experience-Associate_R-100839-1",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -10906,6 +11035,38 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
+        "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
+        "active": true,
+        "date_updated": 1781648474,
+        "date_posted": 1781638708,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "f92c4648-8678-4153-9046-05983c760ad9",
@@ -11237,6 +11398,101 @@
         "degrees": []
     },
     {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c89cddfc-ea4d-453c-91cd-3f9293e56a32",
+        "title": "Software Engineer - Data Arch - Data Ecosystem",
+        "active": true,
+        "date_updated": 1781504989,
+        "date_posted": 1781503952,
+        "url": "https://lifeattiktok.com/search/7527441329384147208",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "f65a57de-c5dd-4b3b-bfdf-5331d7a423c8",
+        "title": "Graduate Software Engineer - Data Arch - AI/ML Infrastructure",
+        "active": true,
+        "date_updated": 1781504983,
+        "date_posted": 1781503951,
+        "url": "https://lifeattiktok.com/search/7535215880842791176",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "7a8c16e6-b29e-441d-9635-d193fe1c96fa",
+        "title": "Software Engineer Graduate",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503937,
+        "url": "https://lifeattiktok.com/search/7531175534148045063",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "cba3f10a-54b4-46e8-b274-6000b2fccc5a",
@@ -11302,6 +11558,37 @@
     {
         "category": "AI/ML/Data",
         "company_name": "TikTok",
+        "id": "8b0f0a57-c19a-494c-9a6e-02dbae9af63b",
+        "title": "Research Scientist in Generative AI - Intelligent Creation",
+        "active": true,
+        "date_updated": 1781505062,
+        "date_posted": 1781503926,
+        "url": "https://lifeattiktok.com/search/7517442299329300754",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
         "id": "63b0ab3f-3419-4c66-98d1-4d51309dafb7",
         "title": "Graduate Research Scientist - Trust and Safety",
         "active": true,
@@ -11340,6 +11627,37 @@
         "date_updated": 1781504821,
         "date_posted": 1781503905,
         "url": "https://lifeattiktok.com/search/7389873473475479817",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
+        "title": "Frontend Software Engineer - Global CRM Platform",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503901,
+        "url": "https://lifeattiktok.com/search/7104433489986734350",
         "locations": [
             "San Jose, CA"
         ],
@@ -12120,37 +12438,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "25558e16-60a6-465c-b61b-590cf586826c",
-        "title": "Clean Room Technician - Clean Room",
-        "active": true,
-        "date_updated": 1781354207,
-        "date_posted": 1781346122,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Technician---Clean-Room_R65627",
-        "locations": [
-            "Washington"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington",
-                "normalized": {
-                    "city": null,
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -12996,38 +13283,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "General Dynamics",
-        "id": "32769fa5-0ef4-46f4-b13f-9b3dccca0acc",
-        "title": "Main Propulsion Motor Drives - Multiple Teams",
-        "active": true,
-        "date_updated": 1781273961,
-        "date_posted": 1781273294,
-        "url": "https://careers-gdeb.icims.com/jobs/19443/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Groton, CT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Groton, CT",
-                "normalized": {
-                    "city": "Groton",
-                    "region": "Connecticut",
-                    "region_code": "CT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "AlphaSights",
         "id": "d6d02f1d-f30b-49c8-9c02-5212411721fb",
@@ -13856,6 +14111,38 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Crowdstrike",
+        "id": "ee1d95b8-23da-4d71-b6ab-b01f8da2891c",
+        "title": "Engineer 1 New Grad - Agentic AI",
+        "active": true,
+        "date_updated": 1781215846,
+        "date_posted": 1781215485,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I---New-Grad--Agentic-AI--Hybrid-_R29022",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sunnyvale, CA",
+                "normalized": {
+                    "city": "Sunnyvale",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -15600,35 +15887,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Innodata",
-        "id": "140f7108-6b14-4627-be8a-936e612dd22b",
-        "title": "Generative AI Annotator",
-        "active": true,
-        "date_updated": 1781170202,
-        "date_posted": 1781169535,
-        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4234821009",
-        "locations": [
-            "Wyoming"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Wyoming",
-                "normalized": {
-                    "city": null,
-                    "region": "Wyoming",
-                    "region_code": "WY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Innodata",
         "id": "f298c2cb-f7cd-478c-bdab-1eaed9860a3c",
         "title": "Data Annotation Specialist",
         "active": true,
@@ -15654,37 +15912,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Innodata",
-        "id": "c92a0407-cf7d-4d81-999b-93dbf48139a3",
-        "title": "Data Annotation Specialist",
-        "active": true,
-        "date_updated": 1781170202,
-        "date_posted": 1781169535,
-        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232528009",
-        "locations": [
-            "Concord, NH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Concord, NH",
-                "normalized": {
-                    "city": "Concord",
-                    "region": "New Hampshire",
-                    "region_code": "NH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -15898,35 +16125,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Innodata",
-        "id": "d96674f2-4fbb-4eb2-a0f5-96cfeed2f571",
-        "title": "Data Annotation Specialist",
-        "active": true,
-        "date_updated": 1781170202,
-        "date_posted": 1781169534,
-        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232501009",
-        "locations": [
-            "Louisiana"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Louisiana",
-                "normalized": {
-                    "city": null,
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -16346,35 +16544,6 @@
     {
         "category": "AI/ML/Data",
         "company_name": "Innodata",
-        "id": "3b2dd727-1374-4160-b486-b2f756445ba4",
-        "title": "Artificial Intelligence Annotation Specialist",
-        "active": true,
-        "date_updated": 1781170755,
-        "date_posted": 1781169532,
-        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232730009",
-        "locations": [
-            "North Carolina"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "North Carolina",
-                "normalized": {
-                    "city": null,
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Innodata",
         "id": "74faa4a2-0932-4595-bd04-a47c1ae7b14e",
         "title": "Artificial Intelligence Annotation Specialist",
         "active": true,
@@ -16391,37 +16560,6 @@
                     "city": null,
                     "region": "Indiana",
                     "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Innodata",
-        "id": "d0b9e8ea-f901-4a08-844a-9a2d9a9514ac",
-        "title": "Artificial Intelligence Annotation Specialist",
-        "active": true,
-        "date_updated": 1781170769,
-        "date_posted": 1781169532,
-        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4232733009",
-        "locations": [
-            "North Dakota"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "North Dakota",
-                "normalized": {
-                    "city": null,
-                    "region": "North Dakota",
-                    "region_code": "ND",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -17742,37 +17880,6 @@
                     "region_code": "CA",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Cerebras",
-        "id": "a83ee9b1-6320-4a23-af58-d406831b6ec4",
-        "title": "New Grad Software Engineer",
-        "active": true,
-        "date_updated": 1781083262,
-        "date_posted": 1781082858,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7621008003",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -19587,38 +19694,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "4c8bd9f9-2489-4db1-ab9b-4490d12a3820",
-        "title": "Electrical/Hardware Engineer",
-        "active": true,
-        "date_updated": 1780899121,
-        "date_posted": 1780898844,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer_1207866",
-        "locations": [
-            "Spring, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Spring, TX",
-                "normalized": {
-                    "city": "Spring",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Smithfield Foods",
         "id": "db980a0f-d55b-4030-8e3f-2759d0156e13",
@@ -20686,6 +20761,37 @@
     {
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
+        "id": "2a22e614-0fd6-4b09-bc0f-15ed0eae562d",
+        "title": "Graduate Research Scientist - Multimodal Interaction and World Model - PhD",
+        "active": true,
+        "date_updated": 1780611768,
+        "date_posted": 1780610910,
+        "url": "https://jobs.bytedance.com/en/position/7488465961747220744/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
         "id": "787f92a1-006f-4ba4-baac-41b86f13cf1a",
         "title": "Research Scientist in Multimodal Interaction and World Model – Graduates - Seed",
         "active": true,
@@ -21130,37 +21236,6 @@
                     "region_code": "DE",
                     "country": "United States",
                     "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Omnicom Health",
-        "id": "18744d5c-6ecb-4784-9e28-4f95610c0824",
-        "title": "Data Processor 1",
-        "active": true,
-        "date_updated": 1780526108,
-        "date_posted": 1780525350,
-        "url": "https://job-boards.greenhouse.io/omnicomhealth/jobs/5147706008",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Buxton, UK",
-                "normalized": {
-                    "city": "Buxton",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -21760,22 +21835,22 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "28f533ee-77db-4862-babb-7897aa104c42",
-        "title": "Cell Modeling and Verification Engineer New Grad",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
+        "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network",
         "active": true,
-        "date_updated": 1780467005,
-        "date_posted": 1780466907,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631",
+        "date_updated": 1780466950,
+        "date_posted": 1780466902,
+        "url": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
         "locations": [
-            "Santa Clara, CA"
+            "San Jose, CA"
         ],
         "normalized_locations": [
             {
-                "raw": "Santa Clara, CA",
+                "raw": "San Jose, CA",
                 "normalized": {
-                    "city": "Santa Clara",
+                    "city": "San Jose",
                     "region": "California",
                     "region_code": "CA",
                     "country": "United States",
@@ -21787,8 +21862,7 @@
             }
         ],
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "PhD"
         ]
     },
     {
@@ -21810,6 +21884,68 @@
                     "city": "Seattle",
                     "region": "Washington",
                     "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
+        "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
+        "active": true,
+        "date_updated": 1780466950,
+        "date_posted": 1780466897,
+        "url": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d2bee24c-fe5c-403b-9483-ec8f0548321b",
+        "title": "Graduate Research Scientist - Applied Machine Learning - ML System",
+        "active": true,
+        "date_updated": 1780466991,
+        "date_posted": 1780466897,
+        "url": "https://jobs.bytedance.com/en/position/7540109673547581703/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -21935,6 +22071,37 @@
                     "city": "San Jose",
                     "region": "California",
                     "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "cea1563c-802d-45b0-9937-3a8f1a7ec8bb",
+        "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network - PhD",
+        "active": true,
+        "date_updated": 1780466950,
+        "date_posted": 1780466891,
+        "url": "https://jobs.bytedance.com/en/position/7509248845324273938/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -22416,6 +22583,37 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "97b3870b-63df-47e9-a967-0c0921c0f9e9",
+        "title": "Graduate Research Scientist - Video Quality Analysis&Coding Strategy",
+        "active": true,
+        "date_updated": 1780438756,
+        "date_posted": 1780438069,
+        "url": "https://jobs.bytedance.com/en/position/7538946858355476743/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "ByteDance",
         "id": "8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
@@ -22487,6 +22685,68 @@
         "date_updated": 1780438751,
         "date_posted": 1780438068,
         "url": "https://jobs.bytedance.com/en/position/7556439896494754066/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b159e82d-ecc8-436c-bbc2-4fbd3391aa58",
+        "title": "Graduate Research Scientist - Infrastructure System Lab - PhD",
+        "active": true,
+        "date_updated": 1780438756,
+        "date_posted": 1780438068,
+        "url": "https://jobs.bytedance.com/en/position/7537470720265029906/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "8729abb6-1be5-4621-a820-94797a46cb08",
+        "title": "Graduate Research Scientist - Infrastructure System Lab",
+        "active": true,
+        "date_updated": 1780438752,
+        "date_posted": 1780438068,
+        "url": "https://jobs.bytedance.com/en/position/7537468056051403026/detail",
         "locations": [
             "San Jose, CA"
         ],
@@ -25757,23 +26017,23 @@
     },
     {
         "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "8ee27bcf-2599-4880-93c6-07e3d3819916",
-        "title": "Flight Simulation Software Engineers – Senior",
+        "company_name": "SSM Health",
+        "id": "aa238bc7-a68e-4f95-8d6e-b44800af7780",
+        "title": "Epic Application Analyst Associate - S",
         "active": true,
-        "date_updated": 1779821101,
-        "date_posted": 1779531373,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Flight-Simulation-Software-Engineers--Associate--Experienced--and-Senior-_JR2026507695",
+        "date_updated": 1779821821,
+        "date_posted": 1779530612,
+        "url": "https://ssmh.wd5.myworkdayjobs.com/ssmhealth/job/WI-REMOTE/Epic-Application-Analyst-Associate--S-_R193672",
         "locations": [
-            "Hazelwood, MO"
+            "Wisconsin"
         ],
         "normalized_locations": [
             {
-                "raw": "Hazelwood, MO",
+                "raw": "Wisconsin",
                 "normalized": {
-                    "city": "Hazelwood",
-                    "region": "Missouri",
-                    "region_code": "MO",
+                    "city": null,
+                    "region": "Wisconsin",
+                    "region_code": "WI",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -27079,52 +27339,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Chicago Trading Company",
-        "id": "dc45b05b-6ff6-413c-aadc-3baee16d05de",
-        "title": "Associate C++ Engineer",
-        "active": true,
-        "date_updated": 1779372541,
-        "date_posted": 1779372423,
-        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4687435005",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "JP Morgan Chase",
         "id": "f0f15760-e658-4f7e-9e6c-9e55ca9b1ef6",
@@ -27952,37 +28166,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Corning",
-        "id": "7885191f-a082-4437-a18e-388def57b3d8",
-        "title": "Digital Systems Engineer",
-        "active": true,
-        "date_updated": 1779142141,
-        "date_posted": 1779142028,
-        "url": "https://corningjobs.corning.com/job/Keller-Digital-Systems-Engineer-TX-76248/1391877500/?ats=successfactors",
-        "locations": [
-            "Westlake, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Westlake, TX",
-                "normalized": {
-                    "city": "Westlake",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -37720,6 +37903,205 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "8e11b217-af00-44fb-88cd-cb241676e359",
+        "title": "Technology Development Program - Applied Intelligence Analyst",
+        "active": true,
+        "date_updated": 1776896837,
+        "date_posted": 1776895832,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Technology-Development-Program--TDP----Applied-Intelligence-Analyst---NAELFY26_R00326732",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Houston, TX",
+            "SF",
+            "LA",
+            "Arlington, TX",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "Columbus, OH",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Houston, TX",
+                "normalized": {
+                    "city": "Houston",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Arlington, TX",
+                "normalized": {
+                    "city": "Arlington",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Charlotte, NC",
+                "normalized": {
+                    "city": "Charlotte",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Columbus, OH",
+                "normalized": {
+                    "city": "Columbus",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Elekta",
         "id": "2bef8297-48c9-430d-a0a8-4aa0694f67bf",
@@ -38688,37 +39070,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "e0dbffad-9eb6-4957-a0fb-09690f15285d",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1776388681,
-        "date_posted": 1776388665,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8385191002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "West Athens, CA",
-                "normalized": {
-                    "city": "West Athens",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Cisive",
         "id": "bd6c1d8d-06f6-44e2-a2a5-6feff8bd6f80",
@@ -39469,6 +39820,37 @@
                     "city": "San Jose",
                     "region": "California",
                     "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1e397c92-8682-482b-bcf4-ae906960e06c",
+        "title": "Machine Learning Engineer Graduate - Tiktok Trust and Safety-CV/NLP/Multimodal LLM - 2026 Start - PhD",
+        "active": true,
+        "date_updated": 1781600221,
+        "date_posted": 1776301939,
+        "url": "https://lifeattiktok.com/search/7517108164819454216",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -41167,6 +41549,38 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "1ada89a0-c765-47f9-8ed0-e353250a765d",
+        "title": "Software Engineer Graduate",
+        "active": true,
+        "date_updated": 1775611801,
+        "date_posted": 1775610739,
+        "url": "https://lifeattiktok.com/search/7532009150009755911",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Together AI",
         "id": "68c4a133-4f58-4f48-ae12-e6ca360776dd",
@@ -41612,37 +42026,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "General Dynamics Information Technology",
-        "id": "f56ae791-707f-4f70-adf2-cf83aab72cda",
-        "title": "Engineering Technician 1",
-        "active": true,
-        "date_updated": 1775296515,
-        "date_posted": 1775294591,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Engineering-Technician-I_RQ215211",
-        "locations": [
-            "Chesapeake, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chesapeake, VA",
-                "normalized": {
-                    "city": "Chesapeake",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Muon Space",
         "id": "fe44618b-7715-4226-9975-99434d82f353",
         "title": "Electrical Hardware Engineer",
@@ -42018,6 +42401,37 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0fb303dc-84aa-40cc-8e77-f66f910edbf9",
+        "title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search - PhD",
+        "active": true,
+        "date_updated": 1775082964,
+        "date_posted": 1775081616,
+        "url": "https://lifeattiktok.com/search/7550798923146250504",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
         ]
     },
     {
@@ -42782,24 +43196,24 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "General Dynamics Information Technology",
-        "id": "3a08f716-7f74-40a5-b443-8361e44ee8e0",
-        "title": "Capabilities Development Engineer",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "74f58f1b-0c91-41e6-a019-83b25188f802",
+        "title": "Graduate Trading Operations Specialist",
         "active": true,
-        "date_updated": 1774909621,
-        "date_posted": 1774908335,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Hanover/Capabilities-Development-Engineer_RQ217525",
+        "date_updated": 1780650001,
+        "date_posted": 1774908428,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608591101",
         "locations": [
-            "Hanover, MD"
+            "Chicago, IL"
         ],
         "normalized_locations": [
             {
-                "raw": "Hanover, MD",
+                "raw": "Chicago, IL",
                 "normalized": {
-                    "city": "Hanover",
-                    "region": "Maryland",
-                    "region_code": "MD",
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -42809,8 +43223,7 @@
             }
         ],
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -55180,37 +55593,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "onsemi",
-        "id": "f52fcb06-3887-4051-adad-300144171b01",
-        "title": "Transformation Program Associate - Corporate Transformation Team",
-        "active": true,
-        "date_updated": 1770304213,
-        "date_posted": 1770304213,
-        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504408",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Scottsdale, AZ",
-                "normalized": {
-                    "city": "Scottsdale",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "WTW",
         "id": "d54d0a79-c7ab-4b84-9191-eecc38405626",
         "title": "2026 Corporate Risk & Broking – Graduate Data Analyst - London",
@@ -58392,35 +58774,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "Parsons",
-        "id": "2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1766173183,
-        "date_posted": 1766173183,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
-        "locations": [
-            "Centreville, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Centreville, VA",
-                "normalized": {
-                    "city": "Centreville",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Marsh",
         "id": "0dce9eae-3c22-4680-9e5e-7ec0c5ce5eeb",
@@ -58690,6 +59043,37 @@
         "date_updated": 1765495709,
         "date_posted": 1765495709,
         "url": "https://job-boards.greenhouse.io/d3/jobs/4915213008",
+        "locations": [
+            "LA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "LA",
+                "normalized": {
+                    "city": null,
+                    "region": "Louisiana",
+                    "region_code": "LA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "D3",
+        "id": "c193c408-add9-40a6-868f-c89a718f5272",
+        "title": "Backend Engineer – New Grad",
+        "active": true,
+        "date_updated": 1765495709,
+        "date_posted": 1765495709,
+        "url": "https://job-boards.greenhouse.io/d3/jobs/4915295008",
         "locations": [
             "LA"
         ],
@@ -61576,868 +61960,5 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "74f58f1b-0c91-41e6-a019-83b25188f802",
-        "title": "Graduate Trading Operations Specialist",
-        "active": true,
-        "date_updated": 1762925624,
-        "date_posted": 1761949362,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608591101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "48260c39-95f0-487f-a9f5-4dd9b45ac1d0",
-        "title": "Associate Software Engineer in Test",
-        "active": true,
-        "date_updated": 1761917635,
-        "date_posted": 1761917635,
-        "url": "https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Pleasanton, CA",
-                "normalized": {
-                    "city": "Pleasanton",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "b042dd1d-cb9b-4674-a483-4245202e153d",
-        "title": "Associate Software Engineer – Seeking 2025 & 2026 Grads - Engineering Development Program",
-        "active": true,
-        "date_updated": 1761917627,
-        "date_posted": 1761917627,
-        "url": "https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Raleigh, NC",
-                "normalized": {
-                    "city": "Raleigh",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "0fb303dc-84aa-40cc-8e77-f66f910edbf9",
-        "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-        "active": true,
-        "date_updated": 1761914756,
-        "date_posted": 1761914756,
-        "url": "https://lifeattiktok.com/search/7550798923146250504",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "cea1563c-802d-45b0-9937-3a8f1a7ec8bb",
-        "title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
-        "active": true,
-        "date_updated": 1762910356,
-        "date_posted": 1761912369,
-        "url": "https://jobs.bytedance.com/en/position/7509248845324273938/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "1ead4fe8-54de-421c-963f-04d06838f6ac",
-        "title": "Graduate Software Engineer - Data Architect - AI/ML Infrastructure",
-        "active": true,
-        "date_updated": 1762927538,
-        "date_posted": 1761910964,
-        "url": "https://lifeattiktok.com/search/7514842976109365512",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "2a22e614-0fd6-4b09-bc0f-15ed0eae562d",
-        "title": "Graduate Research Scientist - Multimodal Interaction and World Model - Pre-Training",
-        "active": true,
-        "date_updated": 1762920151,
-        "date_posted": 1761910323,
-        "url": "https://jobs.bytedance.com/en/position/7488465961747220744/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Continue",
-        "id": "ea62eccc-f658-4ada-bbba-55a21bdbf3f1",
-        "title": "Software Engineer – New grad",
-        "active": true,
-        "date_updated": 1761909517,
-        "date_posted": 1761909517,
-        "url": "https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "c89cddfc-ea4d-453c-91cd-3f9293e56a32",
-        "title": "Software Engineer Graduate - Data Arch - Data Ecosystem",
-        "active": true,
-        "date_updated": 1763120754,
-        "date_posted": 1761909291,
-        "url": "https://lifeattiktok.com/search/7527441329384147208",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "97b3870b-63df-47e9-a967-0c0921c0f9e9",
-        "title": "Research Scientist Graduate - Video Quality Analysis&Coding Strategy - 2026 Start",
-        "active": true,
-        "date_updated": 1761909245,
-        "date_posted": 1761909245,
-        "url": "https://jobs.bytedance.com/en/position/7538946858355476743/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "1ada89a0-c765-47f9-8ed0-e353250a765d",
-        "title": "Software Engineer Graduate - Capital Platform - 2026 Start','BS/MS",
-        "active": true,
-        "date_updated": 1764079056,
-        "date_posted": 1761907980,
-        "url": "https://lifeattiktok.com/search/7532009150009755911",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Lifepoint Health",
-        "id": "041874b0-3187-48d1-8332-676e72b001cc",
-        "title": "Partial Hospitalization Program - PHP - Therapist",
-        "active": true,
-        "date_updated": 1768178616,
-        "date_posted": 1761907363,
-        "url": "https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/309521",
-        "locations": [
-            "West Lafayette, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "West Lafayette, IN",
-                "normalized": {
-                    "city": "West Lafayette",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "1e397c92-8682-482b-bcf4-ae906960e06c",
-        "title": "Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
-        "active": true,
-        "date_updated": 1761907298,
-        "date_posted": 1761907298,
-        "url": "https://lifeattiktok.com/search/7517108164819454216",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "09185862-96c9-4f8a-960b-c8ac4dae6765",
-        "title": "Machine Learning Engineer Graduate - 2026 Start and BS/MS",
-        "active": true,
-        "date_updated": 1761907289,
-        "date_posted": 1761907289,
-        "url": "https://lifeattiktok.com/search/7534982208201984274",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "7a8c16e6-b29e-441d-9635-d193fe1c96fa",
-        "title": "Software Engineer Graduate - 2026 Start",
-        "active": true,
-        "date_updated": 1761902303,
-        "date_posted": 1761902303,
-        "url": "https://lifeattiktok.com/search/7531175534148045063",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "f65a57de-c5dd-4b3b-bfdf-5331d7a423c8",
-        "title": "Software Engineer Graduate - Data Arch - AI/ML Infrastructure",
-        "active": true,
-        "date_updated": 1761902300,
-        "date_posted": 1761902300,
-        "url": "https://lifeattiktok.com/search/7535215880842791176",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
-        "title": "Frontend Software Engineer - Global CRM Platform",
-        "active": true,
-        "date_updated": 1761902270,
-        "date_posted": 1761902270,
-        "url": "https://lifeattiktok.com/search/7104433489986734350",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "8b0f0a57-c19a-494c-9a6e-02dbae9af63b",
-        "title": "Graduate Research Scientist Generative AI - Intelligent Creation",
-        "active": true,
-        "date_updated": 1762916610,
-        "date_posted": 1761902269,
-        "url": "https://lifeattiktok.com/search/7517442299329300754",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
-        "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
-        "active": true,
-        "date_updated": 1761902071,
-        "date_posted": 1761902071,
-        "url": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
-        "title": "AI LLM Network Software Development Engineer Graduate - High Speed Network - 2026 Start PhD",
-        "active": true,
-        "date_updated": 1762919946,
-        "date_posted": 1761902067,
-        "url": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "d2bee24c-fe5c-403b-9483-ec8f0548321b",
-        "title": "Graduate Research Scientist - Multiple Teams",
-        "active": true,
-        "date_updated": 1762920003,
-        "date_posted": 1761902066,
-        "url": "https://jobs.bytedance.com/en/position/7540109673547581703/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "b159e82d-ecc8-436c-bbc2-4fbd3391aa58",
-        "title": "Research Scientist Graduate - Infrastructure System Lab",
-        "active": true,
-        "date_updated": 1761902058,
-        "date_posted": 1761902058,
-        "url": "https://jobs.bytedance.com/en/position/7537470720265029906/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "N1",
-        "id": "ea1a4f5b-a420-4401-a6b8-56eaa292ebc8",
-        "title": "New Grad Software Engineer - Full Stack",
-        "active": true,
-        "date_updated": 1761898720,
-        "date_posted": 1761898720,
-        "url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a/application",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Genmo",
-        "id": "2785d820-e76e-4f39-a52a-94f4a7932f95",
-        "title": "Research Engineer",
-        "active": true,
-        "date_updated": 1769247024,
-        "date_posted": 1761897038,
-        "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Steel Point Solutions",
-        "id": "d0286ad9-f515-4ed6-8146-cf9678e34236",
-        "title": "Software Engineer 1 - Software Engineering",
-        "active": true,
-        "date_updated": 1761935375,
-        "date_posted": 1761896884,
-        "url": "https://steelpoint-llc.com/government-it-consultant-careers/?gh_jid=7453484003",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Odenton, MD",
-                "normalized": {
-                    "city": "Odenton",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "ElevenLabs",
-        "id": "36feec19-d2ff-4a75-aa63-52340e2b4181",
-        "title": "Full-Stack Engineer - Back-End Leaning",
-        "active": true,
-        "date_updated": 1781080201,
-        "date_posted": 1761896736,
-        "url": "https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Mechanical Orchard",
-        "id": "c6aedd71-e0a7-415b-b19a-8aa6a14ae2ff",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1763119517,
-        "date_posted": 1761879175,
-        "url": "https://jobs.lever.co/mechanicalorchard/3ee619b5-9916-453c-8ed0-30fcbf75a675/apply",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Remote in Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Canada",
-                "normalized": {
-                    "city": "Remote In Canada",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "8729abb6-1be5-4621-a820-94797a46cb08",
-        "title": "Research Scientist Graduate - Infrastructure System Lab",
-        "active": true,
-        "date_updated": 1761877616,
-        "date_posted": 1761877616,
-        "url": "https://jobs.bytedance.com/en/position/7537468056051403026/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "D3",
-        "id": "c193c408-add9-40a6-868f-c89a718f5272",
-        "title": "Backend Engineer – New Grad",
-        "active": true,
-        "date_updated": 1772431282,
-        "date_posted": 1761876256,
-        "url": "https://d3.com/careers?gh_jid=4915295008",
-        "locations": [
-            "LA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "LA",
-                "normalized": {
-                    "city": null,
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     }
 ]
