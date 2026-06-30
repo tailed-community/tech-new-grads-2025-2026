@@ -59867,6 +59867,38 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "acf957e2-2c86-4d2a-aa7f-70355baafefb",
+        "title": "Engineering Technician - Engineering Technician",
+        "active": true,
+        "date_updated": 1764756635,
+        "date_posted": 1764756635,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446707211359",
+        "locations": [
+            "Boxborough, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boxborough, MA",
+                "normalized": {
+                    "city": "Boxborough",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "General Dynamics Information Technology",
         "id": "595b2d06-7f54-404b-a53a-31caefb3ae05",
@@ -61929,36 +61961,5 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "acf957e2-2c86-4d2a-aa7f-70355baafefb",
-        "title": "Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE",
-        "active": true,
-        "date_updated": 1761991168,
-        "date_posted": 1761991168,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446707211359",
-        "locations": [
-            "Boxborough, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boxborough, MA",
-                "normalized": {
-                    "city": "Boxborough",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Associate's"
-        ]
     }
 ]
