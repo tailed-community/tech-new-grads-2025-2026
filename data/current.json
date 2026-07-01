@@ -1,5 +1,95 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "Consumer Reports",
+        "id": "4196e65d-5ae8-41ef-bf53-9ffcf18d507c",
+        "title": "Data Analyst - Consumer Product Safety",
+        "active": true,
+        "date_updated": 1782800461,
+        "date_posted": 1782800311,
+        "url": "https://job-boards.greenhouse.io/consumerreports/jobs/5176455007",
+        "locations": [
+            "Washington, DC",
+            "Bozrah, CT",
+            "Yonkers, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Bozrah, CT",
+                "normalized": {
+                    "city": "Bozrah",
+                    "region": "Connecticut",
+                    "region_code": "CT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Yonkers, NY",
+                "normalized": {
+                    "city": "Yonkers",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "7525d820-6af8-47cc-aa9c-36ec4b263426",
+        "title": "Systems Integration Engineer 1",
+        "active": true,
+        "date_updated": 1782782039,
+        "date_posted": 1782781526,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Integration-Engineer-I_R0030166",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dayton, OH",
+                "normalized": {
+                    "city": "Dayton",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "779500d0-29b5-4c6f-8df1-fc747c1faa1d",
@@ -57304,6 +57394,52 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "NV5 Global",
+        "id": "d2f29512-2c4c-421f-9159-15dbeab05718",
+        "title": "Survey Office Technician",
+        "active": true,
+        "date_updated": 1769027645,
+        "date_posted": 1769027645,
+        "url": "https://careers-nv5.icims.com/jobs/11740/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Walnut Creek, CA",
+            "Petaluma, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Walnut Creek, CA",
+                "normalized": {
+                    "city": "Walnut Creek",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Petaluma, CA",
+                "normalized": {
+                    "city": "Petaluma",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Associate's",
+            "Certificate"
         ]
     },
     {
