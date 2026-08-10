@@ -1,5 +1,36 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "Enigma",
+        "id": "ca0cd3ef-a95c-4dd7-9c4c-88869ed44814",
+        "title": "Data Operations Associate",
+        "active": true,
+        "date_updated": 1786314421,
+        "date_posted": 1786314249,
+        "url": "https://job-boards.greenhouse.io/enigmaio/jobs/6803803",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Quant",
         "company_name": "SentiLink",
         "id": "5526d232-bcb1-4da8-8ea8-a1119c798659",
@@ -1117,98 +1148,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Polaris",
-        "id": "601c9bc9-49e0-4394-be4f-8a40c9b2ffba",
-        "title": "Digital & IT Leadership Development Program Associate - Predictive Data Science",
-        "active": true,
-        "date_updated": 1786180501,
-        "date_posted": 1786147200,
-        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564",
-        "locations": [
-            "Medina, MN",
-            "Plymouth, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Medina, MN",
-                "normalized": {
-                    "city": "Medina",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Plymouth, MN",
-                "normalized": {
-                    "city": "Plymouth",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Polaris",
-        "id": "8caf8a32-6383-404c-8f0e-49c55ec304a7",
-        "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
-        "active": true,
-        "date_updated": 1786180501,
-        "date_posted": 1786147200,
-        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565",
-        "locations": [
-            "Medina, MN",
-            "Plymouth, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Medina, MN",
-                "normalized": {
-                    "city": "Medina",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Plymouth, MN",
-                "normalized": {
-                    "city": "Plymouth",
-                    "region": "Minnesota",
-                    "region_code": "MN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -3253,6 +3192,37 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "We Are Social",
+        "id": "65aab0bc-d783-43fb-92d4-a0ada8cab402",
+        "title": "Analyst",
+        "active": true,
+        "date_updated": 1786271401,
+        "date_posted": 1786083307,
+        "url": "https://apply.workable.com/we-are-social-1/j/C5F997C3E9/apply",
+        "locations": [
+            "Miami, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Miami, FL",
+                "normalized": {
+                    "city": "Miami",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "category": "Hardware",
@@ -12237,96 +12207,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "98a4a0b5-63ae-4794-a5ca-2c7e290d1bce",
-        "title": "Entry-Level Software Engineer",
-        "active": true,
-        "date_updated": 1785978724,
-        "date_posted": 1785888000,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694-1",
-        "locations": [
-            "Maryland Heights, MO",
-            "Hazelwood, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Maryland Heights, MO",
-                "normalized": {
-                    "city": "Maryland Heights",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Hazelwood, MO",
-                "normalized": {
-                    "city": "Hazelwood",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "ce9280c2-f942-4e08-8be0-a8640eee129b",
-        "title": "Entry-Level Software Engineer",
-        "active": true,
-        "date_updated": 1785978724,
-        "date_posted": 1785888000,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694",
-        "locations": [
-            "Maryland Heights, MO",
-            "Hazelwood, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Maryland Heights, MO",
-                "normalized": {
-                    "city": "Maryland Heights",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Hazelwood, MO",
-                "normalized": {
-                    "city": "Hazelwood",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "RTX",
         "id": "6cdcb63c-5423-4b88-88c2-16298f439f9d",
@@ -12817,6 +12697,38 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "c3a87290-4f6d-4d31-8576-4c7f518fd46b",
+        "title": "Tax Consultant - LLM",
+        "active": true,
+        "date_updated": 1785883617,
+        "date_posted": 1785882017,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Tax-Consultant-LLM-Summer-2027/361373",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -15308,38 +15220,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "0aba759c-2399-4531-9d02-e55457dd7545",
-        "title": "Engineer Testing",
-        "active": true,
-        "date_updated": 1785882755,
-        "date_posted": 1785801600,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engineer---Testing_R5038113-1",
-        "locations": [
-            "Evendale, OH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Evendale, OH",
-                "normalized": {
-                    "city": "Evendale",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "46504bbd-e596-43d0-82db-833dcc5b6e16",
         "title": "Embedded Software Engineer - Mission and Displays",
@@ -15522,37 +15402,6 @@
                     "city": "Pittsburgh",
                     "region": "Pennsylvania",
                     "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "U.S. Bank",
-        "id": "f1b2a6dc-bfe8-4dfd-b222-6dc4611dbe51",
-        "title": "Cash Forecasting Data Analyst",
-        "active": true,
-        "date_updated": 1785882626,
-        "date_posted": 1785801600,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Cash-Forecasting-Data-Analyst---Minneapolis--MN_2026-0022500",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Minneapolis, MN",
-                "normalized": {
-                    "city": "Minneapolis",
-                    "region": "Minnesota",
-                    "region_code": "MN",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -18701,37 +18550,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Intellisense Systems Inc",
-        "id": "ed19e84f-a8ce-4202-9bf1-31d95e4feab1",
-        "title": "Electronics Assembler 1",
-        "active": true,
-        "date_updated": 1786193323,
-        "date_posted": 1785737956,
-        "url": "http://intellisensesystemsinc.applytojob.com/apply/dISFLJ5OCK/Electronics-Assembler-I",
-        "locations": [
-            "Torrance, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Torrance, CA",
-                "normalized": {
-                    "city": "Torrance",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -25188,35 +25006,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Comcast",
-        "id": "64888f69-080f-4916-afc2-abddf031f6f9",
-        "title": "Residential Installation & Service Technician",
-        "active": true,
-        "date_updated": 1785621241,
-        "date_posted": 1785369600,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/LA---Shreveport-6529-Quilen-Rd/Residential-Installation---Service-Technician_R442208",
-        "locations": [
-            "Shreveport, LA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Shreveport, LA",
-                "normalized": {
-                    "city": "Shreveport",
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -42003,94 +41792,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Johnson & Johnson",
-        "id": "dfeea355-646f-4376-875b-49fcd01615db",
-        "title": "Technology Leadership Development Program - Tldp",
-        "active": true,
-        "date_updated": 1784155494,
-        "date_posted": 1784073600,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Class-of-2027-Technology-Leadership-Development-Program--TLDP-_R-088676",
-        "locations": [
-            "New Hope, PA",
-            "West Chester, PA",
-            "Bridgewater Township, NJ",
-            "Edison, NJ",
-            "Ambler, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "New Hope, PA",
-                "normalized": {
-                    "city": "New Hope",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "West Chester, PA",
-                "normalized": {
-                    "city": "West Chester",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Bridgewater Township, NJ",
-                "normalized": {
-                    "city": "Bridgewater Township",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Edison, NJ",
-                "normalized": {
-                    "city": "Edison",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Ambler, PA",
-                "normalized": {
-                    "city": "Ambler",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "NorthAB",
         "id": "9664e751-69df-4d20-a616-be872d05faf1",
         "title": "Integration Specialist",
@@ -54516,70 +54217,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Caterpillar Inc.",
-        "id": "352477a3-29ad-47a1-9809-69a1da28d66c",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1783029961,
-        "date_posted": 1783029915,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358",
-        "locations": [
-            "Peoria, IL",
-            "Chicago, IL",
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Peoria, IL",
-                "normalized": {
-                    "city": "Peoria",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
         ]
     },
     {
@@ -74728,6 +74365,37 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "9176ab13-a88c-4083-a4e2-72bf78318423",
+        "title": "Power Analyst",
+        "active": true,
+        "date_updated": 1785580922,
+        "date_posted": 1779113165,
+        "url": "https://careers-sig.icims.com/jobs/10365/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Bala Cynwyd, PA",
+                "normalized": {
+                    "city": "Bala Cynwyd",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Quant",
         "company_name": "Northwestern Mutual",
         "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
@@ -83286,35 +82954,6 @@
         "degrees": []
     },
     {
-        "category": "Product",
-        "company_name": "Gensyn",
-        "id": "60a58809-88a6-40a5-944b-b6ff6dc0423e",
-        "title": "Technical Product Manager",
-        "active": true,
-        "date_updated": 1780562701,
-        "date_posted": 1774574220,
-        "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4660248101",
-        "locations": [
-            "Remote in UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "True Anomaly",
         "id": "012f8912-e1b8-4cbc-bc55-3467b6abe6d0",
@@ -84548,12 +84187,12 @@
     {
         "category": "Hardware",
         "company_name": "Avnet",
-        "id": "0374d942-8b19-45e9-8850-322095453a57",
+        "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
         "active": true,
-        "date_updated": 1773959504,
-        "date_posted": 1773959504,
-        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
+        "date_updated": 1773962352,
+        "date_posted": 1773962352,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
         "locations": [
             "Hopkins, MN"
         ],
@@ -93441,106 +93080,6 @@
                     "country_code": "GB"
                 },
                 "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "9176ab13-a88c-4083-a4e2-72bf78318423",
-        "title": "Power Analyst - Power",
-        "active": true,
-        "date_updated": 1768382780,
-        "date_posted": 1765556918,
-        "url": "https://careers-sig.icims.com/jobs/10365/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Ardmore, PA",
-                "normalized": {
-                    "city": "Ardmore",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Anthropic",
-        "id": "8a17a8bb-179e-4026-be78-6324749ad898",
-        "title": "Anthropic Fellows Program - AI Security",
-        "active": true,
-        "date_updated": 1776119591,
-        "date_posted": 1765506812,
-        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5030244008",
-        "locations": [
-            "London, UK",
-            "SF",
-            "Canada",
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Canada",
-                "normalized": {
-                    "city": null,
-                    "region": null,
-                    "region_code": null,
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
                 "unresolved": false,
                 "confidence": 1.0
             }
