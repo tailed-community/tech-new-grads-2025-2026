@@ -1,5 +1,65 @@
 [
     {
+        "category": "Software",
+        "company_name": "Boom Supersonic",
+        "id": "632238a5-1d61-4694-a8d0-c8d596b89c37",
+        "title": "Software Engineer - Exceptional Talent",
+        "active": true,
+        "date_updated": 1786922529,
+        "date_posted": 1786922297,
+        "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Centennial, CO",
+                "normalized": {
+                    "city": "Centennial",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "2ab3ea47-41c1-46b3-8932-fedbbb55e1cd",
+        "title": "Software Engineer - Entry Level",
+        "active": true,
+        "date_updated": 1786918370,
+        "date_posted": 1786918299,
+        "url": "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Scottsdale, AZ",
+                "normalized": {
+                    "city": "Scottsdale",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Canon",
         "id": "717279b5-3392-4184-8ec5-92924c627291",
@@ -134,6 +194,35 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
+        "title": "Engineering New Analyst - Engineering",
+        "active": true,
+        "date_updated": 1786768201,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/171570?type=students",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Salt Lake City, UT",
+                "normalized": {
+                    "city": "Salt Lake City",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Software",
@@ -7199,38 +7288,6 @@
     {
         "category": "Hardware",
         "company_name": "GlobalFoundries",
-        "id": "c10fe8de-982b-469d-bd86-4b566b881325",
-        "title": "Advanced Manufacturing Equipment Engineer New Grad",
-        "active": true,
-        "date_updated": 1786785527,
-        "date_posted": 1786665600,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604760",
-        "locations": [
-            "Malta, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Malta, NY",
-                "normalized": {
-                    "city": "Malta",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
         "id": "6e84f2ec-75d6-4ba3-82d4-55bd220a3995",
         "title": "Advanced Manufacturing Equipment Engineer New Grad",
         "active": true,
@@ -8936,35 +8993,6 @@
             "Bachelor's",
             "Associate's"
         ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Senior plc",
-        "id": "6816846d-7ef1-442a-917c-eb58c6465ccc",
-        "title": "Metal Fitter C",
-        "active": true,
-        "date_updated": 1786602065,
-        "date_posted": 1786601585,
-        "url": "https://jobs.smartrecruiters.com/SeniorPlc1/3743990013943237",
-        "locations": [
-            "Burbank, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Burbank, CA",
-                "normalized": {
-                    "city": "Burbank",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -10873,94 +10901,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "e64b78a2-03ae-46f1-9dc7-98677237e137",
-        "title": "Associate Software Engineer/Software Engineer",
-        "active": true,
-        "date_updated": 1786660485,
-        "date_posted": 1786579200,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245648",
-        "locations": [
-            "Redondo Beach, CA",
-            "Palmdale, CA",
-            "Oklahoma City, OK",
-            "San Diego, CA",
-            "El Segundo, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redondo Beach, CA",
-                "normalized": {
-                    "city": "Redondo Beach",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Palmdale, CA",
-                "normalized": {
-                    "city": "Palmdale",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Oklahoma City, OK",
-                "normalized": {
-                    "city": "Oklahoma City",
-                    "region": "Oklahoma",
-                    "region_code": "OK",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "San Diego, CA",
-                "normalized": {
-                    "city": "San Diego",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "El Segundo, CA",
-                "normalized": {
-                    "city": "El Segundo",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -13502,35 +13442,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "TOMRA",
-        "id": "373503da-6c2b-4f86-9593-05ea22db87af",
-        "title": "Field Service Engineer - London/South East",
-        "active": true,
-        "date_updated": 1786497169,
-        "date_posted": 1786496814,
-        "url": "https://jobs.smartrecruiters.com/Tomra/744000142128330",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -17343,37 +17254,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "427bfbbf-185d-48ab-9e67-639926394fe2",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1786410814,
-        "date_posted": 1786410585,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-TX-75402/1418012400/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Greenville, TX",
-                "normalized": {
-                    "city": "Greenville",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Canon",
         "id": "348e3141-99ca-463b-9f0c-94a49a610861",
         "title": "Field Service Technician 1",
@@ -18647,99 +18527,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "db8b36af-8098-467c-ad9b-3f622129f10c",
-        "title": "Associate Engineer - Software",
-        "active": true,
-        "date_updated": 1786487582,
-        "date_posted": 1786406400,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ367128",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bellevue, WA",
-                "normalized": {
-                    "city": "Bellevue",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "T-Mobile",
-        "id": "fd436b2e-986c-44fb-b8c3-48b1f27b85f4",
-        "title": "Associate Engineer - AI",
-        "active": true,
-        "date_updated": 1786487789,
-        "date_posted": 1786406400,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI_REQ367800",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bellevue, WA",
-                "normalized": {
-                    "city": "Bellevue",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "T-Mobile",
-        "id": "ad9b6ec5-2ff2-49b2-968d-9edf8dda9de3",
-        "title": "Associate AI Engineer",
-        "active": true,
-        "date_updated": 1786487582,
-        "date_posted": 1786406400,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ368120",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Bellevue, WA",
-                "normalized": {
-                    "city": "Bellevue",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -20382,37 +20169,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "50f47dfa-2767-4349-b388-347aa02f6f46",
-        "title": "Associate Software Engineering",
-        "active": true,
-        "date_updated": 1786342428,
-        "date_posted": 1786342229,
-        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rochester, NY",
-                "normalized": {
-                    "city": "Rochester",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Helmerich & Payne",
         "id": "b87ec6ca-b7d5-41e8-9f74-dcd3244d464c",
@@ -21772,6 +21528,38 @@
         "date_updated": 1786410721,
         "date_posted": 1786320000,
         "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Milpitas, CA",
+                "normalized": {
+                    "city": "Milpitas",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "154cf85d-ed07-4a20-9730-3f260ba95a0f",
+        "title": "Applications Development Engineer - Broadband Plasma Division",
+        "active": true,
+        "date_updated": 1786410721,
+        "date_posted": 1786320000,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355",
         "locations": [
             "Milpitas, CA"
         ],
@@ -29864,35 +29652,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "AT&T",
-        "id": "11978a37-eb90-4000-b1d0-d96cbee69afa",
-        "title": "Installation Technician",
-        "active": true,
-        "date_updated": 1785968824,
-        "date_posted": 1785888000,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Sunnyvale-California/Installation-Technician_R-116999",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sunnyvale, CA",
-                "normalized": {
-                    "city": "Sunnyvale",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Dalcour Maclaren",
         "id": "70ae6f62-eb90-4f48-a34b-f89178f5eff7",
@@ -35664,6 +35423,37 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Intellisense Systems Inc",
+        "id": "ed19e84f-a8ce-4202-9bf1-31d95e4feab1",
+        "title": "Electronics Assembler 1",
+        "active": true,
+        "date_updated": 1786193323,
+        "date_posted": 1785737956,
+        "url": "http://intellisensesystemsinc.applytojob.com/apply/dISFLJ5OCK/Electronics-Assembler-I",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Torrance, CA",
+                "normalized": {
+                    "city": "Torrance",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Stellar Science",
         "id": "8164a1a2-c8ee-4c4f-b296-1c29817a193e",
@@ -35942,67 +35732,6 @@
                     "city": "Vienna",
                     "region": "Virginia",
                     "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Xcellent Technology Solutions",
-        "id": "66d15412-44a8-40fa-884e-3555d616a336",
-        "title": "GEOINT Imagery Analyst Deployer",
-        "active": true,
-        "date_updated": 1785837062,
-        "date_posted": 1785737812,
-        "url": "https://xtscareers.applytojob.com/apply/Rsq6opqkn0/GEOINT-Imagery-Analyst-Deployer-TSSCI",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "St. Louis, MO",
-                "normalized": {
-                    "city": "St. Louis",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
-        "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
-        "title": "Calibrator",
-        "active": true,
-        "date_updated": 1785738601,
-        "date_posted": 1785737786,
-        "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
-        "locations": [
-            "Sweetwater, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sweetwater, TX",
-                "normalized": {
-                    "city": "Sweetwater",
-                    "region": "Texas",
-                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -38936,6 +38665,39 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Two Sigma",
+        "id": "701b131c-8006-40ac-a07c-5d5d37bd080e",
+        "title": "Quantitative Researcher - Full-Time Campus Hire",
+        "active": true,
+        "date_updated": 1786186801,
+        "date_posted": 1785633717,
+        "url": "https://twosigma.avature.net/careers/JobDetail/13946",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     },
     {
@@ -47629,6 +47391,35 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Rantec Power Systems Inc.",
+        "id": "aa213e1e-da7a-422d-804e-987d69bf4130",
+        "title": "Electronic Assembler - 2nd Shift",
+        "active": true,
+        "date_updated": 1786881241,
+        "date_posted": 1784787215,
+        "url": "https://rantecpowersystemsinc.applytojob.com/apply/Ojo7FSziDb/Electronic-Assembler-2nd-Shift",
+        "locations": [
+            "Baywood-Los Osos, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Baywood-Los Osos, CA",
+                "normalized": {
+                    "city": "Baywood-los Osos",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Geo Owl",
         "id": "476e726d-bfa3-4da0-bdb9-b2bd233304dc",
@@ -47839,38 +47630,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Verizon Communications",
-        "id": "e6cfe600-230b-48b7-ba94-ac7e34e8e0cd",
-        "title": "Engineer 1 - Systems Engineering",
-        "active": true,
-        "date_updated": 1784846776,
-        "date_posted": 1784764800,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I---Systems-Engineering_R-1097946",
-        "locations": [
-            "E Fowler Ave, Tampa, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "E Fowler Ave, Tampa, FL",
-                "normalized": {
-                    "city": "E Fowler Ave",
-                    "region": "Tampa",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -53875,6 +53634,35 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Bottom Line",
+        "id": "0c2c6832-5303-4949-9170-93a2a489e79a",
+        "title": "AI Data Analyst - Sales",
+        "active": true,
+        "date_updated": 1784242084,
+        "date_posted": 1784241024,
+        "url": "https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8597355002",
+        "locations": [
+            "Portsmouth, NH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Portsmouth, NH",
+                "normalized": {
+                    "city": "Portsmouth",
+                    "region": "New Hampshire",
+                    "region_code": "NH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Product",
@@ -61400,6 +61188,38 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "c46c59e7-80b8-4494-acf4-94ec39d2d300",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1783472942,
+        "date_posted": 1783472888,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/16842",
+        "locations": [
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "SimpliSafe",
         "id": "1fc8df79-d47d-4ab3-a745-920d0f302bdc",
@@ -66625,51 +66445,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Semtech",
-        "id": "ba5d0ccb-2200-48f1-b412-5c776b362e6c",
-        "title": "Associate Analog Design Engineer",
-        "active": true,
-        "date_updated": 1784642222,
-        "date_posted": 1783158026,
-        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Analog-Design-Engineer_REQ3436",
-        "locations": [
-            "Calgary, AB, Canada",
-            "Burlington, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Calgary, AB, Canada",
-                "normalized": {
-                    "city": "Calgary",
-                    "region": "Alberta",
-                    "region_code": "AB",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Burlington, ON, Canada",
-                "normalized": {
-                    "city": "Burlington",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Ultra",
         "id": "fea36255-a41d-4d5b-9c9a-040a21ed7e20",
         "title": "Repairs Technician",
@@ -67814,6 +67589,37 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
+        "title": "Software Engineer TS",
+        "active": true,
+        "date_updated": 1784608383,
+        "date_posted": 1782956964,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
+        "locations": [
+            "Centreville, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Centreville, VA",
+                "normalized": {
+                    "city": "Centreville",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -102974,35 +102780,6 @@
                     "country_code": "US"
                 },
                 "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Parsons",
-        "id": "2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1766173183,
-        "date_posted": 1766173183,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
-        "locations": [
-            "Centreville, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Centreville, VA",
-                "normalized": {
-                    "city": "Centreville",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
             }
