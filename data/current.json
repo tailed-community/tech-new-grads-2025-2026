@@ -577,38 +577,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Ascension",
-        "id": "ded4c8dd-a85f-4856-a22e-0d16e9b77a68",
-        "title": "Application Technology Specialist - Clinical Imaging",
-        "active": true,
-        "date_updated": 1787403452,
-        "date_posted": 1787343096,
-        "url": "https://jobs.ascension.org/us/en/job/459181",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Nashville, TN",
-                "normalized": {
-                    "city": "Nashville",
-                    "region": "Tennessee",
-                    "region_code": "TN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Focus Group",
         "id": "07e0a94c-0d80-429e-9cfe-7110e975f66c",
@@ -1688,6 +1656,38 @@
     },
     {
         "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "ae100847-0b5b-46dc-8d75-58159b3d28da",
+        "title": "Test Systems & Instrumentation Engineer",
+        "active": true,
+        "date_updated": 1787332639,
+        "date_posted": 1787270400,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Louisville, KY",
+                "normalized": {
+                    "city": "Louisville",
+                    "region": "Kentucky",
+                    "region_code": "KY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
         "company_name": "Applied Materials",
         "id": "e2780e38-7d31-45ad-9998-c8b228376036",
         "title": "Systems Engineer",
@@ -1715,6 +1715,38 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "b06e8976-8d59-4e44-abc0-30e329f46f38",
+        "title": "Surgery Imaging Field Engineer 1",
+        "active": true,
+        "date_updated": 1787350784,
+        "date_posted": 1787270400,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Imaging-Field-Engineer-I_R4044978-1",
+        "locations": [
+            "Lubbock, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lubbock, TX",
+                "normalized": {
+                    "city": "Lubbock",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     },
     {
@@ -1828,65 +1860,6 @@
                     "city": "Kalispell",
                     "region": "Montana",
                     "region_code": "MT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Fidelity Investments",
-        "id": "b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
-        "title": "Software Engineer - Leap",
-        "active": true,
-        "date_updated": 1787350577,
-        "date_posted": 1787270400,
-        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
-        "locations": [
-            "Westlake, TX",
-            "Durham, NC",
-            "Merrimack, NH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Westlake, TX",
-                "normalized": {
-                    "city": "Westlake",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Durham, NC",
-                "normalized": {
-                    "city": "Durham",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Merrimack, NH",
-                "normalized": {
-                    "city": "Merrimack",
-                    "region": "New Hampshire",
-                    "region_code": "NH",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -2089,37 +2062,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "eBay",
-        "id": "c7734ae8-c142-481e-b187-28eb96007649",
-        "title": "Senior Data Engineer Manager",
-        "active": true,
-        "date_updated": 1787411741,
-        "date_posted": 1787270400,
-        "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Sr-Data-Engineer-Manager_R0076353",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -3228,37 +3170,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "c011bf3b-a69f-43a6-86c1-ee327c5fa158",
-        "title": "Associate Data Engineer - Conversion",
-        "active": true,
-        "date_updated": 1787361301,
-        "date_posted": 1787270400,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/VA---Work-from-home/Associate-Data-Engineer--Conversion-_R1015903",
-        "locations": [
-            "Virginia"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Virginia",
-                "normalized": {
-                    "city": null,
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -6318,39 +6229,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "1ea9cb14-dc89-4e72-ab24-6a1177e5d302",
-        "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
-        "active": true,
-        "date_updated": 1787275081,
-        "date_posted": 1787184000,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Melbourne, FL",
-                "normalized": {
-                    "city": "Melbourne",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
         ]
     },
     {
@@ -10721,37 +10599,6 @@
     },
     {
         "category": "Quant",
-        "company_name": "Metal Exchange",
-        "id": "b0e4e7d4-eba7-44f7-aaad-4e6f88670701",
-        "title": "Recycled Metals Buyer - Non Ferrous Trading Division",
-        "active": true,
-        "date_updated": 1787040541,
-        "date_posted": 1787040002,
-        "url": "https://careers-metalexchange.icims.com/jobs/2758/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "St. Louis, MO",
-                "normalized": {
-                    "city": "St. Louis",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Quant",
         "company_name": "Duluth Trading Company",
         "id": "8814a8ab-306b-46c1-a490-71c3d9d7063f",
         "title": "Seasonal Retail Associate",
@@ -11210,51 +11057,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Apple",
-        "id": "a96278c1-ade0-425c-83f0-3a2b804be61d",
-        "title": "Software Engineer - IS&T Early Career Opportunities",
-        "active": true,
-        "date_updated": 1787034844,
-        "date_posted": 1787034761,
-        "url": "https://jobs.apple.com/en-us/details/200678510",
-        "locations": [
-            "Cupertino, CA",
-            "Sunnyvale, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cupertino, CA",
-                "normalized": {
-                    "city": "Cupertino",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Sunnyvale, CA",
-                "normalized": {
-                    "city": "Sunnyvale",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Keysight Technologies",
         "id": "1e4e937c-cef0-4670-861d-a542daf1e8c0",
@@ -11575,37 +11377,6 @@
                     "city": "Santa Clara",
                     "region": "California",
                     "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "6e9f8ba6-6c48-4605-b6d4-6f4605120a80",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1787018156,
-        "date_posted": 1787017241,
-        "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors",
-        "locations": [
-            "Clifton, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Clifton, NJ",
-                "normalized": {
-                    "city": "Clifton",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -13744,237 +13515,6 @@
         "degrees": []
     },
     {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "91977cf9-3eaa-4e42-91b6-31d3e06c2688",
-        "title": "Software Engineer - Software Engineering",
-        "active": true,
-        "date_updated": 1787006971,
-        "date_posted": 1787006778,
-        "url": "https://jobs.l3harris.com/job/Greenville-Senior-Associate,-Software-Engineering-TX-75402/1420346000/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Greenville, TX",
-                "normalized": {
-                    "city": "Greenville",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "7ccbcea2-9321-45fd-ae7b-1880c2950dff",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1787006971,
-        "date_posted": 1787006773,
-        "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1420087500/?ats=successfactors",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Chantilly, VA",
-                "normalized": {
-                    "city": "Chantilly",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "1970a20b-652d-4272-8755-26ad35432a5b",
-        "title": "Associate Integration and Test Engineering",
-        "active": true,
-        "date_updated": 1787006976,
-        "date_posted": 1787006769,
-        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-and-Test-Engineering-FL-32905/1420079000/?ats=successfactors",
-        "locations": [
-            "Palm Bay, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palm Bay, FL",
-                "normalized": {
-                    "city": "Palm Bay",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "dee54f4b-9624-4a3e-bda6-8f39d6b81920",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1787006970,
-        "date_posted": 1787006764,
-        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905-4101/1420103700/?ats=successfactors",
-        "locations": [
-            "Palm Bay, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palm Bay, FL",
-                "normalized": {
-                    "city": "Palm Bay",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "bf6b0f3e-26ba-4217-917a-74df5f06b050",
-        "title": "Associate Software Engineer - Software Engineering",
-        "active": true,
-        "date_updated": 1787006966,
-        "date_posted": 1787006762,
-        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1420290900/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rochester, NY",
-                "normalized": {
-                    "city": "Rochester",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "efe1e516-6ed6-4f82-80cb-e93d640efb8d",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1787006971,
-        "date_posted": 1787006761,
-        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1420304100/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Salt Lake City, UT",
-                "normalized": {
-                    "city": "Salt Lake City",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "6fb6a0cd-4a04-46c6-aec0-7982cb8e577b",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1787006968,
-        "date_posted": 1787006758,
-        "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineer-NJ-07014/1420248200/?ats=successfactors",
-        "locations": [
-            "Clinton, MD",
-            "Clifton, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Clinton, MD",
-                "normalized": {
-                    "city": "Clinton",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Clifton, NJ",
-                "normalized": {
-                    "city": "Clifton",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Dexis Consulting Group",
         "id": "00b35da0-c4cc-49e0-8c0c-81457f3767d9",
@@ -15602,37 +15142,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Health Research",
-        "id": "26a19401-308e-406f-9f0c-22552b49c1a2",
-        "title": "Project Assistant 2",
-        "active": true,
-        "date_updated": 1787006598,
-        "date_posted": 1786924800,
-        "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Menands-NY/Hourly-Project-Assistant-II_JR-0002278",
-        "locations": [
-            "Menands, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Menands, NY",
-                "normalized": {
-                    "city": "Menands",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "CSI",
         "id": "4f8ad54a-59ae-44f1-b878-303aec5b1733",
@@ -15756,37 +15265,6 @@
                     "city": "Malvern",
                     "region": "Pennsylvania",
                     "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "d83814e3-88f6-4415-a40a-5c87f3e96b61",
-        "title": "Embedded Software/Firmware Engineer 1",
-        "active": true,
-        "date_updated": 1787005323,
-        "date_posted": 1786924800,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Embedded-Software--Firmware-R-D-Engineer-I_R73869",
-        "locations": [
-            "Lafayette, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lafayette, CO",
-                "normalized": {
-                    "city": "Lafayette",
-                    "region": "Colorado",
-                    "region_code": "CO",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -16573,35 +16051,6 @@
                     "city": "Salt Lake City",
                     "region": "Utah",
                     "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
-        "title": "Engineering New Analyst",
-        "active": true,
-        "date_updated": 1786768199,
-        "date_posted": 1786767953,
-        "url": "https://higher.gs.com/roles/171568?type=students",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -31353,35 +30802,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Clyde Companies",
-        "id": "e0eecd90-4fe3-43c7-a4b4-22134c3d7586",
-        "title": "AMG Technician 1",
-        "active": true,
-        "date_updated": 1786399690,
-        "date_posted": 1786399511,
-        "url": "https://careers.clydeinc.com/jobs/35544?icims=1",
-        "locations": [
-            "Orem, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Orem, UT",
-                "normalized": {
-                    "city": "Orem",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "ADT",
         "id": "6972f1a2-3d65-433d-8be7-1aaa1a3b611f",
@@ -38729,39 +38149,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "7d2611c5-9dae-488a-bb64-954a43229bc8",
-        "title": "Associate Embedded Software Engineer - Manufacturing",
-        "active": true,
-        "date_updated": 1786056329,
-        "date_posted": 1785974400,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Embedded-Software-Engineer--Manufacturing----Rolling-Meadows-IL_R10244230",
-        "locations": [
-            "Rolling Meadows, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rolling Meadows, IL",
-                "normalized": {
-                    "city": "Rolling Meadows",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -46340,6 +45727,35 @@
                     "city": "Vienna",
                     "region": "Virginia",
                     "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
+        "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
+        "title": "Calibrator",
+        "active": true,
+        "date_updated": 1785738601,
+        "date_posted": 1785737786,
+        "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
+        "locations": [
+            "Sweetwater, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sweetwater, TX",
+                "normalized": {
+                    "city": "Sweetwater",
+                    "region": "Texas",
+                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -56800,6 +56216,37 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "KET-Kentucky Educational Television",
+        "id": "9e2719f2-3129-4cfa-8dd1-b3d6019e4a59",
+        "title": "Television Broadcast Engineer",
+        "active": true,
+        "date_updated": 1787490205,
+        "date_posted": 1784788001,
+        "url": "https://ketkentuckyeducationaltelevision.applytojob.com/apply/Z1pMBoFR5Q/Television-Broadcast-Engineer",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Lexington, KY",
+                "normalized": {
+                    "city": "Lexington",
+                    "region": "Kentucky",
+                    "region_code": "KY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Associate's"
         ]
     },
     {
@@ -69545,37 +68992,6 @@
                     "city": "Menlo Park",
                     "region": "California",
                     "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "80e0d020-8c43-4fa5-9126-8fa016e2b871",
-        "title": "Entry Level Application Engineer",
-        "active": true,
-        "date_updated": 1783491301,
-        "date_posted": 1783491203,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Charlotte, NC",
-                "normalized": {
-                    "city": "Charlotte",
-                    "region": "North Carolina",
-                    "region_code": "NC",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -87596,7 +87012,7 @@
     {
         "category": "Hardware",
         "company_name": "TTP",
-        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
+        "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
         "title": "FPGA Engineer - Consultant",
         "active": true,
         "date_updated": 1780927933,
@@ -87887,6 +87303,35 @@
                     "city": "Littleton",
                     "region": "Colorado",
                     "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "1492b1f1-ec72-49d0-8cc4-7c41b35ca4b6",
+        "title": "Vision Engineering Technician - Vision Automation - Semi",
+        "active": true,
+        "date_updated": 1787474719,
+        "date_posted": 1780794771,
+        "url": "https://www.tesla.com/careers/search/job/265473",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sparks, NV",
+                "normalized": {
+                    "city": "Sparks",
+                    "region": "Nevada",
+                    "region_code": "NV",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -97280,6 +96725,37 @@
         ]
     },
     {
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "442c6324-ce4c-401e-a711-4bda90465047",
+        "title": "Model Risk Program Analyst/Associate",
+        "active": true,
+        "date_updated": 1779957181,
+        "date_posted": 1776348530,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736155",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
         "category": "Software Engineering",
         "company_name": "Liquid",
         "id": "536242db-62cc-4f97-b8e4-d38cd8088500",
@@ -104233,37 +103709,6 @@
         ]
     },
     {
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "152296c2-bbc4-40ed-b170-0c0f9b13fb80",
-        "title": "Risk Engineer",
-        "active": true,
-        "date_updated": 1771889648,
-        "date_posted": 1771889648,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7615362",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Cook Systems",
         "id": "5f46b01c-13ab-46ba-844f-9c642aa1f370",
@@ -108098,35 +107543,6 @@
                     "city": "Denver",
                     "region": "Colorado",
                     "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "ac30f3b5-0422-4153-946a-2761fb99c697",
-        "title": "Junior RUST Embedded Software Engineer (cleared)",
-        "active": true,
-        "date_updated": 1766793712,
-        "date_posted": 1766764024,
-        "url": "https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job",
-        "locations": [
-            "Taunton, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Taunton, MA",
-                "normalized": {
-                    "city": "Taunton",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
                     "country": "United States",
                     "country_code": "US"
                 },
