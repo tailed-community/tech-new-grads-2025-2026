@@ -1,5 +1,34 @@
 [
     {
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "d41432d6-6b63-4728-be3a-095f8d258069",
+        "title": "Support Engineer 1 - Global Support",
+        "active": true,
+        "date_updated": 1788126568,
+        "date_posted": 1788048000,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Global-Support-Support-Engineer-I_R2626705",
+        "locations": [
+            "Boise, ID"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boise, ID",
+                "normalized": {
+                    "city": "Boise",
+                    "region": "Idaho",
+                    "region_code": "ID",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Hardware",
         "company_name": "Koch Industries",
         "id": "ef8fdcc4-2bd8-4351-bb2f-c035a74352ee",
@@ -6706,37 +6735,6 @@
     },
     {
         "category": "Software",
-        "company_name": "CoStar Group",
-        "id": "ce76b0bf-36f0-4008-b0a0-193ee9e09639",
-        "title": "Associate Android Engineer",
-        "active": true,
-        "date_updated": 1787897752,
-        "date_posted": 1787788800,
-        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Homescom---Associate-Android-Engineer_R39719",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irvine, CA",
-                "normalized": {
-                    "city": "Irvine",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Booz Allen",
         "id": "dc134c5a-4e51-42bc-8e94-3f5e69b36ba3",
         "title": "Applied AI Software Developer",
@@ -11260,68 +11258,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "d5cb9991-9336-4138-b9c5-18d14b6c8f1b",
-        "title": "Associate Software Engineering",
-        "active": true,
-        "date_updated": 1787627771,
-        "date_posted": 1787627672,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Greenville, TX",
-                "normalized": {
-                    "city": "Greenville",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "7a0ebab5-1cf3-49b7-b609-5c5258ac7694",
-        "title": "Optical Engineer Associate",
-        "active": true,
-        "date_updated": 1787627771,
-        "date_posted": 1787627669,
-        "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors",
-        "locations": [
-            "Wilmington, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Wilmington, MA",
-                "normalized": {
-                    "city": "Wilmington",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "KLA",
         "id": "2029943e-bdea-40e0-af4d-e7e07e36b06a",
@@ -13205,37 +13141,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "84c9f989-d1bf-43c7-ace1-da5f288ace4f",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1787603067,
-        "date_posted": 1787602495,
-        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000/?ats=successfactors",
-        "locations": [
-            "Waco, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Waco, TX",
-                "normalized": {
-                    "city": "Waco",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Cologix",
         "id": "0a24e0a1-31c0-4019-8e78-17c048481430",
@@ -13788,37 +13693,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "L3Harris Technologies",
-        "id": "afb117e6-9b2c-4db7-b8a3-c7f374c6f4ef",
-        "title": "Associate Configuration Management",
-        "active": true,
-        "date_updated": 1787581834,
-        "date_posted": 1787581491,
-        "url": "https://jobs.l3harris.com/job/Waco-Associate,-Configuration-Management-TX-76705/1422376300/?ats=successfactors",
-        "locations": [
-            "Waco, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Waco, TX",
-                "normalized": {
-                    "city": "Waco",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Hardware",
@@ -15291,39 +15165,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "GlobalFoundries",
-        "id": "51356e70-c399-48c1-8ed0-d892ed23c0e8",
-        "title": "Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis",
-        "active": true,
-        "date_updated": 1787436946,
-        "date_posted": 1787356800,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -19507,39 +19348,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "1ea9cb14-dc89-4e72-ab24-6a1177e5d302",
-        "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
-        "active": true,
-        "date_updated": 1787275081,
-        "date_posted": 1787184000,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Melbourne, FL",
-                "normalized": {
-                    "city": "Melbourne",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
         ]
     },
     {
@@ -25281,37 +25089,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "Samsung",
-        "id": "b3e3291d-011b-45fc-af44-94163d5db87d",
-        "title": "Product Management Specialist - Smartphones - A&S",
-        "active": true,
-        "date_updated": 1787091662,
-        "date_posted": 1787011200,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Product-Management-Specialist--Smartphones--A-S-_R119563",
-        "locations": [
-            "Plano, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Plano, TX",
-                "normalized": {
-                    "city": "Plano",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "CoorsTek",
         "id": "c193e9dd-b034-4819-bdff-68b7df1a818c",
@@ -27613,6 +27390,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "e09149c6-13df-4156-b091-ebf0159330f8",
+        "title": "Engineering New Analyst - Engineering",
+        "active": true,
+        "date_updated": 1786776163,
+        "date_posted": 1786767955,
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
+        "title": "Engineering New Analyst - Engineering",
+        "active": true,
+        "date_updated": 1786768201,
+        "date_posted": 1786767954,
+        "url": "https://higher.gs.com/roles/171570?type=students",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Salt Lake City, UT",
+                "normalized": {
+                    "city": "Salt Lake City",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Software",
@@ -32470,38 +32305,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "6e84f2ec-75d6-4ba3-82d4-55bd220a3995",
-        "title": "Advanced Manufacturing Equipment Engineer New Grad",
-        "active": true,
-        "date_updated": 1786785525,
-        "date_posted": 1786665600,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Equipment-Engineer--2027-New-College-Graduate-_JR-2604706",
-        "locations": [
-            "Malta, NY"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Malta, NY",
-                "normalized": {
-                    "city": "Malta",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -48358,93 +48161,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Edgewater IT",
-        "id": "2d577c12-94df-4e2a-bc76-56cbcdcf573a",
-        "title": "Application Developer 1",
-        "active": true,
-        "date_updated": 1785968730,
-        "date_posted": 1785967912,
-        "url": "https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Loveland, CO",
-            "Lakewood, CO",
-            "Folsom, CA",
-            "Phoenix, AZ",
-            "Billings, MT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Loveland, CO",
-                "normalized": {
-                    "city": "Loveland",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Lakewood, CO",
-                "normalized": {
-                    "city": "Lakewood",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Folsom, CA",
-                "normalized": {
-                    "city": "Folsom",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Phoenix, AZ",
-                "normalized": {
-                    "city": "Phoenix",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Billings, MT",
-                "normalized": {
-                    "city": "Billings",
-                    "region": "Montana",
-                    "region_code": "MT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Omnicell",
         "id": "6cef3660-2532-4a39-8249-aa38025e51a8",
@@ -62121,35 +61837,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Genuine Parts Company",
-        "id": "be07ee7d-2906-4fb1-8a03-16360fd5b70c",
-        "title": "Assistant Product Manager",
-        "active": true,
-        "date_updated": 1785279241,
-        "date_posted": 1785196800,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/GBR-AAG---AAL-Rotherham/Assistant-Product-Manager_R26_0000023743",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Sheffield, UK",
-                "normalized": {
-                    "city": "Sheffield",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -87093,6 +86780,37 @@
     },
     {
         "category": "Software",
+        "company_name": "SS&C",
+        "id": "6a6c1581-688a-4490-a6f9-1d598fb5a107",
+        "title": "Salesforce Systems Engineer",
+        "active": true,
+        "date_updated": 1782167041,
+        "date_posted": 1782165792,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Salesforce-Systems-Engineer_R42882",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Jacksonville, FL",
+                "normalized": {
+                    "city": "Jacksonville",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Prosidian Consulting",
         "id": "037b975c-a205-4233-a14e-db1ef66822d9",
         "title": "Application Systems Analyst 1",
@@ -94950,37 +94668,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Gynger",
-        "id": "7fe84778-db60-4cf1-a1c1-8dbbc12097d5",
-        "title": "Financial & Credit Analytics Analyst",
-        "active": true,
-        "date_updated": 1780351561,
-        "date_posted": 1780351545,
-        "url": "https://jobs.lever.co/gynger/6355791d-444f-4a38-9363-3252f38ea3bf/apply",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Apple",
         "id": "1384035e-ee49-4a4d-b11a-da7d8e653b51",
@@ -95378,6 +95065,38 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Rambus",
+        "id": "6e4b8412-f984-47e3-bc20-40454661b0b0",
+        "title": "Design Engineer New Grad - Digital",
+        "active": true,
+        "date_updated": 1785581391,
+        "date_posted": 1780006060,
+        "url": "https://careers-rambus.icims.com/jobs/22422/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Morrisville, NC",
+                "normalized": {
+                    "city": "Morrisville",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -101299,38 +101018,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "dc6c89e6-9e43-433f-a036-0d10d32ee7da",
-        "title": "MP&P Engineer - Nondestructive Evaluation",
-        "active": true,
-        "date_updated": 1776529082,
-        "date_posted": 1776527033,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer---NDE_JR2026497106-1",
-        "locations": [
-            "Mesa, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mesa, AZ",
-                "normalized": {
-                    "city": "Mesa",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -112162,38 +111849,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "6e4b8412-f984-47e3-bc20-40454661b0b0",
-        "title": "Digital Design Engineer – New College Grad",
-        "active": true,
-        "date_updated": 1768259571,
-        "date_posted": 1767396769,
-        "url": "https://careers-rambus.icims.com/jobs/22422/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Morrisville, NC",
-                "normalized": {
-                    "city": "Morrisville",
-                    "region": "North Carolina",
-                    "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     }
 ]
