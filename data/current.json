@@ -1,6 +1,192 @@
 [
     {
         "category": "Software",
+        "company_name": "Klaviyo",
+        "id": "5077be7d-bf97-4e0b-8fad-8674bf28d206",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789234787,
+        "date_posted": 1789234577,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "c922e8d4-2a85-4851-868c-771e8523bb0e",
+        "title": "Forward Deployed Engineer New Grad",
+        "active": true,
+        "date_updated": 1789195521,
+        "date_posted": 1789195437,
+        "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Redwood City, CA",
+                "normalized": {
+                    "city": "Redwood City",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "c980e3e0-5eb6-443f-bc62-cd9de0ab4ae2",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193439,
+        "date_posted": 1789193299,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Conyers, GA",
+                "normalized": {
+                    "city": "Conyers",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "7ea8b761-f25f-4575-b1b1-f152ec0772f5",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193440,
+        "date_posted": 1789193299,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301800/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Conyers, GA",
+                "normalized": {
+                    "city": "Conyers",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "5c792b7d-16ed-4b9e-a8c7-e14569e5b1a4",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193437,
+        "date_posted": 1789193298,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301900/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Conyers, GA",
+                "normalized": {
+                    "city": "Conyers",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "DiDi Global",
+        "id": "204591ee-8f2b-4fc5-b19b-ba0122240474",
+        "title": "Software Engineer - Planning Selection Autonomy",
+        "active": true,
+        "date_updated": 1789177021,
+        "date_posted": 1789176832,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/8198298",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Amazon",
         "id": "02ca659d-9ee1-4e08-a05b-2ddce897fa74",
         "title": "Software Privacy Engineer - Multiple Teams",
@@ -122,6 +308,35 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Arizona",
+        "id": "f07cb9b1-b921-4644-ad60-d73d716d4fa3",
+        "title": "EDI Technical Analyst - Claims",
+        "active": true,
+        "date_updated": 1789223221,
+        "date_posted": 1789171200,
+        "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/EDI-Technical-Analyst--Claims----Hybrid_R6244-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Phoenix, AZ",
+                "normalized": {
+                    "city": "Phoenix",
+                    "region": "Arizona",
+                    "region_code": "AZ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Software",
@@ -2381,6 +2596,35 @@
     },
     {
         "category": "Software",
+        "company_name": "Virtual Technologies Group",
+        "id": "62062c60-b51b-42e1-ad42-76f03297fcb6",
+        "title": "Web Developer - Front End",
+        "active": true,
+        "date_updated": 1789224481,
+        "date_posted": 1789079565,
+        "url": "https://virtualtechnologygroupllc.applytojob.com/apply/7eGy8jc0JK/Web-Developer",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
         "company_name": "Clasp",
         "id": "7b8feca5-0cbb-45f8-8eb6-496c93b805a9",
         "title": "AI Labs Engineer",
@@ -3948,6 +4192,51 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle",
+        "id": "f282c4b5-c8ee-45ef-b00b-51a18a7a5db6",
+        "title": "Research Analyst",
+        "active": true,
+        "date_updated": 1789218541,
+        "date_posted": 1788998400,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Menlo-Park-CA/Research-Analyst_REQ533908",
+        "locations": [
+            "San Jose, CA",
+            "Menlo Park, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Menlo Park, CA",
+                "normalized": {
+                    "city": "Menlo Park",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "The Aerospace Corporation",
         "id": "37554b69-0c6a-47c0-9236-d7e22e5f318a",
@@ -4217,37 +4506,6 @@
                 "raw": "Hillsboro, OR",
                 "normalized": {
                     "city": "Hillsboro",
-                    "region": "Oregon",
-                    "region_code": "OR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Daimler Truck",
-        "id": "c010600b-5c7e-4cc2-a27e-72fd2b3c75b8",
-        "title": "Integration and Coordination Engineer 1",
-        "active": true,
-        "date_updated": 1789089770,
-        "date_posted": 1788998400,
-        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Integration-and-Coordination-Engineer-I_DT-19590-2",
-        "locations": [
-            "Portland, OR"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Portland, OR",
-                "normalized": {
-                    "city": "Portland",
                     "region": "Oregon",
                     "region_code": "OR",
                     "country": "United States",
@@ -8377,38 +8635,6 @@
         "degrees": []
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Texas Instruments",
-        "id": "0fe08920-f59e-48bd-b71b-38a95386da0b",
-        "title": "Digital Experience Data Analyst - Web Marketing Program",
-        "active": true,
-        "date_updated": 1788884361,
-        "date_posted": 1788884187,
-        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017806",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Texas Instruments",
         "id": "7a8e0f99-3910-4517-bf9f-26466fe4df2c",
@@ -8975,37 +9201,6 @@
                     "city": "Mckinney",
                     "region": "Texas",
                     "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "e90bb9b3-2e96-47e0-80c1-169bb7a56849",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1788860655,
-        "date_posted": 1788825600,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01871997",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -10801,35 +10996,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "9bf74f95-1fb8-4ac0-8d76-c20787a0cac3",
-        "title": "Data Scientist",
-        "active": true,
-        "date_updated": 1788830462,
-        "date_posted": 1788739200,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2627532-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Domino's",
         "id": "a9ebc0e6-faa2-45a6-9574-034918f9ee80",
         "title": "Customer Service Representative",
@@ -11389,35 +11555,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "PENN Entertainment",
-        "id": "a6ae9be5-921f-418e-96db-0241adad7082",
-        "title": "Barback",
-        "active": true,
-        "date_updated": 1788560282,
-        "date_posted": 1788560134,
-        "url": "https://careersapply-pennentertainment.icims.com/jobs/145458/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Plainville, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Plainville, MA",
-                "normalized": {
-                    "city": "Plainville",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Arcfield",
         "id": "dbe70f02-b1aa-45be-b35e-f3c436a0c345",
         "title": "Data Scientist 1",
@@ -11867,6 +12004,37 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Cooper University Health Care",
+        "id": "f83551b7-e3ed-4c68-9df6-9356b06f2e76",
+        "title": "Reporting and Analytics Developer",
+        "active": true,
+        "date_updated": 1788531481,
+        "date_posted": 1788531330,
+        "url": "https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Camden, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Camden, NJ",
+                "normalized": {
+                    "city": "Camden",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -12477,35 +12645,6 @@
                     "city": "Topsham",
                     "region": "Maine",
                     "region_code": "ME",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Fresenius Medical Care",
-        "id": "497ef304-d09e-453d-b9d1-5731438f9c1a",
-        "title": "Patient Care Technician",
-        "active": true,
-        "date_updated": 1788571143,
-        "date_posted": 1788480000,
-        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norristown-PA/Patient-Care-Technician--Training-Provided_R0268334",
-        "locations": [
-            "Norristown, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Norristown, PA",
-                "normalized": {
-                    "city": "Norristown",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -19086,39 +19225,6 @@
     },
     {
         "category": "Software",
-        "company_name": "DiDi Global",
-        "id": "d149cf5a-5cab-4419-8845-03f38ec765eb",
-        "title": "Software Engineer - Planning Selection Autonomy",
-        "active": true,
-        "date_updated": 1788239718,
-        "date_posted": 1788238464,
-        "url": "https://job-boards.greenhouse.io/didi/jobs/8131851",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Sierra",
         "id": "9bc9d1a9-759f-43c7-ac8f-311f7220b7e7",
         "title": "Software Engineer New Grad - Agent",
@@ -23399,37 +23505,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Energy Transfer Partners",
-        "id": "e7257a57-0f8e-4057-a337-d5a11e47d4d2",
-        "title": "Associate Analyst - Energy",
-        "active": true,
-        "date_updated": 1788413227,
-        "date_posted": 1787964272,
-        "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003312",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Overland Park, KS",
-                "normalized": {
-                    "city": "Overland Park",
-                    "region": "Kansas",
-                    "region_code": "KS",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Cogent Security",
         "id": "3e1957cd-768a-47fc-9140-cae0d35bb273",
@@ -23682,6 +23757,37 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Nerdio",
+        "id": "5f62b02a-d87f-4a82-9762-6fdf7588a8f1",
+        "title": "Solutions Engineer - Early Career",
+        "active": true,
+        "date_updated": 1789224338,
+        "date_posted": 1787958094,
+        "url": "https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Solace Health",
         "id": "e672528f-0349-4ff4-b017-95c9f64a2400",
@@ -23712,35 +23818,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "LG Ad Solutions",
-        "id": "e2639433-964d-4eec-8a37-c16d048c74ed",
-        "title": "Global Reporting & Analytics Analyst",
-        "active": true,
-        "date_updated": 1787957128,
-        "date_posted": 1787956987,
-        "url": "https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application?embed=true",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -26315,49 +26392,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Retell AI",
-        "id": "d44c4b34-245b-4951-b4ec-573f93fbe2ac",
-        "title": "Forward Deployed Engineer",
-        "active": true,
-        "date_updated": 1787815081,
-        "date_posted": 1787815052,
-        "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application?embed=true",
-        "locations": [
-            "SF",
-            "Redwood City, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Redwood City, CA",
-                "normalized": {
-                    "city": "Redwood City",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "DataVisor",
         "id": "fd3f0fb9-681d-4c31-9e48-221580bf7c03",
@@ -26736,39 +26770,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "University of Maryland - College Park",
-        "id": "f1fe163d-fded-4c86-97cf-746b87948551",
-        "title": "Graduate Assistant - Research Development",
-        "active": true,
-        "date_updated": 1787840791,
-        "date_posted": 1787788800,
-        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Graduate-Assistant_JR104806-1",
-        "locations": [
-            "College Park, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "College Park, MD",
-                "normalized": {
-                    "city": "College Park",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -31154,108 +31155,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Mastercard",
-        "id": "b948ef8c-99af-4850-940a-ca3b8506efb3",
-        "title": "Software Engineer - Launch Program",
-        "active": true,
-        "date_updated": 1787580931,
-        "date_posted": 1787529600,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
-        "locations": [
-            "Salt Lake City, UT",
-            "O'Fallon, MO",
-            "Harrison, NY",
-            "Arlington County, Arlington, VA",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Salt Lake City, UT",
-                "normalized": {
-                    "city": "Salt Lake City",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "O'Fallon, MO",
-                "normalized": {
-                    "city": "O'fallon",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Harrison, NY",
-                "normalized": {
-                    "city": "Harrison",
-                    "region": "New York",
-                    "region_code": "NY",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Arlington County, Arlington, VA",
-                "normalized": {
-                    "city": "Arlington County",
-                    "region": "Arlington",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Atlanta, GA",
-                "normalized": {
-                    "city": "Atlanta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -38867,35 +38766,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "MSX International",
-        "id": "553bfdaa-f2cf-4931-8d8e-e76aa76b8f6e",
-        "title": "Engineering Garage Assistant",
-        "active": true,
-        "date_updated": 1788449773,
-        "date_posted": 1787004894,
-        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990014632066",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irvine, CA",
-                "normalized": {
-                    "city": "Irvine",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "X Development",
         "id": "928375ff-0f40-4367-9048-64370c630dbf",
         "title": "Machine Learning Engineer - Tapestry",
@@ -40065,35 +39935,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
-        "title": "Engineering New Analyst - Engineering",
-        "active": true,
-        "date_updated": 1786768201,
-        "date_posted": 1786767954,
-        "url": "https://higher.gs.com/roles/171570?type=students",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Salt Lake City, UT",
-                "normalized": {
-                    "city": "Salt Lake City",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -41670,52 +41511,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "National Research Group",
-        "id": "6b2b7f9d-ddb1-4941-beae-08c1dfc04296",
-        "title": "Market Research Analyst - Entertainment, Gaming, Sports & Tech",
-        "active": true,
-        "date_updated": 1788451574,
-        "date_posted": 1786686246,
-        "url": "https://careers-nrgmr.icims.com/jobs/7944/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Culver City, CA",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Culver City, CA",
-                "normalized": {
-                    "city": "Culver City",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": [
@@ -60760,37 +60555,6 @@
     {
         "category": "Hardware",
         "company_name": "Foxconn Industrial Internet",
-        "id": "ad844f91-4097-44b3-b369-f72c74bc6481",
-        "title": "Hardware Test Engineer",
-        "active": true,
-        "date_updated": 1788471562,
-        "date_posted": 1785737492,
-        "url": "https://foxconnassemblyllc.applytojob.com/apply/78sc2JlnIz/Hardware-Test-Engineer-Entry-Level",
-        "locations": [
-            "Houston, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Houston, TX",
-                "normalized": {
-                    "city": "Houston",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Foxconn Industrial Internet",
         "id": "ca31b0a6-55b8-4d32-be2f-f14790140cf1",
         "title": "Electrical Engineer",
         "active": true,
@@ -68627,37 +68391,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Cintas",
-        "id": "5b27c114-b61c-4d3f-a04a-8dbdce54bae4",
-        "title": "Data Analyst 1",
-        "active": true,
-        "date_updated": 1784587157,
-        "date_posted": 1784585491,
-        "url": "https://careers.cintas.com/job/Mason-Data-Analyst-I-OH-45040/1410667700/?ats=successfactors",
-        "locations": [
-            "Mason, OH"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mason, OH",
-                "normalized": {
-                    "city": "Mason",
-                    "region": "Ohio",
-                    "region_code": "OH",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Western Digital",
         "id": "170d71a3-3702-4153-b3fd-4d73225e3caa",
@@ -70764,37 +70497,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "725a5070-88c9-4a51-890e-f7e39332751c",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1784155406,
-        "date_posted": 1784073600,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1496579",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Toronto, ON, Canada",
-                "normalized": {
-                    "city": "Toronto",
-                    "region": "Ontario",
-                    "region_code": "ON",
-                    "country": "Canada",
-                    "country_code": "CA"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -73412,35 +73114,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Alkira",
-        "id": "f5d0810b-8d0e-4bee-b85c-e93f19ab3aef",
-        "title": "Software Engineer - Datapath",
-        "active": true,
-        "date_updated": 1783678321,
-        "date_posted": 1783548695,
-        "url": "https://alkira.bamboohr.com/careers/232/",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -82210,35 +81883,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Abound",
-        "id": "cf8ea2c6-a348-46f3-ba15-de86844650e5",
-        "title": "Graduate Software Engineer",
-        "active": true,
-        "date_updated": 1782483121,
-        "date_posted": 1782482870,
-        "url": "https://jobs.ashbyhq.com/Abound/7ae69c2b-1dae-40c6-a5b2-8f5b42157263/application",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": []
