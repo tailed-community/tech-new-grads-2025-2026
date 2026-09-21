@@ -1,5 +1,81 @@
 [
     {
+        "category": "AI/ML/Data",
+        "company_name": "Valeo Foods",
+        "id": "5edf4155-7d69-40cf-b5c8-d2a0061ec7e7",
+        "title": "Business Intelligence Analyst Graduate",
+        "active": true,
+        "date_updated": 1789942173,
+        "date_posted": 1789941880,
+        "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000150541879",
+        "locations": [
+            "Leeds, UK",
+            "Wallingford, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Leeds, UK",
+                "normalized": {
+                    "city": "Leeds",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Wallingford, UK",
+                "normalized": {
+                    "city": "Wallingford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "9d8d8df4-5b75-448a-9eab-cda823f1a532",
+        "title": "AI/ML Data Scientist",
+        "active": true,
+        "date_updated": 1789942599,
+        "date_posted": 1789862400,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Data-Scientist_R-00192633",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Study.com",
         "id": "11510869-ac93-4ce2-85d4-2787fe2b2cb2",
@@ -1092,37 +1168,6 @@
         ],
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Dexcom",
-        "id": "63355fdb-3295-4152-b685-4b85fdb399a7",
-        "title": "Systems Design & Test Engineer",
-        "active": true,
-        "date_updated": 1789770608,
-        "date_posted": 1789689600,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Systems-Design---Test-Engineer-1_JR121256",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Diego, CA",
-                "normalized": {
-                    "city": "San Diego",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -5263,35 +5308,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "RoadRunner",
-        "id": "d7b2e201-b556-489b-a8f9-5ccb4788c8d8",
-        "title": "Forward Deployed Engineer New Grad",
-        "active": true,
-        "date_updated": 1789521643,
-        "date_posted": 1789521465,
-        "url": "https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application?embed=true",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "Hardware",
         "company_name": "Emerson Electric",
         "id": "3613890a-a6cc-4909-9aa1-7a2f658282c2",
@@ -5645,6 +5661,107 @@
                     "city": "Warren",
                     "region": "Michigan",
                     "region_code": "MI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "5bc6041b-141f-4df8-ba11-388fc1eae726",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1789598161,
+        "date_posted": 1789516800,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Software-Developer_R0046516-4",
+        "locations": [
+            "Texas",
+            "Florida",
+            "Colorado",
+            "Fort Collins, CO",
+            "North Carolina",
+            "Ohio"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Texas",
+                "normalized": {
+                    "city": null,
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Florida",
+                "normalized": {
+                    "city": null,
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Colorado",
+                "normalized": {
+                    "city": null,
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Fort Collins, CO",
+                "normalized": {
+                    "city": "Fort Collins",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "North Carolina",
+                "normalized": {
+                    "city": null,
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Ohio",
+                "normalized": {
+                    "city": null,
+                    "region": "Ohio",
+                    "region_code": "OH",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -7370,6 +7487,37 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Google",
+        "id": "f85a296e-5acc-4a94-8a58-4c89081eeda7",
+        "title": "Hardware Architecture Modeling Engineer - PhD - 2027 Start",
+        "active": true,
+        "date_updated": 1789482002,
+        "date_posted": 1789481752,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107494065192215238",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sunnyvale, CA",
+                "normalized": {
+                    "city": "Sunnyvale",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Arcfield",
         "id": "d0e246b4-68c7-434f-ae99-044c38ec043b",
@@ -7650,37 +7798,6 @@
                 "raw": "Cupertino, CA",
                 "normalized": {
                     "city": "Cupertino",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "1ecbece2-8bbd-45f2-b804-065bfabb8b21",
-        "title": "Vision Systems Test Engineer 1",
-        "active": true,
-        "date_updated": 1789512235,
-        "date_posted": 1789430400,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems-Test-Engineer-I--Onsite-_01875044",
-        "locations": [
-            "Goleta, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Goleta, CA",
-                "normalized": {
-                    "city": "Goleta",
                     "region": "California",
                     "region_code": "CA",
                     "country": "United States",
@@ -11237,6 +11354,51 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Anglian Water",
+        "id": "92e9de56-6381-4b20-90ea-41ec1103cf1d",
+        "title": "Digital Data and Technology Graduate",
+        "active": true,
+        "date_updated": 1789415461,
+        "date_posted": 1789344000,
+        "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Digital-Data-and-Technology-Graduate_R39598",
+        "locations": [
+            "Peterborough, UK",
+            "Huntingdon, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Peterborough, UK",
+                "normalized": {
+                    "city": "Peterborough",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Huntingdon, UK",
+                "normalized": {
+                    "city": "Huntingdon",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "MBDA",
         "id": "7a3bc98d-8348-42c8-9e7f-c14d66a75d0a",
@@ -11432,37 +11594,6 @@
                     "city": "Charlotte",
                     "region": "North Carolina",
                     "region_code": "NC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "U.S. Bank",
-        "id": "63c995b0-3122-45a1-8d57-e418f2c90068",
-        "title": "Associate Software Engineer - C# - .NET Core",
-        "active": true,
-        "date_updated": 1789424281,
-        "date_posted": 1789344000,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Associate-Software-Engineer--C---NET-Core-_2026-0028472",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Hopkins, MN",
-                "normalized": {
-                    "city": "Hopkins",
-                    "region": "Minnesota",
-                    "region_code": "MN",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -19359,6 +19490,37 @@
                     "city": "Sunrise",
                     "region": "Florida",
                     "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "60bf5735-7aca-4f7f-a89d-fec901bb12bf",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788907577,
+        "date_posted": 1788825600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Tucson, AZ",
+                "normalized": {
+                    "city": "Tucson",
+                    "region": "Arizona",
+                    "region_code": "AZ",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -59940,37 +60102,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Starbucks",
-        "id": "924b8ac7-f08b-4620-9762-01deab61c794",
-        "title": "Application Developer - Application Development",
-        "active": true,
-        "date_updated": 1785922656,
-        "date_posted": 1785922136,
-        "url": "https://starbucks.eightfold.ai/careers/job/481078166376",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Nashville, TN",
-                "normalized": {
-                    "city": "Nashville",
-                    "region": "Tennessee",
-                    "region_code": "TN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -107855,103 +107986,5 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "2184ba51-9029-4b0d-956c-e66d880ffe74",
-        "title": "Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design",
-        "active": true,
-        "date_updated": 1769212230,
-        "date_posted": 1769212230,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Perpay",
-        "id": "d7cb4ad8-75c7-4bef-9db4-dfec7b390e67",
-        "title": "Junior Strategic Analyst",
-        "active": true,
-        "date_updated": 1788505932,
-        "date_posted": 1769210830,
-        "url": "https://job-boards.greenhouse.io/perpay/jobs/4158121007",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Perpay",
-        "id": "87535675-cdd3-44ea-b36f-622b1a2be47b",
-        "title": "Software Engineer – New Grad",
-        "active": true,
-        "date_updated": 1769210828,
-        "date_posted": 1769210828,
-        "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
     }
 ]
