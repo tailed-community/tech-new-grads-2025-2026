@@ -185,67 +185,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Amazon",
-        "id": "372dabb4-b681-4c6f-bc61-e5c936c3958f",
-        "title": "Hardware Development Engineer - AI/ML Server Development",
-        "active": true,
-        "date_updated": 1790385121,
-        "date_posted": 1790384776,
-        "url": "https://amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development",
-        "locations": [
-            "Seattle, WA",
-            "Cupertino, CA",
-            "Denver, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Cupertino, CA",
-                "normalized": {
-                    "city": "Cupertino",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Denver, CO",
-                "normalized": {
-                    "city": "Denver",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Woolpert",
         "id": "02f9ffea-0fcf-46d4-9cfb-2a90be93c0da",
@@ -1349,37 +1288,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "777dc751-d5f0-4f2d-97c7-9d205411e8c1",
-        "title": "Software Engineer 1 - Gen4 Airborne Radar",
-        "active": true,
-        "date_updated": 1790385228,
-        "date_posted": 1790294400,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "El Segundo, CA",
-                "normalized": {
-                    "city": "El Segundo",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -3503,37 +3411,6 @@
                     "city": "Marlborough",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "a88a93a2-3964-45b7-911a-720da6ee7efe",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1790289750,
-        "date_posted": 1790208000,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752-1",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Tucson, AZ",
-                "normalized": {
-                    "city": "Tucson",
-                    "region": "Arizona",
-                    "region_code": "AZ",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -6177,37 +6054,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "F5",
-        "id": "f65b2779-c9d2-4cdc-8327-38e3c12c8887",
-        "title": "Software Development Engineer 1 (AI)",
-        "active": true,
-        "date_updated": 1790117410,
-        "date_posted": 1790035200,
-        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-I_RP1038827-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seattle, WA",
-                "normalized": {
-                    "city": "Seattle",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Fermilab",
         "id": "523f8c96-624c-475c-aa97-bae7bee72f35",
@@ -6629,37 +6475,6 @@
                     "city": "North Andover",
                     "region": "Massachusetts",
                     "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Southwest Airlines",
-        "id": "8373f031-9eb9-45a6-9012-e95eca490eff",
-        "title": "Associate Software Engineer - Direct College Hire",
-        "active": true,
-        "date_updated": 1790115482,
-        "date_posted": 1790035200,
-        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dallas, TX",
-                "normalized": {
-                    "city": "Dallas",
-                    "region": "Texas",
-                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -7210,37 +7025,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "86139554-385a-4f87-8d17-427b8cf60ed9",
-        "title": "Associate Software Engineering",
-        "active": true,
-        "date_updated": 1790030146,
-        "date_posted": 1790028588,
-        "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1431958600/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Greenville, TX",
-                "normalized": {
-                    "city": "Greenville",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "AI/ML/Data",
@@ -7867,6 +7651,37 @@
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mayfield Heights, OH",
+                "normalized": {
+                    "city": "Mayfield Heights",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "8b43283a-d9a8-4051-ba77-0ead77dca4c2",
+        "title": "Leadership Development Program - Product Engineering & Development",
+        "active": true,
+        "date_updated": 1790039701,
+        "date_posted": 1789948800,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888",
         "locations": [
             "Mayfield Heights, OH"
         ],
@@ -20360,38 +20175,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Johns Hopkins Applied Physics Laboratory",
-        "id": "9d7967bf-9168-4534-85c7-1b7cb6ebb568",
-        "title": "Software Engineer New Grad - Multiple Teams",
-        "active": true,
-        "date_updated": 1789079945,
-        "date_posted": 1789078931,
-        "url": "https://careers.jhuapl.edu/jobs/59817?icims=1",
-        "locations": [
-            "Laurel, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Laurel, MD",
-                "normalized": {
-                    "city": "Laurel",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "914e3741-1751-407f-8d52-bfa2a697f301",
@@ -21352,91 +21135,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Hastings Direct",
-        "id": "1dda1979-d969-4d70-993f-2a200bbe3d19",
-        "title": "Pricing Automation Engineer",
-        "active": true,
-        "date_updated": 1789051501,
-        "date_posted": 1788998400,
-        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Pricing-Automation-Engineer_60014016-1",
-        "locations": [
-            "London, UK",
-            "Cardiff, UK",
-            "Leicester, UK",
-            "Belfast, UK",
-            "Bexhill, Bexhill-on-Sea, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Cardiff, UK",
-                "normalized": {
-                    "city": "Cardiff",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Leicester, UK",
-                "normalized": {
-                    "city": "Leicester",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Belfast, UK",
-                "normalized": {
-                    "city": "Belfast",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Bexhill, Bexhill-on-Sea, UK",
-                "normalized": {
-                    "city": "Bexhill",
-                    "region": "Bexhill-on-sea",
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -31353,35 +31051,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "39735657-b100-4614-b0d2-96e5a8a79cde",
-        "title": "International Scouting Associate",
-        "active": true,
-        "date_updated": 1788302778,
-        "date_posted": 1788302650,
-        "url": "https://jobs.lever.co/redsox/a1a2b37d-27db-4b91-a0ac-4a47c0cae5aa/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boston, MA",
-                "normalized": {
-                    "city": "Boston",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -51733,6 +51402,38 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "8dc89094-3aea-4bac-9d27-dfbd32fba20c",
+        "title": "Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems",
+        "active": true,
+        "date_updated": 1786680235,
+        "date_posted": 1786679956,
+        "url": "https://careers.jhuapl.edu/jobs/58971?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Laurel, MD",
+                "normalized": {
+                    "city": "Laurel",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
