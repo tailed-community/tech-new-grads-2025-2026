@@ -1004548,7 +1004548,7 @@
         "company_name": "CSC Generation",
         "id": "2643154c-81da-4e50-a255-f026c03f0324",
         "title": "AI Solutions Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788514922,
         "date_posted": 1784671755,
         "url": "https://jobs.lever.co/cscgeneration-2/40715594-0edc-4909-967c-71d252215c51/apply",
@@ -1046430,7 +1046430,7 @@
         "company_name": "Rockwell Automation",
         "id": "8b43283a-d9a8-4051-ba77-0ead77dca4c2",
         "title": "Leadership Development Program - Product Engineering & Development",
-        "active": true,
+        "active": false,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888",
@@ -1066638,7 +1066638,7 @@
         "company_name": "Capgemini",
         "id": "214e7a90-9cec-4928-a2ba-cbb8931aeb79",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791239622,
         "date_posted": 1791238880,
         "url": "https://careers.capgemini.com/job/Nashville,-TN-Associate-Software-Engineer-TN-37201/1444508633/?ats=successfactors",
@@ -1071293,7 +1071293,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "6d98507e-f9d3-4151-8068-c847abca4557",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791325300,
         "date_posted": 1791244800,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889",
@@ -1073017,7 +1073017,7 @@
         "company_name": "Northrop Grumman",
         "id": "99c86363-1d06-485c-83bf-028ccf3525ff",
         "title": "Associate / Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791353885,
         "date_posted": 1791244800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Associate---Electronics-Engineer--Levels-1---2--El-Segundo_R10251243",
@@ -1080320,7 +1080320,7 @@
         "company_name": "Ford Motor Company",
         "id": "56bc590e-3ded-4a5e-a2a2-b872fdfaf778",
         "title": "Accounting Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1791555482,
         "date_posted": 1791555032,
         "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72451",
@@ -1083663,7 +1083663,7 @@
         "company_name": "Ludlum Measurements",
         "id": "14e5ea10-2fb3-4ed7-9182-415bec004147",
         "title": "Calibrator",
-        "active": true,
+        "active": false,
         "date_updated": 1791624421,
         "date_posted": 1788407838,
         "url": "https://vpitechnology.applytojob.com/apply/ksYuZk8zNR/Calibrator",
@@ -1083777,6 +1083777,163 @@
         ],
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Kainos",
+        "id": "ed5f64a8-5b5d-41df-8ac6-f0a2d296041f",
+        "title": "Technologist New Grad",
+        "active": true,
+        "date_updated": 1791767612,
+        "date_posted": 1791763200,
+        "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Graduate-Technologist--Belfast----August-2027-Start-Date_JR_18544",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Belfast, UK",
+                "normalized": {
+                    "city": "Belfast",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Kainos",
+        "id": "831b35aa-0a44-476a-9422-41907d60a5fd",
+        "title": "Graduate Technologist",
+        "active": true,
+        "date_updated": 1791767521,
+        "date_posted": 1791763200,
+        "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Graduate-Technologist--L-Derry----May-2027-Start-Date_JR_18545",
+        "locations": [
+            "Londonderry, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Londonderry, UK",
+                "normalized": {
+                    "city": "Londonderry",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Pearson",
+        "id": "425cf488-0ee5-4bff-a865-9b760232a73e",
+        "title": "Data Analyst - Measurement",
+        "active": true,
+        "date_updated": 1791767616,
+        "date_posted": 1791767433,
+        "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26228",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Kainos",
+        "id": "32ffb4c4-9135-4a74-aa7e-80d0d0d6ea62",
+        "title": "Graduate Technologist",
+        "active": true,
+        "date_updated": 1791767521,
+        "date_posted": 1791763200,
+        "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Graduate-Technologist--Birmingham----September-2027-Start-Date_JR_18546",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Birmingham, UK",
+                "normalized": {
+                    "city": "Birmingham",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "8944e3f6-18d2-4e20-b86a-23223ceba88f",
+        "title": "Software Engineer New Grad - DL Kernel Libraries",
+        "active": true,
+        "date_updated": 1791767507,
+        "date_posted": 1791676800,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
