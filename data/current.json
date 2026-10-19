@@ -1,5 +1,68 @@
 [
     {
+        "category": "Software",
+        "company_name": "VTG",
+        "id": "22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1792361352,
+        "date_posted": 1792361207,
+        "url": "https://careers.vtgdefense.com/jobs/9669?icims=1",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Hanover, MD",
+                "normalized": {
+                    "city": "Hanover",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "6b020294-dd07-4368-8e44-a6ec90bcb635",
+        "title": "VLSI Engineer 1",
+        "active": true,
+        "date_updated": 1792374360,
+        "date_posted": 1792281600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Roseville, CA",
+                "normalized": {
+                    "city": "Roseville",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Leonardo",
         "id": "5b918ad5-6661-46c0-8542-0b0aacd40eb4",
@@ -110,6 +173,39 @@
                 "raw": "Edinburgh, UK",
                 "normalized": {
                     "city": "Edinburgh",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "72942882-0bfb-48a4-a88a-5cbf7e511932",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1792317426,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Graduate-Software-Engineer_R0033863",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Newcastle upon Tyne, UK",
+                "normalized": {
+                    "city": "Newcastle Upon Tyne",
                     "region": null,
                     "region_code": null,
                     "country": "United Kingdom",
@@ -1412,68 +1508,6 @@
         "degrees": []
     },
     {
-        "category": "Software",
-        "company_name": "Dexcom",
-        "id": "7b2a26dd-7916-4ee7-ba75-e35c445c25b0",
-        "title": "Software Development Engineer 1",
-        "active": true,
-        "date_updated": 1792190772,
-        "date_posted": 1792108800,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121398",
-        "locations": [
-            "California"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "California",
-                "normalized": {
-                    "city": null,
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Dexcom",
-        "id": "1bc634d6-9cdf-426b-bcd4-73ff0d7389a7",
-        "title": "Software Development Engineer 1",
-        "active": true,
-        "date_updated": 1792190622,
-        "date_posted": 1792108800,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-Oregon/SW-Development-Engineer-1_JR121399",
-        "locations": [
-            "Oregon"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Oregon",
-                "normalized": {
-                    "city": null,
-                    "region": "Oregon",
-                    "region_code": "OR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "GlobalFoundries",
         "id": "e62f4f31-a374-418f-9e93-d218cb46b148",
@@ -2314,38 +2348,6 @@
                     "city": "O'fallon",
                     "region": "Missouri",
                     "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1792104121,
-        "date_posted": 1792103978,
-        "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Milpitas, CA",
-                "normalized": {
-                    "city": "Milpitas",
-                    "region": "California",
-                    "region_code": "CA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -4220,69 +4222,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "Normal Computing",
-        "id": "006605a5-8ff8-4cbe-bcb2-dd5ac6499c5f",
-        "title": "Product Manager",
-        "active": true,
-        "date_updated": 1792017543,
-        "date_posted": 1792017468,
-        "url": "https://jobs.ashbyhq.com/normalcomputing/acc80301-3574-4cc8-904a-fb66a346ebd4/application?embed=true",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Qualcomm",
-        "id": "e2e74d29-f67c-4468-808e-766ee1fd7616",
-        "title": "Compiler Toolchain Engineer - Compiler Toolchain Software",
-        "active": true,
-        "date_updated": 1792017185,
-        "date_posted": 1792017109,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446721572291",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -9049,6 +8988,37 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "The Hut Group",
+        "id": "a10af0a6-a819-4543-af5b-03a215f28763",
+        "title": "Graduate Data & Insight Analyst",
+        "active": true,
+        "date_updated": 1791842948,
+        "date_posted": 1791842826,
+        "url": "https://www.thg.com/talent/job-search?gh_jid=5003320101",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Manchester, UK",
+                "normalized": {
+                    "city": "Manchester",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Duolingo",
         "id": "f466d67b-9634-442d-ab44-147c27ae3808",
         "title": "AI Research Engineer New Grad",
@@ -9643,6 +9613,37 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "TJX",
+        "id": "a2948d5d-0733-4548-8351-e4a5d082b4dd",
+        "title": "IT Engineer Graduate",
+        "active": true,
+        "date_updated": 1791844662,
+        "date_posted": 1791763200,
+        "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/IT-Engineer-Graduate_REQ156568-1",
+        "locations": [
+            "Watford, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Watford, UK",
+                "normalized": {
+                    "city": "Watford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -34381,98 +34382,6 @@
         ]
     },
     {
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "1bf4253a-4ba5-4a65-8728-b70e5acdeb6a",
-        "title": "Associate Product Manager - Program",
-        "active": true,
-        "date_updated": 1789467657,
-        "date_posted": 1789430400,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554",
-        "locations": [
-            "Glendale, CA",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Glendale, CA",
-                "normalized": {
-                    "city": "Glendale",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "7302fc5e-a4cc-4e0f-b7cf-b34d10f1d5be",
-        "title": "Associate Product Manager - APM Program",
-        "active": true,
-        "date_updated": 1789467658,
-        "date_posted": 1789430400,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1",
-        "locations": [
-            "Glendale, CA",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Glendale, CA",
-                "normalized": {
-                    "city": "Glendale",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "847cdb6a-d9f6-494f-b2ac-145cc1bef8d3",
@@ -44698,37 +44607,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "Axos Bank",
-        "id": "0854004d-3797-4a41-92c7-8b23ea92f186",
-        "title": "AML Analyst 1",
-        "active": true,
-        "date_updated": 1788490977,
-        "date_posted": 1788393600,
-        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Omaha, NE",
-                "normalized": {
-                    "city": "Omaha",
-                    "region": "Nebraska",
-                    "region_code": "NE",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Unlimited",
         "id": "2e4c045e-75a6-49ad-8d48-309400c9abd5",
@@ -48158,38 +48036,6 @@
             }
         ],
         "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Citi",
-        "id": "45f17891-1cd5-45a2-b597-b2e563ab034b",
-        "title": "Quantitative Analysis Associate - Markets",
-        "active": true,
-        "date_updated": 1788405846,
-        "date_posted": 1788220800,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Full-Time-Associate--London--2027_26984782",
-        "locations": [
-            "London, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "London, UK",
-                "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
             "PhD"
         ]
     },
@@ -58335,17 +58181,17 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
+        "category": "Hardware",
         "company_name": "Normal Computing",
-        "id": "3163c14a-7b55-40a3-b21d-2696e2c37cd5",
-        "title": "AI Research Resident",
+        "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
+        "title": "Thermodynamic Hardware Resident",
         "active": true,
-        "date_updated": 1787128021,
+        "date_updated": 1790933221,
         "date_posted": 1787127897,
-        "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true",
+        "url": "https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true",
         "locations": [
             "Palo Alto, CA",
-            "London, UK",
+            "Silicon Valley, CA",
             "NYC"
         ],
         "normalized_locations": [
@@ -58363,13 +58209,13 @@
                 "confidence": 1.0
             },
             {
-                "raw": "London, UK",
+                "raw": "Silicon Valley, CA",
                 "normalized": {
-                    "city": "London",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
+                    "city": "Silicon Valley",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
                 },
                 "type": "onsite",
                 "unresolved": false,
@@ -106269,70 +106115,6 @@
                     "city": "Salt Lake City",
                     "region": "Utah",
                     "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Data Cloud Merge",
-        "id": "5b7802f6-b055-4d73-b1cf-7d3272c01af7",
-        "title": "Entry Level Business Analyst",
-        "active": true,
-        "date_updated": 1788457523,
-        "date_posted": 1771600821,
-        "url": "https://jobs.smartrecruiters.com/DataCloudMerge/744000039093905",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Philadelphia, PA",
-                "normalized": {
-                    "city": "Philadelphia",
-                    "region": "Pennsylvania",
-                    "region_code": "PA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Data Cloud Merge",
-        "id": "2ff8021a-9741-4562-a72d-7e1ba5fd39bf",
-        "title": "Entry Level Business Analyst",
-        "active": true,
-        "date_updated": 1788457523,
-        "date_posted": 1771600012,
-        "url": "https://jobs.smartrecruiters.com/DataCloudMerge/744000039092000",
-        "locations": [
-            "Jersey City, NJ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Jersey City, NJ",
-                "normalized": {
-                    "city": "Jersey City",
-                    "region": "New Jersey",
-                    "region_code": "NJ",
                     "country": "United States",
                     "country_code": "US"
                 },
