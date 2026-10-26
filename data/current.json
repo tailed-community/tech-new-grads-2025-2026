@@ -1,6 +1,37 @@
 [
     {
         "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "c14d3582-4d42-4e4b-8aca-7853fd8512e3",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1792968158,
+        "date_posted": 1792886400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Morrisville, NC",
+                "normalized": {
+                    "city": "Morrisville",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
         "company_name": "Oracle",
         "id": "10b87c52-ce84-40be-b48f-f03d8a683189",
         "title": "Electrical Engineer 1",
@@ -3726,6 +3757,37 @@
     },
     {
         "category": "Software",
+        "company_name": "Guidehouse",
+        "id": "972b80b8-e865-4003-afae-31d91851fd02",
+        "title": "Technical Associate Application Developer",
+        "active": true,
+        "date_updated": 1792718657,
+        "date_posted": 1792627200,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Booz Allen",
         "id": "5dd20db4-2a48-4210-930a-e6630cac52bc",
         "title": "Systems Engineer",
@@ -4537,38 +4599,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Cleveland Clinic",
-        "id": "62139b4b-4989-4dbd-9408-c58649080617",
-        "title": "Healthcare Reporting Analyst 1",
-        "active": true,
-        "date_updated": 1792707912,
-        "date_posted": 1792627200,
-        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Healthcare-Reporting-Analyst-I_351300",
-        "locations": [
-            "Remote in USA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -8813,38 +8843,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "e82a869f-bab2-40c3-bc73-9eced81f13c6",
-        "title": "Associate Pathways Electronics Engineer",
-        "active": true,
-        "date_updated": 1792506273,
-        "date_posted": 1792454400,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Pathways-Electronics-Engineer---Pathways-Electronics-Engineer---Rolling-Meadows-IL_R10256777",
-        "locations": [
-            "Rolling Meadows, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Rolling Meadows, IL",
-                "normalized": {
-                    "city": "Rolling Meadows",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "Applied Materials",
         "id": "bcc5917d-14c6-476e-8eb3-06d5f398ff78",
@@ -12961,38 +12959,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "b88b4d25-8905-40c6-8911-eeb59632c125",
-        "title": "Associate / Embedded Software Engineer",
-        "active": true,
-        "date_updated": 1792102229,
-        "date_posted": 1792022400,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027--Associate--Embedded-Software-Engineer---Dulles-VA_R10256217",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dulles, VA",
-                "normalized": {
-                    "city": "Dulles",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -70599,6 +70565,66 @@
         "degrees": []
     },
     {
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
+        "title": "Electrical Engineer 2",
+        "active": true,
+        "date_updated": 1788436204,
+        "date_posted": 1786602573,
+        "url": "https://careers.cisco.com/global/en/job/2020283",
+        "locations": [
+            "Research Triangle Park, Durham, NC",
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Research Triangle Park, Durham, NC",
+                "normalized": {
+                    "city": "Research Triangle Park",
+                    "region": "Durham",
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Software",
         "company_name": "Zen3",
         "id": "db729439-81c9-4d53-9200-60ed9fa14fb9",
@@ -83890,68 +83916,6 @@
     },
     {
         "category": "Software",
-        "company_name": "Bank of Montreal",
-        "id": "021114e1-c556-4de3-ac71-007b3f8adb26",
-        "title": "Software Developer",
-        "active": true,
-        "date_updated": 1785621967,
-        "date_posted": 1785456000,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
-        "locations": [
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Bank of Montreal",
-        "id": "d10d917c-bc5a-4b18-8f26-0bd664956f32",
-        "title": "Software Developer",
-        "active": true,
-        "date_updated": 1785622016,
-        "date_posted": 1785456000,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
-        "locations": [
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "ab74ecca-af20-483d-9d93-2db6d26feb93",
         "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
@@ -89404,37 +89368,6 @@
         ],
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Tesla",
-        "id": "5a57537d-9e34-437b-b912-d582e9641b85",
-        "title": "Data Analytics Engineer Scientist - Thermal - Chassis",
-        "active": true,
-        "date_updated": 1787822315,
-        "date_posted": 1783981263,
-        "url": "https://www.tesla.com/careers/search/job/262399",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Palo Alto, CA",
-                "normalized": {
-                    "city": "Palo Alto",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -97157,6 +97090,38 @@
         ],
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "441c3d0c-ee76-4f06-85bc-5c015f9c7452",
+        "title": "Memory Design Engineer New Grad - HBM",
+        "active": true,
+        "date_updated": 1788458060,
+        "date_posted": 1781361801,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Memory-Design-Engineer--HBM_JR93183-1",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Richardson, TX",
+                "normalized": {
+                    "city": "Richardson",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -112238,132 +112203,6 @@
             "Master's",
             "MBA",
             "PhD"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "441c3d0c-ee76-4f06-85bc-5c015f9c7452",
-        "title": "New College Grad - Memory Design Engineer - Hbm",
-        "active": true,
-        "date_updated": 1772236519,
-        "date_posted": 1772236519,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Memory-Design-Engineer--HBM_JR93183-1",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Richardson, TX",
-                "normalized": {
-                    "city": "Richardson",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Quant",
-        "company_name": "Fanatics",
-        "id": "4a089c94-75c1-4054-ba07-f79afa016b61",
-        "title": "Trader 1 – Soccer",
-        "active": true,
-        "date_updated": 1792744995,
-        "date_posted": 1772233897,
-        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26927",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Leeds, UK",
-                "normalized": {
-                    "city": "Leeds",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Merative",
-        "id": "c551daed-04ac-42cb-a745-9664938e00da",
-        "title": "Software Engineering Associate",
-        "active": true,
-        "date_updated": 1772205777,
-        "date_posted": 1772205777,
-        "url": "https://jobs.smartrecruiters.com/TruvenHealthAnalyticsanIBMCompany/93930814",
-        "locations": [
-            "Greenwood Village, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Greenwood Village, CO",
-                "normalized": {
-                    "city": "Greenwood Village",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Software Quality Experts",
-        "id": "ebe0c3a5-934b-43a4-83a8-c05b37b44105",
-        "title": "Entry Level Business Analyst / Data Analyst",
-        "active": true,
-        "date_updated": 1772158185,
-        "date_posted": 1772158185,
-        "url": "https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861",
-        "locations": [
-            "Dulles, VA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Dulles, VA",
-                "normalized": {
-                    "city": "Dulles",
-                    "region": "Virginia",
-                    "region_code": "VA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     }
 ]

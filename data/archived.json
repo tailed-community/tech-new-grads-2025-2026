@@ -449807,10 +449807,10 @@
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "441c3d0c-ee76-4f06-85bc-5c015f9c7452",
-        "title": "New College Grad - Memory Design Engineer - Hbm",
+        "title": "Memory Design Engineer New Grad - HBM",
         "active": true,
-        "date_updated": 1772236519,
-        "date_posted": 1772236519,
+        "date_updated": 1788458060,
+        "date_posted": 1781361801,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Memory-Design-Engineer--HBM_JR93183-1",
         "locations": [
             "Richardson, TX"
@@ -864674,7 +864674,7 @@
         "company_name": "Bank of Montreal",
         "id": "021114e1-c556-4de3-ac71-007b3f8adb26",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785621967,
         "date_posted": 1785456000,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
@@ -864705,7 +864705,7 @@
         "company_name": "Bank of Montreal",
         "id": "d10d917c-bc5a-4b18-8f26-0bd664956f32",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785622016,
         "date_posted": 1785456000,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450",
@@ -954891,7 +954891,7 @@
         "company_name": "Tesla",
         "id": "5a57537d-9e34-437b-b912-d582e9641b85",
         "title": "Data Analytics Engineer Scientist - Thermal - Chassis",
-        "active": true,
+        "active": false,
         "date_updated": 1787822315,
         "date_posted": 1783981263,
         "url": "https://www.tesla.com/careers/search/job/262399",
@@ -990044,7 +990044,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -1093346,7 +1093346,7 @@
         "company_name": "Northrop Grumman",
         "id": "b88b4d25-8905-40c6-8911-eeb59632c125",
         "title": "Associate / Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792102229,
         "date_posted": 1792022400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027--Associate--Embedded-Software-Engineer---Dulles-VA_R10256217",
@@ -1101394,7 +1101394,7 @@
         "company_name": "Northrop Grumman",
         "id": "e82a869f-bab2-40c3-bc73-9eced81f13c6",
         "title": "Associate Pathways Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792506273,
         "date_posted": 1792454400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Pathways-Electronics-Engineer---Pathways-Electronics-Engineer---Rolling-Meadows-IL_R10256777",
@@ -1107816,7 +1107816,7 @@
         "company_name": "Cleveland Clinic",
         "id": "62139b4b-4989-4dbd-9408-c58649080617",
         "title": "Healthcare Reporting Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792707912,
         "date_posted": 1792627200,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Healthcare-Reporting-Analyst-I_351300",
@@ -1109309,7 +1109309,7 @@
         "company_name": "Guidehouse",
         "id": "972b80b8-e865-4003-afae-31d91851fd02",
         "title": "Technical Associate Application Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1792718657,
         "date_posted": 1792627200,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
@@ -1127761,6 +1127761,37 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "c14d3582-4d42-4e4b-8aca-7853fd8512e3",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1792968158,
+        "date_posted": 1792886400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Morrisville, NC",
+                "normalized": {
+                    "city": "Morrisville",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
