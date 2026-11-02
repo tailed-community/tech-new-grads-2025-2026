@@ -920045,7 +920045,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -920675,7 +920675,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -970207,7 +970207,7 @@
         "company_name": "American Express",
         "id": "4ff9d14d-db78-44fa-9f49-1bee0e771f4e",
         "title": "Senior Analyst - Data & Analytics - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287743,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013283",
@@ -970238,7 +970238,7 @@
         "company_name": "American Express",
         "id": "0acf515c-4b43-46d7-955e-8fe59617605f",
         "title": "Software Engineer 1 Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287754,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259",
@@ -970269,7 +970269,7 @@
         "company_name": "American Express",
         "id": "042c934f-3d19-4615-bcc7-f10fe3a00bea",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788287744,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254",
@@ -970300,7 +970300,7 @@
         "company_name": "American Express",
         "id": "76174b12-915d-4e52-89b3-df3db4eca70d",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287753,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013264",
@@ -970331,7 +970331,7 @@
         "company_name": "American Express",
         "id": "5d90e270-511f-4fcd-9c2f-410f252cea8b",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287748,
         "date_posted": 1788287451,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256",
@@ -970362,7 +970362,7 @@
         "company_name": "American Express",
         "id": "50450ca8-ee7c-4620-b0bc-1cc5d8fe2776",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287744,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252",
@@ -970393,7 +970393,7 @@
         "company_name": "American Express",
         "id": "495c0ef2-3ea4-40b7-82f5-2dfb86a9fb7b",
         "title": "Data Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287748,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013289",
@@ -970424,7 +970424,7 @@
         "company_name": "American Express",
         "id": "3bc45e91-ebb8-439d-a0f7-0e51c40fa3e0",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287743,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013258",
@@ -970455,7 +970455,7 @@
         "company_name": "American Express",
         "id": "0646eda8-3850-44d3-a96a-03c80fee29bd",
         "title": "Data Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287742,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286",
@@ -970486,7 +970486,7 @@
         "company_name": "American Express",
         "id": "c75373db-769e-41df-b9a7-8f685cb4ba61",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287740,
         "date_posted": 1788287451,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253",
@@ -970517,7 +970517,7 @@
         "company_name": "American Express",
         "id": "4e934259-8418-443f-a72f-a6ced78a2fb5",
         "title": "Data & Analytics Analyst - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788287740,
         "date_posted": 1788287453,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013281",
@@ -970548,7 +970548,7 @@
         "company_name": "American Express",
         "id": "20b23b0e-0297-4641-ae32-6db0fea0aef5",
         "title": "AI Engineer 1 - Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788287740,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255",
@@ -972659,7 +972659,7 @@
         "company_name": "American Express",
         "id": "fb2d6e8e-096b-4a82-ba4b-de20d7deb231",
         "title": "Digital Product Management Senior Associate - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310500,
         "date_posted": 1788310292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012958",
@@ -972690,7 +972690,7 @@
         "company_name": "American Express",
         "id": "a6080c21-a844-48d7-bcc9-8a240ddd19e1",
         "title": "Software Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310503,
         "date_posted": 1788310288,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
@@ -972721,7 +972721,7 @@
         "company_name": "American Express",
         "id": "3ac23f64-3bc0-4c25-b393-ae5479c685a1",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310497,
         "date_posted": 1788310293,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
@@ -972783,7 +972783,7 @@
         "company_name": "American Express",
         "id": "b68cfa9c-6e6f-46da-9cd5-85acee5875fb",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310508,
         "date_posted": 1788310292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944",
@@ -972814,7 +972814,7 @@
         "company_name": "American Express",
         "id": "8fe18f9d-3000-46c6-9efd-07b60d9fe92c",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310498,
         "date_posted": 1788310293,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985",
@@ -972845,7 +972845,7 @@
         "company_name": "American Express",
         "id": "a05f7ff0-b31a-4040-8bf7-7524f288eb14",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310497,
         "date_posted": 1788310293,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
@@ -972876,7 +972876,7 @@
         "company_name": "American Express",
         "id": "520857cc-c405-4d92-892b-d0074625e1f7",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310286,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945",
@@ -972907,7 +972907,7 @@
         "company_name": "American Express",
         "id": "482d2483-2739-4860-9f2a-b5903674a731",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310286,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940",
@@ -972938,7 +972938,7 @@
         "company_name": "American Express",
         "id": "091d9015-503c-4fbd-8891-afd1def65679",
         "title": "Data Analytics Analyst - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310294,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013097",
@@ -972969,7 +972969,7 @@
         "company_name": "American Express",
         "id": "ca0f0f67-5fd4-4b63-8b73-b7415915a10e",
         "title": "Digital Product Management Associate - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310506,
         "date_posted": 1788310295,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956",
@@ -973000,7 +973000,7 @@
         "company_name": "American Express",
         "id": "7ff44f5f-836a-4ac9-b33c-935e0b4281ae",
         "title": "Software Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310288,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869",
@@ -973031,7 +973031,7 @@
         "company_name": "American Express",
         "id": "40c50ca0-ce27-4a13-8cc4-4633271be5ef",
         "title": "AI Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310294,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988",
@@ -973093,7 +973093,7 @@
         "company_name": "American Express",
         "id": "144e5a99-3727-49aa-be27-39b13c2cec06",
         "title": "Software Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310292,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801",
@@ -975809,7 +975809,7 @@
         "company_name": "Textron",
         "id": "e8fd7d7b-8da0-4843-887d-84dd52a59847",
         "title": "Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788408727,
         "date_posted": 1788314489,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343151",
@@ -977652,7 +977652,7 @@
         "company_name": "American Express",
         "id": "2dff76dd-866e-4d97-aa95-afcf1a0b28d8",
         "title": "Senior Analyst - 2027 Data & Analytics - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788415138,
         "date_posted": 1788401695,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013102",
@@ -1014302,7 +1014302,7 @@
         "company_name": "Barclays",
         "id": "f612cb13-7962-4424-bf9a-37050a197d91",
         "title": "Quantitative Analytics Associate Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788994305,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392",
@@ -1014395,7 +1014395,7 @@
         "company_name": "Barclays",
         "id": "586167ce-912f-44b5-a84b-e767d2ba013e",
         "title": "Quantitative Analytics Associate Graduate - Risk Quantitative Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1788994314,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352",
@@ -1032689,7 +1032689,7 @@
         "company_name": "ASSA ABLOY",
         "id": "47a96922-379a-4165-bf1d-40ed463a6341",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789684029,
         "date_posted": 1789683268,
         "url": "https://assaabloy.jobs2web.com/job/Berlin-Associate-Engineer-CT-06037/1438188233/?ats=successfactors",
@@ -1041429,7 +1041429,7 @@
         "company_name": "American Express",
         "id": "0d70db17-2454-4f28-83cb-a1fdeb2cfc92",
         "title": "Senior Analyst - Data & Analytics - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1790203567,
         "date_posted": 1790202016,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013683",
@@ -1041522,7 +1041522,7 @@
         "company_name": "American Express",
         "id": "fb9d1bc5-399e-4cf2-a654-382ad437f727",
         "title": "Data & Analytics Analyst - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1790203561,
         "date_posted": 1790202017,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679",
@@ -1049501,7 +1049501,7 @@
         "company_name": "ConocoPhillips",
         "id": "35bc5d9a-2ee8-403f-b5b0-872bdee6bb26",
         "title": "Graduate Analyst - Trading Analytics 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1790721542,
         "date_posted": 1790640000,
         "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637",
@@ -1055824,7 +1055824,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "4e2c335d-0005-44f6-911c-441d5ac21ff6",
         "title": "Graduate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790979907,
         "date_posted": 1790899200,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineer-Opportunities-2027_R35761",
@@ -1072477,7 +1072477,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3ea1faca-1c2d-49fa-8403-39b099dfa7cb",
         "title": "Senior Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791326021,
         "date_posted": 1791324592,
         "url": "https://jobs.l3harris.com/job/Richardson-Senior-Associate,-Software-Engineer-TX-75080/1437497300/?ats=successfactors",
@@ -1079761,7 +1079761,7 @@
         "company_name": "Ciena",
         "id": "8b8dc826-3218-45b8-82b5-d2f23a25402f",
         "title": "Verification and Field Application Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1791508771,
         "date_posted": 1791417600,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R031840",
@@ -1089397,7 +1089397,7 @@
         "company_name": "Capgemini",
         "id": "c67013f3-bb2d-4b62-9127-75264ad45442",
         "title": "Associate Application Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1791969537,
         "date_posted": 1790029614,
         "url": "https://careers.capgemini.com/job/Bridgewater,-NJ-C&CA-Associate-Application-Consultant-NJ/1439746933/?ats=successfactors",
@@ -1121934,7 +1121934,7 @@
         "company_name": "Barclays",
         "id": "999c4ce7-c078-4671-af20-af4781f19526",
         "title": "Technology Developer Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1792759402,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431",
@@ -1121963,7 +1121963,7 @@
         "company_name": "Barclays",
         "id": "1be31250-7c2e-4be6-8e3d-c3c5b791655a",
         "title": "Technology Developer Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1792759402,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443",
@@ -1129886,7 +1129886,7 @@
         "company_name": "Nutanix",
         "id": "357b4fdc-c3ec-4ebf-8828-c49a27da35e9",
         "title": "Forward Deployed Engineer - AI Inference Systems Research",
-        "active": true,
+        "active": false,
         "date_updated": 1793064061,
         "date_posted": 1791843471,
         "url": "https://jobs.jobvite.com/nutanix/job/oLmVAfwm?nl=1&nl=1&fr=false",
@@ -1147548,7 +1147548,7 @@
         "company_name": "ServiceTitan",
         "id": "fa428a84-cc4e-4bd1-a258-d20af2ff146c",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793400663,
         "date_posted": 1793318400,
         "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391",
@@ -1149757,5 +1149757,225 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "61e56b29-9b9f-481a-926e-c653983f3ff8",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793515903,
+        "date_posted": 1793491200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Huntsville, AL",
+                "normalized": {
+                    "city": "Huntsville",
+                    "region": "Alabama",
+                    "region_code": "AL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "aa10db51-ae8e-4b11-8902-b7b5f4cf6d96",
+        "title": "Product Owner - Digital Plant",
+        "active": true,
+        "date_updated": 1793514603,
+        "date_posted": 1793514602,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-PRODUCT-OWNER-DIGITAL-PLANT-Virg/1446303400/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Newport News, VA",
+                "normalized": {
+                    "city": "Newport News",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "076e4d7b-c105-4b49-866b-5ac1f12ec7b3",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793514682,
+        "date_posted": 1793514591,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Newport News, VA",
+                "normalized": {
+                    "city": "Newport News",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "SAIC",
+        "id": "8b78e2f8-35f6-4abc-bada-954fe7cc7779",
+        "title": "Geographic Information Systems Analyst",
+        "active": true,
+        "date_updated": 1793546295,
+        "date_posted": 1793546186,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675",
+        "locations": [
+            "California, MD"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "California, MD",
+                "normalized": {
+                    "city": "California",
+                    "region": "Maryland",
+                    "region_code": "MD",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Analogue Insight",
+        "id": "bc4a79b7-5bc4-4b71-a9c3-1cfe72c1249b",
+        "title": "Custom Layout Engineer Graduate",
+        "active": true,
+        "date_updated": 1793548143,
+        "date_posted": 1793544413,
+        "url": "https://analogueinsight.careers.hibob.com/jobs/37087e78-8866-45b4-b36e-8c24290b9ec2",
+        "locations": [
+            "Remote in UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in UK",
+                "normalized": {
+                    "city": "Remote In Uk",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Analogue Insight",
+        "id": "9299d717-5c9a-425c-b6c7-20401b8001b6",
+        "title": "Graduate Analog Design Engineer",
+        "active": true,
+        "date_updated": 1793548139,
+        "date_posted": 1793544785,
+        "url": "https://analogueinsight.careers.hibob.com/jobs/17a0dcbf-8b0f-4db4-b61d-eb6a5657ac67",
+        "locations": [
+            "Remote in UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in UK",
+                "normalized": {
+                    "city": "Remote In Uk",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Analogue Insight",
+        "id": "e1a17ebe-a596-4326-80c4-fa980b83f521",
+        "title": "Graduate Digital Design Engineer",
+        "active": true,
+        "date_updated": 1793577105,
+        "date_posted": 1793564494,
+        "url": "https://analogueinsight.careers.hibob.com/jobs/03aa2997-29f6-403e-a342-ebd7fab09731",
+        "locations": [
+            "Remote in UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in UK",
+                "normalized": {
+                    "city": "Remote In Uk",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
