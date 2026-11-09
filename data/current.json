@@ -1,5 +1,298 @@
 [
     {
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "978b9780-aeb1-4efa-a91f-a2184ed0d0d9",
+        "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+        "active": true,
+        "date_updated": 1794179559,
+        "date_posted": 1794179354,
+        "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "4ec3d85d-62a9-4b10-8936-7508a8f35bac",
+        "title": "Engineer 1 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794179558,
+        "date_posted": 1794179352,
+        "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
+        "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
+        "active": true,
+        "date_updated": 1794179556,
+        "date_posted": 1794179352,
+        "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply",
+        "locations": [
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "a62bfe3c-827f-4d3c-b91c-b3a6768bd499",
+        "title": "Technology Development Program - Software Engineering - Enterprise & Wealth Application Development",
+        "active": true,
+        "date_updated": 1794190332,
+        "date_posted": 1794096000,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Buffalo, NY",
+                "normalized": {
+                    "city": "Buffalo",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "09189c3a-8701-428c-a334-fc2353eed8e3",
+        "title": "Technology Development Program - Software Engineering - Data & API Engineering",
+        "active": true,
+        "date_updated": 1794190326,
+        "date_posted": 1794096000,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Buffalo, NY",
+                "normalized": {
+                    "city": "Buffalo",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "cb9057c1-ead7-42d2-8535-e6ee376a8005",
+        "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+        "active": true,
+        "date_updated": 1794180471,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+        "locations": [
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "07edd5c1-ff46-4123-aaab-3b21723aefff",
+        "title": "Engineer 2 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1794180475,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "2a02aac8-141d-448e-bdf4-a6842f1f372e",
+        "title": "Engineer 1 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794180472,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "5443fedc-d890-4929-9ace-e2ce40d1b5a6",
+        "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+        "active": true,
+        "date_updated": 1794180471,
+        "date_posted": 1794096000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Subsense",
         "id": "2d42317b-c10d-4927-bc20-dd43c84db244",
@@ -1949,37 +2242,6 @@
         ],
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Charles Schwab",
-        "id": "206ba36a-050c-448b-b880-2b4c5ab214d4",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1794006363,
-        "date_posted": 1793923200,
-        "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -6837,37 +7099,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "c7693c27-b654-4f6b-a1aa-7437f09193c5",
-        "title": "Associate Embedded Software Engineer",
-        "active": true,
-        "date_updated": 1793845866,
-        "date_posted": 1793750400,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300",
-        "locations": [
-            "Roy, UT"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Roy, UT",
-                "normalized": {
-                    "city": "Roy",
-                    "region": "Utah",
-                    "region_code": "UT",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Sony",
         "id": "5064e3b2-e63b-4802-9a09-a4ac41a2db8f",
@@ -10232,37 +10463,6 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
-        "company_name": "SAIC",
-        "id": "8b78e2f8-35f6-4abc-bada-954fe7cc7779",
-        "title": "Geographic Information Systems Analyst",
-        "active": true,
-        "date_updated": 1793546295,
-        "date_posted": 1793546186,
-        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675",
-        "locations": [
-            "California, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "California, MD",
-                "normalized": {
-                    "city": "California",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Analogue Insight",
         "id": "9299d717-5c9a-425c-b6c7-20401b8001b6",
@@ -12377,37 +12577,6 @@
         "degrees": []
     },
     {
-        "category": "Product",
-        "company_name": "Raydar",
-        "id": "f4c11ff8-1dd2-47c0-8359-b5b2b6739949",
-        "title": "Product Manager",
-        "active": true,
-        "date_updated": 1793313001,
-        "date_posted": 1793312994,
-        "url": "https://apply.workable.com/raydar/j/C80D888AC4/apply",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Raydar",
         "id": "50ca81f4-d9ac-4adc-8bc8-76a4a879f365",
@@ -12847,51 +13016,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Raydar",
-        "id": "ea6b3e49-22fb-4f11-8863-1c5c552146e9",
-        "title": "Forward Deployed Engineer",
-        "active": true,
-        "date_updated": 1793313001,
-        "date_posted": 1793312988,
-        "url": "https://apply.workable.com/raydar/j/3D1A5526C8/apply",
-        "locations": [
-            "SF",
-            "LA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "LA",
-                "normalized": {
-                    "city": null,
-                    "region": "Louisiana",
-                    "region_code": "LA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -19941,39 +20065,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "5cb614bd-a490-404d-9f15-01f7d1583f71",
-        "title": "Associate Software Engineer",
-        "active": true,
-        "date_updated": 1793140054,
-        "date_posted": 1793059200,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Boulder, CO",
-                "normalized": {
-                    "city": "Boulder",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Product",
         "company_name": "Abbott",
         "id": "8407387d-20ee-459b-aba3-7ce70613492d",
@@ -21621,37 +21712,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Farther",
-        "id": "9e08800b-29d9-481b-b8c2-3a1025b1e37c",
-        "title": "Business Intelligence Associate",
-        "active": true,
-        "date_updated": 1792805973,
-        "date_posted": 1792795636,
-        "url": "https://job-boards.greenhouse.io/fartherfinance/jobs/4746642005",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Quant",
@@ -24551,94 +24611,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "7c8d3c90-132c-43ab-889e-bf0e6e3f272d",
-        "title": "SoC Debug Engineer",
-        "active": true,
-        "date_updated": 1792708073,
-        "date_posted": 1792627200,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Beaver-Brook/SoC-Debug-Engineer_JR0288224",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Hillsboro, OR",
-            "Worcester, MA",
-            "Phoenix, AZ"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Santa Clara, CA",
-                "normalized": {
-                    "city": "Santa Clara",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Hillsboro, OR",
-                "normalized": {
-                    "city": "Hillsboro",
-                    "region": "Oregon",
-                    "region_code": "OR",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Worcester, MA",
-                "normalized": {
-                    "city": "Worcester",
-                    "region": "Massachusetts",
-                    "region_code": "MA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Phoenix, AZ",
-                "normalized": {
-                    "city": "Phoenix",
-                    "region": "Arizona",
-                    "region_code": "AZ",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -36239,35 +36211,34 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Riverlane",
-        "id": "82bec8a9-ec01-4b76-8b37-2700ee8c35b6",
-        "title": "Engineering Graduate Scheme",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
+        "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
         "active": true,
-        "date_updated": 1793283354,
-        "date_posted": 1791555836,
-        "url": "https://www.riverlane.com/jobs?gh_jid=5000685101#vacancies",
+        "date_updated": 1791556201,
+        "date_posted": 1791555824,
+        "url": "https://higher.gs.com/roles/185943",
         "locations": [
-            "Cambridge, UK"
+            "NYC"
         ],
         "normalized_locations": [
             {
-                "raw": "Cambridge, UK",
+                "raw": "NYC",
                 "normalized": {
-                    "city": "Cambridge",
+                    "city": "New York",
                     "region": null,
                     "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
+                    "country": null,
+                    "country_code": null
                 },
                 "type": "onsite",
                 "unresolved": false,
-                "confidence": 1.0
+                "confidence": 0.7
             }
         ],
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -37745,35 +37716,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "47b95dc3-a50e-4956-855b-b8163f839175",
-        "title": "Geospatial Research Lab Assistant",
-        "active": true,
-        "date_updated": 1791470237,
-        "date_posted": 1791417600,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Geospatial-Research-Lab-Assistant--Student-_R5073",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Software",
@@ -44662,35 +44604,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Momentum Engineering",
-        "id": "76ec5a6b-b0ae-401e-a2f9-f36a0dfa7151",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1791122242,
-        "date_posted": 1790749067,
-        "url": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Annapolis Junction, MD",
-                "normalized": {
-                    "city": "Annapolis Junction",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "Hardware",
@@ -58290,6 +58203,37 @@
     {
         "category": "AI/ML/Data",
         "company_name": "John Deere",
+        "id": "6a641512-5879-4685-ba23-79f817c714aa",
+        "title": "Data & Analytics Development Program 1 - Data and Analytics",
+        "active": true,
+        "date_updated": 1788994653,
+        "date_posted": 1788993325,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482523381",
+        "locations": [
+            "Moline, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Moline, IL",
+                "normalized": {
+                    "city": "Moline",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
         "id": "dd5ec129-4b7c-422b-8927-f7c265938023",
         "title": "Data and Analytics Development Program 2 - Data and Analytics",
         "active": true,
@@ -66597,37 +66541,6 @@
         ],
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "AMD",
-        "id": "20c5756e-32c3-4959-976f-f219f348efb2",
-        "title": "Electronics Engineering Technician",
-        "active": true,
-        "date_updated": 1791364322,
-        "date_posted": 1788021789,
-        "url": "https://careers.amd.com/jobs/91410?icims=1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Austin, TX",
-                "normalized": {
-                    "city": "Austin",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -77555,6 +77468,35 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
+        "title": "New Analyst - Engineering",
+        "active": true,
+        "date_updated": 1786806911,
+        "date_posted": 1786767937,
+        "url": "https://higher.gs.com/roles/171569?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
             }
         ],
         "degrees": []
@@ -124215,38 +124157,6 @@
         "degrees": [
             "Bachelor's",
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "f5e5e7e7-1d95-4907-8ad0-5a40a783a6ba",
-        "title": "Research Scientist - Seed Model - Vision",
-        "active": true,
-        "date_updated": 1790246161,
-        "date_posted": 1773392929,
-        "url": "https://jobs.bytedance.com/en/position/7362026100950321459/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Jose, CA",
-                "normalized": {
-                    "city": "San Jose",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     }
 ]
