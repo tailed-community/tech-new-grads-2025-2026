@@ -66,6 +66,68 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Uhaul",
+        "id": "a22868ef-6ae9-413e-99ac-941f4624bdcf",
+        "title": "Road Count Taker",
+        "active": true,
+        "date_updated": 1794699361,
+        "date_posted": 1794614400,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Louisville-Kentucky/Road-Count-Taker_R259638",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Louisville, KY",
+                "normalized": {
+                    "city": "Louisville",
+                    "region": "Kentucky",
+                    "region_code": "KY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "07af461e-da0d-4062-b7f9-8b0eafd5795f",
+        "title": "Deep Learning Framework Communications Engineer New Grad",
+        "active": true,
+        "date_updated": 1794710222,
+        "date_posted": 1794614400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1",
+        "locations": [
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Cone Health",
         "id": "7e6bd0d2-3a3d-4d2a-83f4-64033b6f59e2",
         "title": "Analytic Developer",
@@ -933,6 +995,35 @@
     },
     {
         "category": "Software",
+        "company_name": "Fort Bend County",
+        "id": "a43681bf-8c34-45b6-b4e2-2a15f57ba4a7",
+        "title": "Web Developer - Web Development - Information Technology",
+        "active": true,
+        "date_updated": 1794671298,
+        "date_posted": 1794528000,
+        "url": "https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Temporary-Position---Web-Development---Information-Technology_JR1694-11-26",
+        "locations": [
+            "Richmond, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Richmond, TX",
+                "normalized": {
+                    "city": "Richmond",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
         "company_name": "Booz Allen",
         "id": "8104d082-e5b3-415a-94ba-55cf7b4b79ea",
         "title": "Systems Engineer",
@@ -993,72 +1084,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Shield AI",
-        "id": "8b086459-985c-4225-b509-facb2dce5e94",
-        "title": "Software Engineer 1 New Grad",
-        "active": true,
-        "date_updated": 1794556503,
-        "date_posted": 1794528000,
-        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Shield AI",
-        "id": "dcad63ca-676a-4159-a102-8c42f2d872c5",
-        "title": "Software Engineer 1 New Grad",
-        "active": true,
-        "date_updated": 1794565125,
-        "date_posted": 1794528000,
-        "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
-        "locations": [
-            "Washington, DC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Washington, DC",
-                "normalized": {
-                    "city": "Washington",
-                    "region": "District of Columbia",
-                    "region_code": "DC",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -1374,6 +1399,96 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "45a2526c-381b-4e2e-95c9-cf132d4dea09",
+        "title": "Nextgen Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794698137,
+        "date_posted": 1794528000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2",
+        "locations": [
+            "Milwaukee, WI",
+            "Westford, MA",
+            "Glendale, WI"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Milwaukee, WI",
+                "normalized": {
+                    "city": "Milwaukee",
+                    "region": "Wisconsin",
+                    "region_code": "WI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Westford, MA",
+                "normalized": {
+                    "city": "Westford",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Glendale, WI",
+                "normalized": {
+                    "city": "Glendale",
+                    "region": "Wisconsin",
+                    "region_code": "WI",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Everest",
+        "id": "2012de0c-dde8-4f5e-bdc0-f7cf6130e697",
+        "title": "Information Technology Rotational Development Program",
+        "active": true,
+        "date_updated": 1794670773,
+        "date_posted": 1794528000,
+        "url": "https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/XMLNAME-2026-Underwriting-Rotational-Development-Program_R6900",
+        "locations": [
+            "Warren, NJ"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Warren, NJ",
+                "normalized": {
+                    "city": "Warren",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -1734,6 +1849,37 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Memorial Hermann",
+        "id": "9b37da7c-1632-4670-9db7-30096a616586",
+        "title": "Application Programmer/Analyst",
+        "active": true,
+        "date_updated": 1794671281,
+        "date_posted": 1794528000,
+        "url": "https://memorialhermann.wd5.myworkdayjobs.com/external/job/Medical-Plaza-North/Application-Programmer-Analyst_100189268",
+        "locations": [
+            "United States"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "United States",
+                "normalized": {
+                    "city": null,
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
         "category": "Quant",
         "company_name": "Citi",
         "id": "b8e694b7-05bd-4a5e-acd1-8bf184c2ea48",
@@ -2041,35 +2187,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "category": "Software",
-        "company_name": "ARCXIS",
-        "id": "efaec2f3-aac7-4d48-8c20-2fdc525641a7",
-        "title": "AI Rapid Prototype Developer Level 1",
-        "active": true,
-        "date_updated": 1794525134,
-        "date_posted": 1794521966,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661286",
-        "locations": [
-            "Houston, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Houston, TX",
-                "normalized": {
-                    "city": "Houston",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -2817,6 +2934,108 @@
     },
     {
         "category": "Software",
+        "company_name": "CDPHP",
+        "id": "be00edcb-0605-494a-93b0-3872479dfe92",
+        "title": "Software Engineer - ETL",
+        "active": true,
+        "date_updated": 1794669841,
+        "date_posted": 1794441600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Rochester, NY",
+                "normalized": {
+                    "city": "Rochester",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "De Witt, NY",
+                "normalized": {
+                    "city": "De Witt",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Utica, NY",
+                "normalized": {
+                    "city": "Utica",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Albany, NY",
+                "normalized": {
+                    "city": "Albany",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Binghamton, NY",
+                "normalized": {
+                    "city": "Binghamton",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Buffalo, NY",
+                "normalized": {
+                    "city": "Buffalo",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "category": "Software",
         "company_name": "Leidos",
         "id": "d552a111-e580-42cf-82ae-1eb3177f261a",
         "title": "Software Engineer",
@@ -3271,39 +3490,6 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Truist Bank",
-        "id": "71479418-3351-49f0-b676-39d318acec41",
-        "title": "Data Scientist 1",
-        "active": true,
-        "date_updated": 1794497651,
-        "date_posted": 1794441600,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I_R0119840",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Atlanta, GA",
-                "normalized": {
-                    "city": "Atlanta",
-                    "region": "Georgia",
-                    "region_code": "GA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -3969,6 +4155,37 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "edmentum",
+        "id": "788e4fa2-855c-4290-a24e-47ddccdf7692",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794650273,
+        "date_posted": 1794429078,
+        "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Bloomington, MN",
+                "normalized": {
+                    "city": "Bloomington",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -5747,6 +5964,107 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "CDPHP",
+        "id": "5423461d-751c-4d41-b637-371f3eab845f",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1794669841,
+        "date_posted": 1794355200,
+        "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Rochester, NY",
+                "normalized": {
+                    "city": "Rochester",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "De Witt, NY",
+                "normalized": {
+                    "city": "De Witt",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Utica, NY",
+                "normalized": {
+                    "city": "Utica",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Albany, NY",
+                "normalized": {
+                    "city": "Albany",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Binghamton, NY",
+                "normalized": {
+                    "city": "Binghamton",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Buffalo, NY",
+                "normalized": {
+                    "city": "Buffalo",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Citylogix",
         "id": "002a4d82-8d23-4d96-b1a1-ca85294be971",
         "title": "Field Data Collection Technician",
@@ -6071,37 +6389,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "aa3ce33b-edab-4e89-b813-30144925affe",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1794352525,
-        "date_posted": 1794352481,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Cedar Rapids, IA",
-                "normalized": {
-                    "city": "Cedar Rapids",
-                    "region": "Iowa",
-                    "region_code": "IA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "76f4334a-7747-4154-9af4-0c93f144f962",
         "title": "Associate Electrical Engineer",
@@ -6338,6 +6625,38 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
+        "title": "Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1794353978,
+        "date_posted": 1794351889,
+        "url": "https://higher.gs.com/roles/188640",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -7409,37 +7728,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "02054a8c-3205-46a3-9463-c787db219296",
-        "title": "Hardware Engineer 1",
-        "active": true,
-        "date_updated": 1794354160,
-        "date_posted": 1794268800,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082-1",
-        "locations": [
-            "Lafayette, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lafayette, CO",
-                "normalized": {
-                    "city": "Lafayette",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Motorola Solutions",
         "id": "b9db97ff-6ade-482e-9d51-7d8884166a63",
         "title": "FPGA Design Engineer",
@@ -7898,38 +8186,6 @@
     {
         "category": "Software",
         "company_name": "Microsoft",
-        "id": "f8dff735-83eb-4c12-bafc-e9568cf30001",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1794267618,
-        "date_posted": 1794267495,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Redmond, WA",
-                "normalized": {
-                    "city": "Redmond",
-                    "region": "Washington",
-                    "region_code": "WA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Microsoft",
         "id": "4d117eb5-e4cd-4625-bc89-63338bb2dd70",
         "title": "Software Engineering",
         "active": true,
@@ -7957,37 +8213,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "Hardware",
-        "company_name": "Cummins",
-        "id": "858d2363-4cc3-4cbb-9962-3a798fbf9eb5",
-        "title": "Electronic Systems Engineer - Software",
-        "active": true,
-        "date_updated": 1794267193,
-        "date_posted": 1794267146,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437283",
-        "locations": [
-            "Seymour, IN"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Seymour, IN",
-                "normalized": {
-                    "city": "Seymour",
-                    "region": "Indiana",
-                    "region_code": "IN",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -8299,6 +8524,38 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Adidas",
+        "id": "51d76cb5-4b77-4d0e-a6cd-60ff7074a388",
+        "title": "Business Insights New Grad",
+        "active": true,
+        "date_updated": 1794239356,
+        "date_posted": 1794239142,
+        "url": "https://jobs.adidas-group.com/job/Stockport-BUSINESS-INSIGHTS-GRADUATE-2027-MANCHESTER/1455581533/?ats=successfactors",
+        "locations": [
+            "Stockport, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Stockport, UK",
+                "normalized": {
+                    "city": "Stockport",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Hardware",
@@ -8979,38 +9236,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "37a113be-928f-4af9-adda-909ac4323a92",
-        "title": "Associate Electronics Engineer/Electronics Engineer",
-        "active": true,
-        "date_updated": 1794267049,
-        "date_posted": 1794182400,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10259833-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Diego, CA",
-                "normalized": {
-                    "city": "San Diego",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "Software",
         "company_name": "M&T Bank",
         "id": "a62bfe3c-827f-4d3c-b91c-b3a6768bd499",
@@ -9369,37 +9594,6 @@
     },
     {
         "category": "Software",
-        "company_name": "AbbVie",
-        "id": "4b5a24bb-4cb3-4d79-95d7-860287cc32b8",
-        "title": "Associate Software Engineer 1",
-        "active": true,
-        "date_updated": 1794017367,
-        "date_posted": 1794014714,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
-        "locations": [
-            "North Chicago, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "North Chicago, IL",
-                "normalized": {
-                    "city": "North Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
         "company_name": "Ande",
         "id": "1b06d46c-1d95-462b-a362-76624d029916",
         "title": "Software Engineer – Early Career - AI",
@@ -9615,23 +9809,23 @@
     },
     {
         "category": "Software",
-        "company_name": "Microsoft",
-        "id": "5b152919-6dd2-49e1-9338-9bec77d7fdd3",
-        "title": "Software Engineer",
+        "company_name": "Capgemini",
+        "id": "34dac878-8890-4141-8a51-4f3b76dc7bee",
+        "title": "Associate Application Consultant",
         "active": true,
-        "date_updated": 1794008458,
-        "date_posted": 1794008282,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
+        "date_updated": 1794008463,
+        "date_posted": 1794008328,
+        "url": "https://careers.capgemini.com/job/Berwyn,-PA-Campus-C&CA-Associate-Application-Consultant-PA/1455309233/?ats=successfactors",
         "locations": [
-            "Reston, VA"
+            "Philadelphia, PA"
         ],
         "normalized_locations": [
             {
-                "raw": "Reston, VA",
+                "raw": "Philadelphia, PA",
                 "normalized": {
-                    "city": "Reston",
-                    "region": "Virginia",
-                    "region_code": "VA",
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -10628,6 +10822,38 @@
         ],
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "9a142315-8459-43ef-a3a5-9025798c7a2d",
+        "title": "Associate Application Consultant",
+        "active": true,
+        "date_updated": 1793920717,
+        "date_posted": 1793920527,
+        "url": "https://careers.capgemini.com/job/Berwyn,-PA-C&CA-Campus-Associate-Application-Consultant-PA/1454933833/?ats=successfactors",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -11774,6 +12000,37 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "04acd91f-62a5-4fb9-b266-127c97761652",
+        "title": "Systems Engineer 1 - Open Systems Solutions",
+        "active": true,
+        "date_updated": 1794699576,
+        "date_posted": 1793836800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I--Onsite-_01887270",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cedar Rapids, IA",
+                "normalized": {
+                    "city": "Cedar Rapids",
+                    "region": "Iowa",
+                    "region_code": "IA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -14378,6 +14635,38 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "1fa93b8e-4b8b-44a2-abe2-7e44cf150d8e",
+        "title": "Campus 1&D: Associate Application Consultant",
+        "active": true,
+        "date_updated": 1793719658,
+        "date_posted": 1793719577,
+        "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Mississauga, ON, Canada",
+                "normalized": {
+                    "city": "Mississauga",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "Brillio",
         "id": "eb83c731-b7fa-48a9-ae84-e2b8d4591878",
         "title": "Data Acquisition Analyst",
@@ -16330,6 +16619,35 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "c8035f9a-6e11-496d-9a68-71471e6d4515",
+        "title": "Staff Technician - Hardware Test",
+        "active": true,
+        "date_updated": 1794652561,
+        "date_posted": 1793577600,
+        "url": "https://jobs.ashbyhq.com/shield/c2edad52-02ed-4e70-9aea-a56b18a8452f/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "Pennsylvania State University",
         "id": "1ffcff00-a92b-4393-850a-1accadb25edc",
@@ -17442,6 +17760,35 @@
         ]
     },
     {
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "32d8d3c3-ce7a-49d8-bb08-770c770a6297",
+        "title": "Staff Technician - Hardware Test",
+        "active": true,
+        "date_updated": 1794648424,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c2edad52-02ed-4e70-9aea-a56b18a8452f/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "The Aerospace Corporation",
         "id": "733d0c96-62a2-4faf-b1ee-3b7c6e7e9752",
@@ -17760,6 +18107,37 @@
         "date_updated": 1794362764,
         "date_posted": 1793318400,
         "url": "https://jobs.ashbyhq.com/shield/c9344bba-d17d-4601-b6af-ebc4d4385a05/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "f6f476c2-5053-433d-91b6-ffe423294891",
+        "title": "Electrical Engineer - Hardware Test",
+        "active": true,
+        "date_updated": 1794654001,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/shield/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
         "locations": [
             "Dallas, TX"
         ],
@@ -18759,35 +19137,6 @@
         "date_updated": 1793313001,
         "date_posted": 1793312988,
         "url": "https://apply.workable.com/raydar/j/61ED3CA042/apply",
-        "locations": [
-            "SF"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Raydar",
-        "id": "bfeda75e-cae7-4576-bc98-7c02ca535e9e",
-        "title": "Founding Product Engineer",
-        "active": true,
-        "date_updated": 1793313001,
-        "date_posted": 1793312988,
-        "url": "https://apply.workable.com/raydar/j/EB038A923D/apply",
         "locations": [
             "SF"
         ],
@@ -24895,96 +25244,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Boeing",
-        "id": "2ab1121c-3c48-4d77-a953-91550eb41c3c",
-        "title": "Entry-Level Software Engineer",
-        "active": true,
-        "date_updated": 1793167562,
-        "date_posted": 1793059200,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992-1",
-        "locations": [
-            "Maryland Heights, MO",
-            "Hazelwood, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Maryland Heights, MO",
-                "normalized": {
-                    "city": "Maryland Heights",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Hazelwood, MO",
-                "normalized": {
-                    "city": "Hazelwood",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "Boeing",
-        "id": "e2eac5a5-35e8-4a56-850a-cafbaba2c767",
-        "title": "Entry-Level Software Engineer",
-        "active": true,
-        "date_updated": 1793169901,
-        "date_posted": 1793059200,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992",
-        "locations": [
-            "Maryland Heights, MO",
-            "Hazelwood, MO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Maryland Heights, MO",
-                "normalized": {
-                    "city": "Maryland Heights",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Hazelwood, MO",
-                "normalized": {
-                    "city": "Hazelwood",
-                    "region": "Missouri",
-                    "region_code": "MO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "Resurgent Industries",
         "id": "6ca614d0-0aed-481c-b1a5-835333090dc0",
@@ -26801,6 +27060,65 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "dffcfc23-8cbd-490a-8145-fcefb06961ad",
+        "title": "Associate Software Engineer: Billing Platform",
+        "active": true,
+        "date_updated": 1793052635,
+        "date_posted": 1792972800,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1",
+        "locations": [
+            "Frisco, TX",
+            "Atlanta, GA",
+            "Overland Park, KS"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Frisco, TX",
+                "normalized": {
+                    "city": "Frisco",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Overland Park, KS",
+                "normalized": {
+                    "city": "Overland Park",
+                    "region": "Kansas",
+                    "region_code": "KS",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "271af062-e13a-4e09-b18e-3bb2024f339d",
@@ -28392,35 +28710,6 @@
         ]
     },
     {
-        "category": "Hardware",
-        "company_name": "Dover",
-        "id": "4a363b70-99a5-467e-b7d3-42ec09d01d00",
-        "title": "Electronic Technician",
-        "active": true,
-        "date_updated": 1794497401,
-        "date_posted": 1792713600,
-        "url": "https://dover.wd103.myworkdayjobs.com/Dover/job/Salisbury-Maryland-USA/Electronic-Technician_JR102167",
-        "locations": [
-            "Salisbury, MD"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Salisbury, MD",
-                "normalized": {
-                    "city": "Salisbury",
-                    "region": "Maryland",
-                    "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Booz Allen",
         "id": "d4136527-95f3-42f5-beaf-aaf2f8948265",
@@ -29258,6 +29547,35 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "McMaster-Carr",
+        "id": "049abd17-7f5b-4e36-9f8b-96b028fa0720",
+        "title": "Technology Developer - Development - Design",
+        "active": true,
+        "date_updated": 1794640363,
+        "date_posted": 1792674033,
+        "url": "https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009",
+        "locations": [
+            "Elmhurst, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Elmhurst, IL",
+                "normalized": {
+                    "city": "Elmhurst",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -31656,6 +31974,35 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "Zurich Insurance",
+        "id": "9d24638b-f231-499f-8fe9-a3fab5242bd1",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1792774263,
+        "date_posted": 1792536005,
+        "url": "https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
         "category": "Software",
         "company_name": "All Lines Technology",
         "id": "c8e180cd-1a33-4993-bbdc-6e76286d9dd1",
@@ -33696,37 +34043,6 @@
             }
         ],
         "degrees": []
-    },
-    {
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "031e43ad-dfc9-4c7f-be98-c6616c6f60ab",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1792449397,
-        "date_posted": 1792449178,
-        "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Software-Engineer-CA-92009/1441501400/?ats=successfactors",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Carlsbad, CA",
-                "normalized": {
-                    "city": "Carlsbad",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "category": "Software",
@@ -35807,6 +36123,51 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "d99c1e84-901c-49a8-9b2b-7bf6f62850a1",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1792056502,
+        "date_posted": 1792056417,
+        "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors",
+        "locations": [
+            "Telford, UK",
+            "Hove, Brighton and Hove, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Telford, UK",
+                "normalized": {
+                    "city": "Telford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Hove, Brighton and Hove, UK",
+                "normalized": {
+                    "city": "Hove",
+                    "region": "Brighton And Hove",
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
             }
         ],
         "degrees": [
@@ -38627,6 +38988,37 @@
         ]
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "47ffb242-7946-4cbd-832d-ea8e2eb67d2a",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1794668820,
+        "date_posted": 1791849600,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "Hardware",
         "company_name": "Draper",
         "id": "ae9b1467-ed6d-448c-9261-eada07a6b558",
@@ -40788,6 +41180,35 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "f4875814-a00b-4c22-9d51-aed871743038",
+        "title": "Lead Java Full Stack with React",
+        "active": true,
+        "date_updated": 1791499336,
+        "date_posted": 1791498956,
+        "url": "https://careers.capgemini.com/job/New-York,-NY-Lead-Java-Full-Stack-with-React-NY-10001/1445764233/?ats=successfactors",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "AI/ML/Data",
@@ -46791,6 +47212,51 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "2c3fcb34-9459-42c5-8269-e05902759c20",
+        "title": "Graduate Software Engineer Programme",
+        "active": true,
+        "date_updated": 1790846018,
+        "date_posted": 1790845822,
+        "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors",
+        "locations": [
+            "Telford, UK",
+            "Hove, Brighton and Hove, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Telford, UK",
+                "normalized": {
+                    "city": "Telford",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Hove, Brighton and Hove, UK",
+                "normalized": {
+                    "city": "Hove",
+                    "region": "Brighton And Hove",
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Periodic Labs",
         "id": "4fa11d47-e066-4706-be18-9b9b784bcd1a",
@@ -47195,6 +47661,38 @@
             }
         ],
         "degrees": []
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Videojet",
+        "id": "6cb7182f-e8e9-467c-86aa-fcea773cd97f",
+        "title": "Global Installed Base Commercial Excellence Analyst",
+        "active": true,
+        "date_updated": 1794698114,
+        "date_posted": 1790812800,
+        "url": "https://veralto.wd1.myworkdayjobs.com/videojetjobs/job/Wood-Dale-Illinois-United-States/Global-Installed-Base-Commercial-Excellence-Analyst_R10268587",
+        "locations": [
+            "Wood Dale, IL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Wood Dale, IL",
+                "normalized": {
+                    "city": "Wood Dale",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     },
     {
         "category": "Hardware",
@@ -48868,37 +49366,6 @@
     },
     {
         "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "d298fbb0-e16e-407c-875e-56f5e80f552b",
-        "title": "Hardware Engineer 1 - ACM",
-        "active": true,
-        "date_updated": 1790721794,
-        "date_posted": 1790640000,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082",
-        "locations": [
-            "Lafayette, CO"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Lafayette, CO",
-                "normalized": {
-                    "city": "Lafayette",
-                    "region": "Colorado",
-                    "region_code": "CO",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "9b3fedd9-3970-4a58-a273-097e63969794",
         "title": "HBM SoC Design Engineer/Architect New Grad - HBM SoC Design Engineer/Architect",
@@ -50429,6 +50896,51 @@
     },
     {
         "category": "AI/ML/Data",
+        "company_name": "ASSA ABLOY",
+        "id": "fd142f32-50e4-4408-92a1-f7ecf19afe7d",
+        "title": "AI Scientist",
+        "active": true,
+        "date_updated": 1790374145,
+        "date_posted": 1790374003,
+        "url": "https://assaabloy.jobs2web.com/job/Austin-AI-Scientist-TX-78753/1441539933/?ats=successfactors",
+        "locations": [
+            "Austin, TX",
+            "Palm Beach Gardens, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Austin, TX",
+                "normalized": {
+                    "city": "Austin",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Palm Beach Gardens, FL",
+                "normalized": {
+                    "city": "Palm Beach Gardens",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
         "company_name": "UTHealth Houston",
         "id": "d04ba501-38c1-4163-8d34-89b130766ac0",
         "title": "Database Analyst Programmer Associate",
@@ -50852,6 +51364,37 @@
         "date_updated": 1793167921,
         "date_posted": 1790294400,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c9344bba-d17d-4601-b6af-ebc4d4385a05/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "0de47efa-a533-4274-81c4-2a570d4489ce",
+        "title": "Electrical Engineer - Hardware Test",
+        "active": true,
+        "date_updated": 1794647533,
+        "date_posted": 1790294400,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
         "locations": [
             "Dallas, TX"
         ],
@@ -52831,6 +53374,197 @@
         ]
     },
     {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "1c6153b6-21de-4fdf-85d2-b7eab2023840",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641810,
+        "date_posted": 1790080414,
+        "url": "https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Newcastle upon Tyne, UK",
+                "normalized": {
+                    "city": "Newcastle Upon Tyne",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "99faec69-36c3-45b0-b133-b5adf3e845f9",
+        "title": "Software Engineering New Grad - Graduate Programme",
+        "active": true,
+        "date_updated": 1794641814,
+        "date_posted": 1790078519,
+        "url": "https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Birmingham, UK",
+                "normalized": {
+                    "city": "Birmingham",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "c039496a-1e56-45d6-a014-aba00cbbb349",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794641812,
+        "date_posted": 1790078454,
+        "url": "https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Bristol, UK",
+                "normalized": {
+                    "city": "Bristol",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "a215785a-a17e-4d39-8508-4062629e0681",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790078373,
+        "url": "https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Glasgow, UK",
+                "normalized": {
+                    "city": "Glasgow",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "4f8b6972-afef-4061-9793-31aa2c86495c",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790078263,
+        "url": "https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Edinburgh, UK",
+                "normalized": {
+                    "city": "Edinburgh",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "257cfc8d-99de-4c4a-96a1-d47f3117b265",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790077985,
+        "url": "https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Manchester, UK",
+                "normalized": {
+                    "city": "Manchester",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "AI/ML/Data",
         "company_name": "Mitsubishi Heavy Industries",
         "id": "b7bd6f43-6d41-4783-a8f2-39c4dd4fd907",
@@ -52859,6 +53593,37 @@
         ],
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "b4e0bd04-a49e-4fe5-be6c-29ac1d93bff3",
+        "title": "Software Engineering Graduate Program",
+        "active": true,
+        "date_updated": 1794641812,
+        "date_posted": 1790072752,
+        "url": "https://accenture.pinpointhq.com/en/postings/ea5476ed-b07b-4a24-b7c9-541881141de8?ats=pinpointhq",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Leeds, UK",
+                "normalized": {
+                    "city": "Leeds",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
         ]
     },
     {
@@ -52923,6 +53688,35 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "93219a1e-b155-44dd-b405-06d535ebab99",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1794653641,
+        "date_posted": 1790039294,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Engineering-Technician-Cali/1432310700/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Jose, CA",
+                "normalized": {
+                    "city": "San Jose",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     },
     {
         "category": "Hardware",
@@ -53316,6 +54110,94 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "c67013f3-bb2d-4b62-9127-75264ad45442",
+        "title": "Associate Application Consultant",
+        "active": true,
+        "date_updated": 1791969537,
+        "date_posted": 1790029614,
+        "url": "https://careers.capgemini.com/job/Bridgewater,-NJ-C&CA-Associate-Application-Consultant-NJ/1439746933/?ats=successfactors",
+        "locations": [
+            "Nashville, TN",
+            "Chicago, IL",
+            "Bridgewater, NJ",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Nashville, TN",
+                "normalized": {
+                    "city": "Nashville",
+                    "region": "Tennessee",
+                    "region_code": "TN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Bridgewater, NJ",
+                "normalized": {
+                    "city": "Bridgewater",
+                    "region": "New Jersey",
+                    "region_code": "NJ",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -60317,69 +61199,6 @@
     },
     {
         "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "6a641512-5879-4685-ba23-79f817c714aa",
-        "title": "Data & Analytics Development Program 1 - Data and Analytics",
-        "active": true,
-        "date_updated": 1788994653,
-        "date_posted": 1788993325,
-        "url": "https://johndeere.eightfold.ai/careers/job/137482523381",
-        "locations": [
-            "Moline, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Moline, IL",
-                "normalized": {
-                    "city": "Moline",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "dd5ec129-4b7c-422b-8927-f7c265938023",
-        "title": "Data and Analytics Development Program 2 - Data and Analytics",
-        "active": true,
-        "date_updated": 1788994647,
-        "date_posted": 1788993321,
-        "url": "https://johndeere.eightfold.ai/careers/job/137482525937",
-        "locations": [
-            "Moline, IL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Moline, IL",
-                "normalized": {
-                    "city": "Moline",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "a72176df-1930-408e-8dba-f463434ae11f",
         "title": "PhD Graduate - Artificial Intelligence and Machine Learning - Research Scientist",
@@ -62827,67 +63646,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Caterpillar",
-        "id": "abef7471-b1f8-4533-b996-761a7b7de857",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1788829562,
-        "date_posted": 1788739200,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873",
-        "locations": [
-            "Peoria, IL",
-            "Chicago, IL",
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Peoria, IL",
-                "normalized": {
-                    "city": "Peoria",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "category": "Hardware",
         "company_name": "NXP Semiconductors",
         "id": "f6552574-8bd8-4bcb-856a-f3131dfdad9f",
@@ -62917,79 +63675,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar",
-        "id": "8d793da3-cd90-4612-a78f-1141d7c1a313",
-        "title": "Data Scientist / Technical Analyst",
-        "active": true,
-        "date_updated": 1788829923,
-        "date_posted": 1788739200,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872",
-        "locations": [
-            "Peoria, IL",
-            "Chicago, IL",
-            "Mossville, IL",
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Peoria, IL",
-                "normalized": {
-                    "city": "Peoria",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Chicago, IL",
-                "normalized": {
-                    "city": "Chicago",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Mossville, IL",
-                "normalized": {
-                    "city": "Mossville",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -65020,51 +65705,6 @@
         ],
         "degrees": [
             "Bachelor's",
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar",
-        "id": "4191dcb2-b0bc-4368-9675-d2e2b16a16b8",
-        "title": "Autonomy and Robotics Engineer",
-        "active": true,
-        "date_updated": 1788490835,
-        "date_posted": 1788393600,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-and-Robotics-Engineer_R0000392427",
-        "locations": [
-            "Mossville, IL",
-            "Irving, TX"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Mossville, IL",
-                "normalized": {
-                    "city": "Mossville",
-                    "region": "Illinois",
-                    "region_code": "IL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Irving, TX",
-                "normalized": {
-                    "city": "Irving",
-                    "region": "Texas",
-                    "region_code": "TX",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
             "Bachelor's"
         ]
     },
@@ -79094,6 +79734,35 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
+        "title": "New Analyst - Engineering",
+        "active": true,
+        "date_updated": 1786806911,
+        "date_posted": 1786767937,
+        "url": "https://higher.gs.com/roles/171569?type=students",
+        "locations": [
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
             }
         ],
         "degrees": []
@@ -96983,38 +97652,6 @@
         ]
     },
     {
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "fd35bf7d-2a83-4c94-84df-7f5ae7a4429f",
-        "title": "Associate Software Engineer / Software Engineer",
-        "active": true,
-        "date_updated": 1785451256,
-        "date_posted": 1785369600,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Melbourne, FL",
-                "normalized": {
-                    "city": "Melbourne",
-                    "region": "Florida",
-                    "region_code": "FL",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "category": "AI/ML/Data",
         "company_name": "Humanoid",
         "id": "bea83216-7165-4c51-b225-a3910db21b7a",
@@ -104174,6 +104811,38 @@
         "degrees": []
     },
     {
+        "category": "AI/ML/Data",
+        "company_name": "KSB",
+        "id": "592832c4-8c59-4f59-9723-66d098b34bde",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1794666066,
+        "date_posted": 1783296000,
+        "url": "https://ksb.wd3.myworkdayjobs.com/KSB_ExternalCareerSite/job/Grovetown-GA/Machine-Learning-Engineer_JR_30052-1",
+        "locations": [
+            "Grovetown, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Grovetown, GA",
+                "normalized": {
+                    "city": "Grovetown",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
         "category": "Quant",
         "company_name": "Tower Research Capital",
         "id": "5825825a-af07-4016-acd3-ebb1c85f9d91",
@@ -107949,35 +108618,6 @@
                     "city": "Fort Meade",
                     "region": "Maryland",
                     "region_code": "MD",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "DH Pace",
-        "id": "a1915ce9-9d29-46eb-8363-6b51324ff7fa",
-        "title": "Commercial Entry Door Installer",
-        "active": true,
-        "date_updated": 1788462022,
-        "date_posted": 1782166338,
-        "url": "https://job-boards.greenhouse.io/dhpace/jobs/5274945008",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Orlando, FL",
-                "normalized": {
-                    "city": "Orlando",
-                    "region": "Florida",
-                    "region_code": "FL",
                     "country": "United States",
                     "country_code": "US"
                 },
@@ -114466,6 +115106,37 @@
         ],
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Duke University",
+        "id": "2e4b27aa-8307-4ead-a401-896686a2683f",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1778708466,
+        "date_posted": 1778623622,
+        "url": "https://careers.duke.edu/job/Durham-Associate-in-Research-NC-27710/1373072400/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Durham, NC",
+                "normalized": {
+                    "city": "Durham",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's"
         ]
     },
     {
@@ -121948,2006 +122619,6 @@
                 "type": "onsite",
                 "unresolved": false,
                 "confidence": 1.0
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "AI/ML/Data",
-        "company_name": "Ekimetrics",
-        "id": "03ccc631-38b1-451e-8483-f803f4f733dd",
-        "title": "Junior Business Scientist - Data Science - Marketing Effectiveness",
-        "active": true,
-        "date_updated": 1792743131,
-        "date_posted": 1773959155,
-        "url": "https://jobs.lever.co/ekimetrics/d9d64766-3d42-4ba9-94d4-f74cdaf20065/apply",
-        "locations": [
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Ivo",
-        "id": "1ca94190-fd1a-4531-953f-194660778ad9",
-        "title": "Software Engineer, Frontend",
-        "active": true,
-        "date_updated": 1773911116,
-        "date_posted": 1773911116,
-        "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software Engineering",
-        "company_name": "Ivo",
-        "id": "23a17097-6dbf-4279-9567-c537ff173380",
-        "title": "Software Engineer, Backend",
-        "active": true,
-        "date_updated": 1773910868,
-        "date_posted": 1773910868,
-        "url": "https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "San Francisco, CA",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": "California",
-                    "region_code": "CA",
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 1.0
-            }
-        ],
-        "degrees": []
-    },
-    {
-        "category": "Software",
-        "company_name": "Canonical",
-        "id": "5c30c57b-5d82-4664-968a-b1e007d65353",
-        "title": "Software Engineer - Python - Container Images",
-        "active": true,
-        "date_updated": 1792745647,
-        "date_posted": 1773901446,
-        "url": "https://job-boards.greenhouse.io/canonical/jobs/6222476",
-        "locations": [
-            "Remote in Mali",
-            "Remote in Cyprus",
-            "Remote in Western Sahara",
-            "Remote in Finland",
-            "Remote in Algeria",
-            "Remote in Oman",
-            "Remote in Sierra Leone",
-            "Remote in Iraq",
-            "Remote in Togo",
-            "Remote in Botswana",
-            "Remote in Poland",
-            "Remote in Portugal",
-            "Remote in Tanzania",
-            "Remote in Russia",
-            "Remote in Czechia",
-            "Remote in Nigeria",
-            "Remote in Benin",
-            "Remote in Slovenia",
-            "Remote in Saint Helena, Ascension and Tristan da Cunha",
-            "Remote in Congo, The Democratic Republic of the",
-            "Remote in Lebanon",
-            "Remote in Germany",
-            "Remote in Cameroon",
-            "Remote in Georgia",
-            "Remote in Guinea",
-            "Remote in Belgium",
-            "Remote in North Macedonia",
-            "Remote in Madagascar",
-            "Remote in Burundi",
-            "Remote in Norway",
-            "Remote in Slovakia",
-            "Remote in Belarus",
-            "Remote in Angola",
-            "Remote in Turkey",
-            "Remote in Ghana",
-            "Remote in Iceland",
-            "Remote in Réunion",
-            "Remote in Monaco",
-            "Remote in Kenya",
-            "Remote in Mauritania",
-            "Remote in Guernsey",
-            "Remote in Qatar",
-            "Remote in South Africa",
-            "Remote in Burkina Faso",
-            "Remote in Jersey",
-            "Remote in United Arab Emirates",
-            "Remote in Azerbaijan",
-            "Remote in UK",
-            "Remote in Namibia",
-            "Remote in Tunisia",
-            "Remote in Egypt",
-            "Remote in Somalia",
-            "Remote in Ireland",
-            "Remote in Mozambique",
-            "Remote in Ukraine",
-            "Remote in Greece",
-            "Remote in Faroe Islands",
-            "Remote in Guinea-Bissau",
-            "Remote in South Sudan",
-            "Remote in Palestine, State of",
-            "Remote in Andorra",
-            "Remote in Djibouti",
-            "Remote in Armenia",
-            "Remote in Seychelles",
-            "Remote in Sudan",
-            "Remote in Mayotte",
-            "Remote in Netherlands",
-            "Remote in Eritrea",
-            "Remote in Svalbard and Jan Mayen",
-            "Remote in Liechtenstein",
-            "Remote in Chad",
-            "Remote in French Southern Territories",
-            "Remote in Equatorial Guinea",
-            "Remote in Ethiopia",
-            "Remote in Sao Tome and Principe",
-            "Remote in Hungary",
-            "Remote in San Marino",
-            "Remote in Libya",
-            "Remote in Israel",
-            "Remote in Holy See (Vatican City State)",
-            "Remote in Liberia",
-            "Remote in Bulgaria",
-            "Remote in Jordan",
-            "Remote in Iran",
-            "Remote in Denmark",
-            "Remote in Malta",
-            "Remote in Zambia",
-            "Remote in Albania",
-            "Remote in Yemen",
-            "Remote in Bahrain",
-            "Remote in Senegal",
-            "Remote in Uganda",
-            "Remote in Serbia",
-            "Remote in Comoros",
-            "Remote in Moldova",
-            "Remote in Lesotho",
-            "Remote in Malawi",
-            "Remote in Isle of Man",
-            "Remote in British Indian Ocean Territory",
-            "Remote in Central African Republic",
-            "Remote in Zimbabwe",
-            "Remote in Spain",
-            "Remote in Eswatini",
-            "Remote in Luxembourg",
-            "Remote in Côte d'Ivoire",
-            "Remote in Cabo Verde",
-            "Remote in Sweden",
-            "Remote in Niger",
-            "Remote in Rwanda",
-            "Remote in Switzerland",
-            "Remote in Åland Islands",
-            "Remote in Gibraltar",
-            "Remote in Croatia",
-            "Remote in Gabon",
-            "Remote in Congo",
-            "Remote in Montenegro",
-            "Remote in Romania",
-            "Remote in Kuwait",
-            "Remote in Mauritius",
-            "Remote in Latvia",
-            "Remote in Bosnia and Herzegovina",
-            "Remote in Saudi Arabia",
-            "Remote in Gambia",
-            "Remote in Austria",
-            "Remote in Morocco",
-            "Remote in Italy",
-            "Remote in Lithuania",
-            "Remote in Estonia",
-            "Remote in France",
-            "Remote in Syria"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "Remote in Mali",
-                "normalized": {
-                    "city": "Remote In Mali",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Cyprus",
-                "normalized": {
-                    "city": "Remote In Cyprus",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Western Sahara",
-                "normalized": {
-                    "city": "Remote In Western Sahara",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Finland",
-                "normalized": {
-                    "city": "Remote In Finland",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Algeria",
-                "normalized": {
-                    "city": "Remote In Algeria",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Oman",
-                "normalized": {
-                    "city": "Remote In Oman",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Sierra Leone",
-                "normalized": {
-                    "city": "Remote In Sierra Leone",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Iraq",
-                "normalized": {
-                    "city": "Remote In Iraq",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Togo",
-                "normalized": {
-                    "city": "Remote In Togo",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Botswana",
-                "normalized": {
-                    "city": "Remote In Botswana",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Poland",
-                "normalized": {
-                    "city": "Remote In Poland",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Portugal",
-                "normalized": {
-                    "city": "Remote In Portugal",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Tanzania",
-                "normalized": {
-                    "city": "Remote In Tanzania",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Russia",
-                "normalized": {
-                    "city": "Remote In Russia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Czechia",
-                "normalized": {
-                    "city": "Remote In Czechia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Nigeria",
-                "normalized": {
-                    "city": "Remote In Nigeria",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Benin",
-                "normalized": {
-                    "city": "Remote In Benin",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Slovenia",
-                "normalized": {
-                    "city": "Remote In Slovenia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Saint Helena, Ascension and Tristan da Cunha",
-                "normalized": {
-                    "city": "Remote In Saint Helena",
-                    "region": "Ascension And Tristan Da Cunha",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Congo, The Democratic Republic of the",
-                "normalized": {
-                    "city": "Remote In Congo",
-                    "region": "The Democratic Republic Of The",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Lebanon",
-                "normalized": {
-                    "city": "Remote In Lebanon",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Germany",
-                "normalized": {
-                    "city": "Remote In Germany",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Germany",
-                    "country_code": "DE"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Cameroon",
-                "normalized": {
-                    "city": "Remote In Cameroon",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Georgia",
-                "normalized": {
-                    "city": "Remote In Georgia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Guinea",
-                "normalized": {
-                    "city": "Remote In Guinea",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Belgium",
-                "normalized": {
-                    "city": "Remote In Belgium",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Belgium",
-                    "country_code": "BE"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in North Macedonia",
-                "normalized": {
-                    "city": "Remote In North Macedonia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Madagascar",
-                "normalized": {
-                    "city": "Remote In Madagascar",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Burundi",
-                "normalized": {
-                    "city": "Remote In Burundi",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Norway",
-                "normalized": {
-                    "city": "Remote In Norway",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Slovakia",
-                "normalized": {
-                    "city": "Remote In Slovakia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Belarus",
-                "normalized": {
-                    "city": "Remote In Belarus",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Angola",
-                "normalized": {
-                    "city": "Remote In Angola",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Turkey",
-                "normalized": {
-                    "city": "Remote In Turkey",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Ghana",
-                "normalized": {
-                    "city": "Remote In Ghana",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Iceland",
-                "normalized": {
-                    "city": "Remote In Iceland",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Réunion",
-                "normalized": {
-                    "city": "Remote In Réunion",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Monaco",
-                "normalized": {
-                    "city": "Remote In Monaco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Kenya",
-                "normalized": {
-                    "city": "Remote In Kenya",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Mauritania",
-                "normalized": {
-                    "city": "Remote In Mauritania",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Guernsey",
-                "normalized": {
-                    "city": "Remote In Guernsey",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Qatar",
-                "normalized": {
-                    "city": "Remote In Qatar",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in South Africa",
-                "normalized": {
-                    "city": "Remote In South Africa",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Burkina Faso",
-                "normalized": {
-                    "city": "Remote In Burkina Faso",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Jersey",
-                "normalized": {
-                    "city": "Remote In Jersey",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in United Arab Emirates",
-                "normalized": {
-                    "city": "Remote In United Arab Emirates",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Azerbaijan",
-                "normalized": {
-                    "city": "Remote In Azerbaijan",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in UK",
-                "normalized": {
-                    "city": "Remote In Uk",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United Kingdom",
-                    "country_code": "GB"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Namibia",
-                "normalized": {
-                    "city": "Remote In Namibia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Tunisia",
-                "normalized": {
-                    "city": "Remote In Tunisia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Egypt",
-                "normalized": {
-                    "city": "Remote In Egypt",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Somalia",
-                "normalized": {
-                    "city": "Remote In Somalia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Ireland",
-                "normalized": {
-                    "city": "Remote In Ireland",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Mozambique",
-                "normalized": {
-                    "city": "Remote In Mozambique",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Ukraine",
-                "normalized": {
-                    "city": "Remote In Ukraine",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Greece",
-                "normalized": {
-                    "city": "Remote In Greece",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Faroe Islands",
-                "normalized": {
-                    "city": "Remote In Faroe Islands",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Guinea-Bissau",
-                "normalized": {
-                    "city": "Remote In Guinea-bissau",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in South Sudan",
-                "normalized": {
-                    "city": "Remote In South Sudan",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Palestine, State of",
-                "normalized": {
-                    "city": "Remote In Palestine",
-                    "region": "State Of",
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Andorra",
-                "normalized": {
-                    "city": "Remote In Andorra",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Djibouti",
-                "normalized": {
-                    "city": "Remote In Djibouti",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Armenia",
-                "normalized": {
-                    "city": "Remote In Armenia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Seychelles",
-                "normalized": {
-                    "city": "Remote In Seychelles",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Sudan",
-                "normalized": {
-                    "city": "Remote In Sudan",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Mayotte",
-                "normalized": {
-                    "city": "Remote In Mayotte",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Netherlands",
-                "normalized": {
-                    "city": "Remote In Netherlands",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Netherlands",
-                    "country_code": "NL"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Eritrea",
-                "normalized": {
-                    "city": "Remote In Eritrea",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Svalbard and Jan Mayen",
-                "normalized": {
-                    "city": "Remote In Svalbard And Jan Mayen",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Liechtenstein",
-                "normalized": {
-                    "city": "Remote In Liechtenstein",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Chad",
-                "normalized": {
-                    "city": "Remote In Chad",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in French Southern Territories",
-                "normalized": {
-                    "city": "Remote In French Southern Territories",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Equatorial Guinea",
-                "normalized": {
-                    "city": "Remote In Equatorial Guinea",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Ethiopia",
-                "normalized": {
-                    "city": "Remote In Ethiopia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Sao Tome and Principe",
-                "normalized": {
-                    "city": "Remote In Sao Tome And Principe",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Hungary",
-                "normalized": {
-                    "city": "Remote In Hungary",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in San Marino",
-                "normalized": {
-                    "city": "Remote In San Marino",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Libya",
-                "normalized": {
-                    "city": "Remote In Libya",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Israel",
-                "normalized": {
-                    "city": "Remote In Israel",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Holy See (Vatican City State)",
-                "normalized": {
-                    "city": "Remote In Holy See (vatican City State)",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Liberia",
-                "normalized": {
-                    "city": "Remote In Liberia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Bulgaria",
-                "normalized": {
-                    "city": "Remote In Bulgaria",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Jordan",
-                "normalized": {
-                    "city": "Remote In Jordan",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Iran",
-                "normalized": {
-                    "city": "Remote In Iran",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Denmark",
-                "normalized": {
-                    "city": "Remote In Denmark",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Malta",
-                "normalized": {
-                    "city": "Remote In Malta",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Zambia",
-                "normalized": {
-                    "city": "Remote In Zambia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Albania",
-                "normalized": {
-                    "city": "Remote In Albania",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Yemen",
-                "normalized": {
-                    "city": "Remote In Yemen",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Bahrain",
-                "normalized": {
-                    "city": "Remote In Bahrain",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Senegal",
-                "normalized": {
-                    "city": "Remote In Senegal",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Uganda",
-                "normalized": {
-                    "city": "Remote In Uganda",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Serbia",
-                "normalized": {
-                    "city": "Remote In Serbia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Comoros",
-                "normalized": {
-                    "city": "Remote In Comoros",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Moldova",
-                "normalized": {
-                    "city": "Remote In Moldova",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Lesotho",
-                "normalized": {
-                    "city": "Remote In Lesotho",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Malawi",
-                "normalized": {
-                    "city": "Remote In Malawi",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Isle of Man",
-                "normalized": {
-                    "city": "Remote In Isle Of Man",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in British Indian Ocean Territory",
-                "normalized": {
-                    "city": "Remote In British Indian Ocean Territory",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Central African Republic",
-                "normalized": {
-                    "city": "Remote In Central African Republic",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Zimbabwe",
-                "normalized": {
-                    "city": "Remote In Zimbabwe",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Spain",
-                "normalized": {
-                    "city": "Remote In Spain",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Spain",
-                    "country_code": "ES"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Eswatini",
-                "normalized": {
-                    "city": "Remote In Eswatini",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Luxembourg",
-                "normalized": {
-                    "city": "Remote In Luxembourg",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Côte d'Ivoire",
-                "normalized": {
-                    "city": "Remote In Côte D'ivoire",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Cabo Verde",
-                "normalized": {
-                    "city": "Remote In Cabo Verde",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Sweden",
-                "normalized": {
-                    "city": "Remote In Sweden",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Niger",
-                "normalized": {
-                    "city": "Remote In Niger",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Rwanda",
-                "normalized": {
-                    "city": "Remote In Rwanda",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Switzerland",
-                "normalized": {
-                    "city": "Remote In Switzerland",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Åland Islands",
-                "normalized": {
-                    "city": "Remote In Åland Islands",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Gibraltar",
-                "normalized": {
-                    "city": "Remote In Gibraltar",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Croatia",
-                "normalized": {
-                    "city": "Remote In Croatia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Gabon",
-                "normalized": {
-                    "city": "Remote In Gabon",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Congo",
-                "normalized": {
-                    "city": "Remote In Congo",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Montenegro",
-                "normalized": {
-                    "city": "Remote In Montenegro",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Romania",
-                "normalized": {
-                    "city": "Remote In Romania",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Kuwait",
-                "normalized": {
-                    "city": "Remote In Kuwait",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Mauritius",
-                "normalized": {
-                    "city": "Remote In Mauritius",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Latvia",
-                "normalized": {
-                    "city": "Remote In Latvia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Bosnia and Herzegovina",
-                "normalized": {
-                    "city": "Remote In Bosnia And Herzegovina",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Saudi Arabia",
-                "normalized": {
-                    "city": "Remote In Saudi Arabia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Gambia",
-                "normalized": {
-                    "city": "Remote In Gambia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Austria",
-                "normalized": {
-                    "city": "Remote In Austria",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Morocco",
-                "normalized": {
-                    "city": "Remote In Morocco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Italy",
-                "normalized": {
-                    "city": "Remote In Italy",
-                    "region": null,
-                    "region_code": null,
-                    "country": "Italy",
-                    "country_code": "IT"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Lithuania",
-                "normalized": {
-                    "city": "Remote In Lithuania",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in Estonia",
-                "normalized": {
-                    "city": "Remote In Estonia",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in France",
-                "normalized": {
-                    "city": "Remote In France",
-                    "region": null,
-                    "region_code": null,
-                    "country": "France",
-                    "country_code": "FR"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Remote in Syria",
-                "normalized": {
-                    "city": "Remote In Syria",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 0.7
-            }
-        ],
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "category": "Software",
-        "company_name": "N1",
-        "id": "566e37cf-7620-4e64-90ea-d25a99bb5f19",
-        "title": "New Grad Software Engineer - Backend Rust",
-        "active": true,
-        "date_updated": 1773900706,
-        "date_posted": 1773900706,
-        "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
-        "locations": [
-            "SF",
-            "Remote in USA",
-            "Europe",
-            "NYC"
-        ],
-        "normalized_locations": [
-            {
-                "raw": "SF",
-                "normalized": {
-                    "city": "San Francisco",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "Remote in USA",
-                "normalized": {
-                    "city": "Remote In Usa",
-                    "region": null,
-                    "region_code": null,
-                    "country": "United States",
-                    "country_code": "US"
-                },
-                "type": "remote",
-                "unresolved": false,
-                "confidence": 1.0
-            },
-            {
-                "raw": "Europe",
-                "normalized": {
-                    "city": "Europe",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
-            },
-            {
-                "raw": "NYC",
-                "normalized": {
-                    "city": "New York",
-                    "region": null,
-                    "region_code": null,
-                    "country": null,
-                    "country_code": null
-                },
-                "type": "onsite",
-                "unresolved": false,
-                "confidence": 0.7
             }
         ],
         "degrees": [
