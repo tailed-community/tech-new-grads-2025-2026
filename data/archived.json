@@ -518436,13 +518436,13 @@
         ]
     },
     {
-        "category": "Product",
+        "category": "Software",
         "company_name": "Stripe",
         "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
-        "title": "Product Manager",
+        "title": "Product Manager New Grad",
         "active": true,
-        "date_updated": 1774255374,
-        "date_posted": 1774055248,
+        "date_updated": 1791885067,
+        "date_posted": 1789522300,
         "url": "https://stripe.com/jobs/search?gh_jid=7737124",
         "locations": [
             "Seattle, WA",
@@ -672775,7 +672775,7 @@
         "company_name": "Ohio State University",
         "id": "5749bed6-a909-4bdf-ade4-36b8d7d97922",
         "title": "Data Management Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779835502,
         "date_posted": 1779833098,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Health-System-Shared-Services/Data-Management-Analyst-1_R150689-1",
@@ -798939,7 +798939,7 @@
         "company_name": "Cybernetic Labs",
         "id": "a4f1f1ef-5c02-4610-b206-1791f99b714e",
         "title": "Software Engineer New Grad - Agent Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1784182854,
         "date_posted": 1784182197,
         "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true",
@@ -969481,7 +969481,7 @@
         "company_name": "Zopa",
         "id": "eede34d8-3520-4881-b2a5-ed052a5b31e5",
         "title": "Graduate Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1788278806,
         "date_posted": 1788278712,
         "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f/apply",
@@ -1049253,7 +1049253,7 @@
         "company_name": "RTX",
         "id": "ccabd2dc-da52-47d9-b9e4-1c5478b1406f",
         "title": "FPGA/ASIC Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790721416,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/FPGA-ASIC-Engineer-I_01876996",
@@ -1085922,7 +1085922,7 @@
         "company_name": "Dexcom",
         "id": "9d4bdf3b-b23d-4858-80f0-a8d8279cdc65",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791871645,
         "date_posted": 1791871529,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1",
@@ -1096174,7 +1096174,7 @@
         "company_name": "Frazer-Nash Consultancy",
         "id": "fda04ece-519d-42ee-a2da-eb415ca213c5",
         "title": "Digital Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792190351,
         "date_posted": 1792108800,
         "url": "https://kbr.wd5.myworkdayjobs.com/Frazer_Nash_Careers/job/Glasgow/Digital-Electronics-Engineer_R2131155",
@@ -1102516,7 +1102516,7 @@
         "company_name": "Graphcore",
         "id": "c9d6c211-6f65-4b53-ac71-6b1b9aeaff36",
         "title": "Graduate Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792506658,
         "date_posted": 1792506466,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894041002",
@@ -1123043,7 +1123043,7 @@
         "company_name": "Motorola Solutions",
         "id": "4749eed9-dd34-4ec5-b20d-18276b56dd7b",
         "title": "Mid Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792765262,
         "date_posted": 1792765209,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Mid-Level-Back-End-Software-Engineer_R65766",
@@ -1139640,7 +1139640,7 @@
         "company_name": "Graphcore",
         "id": "84614b56-61f0-4ca1-acba-6071353d78d5",
         "title": "Graduate Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793236157,
         "date_posted": 1792491484,
         "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902058002",
@@ -1144831,7 +1144831,7 @@
         "company_name": "Raydar",
         "id": "c95a8759-ec1e-4a10-995b-fa1c59f0f47e",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312983,
         "url": "https://apply.workable.com/raydar/j/EF9BC1EC32/apply",
@@ -1151857,7 +1151857,7 @@
         "company_name": "Unity",
         "id": "77e778db-2c7d-4cdb-b477-75b1206e18ba",
         "title": "Software Developer New Grad - U-Accelerate: Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793662420,
         "date_posted": 1793577600,
         "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
@@ -1161241,7 +1161241,7 @@
         "company_name": "Bank of Montreal",
         "id": "b6863ca3-d3e2-4e91-83fd-6416642b015c",
         "title": "Personal & Business Banking New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793977987,
         "date_posted": 1793923200,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068",
@@ -1161334,7 +1161334,7 @@
         "company_name": "Bank of Montreal",
         "id": "32cd20b5-fc75-40fb-86a8-f311c1c186fb",
         "title": "Personal & Business Banking New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793977773,
         "date_posted": 1793923200,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1",
@@ -1162000,7 +1162000,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "d214353d-3393-460d-802e-6966a8fbac28",
         "title": "Campus Switching Product Manager New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794006761,
         "date_posted": 1793923200,
         "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1",
@@ -1162078,7 +1162078,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "e3f2f0aa-f254-467d-a1cb-7b6140686226",
         "title": "Campus Switching Product Manager New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794006656,
         "date_posted": 1793923200,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267",
@@ -1163653,7 +1163653,7 @@
         "company_name": "Shield AI",
         "id": "cb9057c1-ead7-42d2-8535-e6ee376a8005",
         "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-        "active": true,
+        "active": false,
         "date_updated": 1794180471,
         "date_posted": 1794096000,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
@@ -1168120,7 +1168120,7 @@
         "company_name": "Rheem",
         "id": "2e6be3d8-f031-4b8c-9007-39d09012e826",
         "title": "Product Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794352242,
         "date_posted": 1794352031,
         "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581",
@@ -1169603,7 +1169603,7 @@
         "company_name": "Shield AI",
         "id": "b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
         "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-        "active": true,
+        "active": false,
         "date_updated": 1794362905,
         "date_posted": 1794096000,
         "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
@@ -1170343,7 +1170343,7 @@
         "company_name": "Allied Universal",
         "id": "9f7c0bf3-6702-4114-abaa-76a18944ee5b",
         "title": "Global Security Mapping Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1794391958,
         "date_posted": 1793318400,
         "url": "https://securitycareers-aus.icims.com/jobs/1730709/job?mobile=true&needsRedirect=false",
@@ -1171881,7 +1171881,7 @@
         "company_name": "The Beauty Tech Group Trading",
         "id": "dad99dce-1c60-47ed-9aa3-333d1f59d3fb",
         "title": "Data AI Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1794441062,
         "date_posted": 1794440910,
         "url": "https://apply.workable.com/thebeautytechgroup/j/1C695C7477/apply",
@@ -1172628,7 +1172628,7 @@
         "company_name": "Shield AI",
         "id": "8317de49-cf07-44e3-9ff1-0de4a824662a",
         "title": "Engineer 2 New Grad - Software - Perception",
-        "active": true,
+        "active": false,
         "date_updated": 1794450258,
         "date_posted": 1794355200,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
@@ -1172759,7 +1172759,7 @@
         "company_name": "Shield AI",
         "id": "735965af-ac15-473a-a2ef-8a15ab46f590",
         "title": "Engineer 2 New Grad - Software - Perception",
-        "active": true,
+        "active": false,
         "date_updated": 1794452054,
         "date_posted": 1794355200,
         "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
@@ -1176666,7 +1176666,7 @@
         "company_name": "Northrop Grumman",
         "id": "13e19999-69ce-4245-a0f6-9b5b7fd62382",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794582613,
         "date_posted": 1794528000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
@@ -1179164,5 +1179164,367 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Vantive",
+        "id": "b7e26578-8425-42c2-9cef-eeb79757cbe2",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1794727626,
+        "date_posted": 1793664000,
+        "url": "https://vantive.wd108.myworkdayjobs.com/Vantive/job/Plymouth-Minnesota/Embedded-Software-Engineer--hybrid-_JR-198138-1",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Plymouth, MN",
+                "normalized": {
+                    "city": "Plymouth",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "IAG Loyalty",
+        "id": "ad6bfeb5-5695-4792-bb2e-7ba9cb9db99c",
+        "title": "Pricing Analyst",
+        "active": true,
+        "date_updated": 1794727088,
+        "date_posted": 1793664000,
+        "url": "https://iagloyalty.wd3.myworkdayjobs.com/iagloyalty/job/London-UK/Pricing-Analyst_JR100572",
+        "locations": [
+            "London, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "London, UK",
+                "normalized": {
+                    "city": "London",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Liberty Global",
+        "id": "87cb6cd5-16c9-4506-9220-46fabfd14884",
+        "title": "Technology Graduate",
+        "active": true,
+        "date_updated": 1794727088,
+        "date_posted": 1790812800,
+        "url": "https://libertyglobal.wd3.myworkdayjobs.com/Liberty_Global_Careers/job/Leeds/Technology-Graduate_REQ_00038717-2",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Leeds, UK",
+                "normalized": {
+                    "city": "Leeds",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "Russell Investments",
+        "id": "7463c975-1f0c-43b9-92f0-f87b30bc0650",
+        "title": "Quantitative Performance Analyst",
+        "active": true,
+        "date_updated": 1794727088,
+        "date_posted": 1793836800,
+        "url": "https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Seattle/Quantitative-Performance-Analyst_R-04179",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Seattle, WA",
+                "normalized": {
+                    "city": "Seattle",
+                    "region": "Washington",
+                    "region_code": "WA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Tyson Foods",
+        "id": "f8943ccb-35d7-4b9e-8888-2cf71a4ff72c",
+        "title": "IT Product Owner 1",
+        "active": true,
+        "date_updated": 1794726915,
+        "date_posted": 1791158400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TYIT/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-I_R0482203-3",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Springdale, AR",
+                "normalized": {
+                    "city": "Springdale",
+                    "region": "Arkansas",
+                    "region_code": "AR",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Liberty Blume",
+        "id": "2f1fbfff-cf0b-467f-b51c-776ec922737c",
+        "title": "Technology Graduate",
+        "active": true,
+        "date_updated": 1794726364,
+        "date_posted": 1790812800,
+        "url": "https://libertyglobal.wd3.myworkdayjobs.com/Liberty_Global_Blume/job/Leeds/Technology-Graduate_REQ_00038717",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Leeds, UK",
+                "normalized": {
+                    "city": "Leeds",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "RBFCU",
+        "id": "0faa0969-9aa2-46f3-9b6d-db9683e2669a",
+        "title": "Collections Business Analyst",
+        "active": true,
+        "date_updated": 1794728702,
+        "date_posted": 1794528000,
+        "url": "https://rbfcu.wd503.myworkdayjobs.com/RegionalJobsSanAntonio/job/ASC---San-Antonio/Collections-Business-Analyst_015548-5",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "San Antonio, TX",
+                "normalized": {
+                    "city": "San Antonio",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Beacon Mobility",
+        "id": "95e3d3ae-bbc6-4105-8ec0-dc66cc12a47e",
+        "title": "AI Innovation & Automation Analyst",
+        "active": true,
+        "date_updated": 1794741505,
+        "date_posted": 1792627200,
+        "url": "https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Beacon/AI-Innovation---Automation-Analyst--Fleet_REQ-2026-4555",
+        "locations": [
+            "Beacon, NY"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Beacon, NY",
+                "normalized": {
+                    "city": "Beacon",
+                    "region": "New York",
+                    "region_code": "NY",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "NCR Atleos",
+        "id": "06a9e8e0-ab4c-4d44-8abd-60e1c203a7ce",
+        "title": "PC Technician",
+        "active": true,
+        "date_updated": 1794740763,
+        "date_posted": 1793145600,
+        "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/Rotherham-GBR/Staging-Technician_R1154917",
+        "locations": [
+            "Rotherham, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Rotherham, UK",
+                "normalized": {
+                    "city": "Rotherham",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "NCR Atleos",
+        "id": "20949419-4cf1-49fe-a1ba-650c7ab72e3e",
+        "title": "Graduate Product Analyst",
+        "active": true,
+        "date_updated": 1794744029,
+        "date_posted": 1791417600,
+        "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Graduate-Product-Analyst_R1154945",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Dundee, UK",
+                "normalized": {
+                    "city": "Dundee",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Carnegie Mellon University",
+        "id": "0e9dcc61-445c-45de-ab79-e854c16a9da2",
+        "title": "Research Assistant - Kenneth C. Griffin School of Computer Science - S3D",
+        "active": true,
+        "date_updated": 1794757504,
+        "date_posted": 1793664000,
+        "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Pittsburgh, PA",
+                "normalized": {
+                    "city": "Pittsburgh",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Zuru",
+        "id": "ef061f55-a0b2-4574-aa37-b937ababd312",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1794794942,
+        "date_posted": 1794794780,
+        "url": "https://jobs.ashbyhq.com/zuru/35a4eeb0-bdf4-4e8a-94f3-955e214777e1/application?embed=true",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Minneapolis, MN",
+                "normalized": {
+                    "city": "Minneapolis",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
     }
 ]
