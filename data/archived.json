@@ -527518,13 +527518,13 @@
         ]
     },
     {
-        "category": "AI/ML/Data",
+        "category": "Software",
         "company_name": "GlobalFoundries",
         "id": "c6805667-f7a7-4da9-b10c-bc3a3281ac5c",
-        "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
+        "title": "Tapeout Biz Products & Engineering New Grad",
         "active": true,
-        "date_updated": 1774728699,
-        "date_posted": 1774649057,
+        "date_updated": 1794492382,
+        "date_posted": 1783165101,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
         "locations": [
             "Austin, TX"
@@ -527545,7 +527545,8 @@
             }
         ],
         "degrees": [
-            "Bachelor's"
+            "Bachelor's",
+            "Master's"
         ]
     },
     {
@@ -527775,10 +527776,10 @@
         "category": "Software",
         "company_name": "True Anomaly",
         "id": "915034b3-03ad-47dc-981c-25532141221f",
-        "title": "Software Engineer 1 - Full Stack",
+        "title": "Software Engineer 1 New Grad - Full Stack",
         "active": true,
-        "date_updated": 1774732343,
-        "date_posted": 1774649741,
+        "date_updated": 1792747129,
+        "date_posted": 1787703591,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
         "locations": [
             "Long Beach, CA",
@@ -1076688,7 +1076689,7 @@
         "company_name": "Sierra Space",
         "id": "b6602bd5-4182-4573-bc29-7c75e8619910",
         "title": "Software Engineer 1 - Ground Software",
-        "active": false,
+        "active": true,
         "date_updated": 1791413178,
         "date_posted": 1791331200,
         "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1",
@@ -1107193,7 +1107194,7 @@
         "company_name": "TD Bank",
         "id": "b81f0d85-3704-4a61-ba56-733b528bd6ba",
         "title": "Technology New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792679298,
         "date_posted": 1792627200,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518242",
@@ -1127885,7 +1127886,7 @@
         "company_name": "Tesla",
         "id": "f8ef2f72-c616-4dfd-8ef1-4e9b547c4e67",
         "title": "Robotics Engineering Technician - Harnessing & PCB Rework - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1793007721,
         "date_posted": 1787952782,
         "url": "https://www.tesla.com/careers/search/job/281505",
@@ -1143786,7 +1143787,7 @@
         "company_name": "Micron Technology",
         "id": "23656e12-b4f7-407c-aa31-bfc1c7f3a9f9",
         "title": "Data Scientist - AI for Business Functions",
-        "active": false,
+        "active": true,
         "date_updated": 1793311853,
         "date_posted": 1793232000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
@@ -1155620,7 +1155621,7 @@
         "company_name": "Keysight Technologies",
         "id": "564f421d-34c1-4db7-885e-4f6f0bd915df",
         "title": "Software Engineer-Semiconductor Technology - C#/.NET",
-        "active": true,
+        "active": false,
         "date_updated": 1793844724,
         "date_posted": 1793837460,
         "url": "https://jobs.keysight.com/jobs/56448?icims=1",
@@ -1157867,7 +1157868,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "234d3dd5-18ec-4a97-b87d-a34482e08d22",
         "title": "Electrical Engineer Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1793865858,
         "date_posted": 1793864901,
         "url": "https://careers-gdms.icims.com/jobs/74854/job?mobile=true&needsRedirect=false",
@@ -1162616,7 +1162617,7 @@
         "company_name": "Amazon",
         "id": "e7b2cc70-862f-4045-bc00-627e408d80b1",
         "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
-        "active": true,
+        "active": false,
         "date_updated": 1794008702,
         "date_posted": 1794008658,
         "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc",
@@ -1165175,7 +1165176,7 @@
         "company_name": "Bank of Montreal",
         "id": "1ae63a72-5b5e-4b56-b60e-1a760b92fb39",
         "title": "Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794268184,
         "date_posted": 1794182400,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
@@ -1176532,7 +1176533,7 @@
         "company_name": "Bank of Montreal",
         "id": "4287d783-c297-490e-8a07-772a66707407",
         "title": "Personal & Business Banking Development Program New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794582949,
         "date_posted": 1794528000,
         "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3",
@@ -1176944,7 +1176945,7 @@
         "company_name": "Micron Technology",
         "id": "57be8f14-5089-420e-94ff-79756666f912",
         "title": "Design Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794612295,
         "date_posted": 1794528000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer_JR117605",
@@ -1190659,7 +1190660,7 @@
         "company_name": "Capgemini",
         "id": "78b37fbd-305b-4198-8167-595160398a9c",
         "title": "Associate Application Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1795255227,
         "date_posted": 1790029611,
         "url": "https://careers.capgemini.com/job/Atlanta,-GA-Domain-Associate-Application-Consultant-GA-30301/1439772633/?ats=successfactors",
@@ -1191288,6 +1191289,649 @@
                     "region_code": "IL",
                     "country": "United States",
                     "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "0bba7d5f-0e21-4ecf-b1f6-065b75490dbc",
+        "title": "Junior to Mid-Level Front-End React Engineer",
+        "active": true,
+        "date_updated": 1795339263,
+        "date_posted": 1793844322,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1",
+        "locations": [
+            "Remote in UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in UK",
+                "normalized": {
+                    "city": "Remote In Uk",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "7f616cc7-7a1e-4ab1-bf9e-a9473d79d170",
+        "title": "Associate Application Consultant",
+        "active": true,
+        "date_updated": 1795341854,
+        "date_posted": 1790720330,
+        "url": "https://careers.capgemini.com/job/Atlanta,-GA-Campus-Associate-Application-Consultant-GA-30301/1442487633/?ats=successfactors",
+        "locations": [
+            "Houston, TX",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Houston, TX",
+                "normalized": {
+                    "city": "Houston",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Dallas, TX",
+                "normalized": {
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Chicago, IL",
+                "normalized": {
+                    "city": "Chicago",
+                    "region": "Illinois",
+                    "region_code": "IL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "PopStroke Holdings LLC",
+        "id": "540890f4-99dd-4745-8713-4eba3390050d",
+        "title": "Associate Business Analyst",
+        "active": true,
+        "date_updated": 1795341097,
+        "date_posted": 1794007088,
+        "url": "https://ats.rippling.com/popstroke-job-board-1924/jobs/2d809e59-f51d-4f5f-ac31-e3268675febc",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Jupiter, FL",
+                "normalized": {
+                    "city": "Jupiter",
+                    "region": "Florida",
+                    "region_code": "FL",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Hottinger Brüel & Kjaer",
+        "id": "72136a19-06f8-432f-b3e2-323acdbab78b",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1795363022,
+        "date_posted": 1795132800,
+        "url": "https://spectris.wd3.myworkdayjobs.com/en-US/HBK_Careers/job/Willow-Grove-PA/Electrical-Engineer_19466",
+        "locations": [
+            "Willow Grove, PA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Willow Grove, PA",
+                "normalized": {
+                    "city": "Willow Grove",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Quant",
+        "company_name": "The Federal Reserve System",
+        "id": "526401b4-cc59-44dc-99c0-07554269037a",
+        "title": "Quantitative Fellow",
+        "active": true,
+        "date_updated": 1795362515,
+        "date_posted": 1794787200,
+        "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000034088",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "SF",
+            "Cleveland, OH",
+            "Philadelphia, PA",
+            "Richmond, VA",
+            "Charlotte, NC",
+            "St. Louis, MO",
+            "NYC",
+            "Minneapolis, MN",
+            "Atlanta, GA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Washington, DC",
+                "normalized": {
+                    "city": "Washington",
+                    "region": "District of Columbia",
+                    "region_code": "DC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "SF",
+                "normalized": {
+                    "city": "San Francisco",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Cleveland, OH",
+                "normalized": {
+                    "city": "Cleveland",
+                    "region": "Ohio",
+                    "region_code": "OH",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Philadelphia, PA",
+                "normalized": {
+                    "city": "Philadelphia",
+                    "region": "Pennsylvania",
+                    "region_code": "PA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Richmond, VA",
+                "normalized": {
+                    "city": "Richmond",
+                    "region": "Virginia",
+                    "region_code": "VA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Charlotte, NC",
+                "normalized": {
+                    "city": "Charlotte",
+                    "region": "North Carolina",
+                    "region_code": "NC",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "St. Louis, MO",
+                "normalized": {
+                    "city": "St. Louis",
+                    "region": "Missouri",
+                    "region_code": "MO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            },
+            {
+                "raw": "Minneapolis, MN",
+                "normalized": {
+                    "city": "Minneapolis",
+                    "region": "Minnesota",
+                    "region_code": "MN",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Atlanta, GA",
+                "normalized": {
+                    "city": "Atlanta",
+                    "region": "Georgia",
+                    "region_code": "GA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "AVEVA",
+        "id": "33793173-a059-4e1f-9a86-655c9b134751",
+        "title": "Software Developer Graduate",
+        "active": true,
+        "date_updated": 1795362121,
+        "date_posted": 1794873600,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate---UK_R015080-1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Cambridge, UK",
+                "normalized": {
+                    "city": "Cambridge",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "GrayMatter Robotics",
+        "id": "300a3078-84ab-4ba2-a881-d74186eb9064",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1795361941,
+        "date_posted": 1794960000,
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Calyx Containers",
+        "id": "f1ba0289-d24f-4662-94ca-892ed2c86b56",
+        "title": "Junior Software Developer - Print & Packaging",
+        "active": true,
+        "date_updated": 1795390022,
+        "date_posted": 1795389910,
+        "url": "https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "West Valley City, UT",
+                "normalized": {
+                    "city": "West Valley City",
+                    "region": "Utah",
+                    "region_code": "UT",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "MinuteBox",
+        "id": "3e7f8274-fbfb-4302-b323-38553f2d3f8b",
+        "title": "Product Manager Associate",
+        "active": true,
+        "date_updated": 1795389122,
+        "date_posted": 1795389001,
+        "url": "https://minutebox.bamboohr.com/careers/66/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Aegiq",
+        "id": "3a775c97-d10a-477c-9a68-6313fc2651cc",
+        "title": "Graduate Photonics Engineer - Test and Characterisation",
+        "active": true,
+        "date_updated": 1795391462,
+        "date_posted": 1795391317,
+        "url": "https://apply.workable.com/aegiq/j/1E795D764E/apply",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Sheffield, UK",
+                "normalized": {
+                    "city": "Sheffield",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United Kingdom",
+                    "country_code": "GB"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "DraftKings",
+        "id": "021f015b-b917-463c-b8e2-3be7537190e8",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1795392027,
+        "date_posted": 1794873600,
+        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Associate-Data-Engineer_JR15400",
+        "locations": [
+            "Boston, MA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Boston, MA",
+                "normalized": {
+                    "city": "Boston",
+                    "region": "Massachusetts",
+                    "region_code": "MA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Sanofi",
+        "id": "fb861d50-7cd1-4345-8cd7-206bd9b2ed24",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1795401216,
+        "date_posted": 1795132800,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2879216-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Sanofi",
+        "id": "87a9cd09-aa80-4a38-b349-50fc6e8c491c",
+        "title": "Product Analyst New Grad",
+        "active": true,
+        "date_updated": 1795401216,
+        "date_posted": 1795132800,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "category": "Product",
+        "company_name": "Sanofi",
+        "id": "20d74fa9-982b-42e3-9d67-9303193f1f23",
+        "title": "Digital New Grad - Product Analyst",
+        "active": true,
+        "date_updated": 1795401215,
+        "date_posted": 1795132800,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Sanofi",
+        "id": "08996931-0906-4f59-8850-7cebf5991d70",
+        "title": "Digital Graduate Program - Product Analyst - Data and AI Engineer",
+        "active": true,
+        "date_updated": 1795401220,
+        "date_posted": 1795132800,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Toronto, ON, Canada",
+                "normalized": {
+                    "city": "Toronto",
+                    "region": "Ontario",
+                    "region_code": "ON",
+                    "country": "Canada",
+                    "country_code": "CA"
                 },
                 "type": "onsite",
                 "unresolved": false,
