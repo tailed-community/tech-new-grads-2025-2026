@@ -27407,7 +27407,7 @@
         "company_name": "Citadel",
         "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
         "title": "Graduate Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784153579,
         "date_posted": 1784153376,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -27485,7 +27485,7 @@
         "company_name": "Citadel Securities",
         "id": "79054f04-0e8b-45fb-865d-bc789b4acfe9",
         "title": "Quantitative Research Analyst – University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783692721,
         "date_posted": 1783692474,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -27531,7 +27531,7 @@
         "company_name": "Citadel Securities",
         "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783329416,
         "date_posted": 1783328994,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
@@ -38302,7 +38302,7 @@
         "company_name": "Citadel",
         "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784067337,
         "date_posted": 1784066985,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
@@ -70372,7 +70372,7 @@
         "company_name": "Citadel",
         "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
         "title": "Quantitative Research Analyst University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318522,
         "date_posted": 1783318148,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
@@ -79399,7 +79399,7 @@
         "company_name": "Citadel Securities",
         "id": "ae5bd7a0-0600-42d1-b21c-5a645b496968",
         "title": "Quantitative Researcher – PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1782886142,
         "date_posted": 1782886109,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
@@ -174972,7 +174972,7 @@
         "company_name": "Citadel Securities",
         "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
         "title": "Quantitative Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1788505021,
         "date_posted": 1782886114,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
@@ -212453,7 +212453,7 @@
         "company_name": "Citadel Securities",
         "id": "f23fe117-836c-45d4-bd59-0ea9d9ddf7f7",
         "title": "Machine Learning Researcher – PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1782886321,
         "date_posted": 1782886138,
         "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -219945,7 +219945,7 @@
         "company_name": "Citadel Securities",
         "id": "00c2f102-60e5-4ef5-84c6-4515f2459a86",
         "title": "Quantitative Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782886380,
         "date_posted": 1782886125,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
@@ -537742,17 +537742,17 @@
         "id": "9b137bce-428d-4766-833f-15595cdd2fdd",
         "title": "Product Manager",
         "active": true,
-        "date_updated": 1775002681,
-        "date_posted": 1774994892,
+        "date_updated": 1788459329,
+        "date_posted": 1781952929,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR106319",
         "locations": [
-            "King of Prussia, PA"
+            "Audubon, PA"
         ],
         "normalized_locations": [
             {
-                "raw": "King of Prussia, PA",
+                "raw": "Audubon, PA",
                 "normalized": {
-                    "city": "King Of Prussia",
+                    "city": "Audubon",
                     "region": "Pennsylvania",
                     "region_code": "PA",
                     "country": "United States",
@@ -754180,7 +754180,7 @@
         "company_name": "Citadel Securities",
         "id": "666b0c8f-87da-42d0-9e44-23ac5f6ad445",
         "title": "Machine Learning Researcher – PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1782886501,
         "date_posted": 1782886131,
         "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/",
@@ -769265,7 +769265,7 @@
         "company_name": "Citadel Securities",
         "id": "d498b59e-e50f-4ab3-a746-669a040d136c",
         "title": "Quantitative Trader – University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318501,
         "date_posted": 1783318263,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/",
@@ -769298,7 +769298,7 @@
         "company_name": "Citadel Securities",
         "id": "6b49a320-d5f3-402e-a29a-de15758b90d4",
         "title": "Quantitative Trader – University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318501,
         "date_posted": 1783318265,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/",
@@ -769331,7 +769331,7 @@
         "company_name": "Citadel",
         "id": "410b28b6-b357-4b72-9480-bad83701b4cb",
         "title": "Software Engineer – University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318143,
         "date_posted": 1783318138,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
@@ -772826,7 +772826,7 @@
         "company_name": "Citadel",
         "id": "66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
         "title": "Quantitative Trader: Equity Quantitative Research – University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783433881,
         "date_posted": 1783433322,
         "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
@@ -794917,7 +794917,7 @@
         "company_name": "Citadel Securities",
         "id": "d0e70828-00ba-4853-8102-5a17d1cdee3e",
         "title": "Software Engineer – University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1784078641,
         "date_posted": 1784078512,
         "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-europe/",
@@ -805261,7 +805261,7 @@
         "company_name": "Citadel",
         "id": "1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
         "title": "Machine Learning Researcher – PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1784337481,
         "date_posted": 1784336953,
         "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -825653,7 +825653,7 @@
         "company_name": "Citadel Securities",
         "id": "f2abc99e-93ba-424e-8d7c-0e3382978e05",
         "title": "Quantitative AI Technical Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1784758880,
         "date_posted": 1784758384,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/",
@@ -845019,7 +845019,7 @@
         "company_name": "Citadel",
         "id": "202582b8-f2ba-49d1-a082-3974fba7627a",
         "title": "Sector Data Scientist - Central Team",
-        "active": true,
+        "active": false,
         "date_updated": 1785194281,
         "date_posted": 1785190044,
         "url": "https://www.citadel.com/careers/details/sector-data-scientist-central-team/",
@@ -1089110,7 +1089110,7 @@
         "company_name": "Redwood Materials",
         "id": "33ae4f5c-d020-4d6b-b33d-591c0f7da237",
         "title": "Electrical Engineering Associate - Energy Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1791957963,
         "date_posted": 1791957807,
         "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223627004",
@@ -1095779,7 +1095779,7 @@
         "company_name": "Oak View Group",
         "id": "11628380-1092-4a0f-bf59-9c68f01ec3df",
         "title": "Sports Stats Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1792188722,
         "date_posted": 1787963222,
         "url": "https://careers-ovg.icims.com/jobs/34469/job",
@@ -1143606,7 +1143606,7 @@
         "company_name": "Queueco",
         "id": "a32f2d13-b542-4650-be59-0801e482c23e",
         "title": "Quantitative Developer Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1793312142,
         "date_posted": 1793311943,
         "url": "https://apply.workable.com/queueco/j/4E1AB7A939/apply",
@@ -1149636,7 +1149636,7 @@
         "company_name": "Kaluza",
         "id": "16ae835b-6956-4247-b9a5-e8906e1273f2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793495883,
         "date_posted": 1790121600,
         "url": "https://jobs.ashbyhq.com/kaluza/5ef79ceb-c6eb-4d46-abca-ddb532cf8739/application?embed=true",
@@ -1152706,7 +1152706,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "b1b0194a-88c7-43f5-a69c-3ec0133181a7",
         "title": "Associate Product Manager - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1793748470,
         "date_posted": 1793735700,
         "url": "https://blackhawknetwork.jibeapply.com/jobs/27263?icims=1",
@@ -1158490,7 +1158490,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ec690411-3f8c-4226-b9e3-2060341f134b",
         "title": "Associate Product Manager - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1793868069,
         "date_posted": 1793664000,
         "url": "https://careers-blackhawknetwork.icims.com/jobs/27263/job?mobile=true&needsRedirect=false",
@@ -1166464,7 +1166464,7 @@
         "company_name": "Longshot Space Technologies",
         "id": "ed4e92f2-433b-4afc-b17c-5abc1cad9d04",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794296410,
         "date_posted": 1794296211,
         "url": "https://ats.rippling.com/longshot/jobs/4392677a-3d26-4049-845d-bb7fb04246fd",
@@ -1184207,7 +1184207,7 @@
         "company_name": "GIRO",
         "id": "8da7e607-788f-4d80-ad68-62014bf8575f",
         "title": "Junior C++ Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1795011485,
         "date_posted": 1792368000,
         "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346",
@@ -1185051,7 +1185051,7 @@
         "company_name": "Wood Mackenzie",
         "id": "ca750484-0d9b-4d3a-8cb8-2d0dde6e60a8",
         "title": "Research Associate - Upstream",
-        "active": true,
+        "active": false,
         "date_updated": 1795054326,
         "date_posted": 1794960000,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Upstream_JR3524",
@@ -1186258,7 +1186258,7 @@
         "company_name": "Monks",
         "id": "2afaec34-0345-4ba9-a241-bdee1a87d6ed",
         "title": "Junior Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1795131202,
         "date_posted": 1795103676,
         "url": "https://www.monks.com/careers/6266248004/job?gh_jid=6266248004",
@@ -1187893,7 +1187893,7 @@
         "company_name": "Jerry",
         "id": "6b1c5a60-a0ba-4c4d-b836-37a2a4dbf50a",
         "title": "Product Manager - 2x YC founder mentorship",
-        "active": true,
+        "active": false,
         "date_updated": 1795217230,
         "date_posted": 1795132800,
         "url": "https://jobs.ashbyhq.com/jerry.ai/62d15042-9e60-405a-a14b-5689ce1bdcf0/application?embed=true",
@@ -1188734,7 +1188734,7 @@
         "company_name": "Zscaler",
         "id": "bb4df03f-cdf9-493c-8743-3f139dc83df3",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795218665,
         "date_posted": 1795196320,
         "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
@@ -1190629,7 +1190629,7 @@
         "company_name": "Applied Engineering",
         "id": "79e776f8-34ef-4c18-9385-a94306716e3c",
         "title": "Electrical Engineer: Embedded Software",
-        "active": true,
+        "active": false,
         "date_updated": 1795255206,
         "date_posted": 1795123263,
         "url": "https://www.go-applied.com/careers/openings/?gh_jid=4515468009",
@@ -1194248,7 +1194248,7 @@
         "company_name": "American Council on Education",
         "id": "9bf6d1ba-adef-4f74-9343-9e9d9dfba88e",
         "title": "Associate – Data Insights and Policy Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1795562290,
         "date_posted": 1795562177,
         "url": "https://recruiting.ultipro.com/AME1073/JobBoard/3ab22f45-0d00-7f95-def8-c8ca6a23d48f/OpportunityDetail?opportunityId=f1e43996-efa6-4910-8b46-cef7d4443d1d",
@@ -1195277,7 +1195277,7 @@
         "company_name": "Synopsys",
         "id": "b228458c-0462-48e8-ad2f-3b9f1352d8e0",
         "title": "ASIC Digital Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795649267,
         "date_posted": 1795649219,
         "url": "https://synopsys.avature.net/careers/JobDetail/18860",
@@ -1196149,6 +1196149,383 @@
                     "city": "St. Louis",
                     "region": "Missouri",
                     "region_code": "MO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795679821,
+        "date_posted": 1795679710,
+        "url": "https://careers.cisco.com/global/en/job/2030715",
+        "locations": [
+            "Research Triangle Park, Durham, NC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Research Triangle Park, Durham, NC",
+                "normalized": {
+                    "city": "Research Triangle Park",
+                    "region": "Durham",
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "Hardware",
+        "company_name": "Honeywell Aerospace",
+        "id": "47b10f30-3aec-4553-8aab-3e90e3fd26b2",
+        "title": "Electronic Design Engineer 1",
+        "active": true,
+        "date_updated": 1795685824,
+        "date_posted": 1795159655,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128472",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Colorado Springs, CO",
+                "normalized": {
+                    "city": "Colorado Springs",
+                    "region": "Colorado",
+                    "region_code": "CO",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Recidiviz",
+        "id": "43eac614-8780-4559-9469-e724025dd0af",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1795685761,
+        "date_posted": 1790808159,
+        "url": "https://job-boards.greenhouse.io/recidiviz/jobs/4717510006",
+        "locations": [
+            "Oakland, CA",
+            "Remote in USA",
+            "NYC"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Oakland, CA",
+                "normalized": {
+                    "city": "Oakland",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "NYC",
+                "normalized": {
+                    "city": "New York",
+                    "region": null,
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Product",
+        "company_name": "Framework",
+        "id": "8b6ac4f4-1ce1-463c-aaab-1cb87af4798e",
+        "title": "Senior Hardware Product Manager",
+        "active": true,
+        "date_updated": 1795688320,
+        "date_posted": 1795532689,
+        "url": "https://ats.rippling.com/framework/jobs/3902e646-7d7e-416b-bf96-3f231b65791d",
+        "locations": [
+            "Remote in USA",
+            "Taipei City, Taiwan"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in USA",
+                "normalized": {
+                    "city": "Remote In Usa",
+                    "region": null,
+                    "region_code": null,
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            },
+            {
+                "raw": "Taipei City, Taiwan",
+                "normalized": {
+                    "city": "Taipei City",
+                    "region": "Taiwan",
+                    "region_code": null,
+                    "country": null,
+                    "country_code": null
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 0.7
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "K1",
+        "id": "ab501bad-862f-4f37-963c-78590ba637c1",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795689361,
+        "date_posted": 1790921742,
+        "url": "https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Manhattan Beach, CA",
+                "normalized": {
+                    "city": "Manhattan Beach",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "a20fbd72-eae4-4051-ae1c-a1b21340ed3f",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1795691740,
+        "date_posted": 1795691534,
+        "url": "https://jobs.lever.co/weloglobal/275c499e-b870-4465-91ed-1c852eae564c/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Santa Clara, CA",
+                "normalized": {
+                    "city": "Santa Clara",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "AI/ML/Data",
+        "company_name": "TerraSense Analytics",
+        "id": "97ebf31f-f840-4989-b355-6743f7db2edd",
+        "title": "Data Labeler 1",
+        "active": true,
+        "date_updated": 1795745121,
+        "date_posted": 1795745009,
+        "url": "https://terrasense.bamboohr.com/careers/105/",
+        "locations": [
+            "Kelowna, BC, Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Kelowna, BC, Canada",
+                "normalized": {
+                    "city": "Kelowna",
+                    "region": "British Columbia",
+                    "region_code": "BC",
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Orion Digital",
+        "id": "4def3c49-c217-4bc0-9d97-163c5f109d02",
+        "title": "Junior Full Stack AI Engineer",
+        "active": true,
+        "date_updated": 1795747503,
+        "date_posted": 1795747479,
+        "url": "https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Remote in Canada",
+                "normalized": {
+                    "city": "Remote In Canada",
+                    "region": null,
+                    "region_code": null,
+                    "country": "Canada",
+                    "country_code": "CA"
+                },
+                "type": "remote",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": []
+    },
+    {
+        "category": "Software",
+        "company_name": "Synectic Solutions",
+        "id": "fc96342b-9d7c-4f3f-a93e-70d935ac86b4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795746812,
+        "date_posted": 1795746649,
+        "url": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I",
+        "locations": [
+            "Norco, CA"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Norco, CA",
+                "normalized": {
+                    "city": "Norco",
+                    "region": "California",
+                    "region_code": "CA",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Toyota",
+        "id": "f5de8d35-3ebe-4a7b-9eac-bdc9b583dc88",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795753261,
+        "date_posted": 1795564800,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851",
+        "locations": [
+            "Plano, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Plano, TX",
+                "normalized": {
+                    "city": "Plano",
+                    "region": "Texas",
+                    "region_code": "TX",
+                    "country": "United States",
+                    "country_code": "US"
+                },
+                "type": "onsite",
+                "unresolved": false,
+                "confidence": 1.0
+            }
+        ],
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "category": "Software",
+        "company_name": "Toyota",
+        "id": "0c96f624-8843-4aa7-818e-5d2f023f18fd",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795753261,
+        "date_posted": 1795564800,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070",
+        "locations": [
+            "Plano, TX"
+        ],
+        "normalized_locations": [
+            {
+                "raw": "Plano, TX",
+                "normalized": {
+                    "city": "Plano",
+                    "region": "Texas",
+                    "region_code": "TX",
                     "country": "United States",
                     "country_code": "US"
                 },
